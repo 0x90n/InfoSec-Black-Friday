@@ -10,6 +10,10 @@ https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea
 
 ## Hardware:
 
+SouthOrdPicks\
+https://www.southord.com/  
+25% discount with code HOLLY19
+
 Yubico/Yubikey\
 https://www.yubico.com/store/black-friday-2019  
 $20 OFF two YubiKeys or $100 OFF orders of $400 or more
@@ -30,6 +34,10 @@ SparkFun\
 https://www.sparkfun.com/news/3134  
 15-25% discount
 
+SeeedStudio
+https://www.seeedstudio.com/thanksgiving_50_off_sale.html
+50% discount with code: THANKS50
+
 
 ## Courses & Training:
 
@@ -40,6 +48,10 @@ All courses $10.99
 eLearnSecurity\
 https://www.elearnsecurity.com/  
 25% off with code: BLK-019
+
+PluralSight
+https://www.pluralsight.com/offer/2019/bf-cm-40-off
+40% discount
 
 PentesterAcademy (Hacking Training/Platform - online)\
 http://www.pentesteracademy.com/thanksgiving  
@@ -65,6 +77,26 @@ e-Books and videos $10 each or 3 for $25
 O'Reilly Books\
 https://www.oreilly.com/online-learning/cybermonday-2019.html  
 50% discount with code: CM19CS
+
+GNS3 Academy\
+https://gns3.teachable.com/  
+$7 all courses with code: BLACKFRIDAY19
+
+Pearson\
+http://www.pearsonitcertification.com/promotions/black-friday-2019-buy-2-save-55-142103  
+Buy 2 or more courses for 55% discount with code: BF2019
+
+SANS\
+https://www.sans.org/online-security-training/specials?msc=hpslider1
+Apple Hardware or $350 off any course
+
+Hackers Academy\
+https://www.hackersacademy.com/bundles?bundle_id=special-offer  
+88% discount
+
+Linux Academy\
+https://linuxacademy.com/pricing/individual/  
+$150 off
 
 ## Services:
 
