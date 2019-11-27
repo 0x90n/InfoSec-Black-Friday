@@ -22,11 +22,24 @@ DJI (for hacking drones)\
 https://store.dji.com/guides/dji-black-friday-deals-2019-guide/  
 40% discount
 
+ifixit\
+https://www.ifixit.com/Black-Friday  
+Multiple discounts + free shipping with code: BLUEANDBLACK19
+
+SparkFun\
+https://www.sparkfun.com/news/3134  
+15-25% discount
+
+
 ## Courses & Training:
 
 Udemy (Hacking Training - online)\
 https://www.udemy.com  
 All courses $10.99
+
+eLearnSecurity\
+https://www.elearnsecurity.com/  
+25% off with code: BLK-019
 
 PentesterAcademy (Hacking Training/Platform - online)\
 http://www.pentesteracademy.com/thanksgiving  
@@ -44,6 +57,14 @@ https://dronesec.com.au/training
 Cybrary (Hacking Training/Platform - online)\
 https://www.cybrary.it/  
 66% discount 
+
+Packt Publishing\
+https://packtpub.com/  
+e-Books and videos $10 each or 3 for $25
+
+O'Reilly Books\
+https://www.oreilly.com/online-learning/cybermonday-2019.html  
+50% discount with code: CM19CS
 
 ## Services:
 
