@@ -34,8 +34,8 @@ SparkFun\
 https://www.sparkfun.com/news/3134  
 15-25% discount
 
-SeeedStudio
-https://www.seeedstudio.com/thanksgiving_50_off_sale.html
+SeeedStudio\
+https://www.seeedstudio.com/thanksgiving_50_off_sale.html  
 50% discount with code: THANKS50
 
 
