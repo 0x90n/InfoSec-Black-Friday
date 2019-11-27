@@ -93,3 +93,6 @@ https://secapps.com/
 ## How to edit formatting
 At the end of a normal sentance, place a backslash for newline (/)
 Alternatively with a link, you can double-space (  )
+
+## Credits
+Thanks to 0ldMate referring me to @Infosec_Taylor who has a fantastic twitter thread as well, adding in some of those deals here!
