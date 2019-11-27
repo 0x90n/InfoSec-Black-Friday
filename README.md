@@ -3,7 +3,7 @@ All the deals for InfoSec related software/tools this Black Friday
 
 ## Software:
 
-VMware (Virtual Machine Application) 
+VMware (Virtual Machine Application)
 Workstation Pro & Fusion Pro, Workstation & Player
 https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea839000790a1c0e0f
 45-60% off - BF2019
