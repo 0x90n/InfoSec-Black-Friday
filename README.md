@@ -33,8 +33,8 @@ https://pentesterlab.com/pro/one_year
 https://twitter.com/PentesterLab/status/1199792188609024000?s=20  
 26.74% discount
 
-DroneSec (Drone Hacking Training - offline)
-https://dronesec.com.au/training
+DroneSec (Drone Hacking Training - offline)\
+https://dronesec.com.au/training  
 40% discount code: BLACKFRIDAY19 in email subject
 
 ## Services:
@@ -75,3 +75,6 @@ SecApps (Hacking Tools)\
 https://secapps.com/  
 ??% discount
 
+## How to edit formatting
+At the end of a normal sentance, place a backslash for newline (/)
+Alternatively with a link, you can double-space (  )
