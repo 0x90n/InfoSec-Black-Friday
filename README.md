@@ -18,6 +18,10 @@ Hak5\
 https://shop.hak5.org/  
 50% discount and free shipping
 
+DJI (for hacking drones)\
+https://store.dji.com/guides/dji-black-friday-deals-2019-guide/  
+40% discount
+
 ## Courses & Training:
 
 Udemy (Hacking Training - online)\
@@ -36,6 +40,10 @@ https://twitter.com/PentesterLab/status/1199792188609024000?s=20
 DroneSec (Drone Hacking Training - offline)\
 https://dronesec.com.au/training  
 40% discount code: BLACKFRIDAY19 in email subject
+
+Cybrary (Hacking Training/Platform - online)\
+https://www.cybrary.it/  
+66% discount 
 
 ## Services:
 
