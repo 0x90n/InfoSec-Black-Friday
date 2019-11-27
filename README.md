@@ -1,7 +1,7 @@
 # InfoSec-Black-Friday
 All the deals for InfoSec related software/tools this Black Friday
 
-** Software:
+## Software:
 
 VMware (Virtual Machine Application) 
 Workstation Pro & Fusion Pro, Workstation & Player
