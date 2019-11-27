@@ -43,6 +43,13 @@ ProtonMail\
 https://protonmail.com/blog/black-friday-2019/  
 33-50% discount
 
+NordVPN\
+https://nordvpn.com/offer/brand/  
+83% discount
+
+The Hacker News\
+https://deals.thehackernews.com/  
+15% off with coupon BFSAVE15
 
 ## UNCONFIRMED / TBA (2018)
 These were key deals last year, so keep an eye out and update if released.
