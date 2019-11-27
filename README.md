@@ -11,8 +11,8 @@ https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea
 ## Hardware:
 
 Yubico/Yubikey\
-https://www.yubico.com/store/black-friday-2019
-$20 OFF two YubiKeys or $100 OFF orders of $400 or more\
+https://www.yubico.com/store/black-friday-2019  
+$20 OFF two YubiKeys or $100 OFF orders of $400 or more
 
 Hak5\
 https://shop.hak5.org/  
