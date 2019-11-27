@@ -20,18 +20,22 @@ https://shop.hak5.org/
 
 ## Courses & Training:
 
-Udemy (Hacking Training)\
+Udemy (Hacking Training - online)\
 https://www.udemy.com  
 All courses $10.99
 
-PentesterAcademy (Hacking Training/Platform)\
+PentesterAcademy (Hacking Training/Platform - online)\
 http://www.pentesteracademy.com/thanksgiving  
 $39 down from $99 or $489p/y down from $1188p/y
 
-PentesterLab (Hacking Training/Platform)\
+PentesterLab (Hacking Training/Platform - online)\
 https://pentesterlab.com/pro/one_year  
 https://twitter.com/PentesterLab/status/1199792188609024000?s=20  
 26.74% discount
+
+DroneSec (Drone Hacking Training - offline)
+https://dronesec.com.au/training
+40% discount code: BLACKFRIDAY19 in email subject
 
 ## Services:
 
@@ -41,6 +45,7 @@ https://protonmail.com/blog/black-friday-2019/
 
 
 ## UNCONFIRMED / TBA (2018)
+These were key deals last year, so keep an eye out and update if released.
 
 Tindie (Hardware, Electronics, IoT)\
 https://www.tindie.com/browse/sale/  
