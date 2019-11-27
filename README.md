@@ -87,7 +87,7 @@ http://www.pearsonitcertification.com/promotions/black-friday-2019-buy-2-save-55
 Buy 2 or more courses for 55% discount with code: BF2019
 
 SANS\
-https://www.sans.org/online-security-training/specials?msc=hpslider1
+https://www.sans.org/online-security-training/specials?msc=hpslider1  
 Apple Hardware or $350 off any course
 
 Hackers Academy\
