@@ -1,4 +1,4 @@
-# InfoSec-Black-Friday
+# InfoSec Black Friday Deals 2019
 All the deals for InfoSec related software/tools this Black Friday
 
 ## Software:
