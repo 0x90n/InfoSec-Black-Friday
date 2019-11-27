@@ -49,8 +49,8 @@ eLearnSecurity\
 https://www.elearnsecurity.com/  
 25% off with code: BLK-019
 
-PluralSight
-https://www.pluralsight.com/offer/2019/bf-cm-40-off
+PluralSight\
+https://www.pluralsight.com/offer/2019/bf-cm-40-off  
 40% discount
 
 PentesterAcademy (Hacking Training/Platform - online)\
