@@ -19,9 +19,9 @@ Royal TS (Win) and Royal TSX (macOS) Individual User Licenses\
 https://royalapps.com/ts/win/buy  
 50% discount with code BLACKFRIDAY19
 
-WiFi Explorer Pro
-https://www.adriangranados.com/
-https://buy.paddle.com/checkout/43767240-chreaa50fc5abeb-c5a30d6d5b
+WiFi Explorer Pro\
+https://www.adriangranados.com/  
+https://buy.paddle.com/checkout/43767240-chreaa50fc5abeb-c5a30d6d5b  
 $50 discount
 
 ## Hardware:
