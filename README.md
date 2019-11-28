@@ -60,7 +60,7 @@ https://www.seeedstudio.com/thanksgiving_50_off_sale.html
 
 Airspy SDR Tools\
 https://airspy.com/  
-https://www.rtl-sdr.com/airspy-30-off-black-friday-sale-coupon-now-active/
+https://www.rtl-sdr.com/airspy-30-off-black-friday-sale-coupon-now-active/  
 30% discount with code: AWARDWINNING2019
 
 
