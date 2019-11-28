@@ -98,6 +98,10 @@ Linux Academy\
 https://linuxacademy.com/pricing/individual/  
 $150 off
 
+Practical DevSecOps\
+https://www.practical-devsecops.com/black-friday/  
+$400 OFF on course bundle or or $120-$180 OFF on each course.
+
 ## Services:
 
 ProtonMail\
