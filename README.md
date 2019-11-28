@@ -1,6 +1,12 @@
 # InfoSec Black Friday Deals 2019
 All the deals for InfoSec related software/tools this Black Friday
 
+## Hacker Essential
+
+Stickermule\
+https://www.stickermule.com/deals  
+$19 down from $69
+
 ## Software:
 
 VMware (Virtual Machine Application)\
@@ -13,11 +19,20 @@ Royal TS (Win) and Royal TSX (macOS) Individual User Licenses\
 https://royalapps.com/ts/win/buy  
 50% discount with code BLACKFRIDAY19
 
+WiFi Explorer Pro
+https://www.adriangranados.com/
+https://buy.paddle.com/checkout/43767240-chreaa50fc5abeb-c5a30d6d5b
+$50 discount
+
 ## Hardware:
 
 SouthOrdPicks\
 https://www.southord.com/  
 25% discount with code HOLLY19
+
+Pelican Cases\
+https://www.pelican.com/us/en/shop/black-friday/  
+30% with code: HOLIDAY
 
 Yubico/Yubikey\
 https://www.yubico.com/store/black-friday-2019  
@@ -42,6 +57,11 @@ https://www.sparkfun.com/news/3134
 SeeedStudio\
 https://www.seeedstudio.com/thanksgiving_50_off_sale.html  
 50% discount with code: THANKS50
+
+Airspy SDR Tools\
+https://airspy.com/  
+https://www.rtl-sdr.com/airspy-30-off-black-friday-sale-coupon-now-active/
+30% discount with code: AWARDWINNING2019
 
 
 ## Courses & Training:
@@ -107,6 +127,10 @@ Practical DevSecOps\
 https://www.practical-devsecops.com/black-friday/  
 $400 OFF on course bundle or or $120-$180 OFF on each course.
 
+Manning Publications\
+http://enews.manning.com/q/4qVD2DZvQIJ_yR-6w3SkoEx9ucisTjoscZlyhs8T0J5vCawQV4WfDDi9R  
+50% on any purchase over $50 with code: CYBERWEEK
+
 ## Services:
 
 ProtonMail\
@@ -158,3 +182,4 @@ Alternatively with a link, you can double-space (  )
 
 ## Credits
 Thanks to 0ldMate referring me to @Infosec_Taylor who has a fantastic twitter thread as well, adding in some of those deals here!
+Also thanks to webyeti, grabbed some deals from: https://www.webyeti.ninja/blog/hackerblkfri - more non-infosec deals in there too.
