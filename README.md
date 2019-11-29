@@ -63,6 +63,10 @@ https://airspy.com/
 https://www.rtl-sdr.com/airspy-30-off-black-friday-sale-coupon-now-active/  
 30% discount with code: AWARDWINNING2019
 
+LAB401 SDR/RFID Equiptment\
+https://lab401.com/blogs/news/black-friday-cyber-monday-sales  
+15%+ discount with code: BFCM2019
+
 
 ## Courses & Training:
 
