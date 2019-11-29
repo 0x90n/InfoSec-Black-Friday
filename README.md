@@ -160,21 +160,9 @@ Pastebin\
 https://pastebin.com/pro?coupon=blackfriday  
 ??% discount
 
-Shodan (Online Discovery Tool/Platform)\
-https://account.shodan.io/register  
-$? down from $?
-
-KnoXSS (Hacking Tool)\
-https://knoxss.me/  
-??% discount
-
 Attify (IoT Exploitation Training/Hardware)\
 https://www.attify-store.com/  
 ??% off with coupon code 
-
-SecApps (Hacking Tools)\
-https://secapps.com/  
-??% discount
 
 ## How to edit formatting
 At the end of a normal sentance, place a backslash for newline (/)
