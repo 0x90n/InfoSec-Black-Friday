@@ -9,6 +9,10 @@ $19 down from $69
 
 ## Software:
 
+Acrylic WiFi Hacking Suite\
+https://www.acrylicwifi.com/  
+30% discount with code: BLACKFRIDAY
+
 VMware (Virtual Machine Application)\
 Workstation Pro & Fusion Pro, Workstation & Player\
 https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea839000790a1c0e0f  
@@ -75,7 +79,7 @@ https://www.southord.com/
 
 Applied Network Defense Online Training\
 https://networkdefense.io/ \
-20% off all courses (no code needed)
+20% discount all courses
 
 NoStarch Press\
 https://nostarch.com/  
@@ -87,7 +91,7 @@ All courses $10.99
 
 eLearnSecurity\
 https://www.elearnsecurity.com/  
-25% off with code: BLK-019
+25% discount with code: BLK-019
 
 PluralSight\
 https://www.pluralsight.com/offer/2019/bf-cm-40-off  
