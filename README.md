@@ -66,6 +66,10 @@ https://www.rtl-sdr.com/airspy-30-off-black-friday-sale-coupon-now-active/
 
 ## Courses & Training:
 
+NoStarch Press\
+https://nostarch.com/  
+42% discount with code ULTIMATE42
+
 Udemy (Hacking Training - online)\
 https://www.udemy.com  
 All courses $10.99
@@ -167,10 +171,6 @@ https://knoxss.me/
 Attify (IoT Exploitation Training/Hardware)\
 https://www.attify-store.com/  
 ??% off with coupon code 
-
-NoStarch Press\
-https://nostarch.com/  
-Get 42% off everything at checkout
 
 SecApps (Hacking Tools)\
 https://secapps.com/  
