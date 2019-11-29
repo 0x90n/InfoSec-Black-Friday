@@ -70,6 +70,10 @@ https://lab401.com/blogs/news/black-friday-cyber-monday-sales
 
 ## Courses & Training:
 
+Applied Network Defense Online Training\
+https://networkdefense.io/ \
+20% off all courses (no code needed)
+
 NoStarch Press\
 https://nostarch.com/  
 42% discount with code ULTIMATE42
