@@ -67,6 +67,9 @@ LAB401 SDR/RFID Equiptment\
 https://lab401.com/blogs/news/black-friday-cyber-monday-sales  
 15%+ discount with code: BFCM2019
 
+Southord Lockpicking\
+https://www.southord.com/
+15% off with coupon HOLLY19
 
 ## Courses & Training:
 
@@ -139,6 +142,22 @@ Manning Publications\
 http://enews.manning.com/q/4qVD2DZvQIJ_yR-6w3SkoEx9ucisTjoscZlyhs8T0J5vCawQV4WfDDi9R  
 50% on any purchase over $50 with code: CYBERWEEK
 
+Leetcode\
+https://www.leetcode.com/
+$30 off annual subscription w/ code THANKS2019
+
+ISACA\
+https://isaca.org/info/cisa-certification-ready/index.html/
+15% off CISA/CISM/CRISC training & cert with code CYBERWEEK19CISA
+
+Networkdefense.io\
+https://www.networkdefense.io/library/
+20% off
+
+Apress\
+https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek19
+$7 deals
+
 ## Services:
 
 ProtonMail\
@@ -152,6 +171,27 @@ https://nordvpn.com/offer/brand/
 The Hacker News\
 https://deals.thehackernews.com/  
 15% off with coupon BFSAVE15
+
+F-Secure FREEDOME VPN\
+50% w/ code BLACKWEEK
+https://campaigns.f-secure.com/blackweek/en_global/?ecid=10916
+
+1Password\
+https://1password.com/promo/black-friday/the-verge/?cjevent=8fec730612de11ea80ac00f80a1c0e14/
+50% off via Verge
+
+Whizlabs\
+https://www.whizlabs.com/
+50% off
+
+Lowendbox\
+https://lowendbox.com/blog/happy-thanksgiving-from-lowendbox-black-friday-cyber-monday-offers-are-coming/
+Variety of deals
+
+## Continuing Education
+Kaplan\
+https://www.kaptest.com/study/gre/black-friday-and-cyber-monday-gre-deals/
+Kaplan: $300 off GRE and similar
 
 ## UNCONFIRMED / TBA (2018)
 These were key deals last year, so keep an eye out and update if released.
