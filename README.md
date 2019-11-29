@@ -175,3 +175,4 @@ Alternatively with a link, you can double-space (  )
 ## Credits
 Thanks to 0ldMate referring me to @Infosec_Taylor who has a fantastic twitter thread as well, adding in some of those deals here!
 Also thanks to webyeti, grabbed some deals from: https://www.webyeti.ninja/blog/hackerblkfri - more non-infosec deals in there too.
+Thanks to those that have sent pull requests, and @reV_sh_ on twitter, among others.
