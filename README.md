@@ -170,7 +170,7 @@ https://www.attify-store.com/
 
 NoStarch Press\
 https://nostarch.com/  
-Get ??% off everything at checkout
+Get 42% off everything at checkout
 
 SecApps (Hacking Tools)\
 https://secapps.com/  
