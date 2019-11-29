@@ -73,6 +73,10 @@ https://www.southord.com/
 
 ## Courses & Training:
 
+Applied Network Defense Online Training\
+https://networkdefense.io/ \
+20% off all courses (no code needed)
+
 NoStarch Press\
 https://nostarch.com/  
 42% discount with code ULTIMATE42
