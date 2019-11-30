@@ -151,19 +151,19 @@ http://enews.manning.com/q/4qVD2DZvQIJ_yR-6w3SkoEx9ucisTjoscZlyhs8T0J5vCawQV4WfD
 50% on any purchase over $50 with code: CYBERWEEK
 
 Leetcode\
-https://www.leetcode.com/
+https://www.leetcode.com/  
 $30 off annual subscription w/ code THANKS2019
 
 ISACA\
-https://isaca.org/info/cisa-certification-ready/index.html/
+https://isaca.org/info/cisa-certification-ready/index.html/  
 15% off CISA/CISM/CRISC training & cert with code CYBERWEEK19CISA
 
 Networkdefense.io\
-https://www.networkdefense.io/library/
+https://www.networkdefense.io/library/  
 20% off
 
 Apress\
-https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek19
+https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek19  
 $7 deals
 
 ## Services:
