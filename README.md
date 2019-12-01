@@ -166,6 +166,10 @@ Apress\
 https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek19  
 $7 deals
 
+PTrace Advanced Software Exploitation\
+https://www.psec-courses.com/courses/advanced-software-exploitation
+20% off with code BLACKFRIDAY2019
+
 ## Services:
 
 ProtonMail\
