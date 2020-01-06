@@ -107,7 +107,7 @@ https://twitter.com/PentesterLab/status/1199792188609024000?s=20
 26.74% discount
 
 DroneSec (Drone Hacking Training - offline)\
-https://dronesec.com.au/training  
+https://dronesec.com/collections/training 
 40% discount code: BLACKFRIDAY19 in email subject
 
 Cybrary (Hacking Training/Platform - online)\
