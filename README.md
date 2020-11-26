@@ -43,8 +43,8 @@ WPScan\
 https://wpscan.com/  
 25% off Starter and Pro accounts with code: BLACKFRIDAY2020
 
-VMware
-https://store-us.vmware.com/
+VMware\
+https://store-us.vmware.com/  
 30% off new licenses, 19% off upgrades.  No code required
 
 ## Books:
