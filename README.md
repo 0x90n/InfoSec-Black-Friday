@@ -43,6 +43,10 @@ WPScan\
 https://wpscan.com/  
 25% off Starter and Pro accounts with code: BLACKFRIDAY2020
 
+VMware\
+https://store-us.vmware.com/  
+30% off new licenses, 19% off upgrades.  No code required
+
 ## Books:
 
 NoStarch Press\
@@ -170,13 +174,13 @@ Lowendbox\
 https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/
 Variety of deals
 
-Surfshark VPN
-https://surfshark.com/deals  
-83% off + 3 months free
-
 Priveasy (Open Source Privacy and Security Services)\
 https://Priveasy.org  
 Get additional 90 days free at checkout with code: 6ffbb6ff46
+
+Surfshark VPN\
+https://surfshark.com/deals
+83% off + 3 months free
 
 ## Hardware:
 
