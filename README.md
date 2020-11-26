@@ -92,7 +92,7 @@ Student (3-month): US$27.99 instead of US$34.99
 
 DroneSec (Drone Security Training - online unlocks 1st December) :see_no_evil:\
 https://training.dronesec.com  
-65% discount on bundle with code: DONOTSHAREBLACKFRI
+65% discount on bundle with code: DONOTSHAREBLACKFRI\
 20% discount on live training with code: BF20
 
 Social Engineering Training :see_no_evil:\
