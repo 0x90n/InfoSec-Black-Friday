@@ -149,7 +149,7 @@ https://www.cybrary.it/
 70% discount
 
 Hacker House (Hands on Hacking)\
-https://hacker.house/training/ 
+https://hacker.house/training/ \
 50% discount w/ coupon code HACKFRIDAY
 
 ## Services:
