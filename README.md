@@ -50,10 +50,6 @@ https://nostarch.com/
 33.7% off + free shipping with code BLACKFRIDAY20\
 *domestic orders only, $50 min
 
-Cybrary (Hacking Training/Platform - online)\
-https://www.cybrary.it/  
-70% discount
-
 O'Reilly Books\
 https://www.oreilly.com/online-learning/cybermonday-2019.html  
 50% discount with code: CM19CS
@@ -143,6 +139,10 @@ Claimed deals incoming...
 International Cybersecurity Institute\
 https://www.icsi.co.uk/pages/black-friday-offer
 50% off courses with code: BF50
+
+Cybrary (Hacking Training/Platform - online)\
+https://www.cybrary.it/  
+70% discount
 
 ## Services:
 
