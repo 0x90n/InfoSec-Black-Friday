@@ -29,69 +29,69 @@ Up to 50% off
 
 NoStarch Press\
 https://nostarch.com/  
-33.7% off + free shipping with code BLACKFRIDAY20
-*domestic orders only, $50 min
+33.7% off + free shipping with code BLACKFRIDAY20\
+*domestic orders only, $50 min\
 
-Cybrary (Hacking Training/Platform - online)
-https://www.cybrary.it/
-70% discount
+Cybrary (Hacking Training/Platform - online)\
+https://www.cybrary.it/  
+70% discount\
 
-O'Reilly Books
-https://www.oreilly.com/online-learning/cybermonday-2019.html
-50% discount with code: CM19CS
+O'Reilly Books\
+https://www.oreilly.com/online-learning/cybermonday-2019.html  
+50% discount with code: CM19CS\
 
-Apress
-https://www.apress.com/us/shop/cybermonday-sale
-All eBooks $6.99 each with code: CYBER20AP
+Apress\
+https://www.apress.com/us/shop/cybermonday-sale  
+All eBooks $6.99 each with code: CYBER20AP\
 
-Pearson
-https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246
-Buy 2, save 55% + free US shipping with code: BOOKSGIVING
+Pearson\
+https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246  
+Buy 2, save 55% + free US shipping with code: BOOKSGIVING\
 
 ## Courses & Training:
 
 Udemy (Hacking Training - online)\
 https://www.udemy.com  
-All courses $10.99
+All courses $10.99\
 
 PluralSight\
 https://www.pluralsight.com/offer/2020/bf-cm-40-off  
-40% discount
+40% discount\
 
 PentesterLab (Hacking Training/Platform - online) :see_no_evil:\ 
-https://pentesterlab.com/pro/
+https://pentesterlab.com/pro/  
 https://twitter.com/PentesterLab/status/1331731252756373505  
-One-year: US$146.52 instead of US$199.99
-Student (3-month): US$27.99 instead of US$34.99
+One-year: US$146.52 instead of US$199.99\
+Student (3-month): US$27.99 instead of US$34.99\
 
 DroneSec (Drone Security Training - online) :see_no_evil:\
-https://training.dronesec.com
-65% discount on bundle with code: DONOTSHAREBLACKFRI
-* Begins 27th Nov, content unlocks 1st Dec
+https://training.dronesec.com  
+65% discount on bundle with code: DONOTSHAREBLACKFRI\
+* Begins 27th Nov, content unlocks 1st Dec\
 
 Social Engineering (Robin Dreeke, retired FBI Special Agent and Chief of the Counterintelligence Behavioral Analysis Program) :see_no_evil:\
-https://www.peopleformula.com/online-training 
-25% discount with code: infosec25 
-(expires 31/01/2021)
+https://www.peopleformula.com/online-training  
+25% discount with code: infosec25\
+(expires 31/01/2021)\
 
-CloudGuru (was Linux Academy)
-https://acloudguru.com/pricing
-Various deals
+CloudGuru (was Linux Academy)\
+https://acloudguru.com/pricing  
+Various deals\
 
-Practical DevSecOps
-https://www.practical-devsecops.com/black-friday/
-15% off
+Practical DevSecOps\
+https://www.practical-devsecops.com/black-friday/  
+15% off\
 
 Whizlabs\
-https://www.whizlabs.com/
-50% off all products with code: BLACKFRIDAY50
+https://www.whizlabs.com/  
+50% off all products with code: BLACKFRIDAY50\
 
-ISACA
-https://www.isaca.org/go/flash
-15% off CISA/CISM/CRISC training & certs
+ISACA\
+https://www.isaca.org/go/flash  
+15% off CISA/CISM/CRISC training & certs\
 
 Kaplan\
-https://www.kaptest.com/study/gre/black-friday-and-cyber-monday-gre-deals/
+https://www.kaptest.com/study/gre/black-friday-and-cyber-monday-gre-deals/  
 Claim deals are incoming shortly...
 
 ## Services:
