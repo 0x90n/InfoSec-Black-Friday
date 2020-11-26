@@ -39,6 +39,10 @@ Tenable\
 https://www.tenable.com/buy
 50% off Nessus PRO with code: takehalf
 
+WPScan\
+https://wpscan.com/  
+25% off Starter and Pro accounts with code: BLACKFRIDAY2020
+
 ## Books:
 
 NoStarch Press\
@@ -104,6 +108,10 @@ https://www.peopleformula.com/online-training
 CloudGuru (was Linux Academy)\
 https://acloudguru.com/pricing  
 Various deals
+
+Zero2Automated Malware Analysis Course\
+https://courses.zero2auto.com/beginner-bundle  
+20% off with code: BLACKFRIDAYSALES
 
 Practical DevSecOps\
 https://www.practical-devsecops.com/black-friday/  
