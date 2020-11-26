@@ -92,10 +92,11 @@ Student (3-month): US$27.99 instead of US$34.99
 
 DroneSec (Drone Security Training - online) :see_no_evil:\
 https://training.dronesec.com  
-65% discount on bundle with code: DONOTSHAREBLACKFRI
-* Begins 27th Nov, content unlocks 1st Dec
+65% discount on bundle with code: DONOTSHAREBLACKFRI\
+Begins 27th Nov, content unlocks 1st Dec
 
-Social Engineering (Robin Dreeke, retired FBI Special Agent and Chief of the Counterintelligence Behavioral Analysis Program) :see_no_evil:\
+Social Engineering Training :see_no_evil:\
+(Robin Dreeke, retired FBI Special Agent and Chief of the Counterintelligence Behavioral Analysis Program)\
 https://www.peopleformula.com/online-training  
 25% discount with code: infosec25
 (expires 31/01/2021)
