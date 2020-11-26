@@ -24,7 +24,7 @@ $19 down from $65, free shipping
 ## Tools
 
 GRAYHATWARFARE (Cloud Storage Buckets Search Engine) :see_no_evil:\
-https://buckets.grayhatwarfare.com/packages
+https://buckets.grayhatwarfare.com/packages  
 Up to 50% off
 
 Burp Bounty Pro Extension\
@@ -103,7 +103,6 @@ Social Engineering Training :see_no_evil:\
 (Robin Dreeke, retired FBI Special Agent and Chief of the Counterintelligence Behavioral Analysis Program)\
 https://www.peopleformula.com/online-training  
 25% discount with code: infosec25
-(expires 31/01/2021)
 
 CloudGuru (was Linux Academy)\
 https://acloudguru.com/pricing  
