@@ -399,7 +399,7 @@ https://www.attify-store.com/
 ??% off with coupon code 
 
 ## How to edit formatting
-At the end of a normal sentance, place a backslash for newline (/)
+At the end of a normal sentance, place a backslash for newline (\)
 Alternatively with a link, you can double-space (  )
 
 ## Credits
