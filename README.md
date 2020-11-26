@@ -31,7 +31,7 @@ Burp Bounty Pro Extension\
 https://order.shareit.com/cart/view
 20% off with code: CYBERBOUNTY
 
-Pulsedive Threat Intelligence\
+Pulsedive Threat Intelligence :see_no_evil:\
 https://pulsedive.com/about/pro
 $5 PRO accounts with code: TRYFOR5
 
