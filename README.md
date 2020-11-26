@@ -1,11 +1,138 @@
-# InfoSec Black Friday Deals 2019
-All the deals for InfoSec related software/tools this Black Friday
+# InfoSec Black Friday Deals 2020
+All the deals for InfoSec related software/tools last Black Friday
+
+## FAQ
+### When do these sales end?
+Most end 29/30th November.
+ 
+### When will most of the deals/discounts be here?
+Most likely 27th midday for USA, 28th November for the rest of the world, check back often!
+
+### Can I add deals to the page?
+Yes, please follow formatting guidelines, provide a source and code. Has to be (loosely) infosec related.
+
+:see_no_evil: means 1) Limited user run 2) Great deal or 3) Highly recommended
+
+## Hacker Essentials
+
+Stickermule\
+https://www.stickermule.com/deals  
+$19 down from $65, free shipping
+
+## Tools
+
+GRAYHATWARFARE (Cloud Storage Buckets Search Engine) :see_no_evil:\
+https://buckets.grayhatwarfare.com/packages
+Up to 50% off
+
+## Books:
+
+NoStarch Press\
+https://nostarch.com/  
+33.7% off + free shipping with code BLACKFRIDAY20
+*domestic orders only, $50 min
+
+Cybrary (Hacking Training/Platform - online)
+https://www.cybrary.it/
+70% discount
+
+O'Reilly Books
+https://www.oreilly.com/online-learning/cybermonday-2019.html
+50% discount with code: CM19CS
+
+Apress
+https://www.apress.com/us/shop/cybermonday-sale
+All eBooks $6.99 each with code: CYBER20AP
+
+Pearson
+https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246
+Buy 2, save 55% + free US shipping with code: BOOKSGIVING
+
+## Courses & Training:
+
+Udemy (Hacking Training - online)\
+https://www.udemy.com  
+All courses $10.99
+
+PluralSight\
+https://www.pluralsight.com/offer/2020/bf-cm-40-off  
+40% discount
+
+PentesterLab (Hacking Training/Platform - online) :see_no_evil:\ 
+https://pentesterlab.com/pro/
+https://twitter.com/PentesterLab/status/1331731252756373505  
+One-year: US$146.52 instead of US$199.99
+Student (3-month): US$27.99 instead of US$34.99
+
+DroneSec (Drone Security Training - online) :see_no_evil:\
+https://training.dronesec.com
+65% discount on bundle with code: DONOTSHAREBLACKFRI
+* Begins 27th Nov, content unlocks 1st Dec
+
+Social Engineering (Robin Dreeke, retired FBI Special Agent and Chief of the Counterintelligence Behavioral Analysis Program) :see_no_evil:\
+https://www.peopleformula.com/online-training 
+25% discount with code: infosec25 
+(expires 31/01/2021)
+
+CloudGuru (was Linux Academy)
+https://acloudguru.com/pricing
+Various deals
+
+Practical DevSecOps
+https://www.practical-devsecops.com/black-friday/
+15% off
+
+Whizlabs\
+https://www.whizlabs.com/
+50% off all products with code: BLACKFRIDAY50
+
+ISACA
+https://www.isaca.org/go/flash
+15% off CISA/CISM/CRISC training & certs
+
+Kaplan\
+https://www.kaptest.com/study/gre/black-friday-and-cyber-monday-gre-deals/
+Claim deals are incoming shortly...
+
+## Services:
+
+ProtonMail\
+https://protonmail.com/blog/black-friday-2020/  
+33-50% discounts
+
+NordVPN\
+https://nordvpn.com/offer/great-deal/  
+68% discount + 3 months free
+
+F-Secure TOTAL and FREEDOME VPN\
+https://www.f-secure.com/en/home/products/total
+50% off with code: BLACKWEEK
+
+1Password\
+https://1password.com/promo/black-friday/the-verge/  
+50% off family account
+
+Lowendbox\
+https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/
+Variety of deals
+
+## Hardware:
+
+DJI  :see_no_evil:\
+https://store.dji.com/event/black-friday-sale-2020  
+Up to 46% off
+Osmo Action $199 down from $369
+
+------------------------------------------------------------------------------------------------------------------
+
+# InfoSec Black Friday Deals (2019)
+These were key deals last year, so keep an eye out and update if released.
 
 ## Hacker Essential
 
 Stickermule\
 https://www.stickermule.com/deals  
-$19 down from $69
+$19 down from $65, free shipping
 
 ## Software:
 
@@ -228,3 +355,11 @@ Alternatively with a link, you can double-space (  )
 Thanks to 0ldMate referring me to @Infosec_Taylor who has a fantastic twitter thread as well, adding in some of those deals here!
 Also thanks to webyeti, grabbed some deals from: https://www.webyeti.ninja/blog/hackerblkfri - more non-infosec deals in there too.
 Thanks to those that have sent pull requests, and @reV_sh_ on twitter, among others.
+
+If you'd like to DM me a deal rather than submitting a PR: @securitymeta_
+
+## Discoverability
+infosec black friday, information security black friday, cybersec black friday, cyber security black friday, netsec black friday, hacking black friday
+infosec cyber monday, information security cyber monday, cybersec cyber monday, cyber security cyber monday, netsec cyber monday, hacking cyber monday
+infosec deals, coupons, discounts, sales, pentest, penetration test, red team, blue team, purple team
+
