@@ -67,7 +67,7 @@ https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-o
 Buy 2, save 55% + free US shipping with code: BOOKSGIVING
 
 Humble Bundle\
-https://www.humblebundle.com/
+https://www.humblebundle.com/  
 45% off Premium
 
 ## Courses & Training:
@@ -92,9 +92,8 @@ Lets Defend\
 http://letsdefend.io/
 50% off with code: BLCKFRDY
 
-PentesterLab (Hacking Training/Platform - online) :see_no_evil:\ 
+PentesterLab (Hacking Training/Platform - online) :see_no_evil:\
 https://pentesterlab.com/pro/  
-https://twitter.com/PentesterLab/status/1331731252756373505  
 One-year: US$146.52 instead of US$199.99
 Student (3-month): US$27.99 instead of US$34.99
 
@@ -121,11 +120,11 @@ https://www.practical-devsecops.com/black-friday/
 15% off
 
 OSINTion Training\
-https://blackfriday.theosintion.com/
+https://blackfriday.theosintion.com/  
 33% off courses with code: 2020BF1337OSINT
 
 OSINT Combine :see_no_evil:\
-https://academy.osintcombine.com/
+https://academy.osintcombine.com/  
 40% off all courses with code: BLACKFRIDAY
 
 Whizlabs\
@@ -167,7 +166,7 @@ https://nordvpn.com/offer/great-deal/
 68% discount + 3 months free
 
 F-Secure TOTAL and FREEDOME VPN\
-https://www.f-secure.com/en/home/products/total
+https://www.f-secure.com/en/home/products/total  
 50% off with code: BLACKWEEK
 
 1Password\
@@ -198,7 +197,7 @@ https://www.southord.com/
 25% discount with code: CHEER25
 
 SOS Soultions (Hardware Kits)\
-https://www.sossolutions.nl/black-friday-2020
+https://www.sossolutions.nl/black-friday-2020  
 Various discounts
 
 ------------------------------------------------------------------------------------------------------------------
