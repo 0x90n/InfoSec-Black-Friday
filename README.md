@@ -52,7 +52,7 @@ https://nostarch.com/
 
 O'Reilly Books\
 https://www.oreilly.com/online-learning/cybermonday-2019.html  
-50% discount with code: CM19CS
+50% discount with code: CM20CS
 
 Apress\
 https://www.apress.com/us/shop/cybermonday-sale  
