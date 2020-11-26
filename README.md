@@ -1,5 +1,5 @@
 # InfoSec Black Friday Deals 2020
-All the deals for InfoSec related software/tools last Black Friday
+All the deals for InfoSec related software/tools this Black Friday / Cyber Monday
 
 ## FAQ
 ### When do these sales end?
@@ -13,6 +13,8 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be (
 
 :see_no_evil: means 1) Limited user run 2) Great deal or 3) Highly recommended
 
+*Disclaimer: I have included my own, and other discount codes sent in directly.
+
 ## Hacker Essentials
 
 Stickermule\
@@ -24,6 +26,14 @@ $19 down from $65, free shipping
 GRAYHATWARFARE (Cloud Storage Buckets Search Engine) :see_no_evil:\
 https://buckets.grayhatwarfare.com/packages
 Up to 50% off
+
+Burp Bounty Pro Extension\
+https://order.shareit.com/cart/view
+20% off with code: CYBERBOUNTY
+
+Pulsedive Threat Intelligence\
+https://pulsedive.com/about/pro
+$5 PRO accounts with code: TRYFOR5
 
 ## Books:
 
@@ -94,6 +104,10 @@ Kaplan\
 https://www.kaptest.com/study/gre/black-friday-and-cyber-monday-gre-deals/  
 Claim deals are incoming shortly...
 
+Networkdefense.io\
+https://www.networkdefense.io/library/  
+Claimed deals incoming...
+
 ## Services:
 
 ProtonMail\
@@ -122,6 +136,10 @@ DJI  :see_no_evil:\
 https://store.dji.com/event/black-friday-sale-2020  
 Up to 46% off
 Osmo Action $199 down from $369
+
+SouthOrdPicks\
+https://www.southord.com/  
+25% discount with code: CHEER25
 
 ------------------------------------------------------------------------------------------------------------------
 
