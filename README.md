@@ -35,6 +35,10 @@ Pulsedive Threat Intelligence\
 https://pulsedive.com/about/pro
 $5 PRO accounts with code: TRYFOR5
 
+Tenable\
+https://www.tenable.com/buy
+50% off Nessus PRO with code: takehalf
+
 ## Books:
 
 NoStarch Press\
@@ -58,7 +62,15 @@ Pearson\
 https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246  
 Buy 2, save 55% + free US shipping with code: BOOKSGIVING
 
+Humble Bundle\
+https://www.humblebundle.com/
+45% off Premium
+
 ## Courses & Training:
+
+OffSec AWAE :see_no_evil:\
+https://www.offensive-security.com/awae-oswe/  
+Various discounts per labs length
 
 Udemy (Hacking Training - online)\
 https://www.udemy.com  
@@ -67,6 +79,10 @@ All courses $10.99
 PluralSight\
 https://www.pluralsight.com/offer/2020/bf-cm-40-off  
 40% discount
+
+Lets Defend\
+http://letsdefend.io/
+50% off with code: BLCKFRDY
 
 PentesterLab (Hacking Training/Platform - online) :see_no_evil:\ 
 https://pentesterlab.com/pro/  
@@ -386,11 +402,19 @@ At the end of a normal sentance, place a backslash for newline (/)
 Alternatively with a link, you can double-space (  )
 
 ## Credits
+If you'd like to DM me a deal rather than submitting a PR: @securitymeta_
+
 Thanks to 0ldMate referring me to @Infosec_Taylor who has a fantastic twitter thread as well, adding in some of those deals here!
 Also thanks to webyeti, grabbed some deals from: https://www.webyeti.ninja/blog/hackerblkfri - more non-infosec deals in there too.
+Shoutout to some discounts grabbed from Dutchosintguy, @gabsmashh
 Thanks to those that have sent pull requests, and @reV_sh_ on twitter, among others.
 
-If you'd like to DM me a deal rather than submitting a PR: @securitymeta_
+Thanks to those who credited and helped spread the word!
+https://github.com/instadoodledavid/Infosec-Deals-2020
+https://github.com/Securityinfos/Black-Friday-Deals
+https://github.com/Dutchosintguy/Blackfriday-Deals-2020
+
+
 
 ## Discoverability
 infosec black friday, information security black friday, cybersec black friday, cyber security black friday, netsec black friday, hacking black friday
