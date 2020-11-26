@@ -170,6 +170,10 @@ Lowendbox\
 https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/
 Variety of deals
 
+Surfshark VPN\
+https://surfshark.com/deals
+83% off + 3 months free
+
 ## Hardware:
 
 DJI  :see_no_evil:\
