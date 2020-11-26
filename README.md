@@ -151,9 +151,9 @@ Cybrary (Hacking Training/Platform - online)\
 https://www.cybrary.it/  
 70% discount
 
-Hacker House (Hands on Hacking)\
+Hacker House (Hands on Hacking) :see_no_evil:\
 https://hacker.house/training/ \
-50% discount w/ coupon code HACKFRIDAY
+35% discount with code: HACKFRIDAY
 
 ## Services:
 
