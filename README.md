@@ -92,6 +92,14 @@ Practical DevSecOps\
 https://www.practical-devsecops.com/black-friday/  
 15% off
 
+OSINTion Training\
+https://blackfriday.theosintion.com/
+33% off courses with code: 2020BF1337OSINT
+
+OSINT Combine :see_no_evil:\
+https://academy.osintcombine.com/
+40% off all courses with code: BLACKFRIDAY
+
 Whizlabs\
 https://www.whizlabs.com/  
 50% off all products with code: BLACKFRIDAY50
@@ -107,6 +115,10 @@ Claim deals are incoming shortly...
 Networkdefense.io\
 https://www.networkdefense.io/library/  
 Claimed deals incoming...
+
+International Cybersecurity Institute\
+https://www.icsi.co.uk/pages/black-friday-offer
+50% off courses with code: BF50
 
 ## Services:
 
@@ -140,6 +152,10 @@ Osmo Action $199 down from $369
 SouthOrdPicks\
 https://www.southord.com/  
 25% discount with code: CHEER25
+
+SOS Soultions (Hardware Kits)\
+https://www.sossolutions.nl/black-friday-2020
+Various discounts
 
 ------------------------------------------------------------------------------------------------------------------
 
