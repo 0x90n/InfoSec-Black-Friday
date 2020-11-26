@@ -170,6 +170,10 @@ Lowendbox\
 https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-friday-cyber-monday-season/
 Variety of deals
 
+Priveasy (Open Source Privacy and Security Services)\
+https://Priveasy.org  
+Get additional 90 days free at checkout until 12/3/2020 with code: 6ffbb6ff46
+
 ## Hardware:
 
 DJI  :see_no_evil:\
