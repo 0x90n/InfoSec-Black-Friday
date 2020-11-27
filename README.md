@@ -51,6 +51,11 @@ Faraday
 https://faradaysec.com/landing-black-friday/
 30% OFF and Free training on new licenses.
 
+Detectify 
+https://detectify.com/lp/black-friday-professional-plan-offer 
+20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
+
+
 ## Books:
 
 NoStarch Press\
