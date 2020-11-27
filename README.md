@@ -47,9 +47,13 @@ VMware\
 https://store-us.vmware.com/  
 30% off new licenses, 19% off upgrades.  No code required
 
-Faraday
+Faraday\
 https://faradaysec.com/landing-black-friday/
 30% OFF and Free training on new licenses.
+
+MalwareBytes\ 
+https://try.malwarebytes.com/black-friday/
+50% OFF Malwarebytes Premium, 40% OFF Malwarebytes Premium + Privacy
 
 ## Books:
 
