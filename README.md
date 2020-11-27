@@ -85,8 +85,8 @@ Sn1per Professional\
 https://xerosecurity.com/wordpress/black-friday-sale/  
 $49 savings on Sn1per Professional v8.0 + Command Execution Add-on
 
-Kon-Boot (Windows and MacOS local password bypass)
-https://kon-boot.com/?NOVEMBER=1
+Kon-Boot (Windows and MacOS local password bypass)\
+https://kon-boot.com/?NOVEMBER=1  
 25% off Kon-Boot Windows, MacOS, and 2in1 personal and commercial licenses.
 
 ## Books:
