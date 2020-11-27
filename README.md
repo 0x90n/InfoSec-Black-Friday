@@ -87,6 +87,10 @@ $49 savings on Sn1per Professional v8.0 + Command Execution Add-on
 
 ## Books:
 
+Bug Bounty Playbook 2 (verified)\
+https://payhip.com/b/nRia  
+Discount on full price
+
 NoStarch Press\
 https://nostarch.com/  
 33.7% off + free shipping with code BLACKFRIDAY20\
