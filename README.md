@@ -51,6 +51,14 @@ Faraday
 https://faradaysec.com/landing-black-friday/
 30% OFF and Free training on new licenses.
 
+010 Editor
+https://www.sweetscape.com/010editor/
+30% OFF
+
+Little Snitch (macOS Firewall)
+https://www.obdev.at/products/littlesnitch/order.html
+30% OFF
+
 ## Books:
 
 NoStarch Press\
