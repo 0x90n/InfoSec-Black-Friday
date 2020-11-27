@@ -69,6 +69,10 @@ Little Snitch (macOS Firewall)\
 https://www.obdev.at/products/littlesnitch/order.html  
 30% OFF
 
+Murus and Vallum (macOS Firewall (pf))\
+https://murusfirewall.com/  
+50% OFF
+
 Detectify :see_no_evil:\
 https://detectify.com/lp/black-friday-professional-plan-offer  
 20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
