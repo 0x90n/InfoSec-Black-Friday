@@ -29,6 +29,10 @@ GRAYHATWARFARE (Cloud Storage Buckets Search Engine) :see_no_evil:\
 https://buckets.grayhatwarfare.com/packages  
 Up to 50% off
 
+IDA Pro\
+https://www.hex-rays.com/cgi-bin/quote.cgi/products  
+25% OFF for all IDA Home purchases
+
 Burp Bounty Pro Extension\
 https://order.shareit.com/cart/view  
 20% off with code: CYBERBOUNTY
@@ -50,7 +54,7 @@ https://store-us.vmware.com/
 30% off new licenses, 19% off upgrades.  No code required
 
 Faraday\
-https://faradaysec.com/landing-black-friday/
+https://faradaysec.com/landing-black-friday/  
 30% off and Free training on new licenses.
 
 MalwareBytes\
@@ -127,7 +131,7 @@ https://www.pluralsight.com/offer/2020/bf-cm-40-off
 40% discount
 
 Lets Defend\
-http://letsdefend.io/
+http://letsdefend.io/  
 50% off with code: BLCKFRDY
 
 PentesterLab (Hacking Training/Platform - online) :see_no_evil:\
@@ -182,7 +186,7 @@ https://www.networkdefense.io/library/
 20% off all courses. No code required.
 
 International Cybersecurity Institute\
-https://www.icsi.co.uk/pages/black-friday-offer
+https://www.icsi.co.uk/pages/black-friday-offer  
 50% off courses with code: BF50
 
 Cybrary (Hacking Training/Platform - online)\
@@ -228,11 +232,11 @@ https://Priveasy.org
 Get additional 90 days free at checkout with code: 6ffbb6ff46
 
 Surfshark VPN\
-https://surfshark.com/deals
+https://surfshark.com/deals  
 83% off + 3 months free
 
 LastPass\
-https://www.lastpass.com/offer/cyber-week-2020
+https://www.lastpass.com/offer/cyber-week-2020  
 40% off LastPass Premium for new users
 
 ## Hardware:
