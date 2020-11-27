@@ -424,6 +424,10 @@ PTrace Advanced Software Exploitation\
 https://www.psec-courses.com/courses/advanced-software-exploitation  
 20% off with code BLACKFRIDAY2019
 
+Linux Foundation training and certifications\
+https://training.linuxfoundation.org/cyber-monday-2020-sneak-peek/
+40%-60% discounts starting on Monday on certification, training, and cert+training bundles
+
 ## Services:
 
 ProtonMail\
