@@ -189,6 +189,10 @@ Surfshark VPN\
 https://surfshark.com/deals
 83% off + 3 months free
 
+LastPass\
+https://www.lastpass.com/offer/cyber-week-2020
+40% off LastPass Premium for new users
+
 ## Hardware:
 
 DJI  :see_no_evil:\
