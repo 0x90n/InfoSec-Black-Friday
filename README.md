@@ -441,9 +441,9 @@ Shoutout to some discounts grabbed from Dutchosintguy, @gabsmashh
 Thanks to those that have sent pull requests, and @reV_sh_ on twitter, among others.
 
 Thanks to those who credited and helped spread the word!
-https://github.com/instadoodledavid/Infosec-Deals-2020
-https://github.com/Securityinfos/Black-Friday-Deals
-https://github.com/Dutchosintguy/Blackfriday-Deals-2020
+https://github.com/instadoodledavid/Infosec-Deals-2020  
+https://github.com/Securityinfos/Black-Friday-Deals  
+https://github.com/Dutchosintguy/Blackfriday-Deals-2020  
 
 
 
