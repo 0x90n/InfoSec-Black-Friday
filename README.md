@@ -97,7 +97,7 @@ https://nostarch.com/
 *domestic orders only, $50 min
 
 O'Reilly Books\
-https://www.oreilly.com/online-learning/cybermonday-2019.html  
+https://www.oreilly.com/  
 50% discount with code: CM20CS
 
 Apress\
