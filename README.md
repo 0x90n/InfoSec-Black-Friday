@@ -96,6 +96,10 @@ Humble Bundle\
 https://www.humblebundle.com/  
 45% off Premium
 
+Agile Stationary (cybersecurity card games)\
+https://agilestationery.co.uk/  
+40% off automatically apply when buying 3 or more products
+
 ## Courses & Training:
 
 OffSec AWAE :see_no_evil:\
