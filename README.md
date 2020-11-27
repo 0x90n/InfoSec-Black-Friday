@@ -47,14 +47,21 @@ VMware\
 https://store-us.vmware.com/  
 30% off new licenses, 19% off upgrades.  No code required
 
-Faraday
-https://faradaysec.com/landing-black-friday/
+Faraday\
+https://faradaysec.com/landing-black-friday/  
 30% OFF and Free training on new licenses.
 
-Detectify 
-https://detectify.com/lp/black-friday-professional-plan-offer 
-20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
+010 Editor\
+https://www.sweetscape.com/010editor/  
+30% OFF
 
+Little Snitch (macOS Firewall)\
+https://www.obdev.at/products/littlesnitch/order.html  
+30% OFF
+
+Detectify\
+https://detectify.com/lp/black-friday-professional-plan-offer  
+20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
 
 ## Books:
 
