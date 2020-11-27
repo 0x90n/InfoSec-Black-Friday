@@ -185,6 +185,10 @@ Hacker House (Hands on Hacking) :see_no_evil:\
 https://hacker.house/training/ \
 35% discount with code: HACKFRIDAY
 
+Dawid Czagan's Web Hacking Secrets\
+https://silesiasecuritylab.com/ \
+90% discount promo code: BlackFriday2020
+
 ## Services:
 
 ProtonMail\
@@ -312,6 +316,10 @@ https://lab401.com/blogs/news/black-friday-cyber-monday-sales
 Southord Lockpicking\
 https://www.southord.com/
 15% off with coupon HOLLY19
+
+Maltronics WiFi Keyloggers\
+https://maltronics.com/collections/wifi-keyloggers \
+20% discount
 
 ## Courses & Training:
 
