@@ -145,7 +145,7 @@ Claim deals are incoming shortly...
 
 Networkdefense.io\
 https://www.networkdefense.io/library/  
-Claimed deals incoming...
+20% off all courses. No code required.
 
 International Cybersecurity Institute\
 https://www.icsi.co.uk/pages/black-friday-offer
