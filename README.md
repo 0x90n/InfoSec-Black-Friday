@@ -85,6 +85,10 @@ Sn1per Professional\
 https://xerosecurity.com/wordpress/black-friday-sale/  
 $49 savings on Sn1per Professional v8.0 + Command Execution Add-on
 
+Kon-Boot (Windows and MacOS local password bypass)\
+https://kon-boot.com/?NOVEMBER=1  
+25% off Kon-Boot Windows, MacOS, and 2in1 personal and commercial licenses.
+
 ## Books:
 
 Bug Bounty Playbook 2 (verified)\
@@ -97,7 +101,7 @@ https://nostarch.com/
 *domestic orders only, $50 min
 
 O'Reilly Books\
-https://www.oreilly.com/online-learning/cybermonday-2019.html  
+https://www.oreilly.com/  
 50% discount with code: CM20CS
 
 Apress\
