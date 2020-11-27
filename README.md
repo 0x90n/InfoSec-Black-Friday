@@ -1,6 +1,8 @@
 # InfoSec Black Friday Deals 2020
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday
 
+<3 Hope you all have a well-deserved, happy thanksgiving and kudos to all those who contributed to this list. 
+
 ## FAQ
 ### When do these sales end?
 Most end 29/30th November.
@@ -51,8 +53,8 @@ Faraday\
 https://faradaysec.com/landing-black-friday/
 30% off and Free training on new licenses.
 
-MalwareBytes\ 
-https://try.malwarebytes.com/black-friday/
+MalwareBytes\
+https://try.malwarebytes.com/black-friday/  
 50% off Malwarebytes Premium, 40% OFF Malwarebytes Premium + Privacy
 
 010 Editor\
