@@ -185,6 +185,10 @@ Cybrary (Hacking Training/Platform - online)\
 https://www.cybrary.it/  
 70% discount
 
+Cybr (Training/Platform/Community - online)\
+https://cybr.com/  
+Up to 74% off
+
 Hacker House (Hands on Hacking) :see_no_evil:\
 https://hacker.house/training/ \
 35% discount with code: HACKFRIDAY
