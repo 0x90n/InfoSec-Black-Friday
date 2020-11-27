@@ -57,6 +57,10 @@ MalwareBytes\
 https://try.malwarebytes.com/black-friday/  
 50% off Malwarebytes Premium, 40% OFF Malwarebytes Premium + Privacy
 
+ESET\
+https://www.eset.com/us/cyber-weekend-2020/  
+40% off all security software
+
 010 Editor\
 https://www.sweetscape.com/010editor/  
 30% off
