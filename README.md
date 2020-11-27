@@ -75,7 +75,7 @@ https://detectify.com/lp/black-friday-professional-plan-offer
 
 Sn1per Professional v8.0\
 https://xerosecurity.com/wordpress/black-friday-sale/  
-$49 saving on Sn1per Professional v8.0 + Command Execution Add-on
+$49 savings on Sn1per Professional v8.0 + Command Execution Add-on
 
 ## Books:
 
