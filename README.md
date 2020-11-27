@@ -96,6 +96,10 @@ Humble Bundle\
 https://www.humblebundle.com/  
 45% off Premium
 
+Agile Stationary (cybersecurity card games)\
+https://agilestationery.co.uk/  
+40% off automatically apply when buying 3 or more products
+
 ## Courses & Training:
 
 OffSec AWAE :see_no_evil:\
@@ -180,6 +184,10 @@ https://www.cybrary.it/
 Hacker House (Hands on Hacking) :see_no_evil:\
 https://hacker.house/training/ \
 35% discount with code: HACKFRIDAY
+
+Dawid Czagan's Web Hacking Secrets\
+https://silesiasecuritylab.com/ \
+90% discount promo code: BlackFriday2020
 
 ## Services:
 
@@ -308,6 +316,10 @@ https://lab401.com/blogs/news/black-friday-cyber-monday-sales
 Southord Lockpicking\
 https://www.southord.com/
 15% off with coupon HOLLY19
+
+Maltronics WiFi Keyloggers\
+https://maltronics.com/collections/wifi-keyloggers \
+20% discount
 
 ## Courses & Training:
 
