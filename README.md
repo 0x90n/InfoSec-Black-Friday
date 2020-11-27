@@ -81,7 +81,7 @@ Detectify :see_no_evil:\
 https://detectify.com/lp/black-friday-professional-plan-offer  
 20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
 
-Sn1per Professional\
+Sn1per Professional :see_no_evil:\
 https://xerosecurity.com/wordpress/black-friday-sale/  
 $49 savings on Sn1per Professional v8.0 + Command Execution Add-on
 
