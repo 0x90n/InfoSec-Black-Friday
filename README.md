@@ -99,6 +99,14 @@ Various discounts
 
 ## Books:
 
+Windows 10 System Programming, Part 1
+https://leanpub.com/windows10systemprogramming/c/BlackFriday2020
+~ 40% off
+
+Windows Kernel Programming
+https://leanpub.com/windowskernelprogramming/c/BlackFriday2020
+40% off
+
 Bug Bounty Playbook 2 (verified)\
 https://payhip.com/b/nRia  
 Discount on full price
