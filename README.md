@@ -93,6 +93,10 @@ Kon-Boot (Windows and MacOS local password bypass)\
 https://kon-boot.com/?NOVEMBER=1  
 25% off Kon-Boot Windows, MacOS, and 2in1 personal and commercial licenses.
 
+Intuitibits (WiFi Explorer Standard, Transfer (TFTP), Wifi Signal)\
+https://www.intuitibits.com
+Various discounts
+
 ## Books:
 
 Bug Bounty Playbook 2 (verified)\
@@ -265,6 +269,18 @@ https://www.southord.com/
 SOS Soultions (Hardware Kits)\
 https://www.sossolutions.nl/black-friday-2020  
 Various discounts
+
+ifixit\
+https://www.ifixit.com/News/47143/our-black-friday-sale-is-here-and-bigger-than-ever
+Multiple discounts + free shipping over $50 with code: FIXSHIP
+
+Hak5\
+https://shop.hak5.org/  
+Various discounts
+
+Sparkfun\
+https://www.sparkfun.com/news/3513
+Various Discounts
 
 ------------------------------------------------------------------------------------------------------------------
 
