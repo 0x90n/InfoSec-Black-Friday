@@ -286,6 +286,12 @@ Sparkfun\
 https://www.sparkfun.com/news/3513
 Various Discounts
 
+## Newsletters:
+
+Cybersecurity Market Insights Newsletter\
+https://gumroad.com/securityinsights  
+15% for monthly and annual Pro subscriptions with code: security15off
+
 ------------------------------------------------------------------------------------------------------------------
 
 # InfoSec Black Friday Deals (2019)
