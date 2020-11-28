@@ -514,6 +514,10 @@ Attify (IoT Exploitation Training/Hardware)\
 https://www.attify-store.com/  
 ??% off with coupon code 
 
+itrainsec Financial Malware Analysis course (live on-line course December 7-10)\
+https://www.itrainsec.com/financial-re
+20% discount until Tuesday Dec 1 with code: BLCKFRDYFMA
+
 ## How to edit formatting
 At the end of a normal sentance, place a backslash for newline (\)
 Alternatively with a link, you can double-space (  )
