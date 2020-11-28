@@ -33,6 +33,10 @@ IDA Pro\
 https://www.hex-rays.com/cgi-bin/quote.cgi/products  
 25% OFF for all IDA Home purchases
 
+Maltego OSINT tool\
+https://buy.maltego.com  
+50% off Maltego Pro annual subscription
+
 Burp Bounty Pro Extension\
 https://order.shareit.com/cart/view  
 20% off with code: CYBERBOUNTY
