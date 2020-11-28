@@ -45,6 +45,10 @@ Pulsedive Threat Intelligence :see_no_evil:\
 https://pulsedive.com/about/pro  
 $5 PRO accounts with code: TRYFOR5
 
+SecurityTrails\
+https://securitytrails.com/
+100 recurring free API credits by [retweeting](https://twitter.com/securitytrails/status/1332405289929367553?s=20)
+
 Tenable\
 https://www.tenable.com/buy  
 50% off Nessus PRO with code: takehalf
