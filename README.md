@@ -213,7 +213,7 @@ Cybrary (Hacking Training/Platform - online)\
 https://www.cybrary.it/  
 70% discount
 
-Cybr (Training/Platform/Community - online)\
+Cybr (Training/Platform/Community - online) :see_no_evil:\
 https://cybr.com/  
 Up to 74% off
 
