@@ -1,12 +1,12 @@
 # InfoSec Black Friday Deals 2020
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday
 
-<3 Hope you all have a well-deserved, happy thanksgiving and kudos to all those who contributed to this list. 
+<3 Hope you all have a well-deserved, happy thanksgiving and kudos to all those who contributed to this list.
 
 ## FAQ
 ### When do these sales end?
 Most end 29/30th November.
- 
+
 ### When will most of the deals/discounts be here?
 Most likely 27th midday for USA, 28th November for the rest of the world, check back often!
 
@@ -20,77 +20,77 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be (
 ## Hacker Essentials
 
 Stickermule\
-https://www.stickermule.com/deals  
+https://www.stickermule.com/deals
 $19 down from $65, free shipping
 
 ## Tools
 
 GRAYHATWARFARE (Cloud Storage Buckets Search Engine) :see_no_evil:\
-https://buckets.grayhatwarfare.com/packages  
+https://buckets.grayhatwarfare.com/packages
 Up to 50% off
 
 IDA Pro\
-https://www.hex-rays.com/cgi-bin/quote.cgi/products  
+https://www.hex-rays.com/cgi-bin/quote.cgi/products
 25% OFF for all IDA Home purchases
 
 Maltego OSINT tool\
-https://buy.maltego.com  
+https://buy.maltego.com
 50% off Maltego Pro annual subscription
 
 Burp Bounty Pro Extension\
-https://order.shareit.com/cart/view  
+https://order.shareit.com/cart/view
 20% off with code: CYBERBOUNTY
 
 Pulsedive Threat Intelligence :see_no_evil:\
-https://pulsedive.com/about/pro  
+https://pulsedive.com/about/pro
 $5 PRO accounts with code: TRYFOR5
 
 Tenable\
-https://www.tenable.com/buy  
+https://www.tenable.com/buy
 50% off Nessus PRO with code: takehalf
 
 WPScan\
-https://wpscan.com/  
+https://wpscan.com/
 25% off Starter and Pro accounts with code: BLACKFRIDAY2020
 
 VMware\
-https://store-us.vmware.com/  
+https://store-us.vmware.com/
 30% off new licenses, 19% off upgrades.  No code required
 
 Faraday\
-https://faradaysec.com/landing-black-friday/  
+https://faradaysec.com/landing-black-friday/
 30% off and Free training on new licenses.
 
 MalwareBytes\
-https://try.malwarebytes.com/black-friday/  
+https://try.malwarebytes.com/black-friday/
 50% off Malwarebytes Premium, 40% OFF Malwarebytes Premium + Privacy
 
 ESET\
-https://www.eset.com/us/cyber-weekend-2020/  
+https://www.eset.com/us/cyber-weekend-2020/
 40% off all security software
 
 010 Editor\
-https://www.sweetscape.com/010editor/  
+https://www.sweetscape.com/010editor/
 30% off
 
 Little Snitch (macOS Firewall)\
-https://www.obdev.at/products/littlesnitch/order.html  
+https://www.obdev.at/products/littlesnitch/order.html
 30% OFF
 
 Murus and Vallum (macOS Firewall (pf))\
-https://murusfirewall.com/  
+https://murusfirewall.com/
 50% OFF
 
 Detectify :see_no_evil:\
-https://detectify.com/lp/black-friday-professional-plan-offer  
+https://detectify.com/lp/black-friday-professional-plan-offer
 20% off annual subscription + mention "Kate sent me", to get a Go Hack Yourself hoodie as well with purchase.
 
 Sn1per Professional :see_no_evil:\
-https://xerosecurity.com/wordpress/black-friday-sale/  
+https://xerosecurity.com/wordpress/black-friday-sale/
 $49 savings on Sn1per Professional v8.0 + Command Execution Add-on
 
 Kon-Boot (Windows and MacOS local password bypass)\
-https://kon-boot.com/?NOVEMBER=1  
+https://kon-boot.com/?NOVEMBER=1
 25% off Kon-Boot Windows, MacOS, and 2in1 personal and commercial licenses.
 
 Intuitibits (WiFi Explorer Standard, Transfer (TFTP), Wifi Signal)\
@@ -100,117 +100,117 @@ Various discounts
 ## Books:
 
 Bug Bounty Playbook 2 (verified)\
-https://payhip.com/b/nRia  
+https://payhip.com/b/nRia
 Discount on full price
 
 NoStarch Press\
-https://nostarch.com/  
+https://nostarch.com/
 33.7% off + free shipping with code BLACKFRIDAY20\
 *domestic orders only, $50 min
 
 O'Reilly Books\
-https://www.oreilly.com/  
+https://www.oreilly.com/
 50% discount with code: CM20CS
 
 Apress\
-https://www.apress.com/us/shop/cybermonday-sale  
+https://www.apress.com/us/shop/cybermonday-sale
 All eBooks $6.99 each with code: CYBER20AP
 
 Pearson\
-https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246  
+https://www.pearsonitcertification.com/promotions/booksgiving-buy-2-plus-books-or-ebooks-save-55-142246
 Buy 2, save 55% + free US shipping with code: BOOKSGIVING
 
 Humble Bundle\
-https://www.humblebundle.com/  
+https://www.humblebundle.com/
 45% off Premium
 
 Agile Stationary (cybersecurity card games)\
-https://agilestationery.co.uk/  
+https://agilestationery.co.uk/
 40% off automatically apply when buying 3 or more products
 
 ## Courses & Training:
 
 OffSec AWAE :see_no_evil:\
-https://www.offensive-security.com/awae-oswe/  
+https://www.offensive-security.com/awae-oswe/
 Various discounts per labs length
 
 Udemy (Hacking Training - online)\
-https://www.udemy.com  
+https://www.udemy.com
 All courses $10.99
 
 INE (eLearnSecurity, so eJPT, eCPPT)\
-https://ine.com/  
+https://ine.com/
 40% off with code: BF40
 
 PluralSight\
-https://www.pluralsight.com/offer/2020/bf-cm-40-off  
+https://www.pluralsight.com/offer/2020/bf-cm-40-off
 40% discount
 
 Lets Defend\
-http://letsdefend.io/  
+http://letsdefend.io/
 50% off with code: BLCKFRDY
 
 PentesterLab (Hacking Training/Platform - online) :see_no_evil:\
-https://pentesterlab.com/pro/  
+https://pentesterlab.com/pro/
 One-year: US$146.52 instead of US$199.99
 Student (3-month): US$27.99 instead of US$34.99
 
 DroneSec (Drone Security Training - online unlocks 1st December) :see_no_evil:\
-https://training.dronesec.com  
+https://training.dronesec.com
 65% discount on bundle with code: DONOTSHAREBLACKFRI\
 20% discount on live training with code: BF20
 
 Social Engineering Training :see_no_evil:\
 (Robin Dreeke, retired FBI Special Agent and Chief of the Counterintelligence Behavioral Analysis Program)\
-https://www.peopleformula.com/online-training  
+https://www.peopleformula.com/online-training
 25% discount with code: infosec25
 
 CloudGuru (was Linux Academy)\
-https://acloudguru.com/pricing  
+https://acloudguru.com/pricing
 Various deals
 
 Zero2Automated Malware Analysis Course\
-https://courses.zero2auto.com/beginner-bundle  
+https://courses.zero2auto.com/beginner-bundle
 20% off with code: BLACKFRIDAYSALES
 
 Practical DevSecOps\
-https://www.practical-devsecops.com/black-friday/  
+https://www.practical-devsecops.com/black-friday/
 15% off
 
 OSINTion Training\
-https://blackfriday.theosintion.com/  
+https://blackfriday.theosintion.com/
 33% off courses with code: 2020BF1337OSINT
 
 OSINT Combine :see_no_evil:\
-https://academy.osintcombine.com/  
+https://academy.osintcombine.com/
 40% off all courses with code: BLACKFRIDAY
 
 Whizlabs\
-https://www.whizlabs.com/  
+https://www.whizlabs.com/
 50% off all products with code: BLACKFRIDAY50
 
 ISACA\
-https://www.isaca.org/go/flash  
+https://www.isaca.org/go/flash
 15% off CISA/CISM/CRISC training & certs
 
 Kaplan\
-https://www.kaptest.com/study/gre/black-friday-and-cyber-monday-gre-deals/  
+https://www.kaptest.com/study/gre/black-friday-and-cyber-monday-gre-deals/
 Claim deals are incoming shortly...
 
 Networkdefense.io\
-https://www.networkdefense.io/library/  
+https://www.networkdefense.io/library/
 20% off all courses. No code required.
 
 International Cybersecurity Institute\
-https://www.icsi.co.uk/pages/black-friday-offer  
+https://www.icsi.co.uk/pages/black-friday-offer
 50% off courses with code: BF50
 
 Cybrary (Hacking Training/Platform - online)\
-https://www.cybrary.it/  
+https://www.cybrary.it/
 70% discount
 
 Cybr (Training/Platform/Community - online)\
-https://cybr.com/  
+https://cybr.com/
 Up to 74% off
 
 Hacker House (Hands on Hacking) :see_no_evil:\
@@ -218,25 +218,25 @@ https://hacker.house/training/ \
 35% discount with code: HACKFRIDAY
 
 Dawid Czagan's Web Hacking Secrets :see_no_evil:\
-https://silesiasecuritylab.com/  
+https://silesiasecuritylab.com/
 90% discount promo code: BlackFriday2020
 
 ## Services:
 
 ProtonMail\
-https://protonmail.com/blog/black-friday-2020/  
+https://protonmail.com/blog/black-friday-2020/
 33-50% discounts
 
 NordVPN\
-https://nordvpn.com/offer/great-deal/  
+https://nordvpn.com/offer/great-deal/
 68% discount + 3 months free
 
 F-Secure TOTAL and FREEDOME VPN\
-https://www.f-secure.com/en/home/products/total  
+https://www.f-secure.com/en/home/products/total
 50% off with code: BLACKWEEK
 
 1Password\
-https://1password.com/promo/black-friday/the-verge/  
+https://1password.com/promo/black-friday/the-verge/
 50% off family account
 
 Lowendbox\
@@ -244,30 +244,30 @@ https://lowendbox.com/blog/lowendbox-has-mind-blowing-offers-coming-this-black-f
 Variety of deals
 
 Priveasy (Open Source Privacy and Security Services)\
-https://Priveasy.org  
+https://Priveasy.org
 Get additional 90 days free at checkout with code: 6ffbb6ff46
 
 Surfshark VPN\
-https://surfshark.com/deals  
+https://surfshark.com/deals
 83% off + 3 months free
 
 LastPass\
-https://www.lastpass.com/offer/cyber-week-2020  
+https://www.lastpass.com/offer/cyber-week-2020
 40% off LastPass Premium for new users
 
 ## Hardware:
 
 DJI  :see_no_evil:\
-https://store.dji.com/event/black-friday-sale-2020  
+https://store.dji.com/event/black-friday-sale-2020
 Up to 46% off
 Osmo Action $199 down from $369
 
 SouthOrdPicks\
-https://www.southord.com/  
+https://www.southord.com/
 25% discount with code: CHEER25
 
 SOS Soultions (Hardware Kits)\
-https://www.sossolutions.nl/black-friday-2020  
+https://www.sossolutions.nl/black-friday-2020
 Various discounts
 
 ifixit\
@@ -275,12 +275,18 @@ https://www.ifixit.com/News/47143/our-black-friday-sale-is-here-and-bigger-than-
 Multiple discounts + free shipping over $50 with code: FIXSHIP
 
 Hak5\
-https://shop.hak5.org/  
+https://shop.hak5.org/
 Various discounts
 
 Sparkfun\
 https://www.sparkfun.com/news/3513
 Various Discounts
+
+## Newsletters:
+
+Cybersecurity Market Insights Newsletter
+https://gumroad.com/securityinsights
+15% for monthly and annual Pro subscriptions with code: security15off
 
 ------------------------------------------------------------------------------------------------------------------
 
@@ -290,71 +296,71 @@ These were key deals last year, so keep an eye out and update if released.
 ## Hacker Essential
 
 Stickermule\
-https://www.stickermule.com/deals  
+https://www.stickermule.com/deals
 $19 down from $65, free shipping
 
 ## Software:
 
 Acrylic WiFi Hacking Suite\
-https://www.acrylicwifi.com/  
+https://www.acrylicwifi.com/
 30% discount with code: BLACKFRIDAY
 
 VMware (Virtual Machine Application)\
 Workstation Pro & Fusion Pro, Workstation & Player\
-https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea839000790a1c0e0f  
+https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea839000790a1c0e0f
 45-60% off - BF2019
 
 RoyalTS (Toolbox for remote computing)\
 Royal TS (Win) and Royal TSX (macOS) Individual User Licenses\
-https://royalapps.com/ts/win/buy  
+https://royalapps.com/ts/win/buy
 50% discount with code BLACKFRIDAY19
 
 WiFi Explorer Pro\
-https://www.adriangranados.com/  
-https://buy.paddle.com/checkout/43767240-chreaa50fc5abeb-c5a30d6d5b  
+https://www.adriangranados.com/
+https://buy.paddle.com/checkout/43767240-chreaa50fc5abeb-c5a30d6d5b
 $50 discount
 
 ## Hardware:
 
 SouthOrdPicks\
-https://www.southord.com/  
+https://www.southord.com/
 25% discount with code HOLLY19
 
 Pelican Cases\
-https://www.pelican.com/us/en/shop/black-friday/  
+https://www.pelican.com/us/en/shop/black-friday/
 30% with code: HOLIDAY
 
 Yubico/Yubikey\
-https://www.yubico.com/store/black-friday-2019  
+https://www.yubico.com/store/black-friday-2019
 $20 OFF two YubiKeys or $100 OFF orders of $400 or more
 
 Hak5\
-https://shop.hak5.org/  
+https://shop.hak5.org/
 50% discount and free shipping
 
 DJI (for hacking drones)\
-https://store.dji.com/guides/dji-black-friday-deals-2019-guide/  
+https://store.dji.com/guides/dji-black-friday-deals-2019-guide/
 40% discount
 
 ifixit\
-https://www.ifixit.com/Black-Friday  
+https://www.ifixit.com/Black-Friday
 Multiple discounts + free shipping with code: BLUEANDBLACK19
 
 SparkFun\
-https://www.sparkfun.com/news/3134  
+https://www.sparkfun.com/news/3134
 15-25% discount
 
 SeeedStudio\
-https://www.seeedstudio.com/thanksgiving_50_off_sale.html  
+https://www.seeedstudio.com/thanksgiving_50_off_sale.html
 50% discount with code: THANKS50
 
 Airspy SDR Tools\
-https://airspy.com/  
-https://www.rtl-sdr.com/airspy-30-off-black-friday-sale-coupon-now-active/  
+https://airspy.com/
+https://www.rtl-sdr.com/airspy-30-off-black-friday-sale-coupon-now-active/
 30% discount with code: AWARDWINNING2019
 
 LAB401 SDR/RFID Equiptment\
-https://lab401.com/blogs/news/black-friday-cyber-monday-sales  
+https://lab401.com/blogs/news/black-friday-cyber-monday-sales
 15%+ discount with code: BFCM2019
 
 Southord Lockpicking\
@@ -372,92 +378,92 @@ https://networkdefense.io/ \
 20% discount all courses
 
 NoStarch Press\
-https://nostarch.com/  
+https://nostarch.com/
 42% discount with code ULTIMATE42
 
 Udemy (Hacking Training - online)\
-https://www.udemy.com  
+https://www.udemy.com
 All courses $10.99
 
 eLearnSecurity\
-https://www.elearnsecurity.com/  
+https://www.elearnsecurity.com/
 25% discount with code: BLK-019
 
 PluralSight\
-https://www.pluralsight.com/offer/2019/bf-cm-40-off  
+https://www.pluralsight.com/offer/2019/bf-cm-40-off
 40% discount
 
 PentesterAcademy (Hacking Training/Platform - online)\
-http://www.pentesteracademy.com/thanksgiving  
+http://www.pentesteracademy.com/thanksgiving
 $39 down from $99 or $489p/y down from $1188p/y
 
 PentesterLab (Hacking Training/Platform - online)\
-https://pentesterlab.com/pro/one_year  
-https://twitter.com/PentesterLab/status/1199792188609024000?s=20  
+https://pentesterlab.com/pro/one_year
+https://twitter.com/PentesterLab/status/1199792188609024000?s=20
 26.74% discount
 
 DroneSec (Drone Hacking Training - offline)\
-https://dronesec.com/collections/training 
+https://dronesec.com/collections/training
 40% discount code: BLACKFRIDAY19 in email subject
 
 Cybrary (Hacking Training/Platform - online)\
-https://www.cybrary.it/  
-66% discount 
+https://www.cybrary.it/
+66% discount
 
 Packt Publishing\
-https://packtpub.com/  
+https://packtpub.com/
 e-Books and videos $10 each or 3 for $25
 
 O'Reilly Books\
-https://www.oreilly.com/online-learning/cybermonday-2019.html  
+https://www.oreilly.com/online-learning/cybermonday-2019.html
 50% discount with code: CM19CS
 
 GNS3 Academy\
-https://gns3.teachable.com/  
+https://gns3.teachable.com/
 $7 all courses with code: BLACKFRIDAY19
 
 Pearson\
-http://www.pearsonitcertification.com/promotions/black-friday-2019-buy-2-save-55-142103  
+http://www.pearsonitcertification.com/promotions/black-friday-2019-buy-2-save-55-142103
 Buy 2 or more courses for 55% discount with code: BF2019
 
 SANS\
-https://www.sans.org/online-security-training/specials?msc=hpslider1  
+https://www.sans.org/online-security-training/specials?msc=hpslider1
 Apple Hardware or $350 off any course
 
 Hackers Academy\
-https://www.hackersacademy.com/bundles?bundle_id=special-offer  
+https://www.hackersacademy.com/bundles?bundle_id=special-offer
 88% discount
 
 Linux Academy\
-https://linuxacademy.com/pricing/individual/  
+https://linuxacademy.com/pricing/individual/
 $150 off
 
 Practical DevSecOps\
-https://www.practical-devsecops.com/black-friday/  
+https://www.practical-devsecops.com/black-friday/
 $400 OFF on course bundle or or $120-$180 OFF on each course.
 
 Manning Publications\
-http://enews.manning.com/q/4qVD2DZvQIJ_yR-6w3SkoEx9ucisTjoscZlyhs8T0J5vCawQV4WfDDi9R  
+http://enews.manning.com/q/4qVD2DZvQIJ_yR-6w3SkoEx9ucisTjoscZlyhs8T0J5vCawQV4WfDDi9R
 50% on any purchase over $50 with code: CYBERWEEK
 
 Leetcode\
-https://www.leetcode.com/  
+https://www.leetcode.com/
 $30 off annual subscription w/ code THANKS2019
 
 ISACA\
-https://isaca.org/info/cisa-certification-ready/index.html/  
+https://isaca.org/info/cisa-certification-ready/index.html/
 15% off CISA/CISM/CRISC training & cert with code CYBERWEEK19CISA
 
 Networkdefense.io\
-https://www.networkdefense.io/library/  
+https://www.networkdefense.io/library/
 20% off
 
 Apress\
-https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek19  
+https://www.apress.com/us/shop/cybermonday-sale?token=cyberweek19
 $7 deals
 
 PTrace Advanced Software Exploitation\
-https://www.psec-courses.com/courses/advanced-software-exploitation  
+https://www.psec-courses.com/courses/advanced-software-exploitation
 20% off with code BLACKFRIDAY2019
 
 Linux Foundation training and certifications\
@@ -467,15 +473,15 @@ https://training.linuxfoundation.org/cyber-monday-2020-sneak-peek/
 ## Services:
 
 ProtonMail\
-https://protonmail.com/blog/black-friday-2019/  
+https://protonmail.com/blog/black-friday-2019/
 33-50% discount
 
 NordVPN\
-https://nordvpn.com/offer/brand/  
+https://nordvpn.com/offer/brand/
 83% discount
 
 The Hacker News\
-https://deals.thehackernews.com/  
+https://deals.thehackernews.com/
 15% off with coupon BFSAVE15
 
 F-Secure FREEDOME VPN\
@@ -503,16 +509,16 @@ Kaplan: $300 off GRE and similar
 These were key deals last year, so keep an eye out and update if released.
 
 Tindie (Hardware, Electronics, IoT)\
-https://www.tindie.com/browse/sale/  
+https://www.tindie.com/browse/sale/
 Multiple discounts
 
 Pastebin\
-https://pastebin.com/pro?coupon=blackfriday  
+https://pastebin.com/pro?coupon=blackfriday
 ??% discount
 
 Attify (IoT Exploitation Training/Hardware)\
-https://www.attify-store.com/  
-??% off with coupon code 
+https://www.attify-store.com/
+??% off with coupon code
 
 ## How to edit formatting
 At the end of a normal sentance, place a backslash for newline (\)
@@ -527,9 +533,9 @@ Shoutout to some discounts grabbed from Dutchosintguy, @gabsmashh
 Thanks to those that have sent pull requests, and @reV_sh_ on twitter, among others.
 
 Thanks to those who credited and helped spread the word!
-https://github.com/instadoodledavid/Infosec-Deals-2020  
-https://github.com/Securityinfos/Black-Friday-Deals  
-https://github.com/Dutchosintguy/Blackfriday-Deals-2020  
+https://github.com/instadoodledavid/Infosec-Deals-2020
+https://github.com/Securityinfos/Black-Friday-Deals
+https://github.com/Dutchosintguy/Blackfriday-Deals-2020
 
 
 
