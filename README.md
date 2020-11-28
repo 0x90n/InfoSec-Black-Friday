@@ -45,8 +45,8 @@ Pulsedive Threat Intelligence :see_no_evil:\
 https://pulsedive.com/about/pro  
 $5 PRO accounts with code: TRYFOR5
 
-SecurityTrails\
-https://securitytrails.com/
+SecurityTrails :see_no_evil:\
+https://securitytrails.com/  
 100 recurring free API credits by [retweeting](https://twitter.com/securitytrails/status/1332405289929367553?s=20)
 
 Tenable\
