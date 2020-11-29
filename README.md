@@ -132,6 +132,10 @@ Agile Stationary (cybersecurity card games)\
 https://agilestationery.co.uk/  
 40% off automatically apply when buying 3 or more products
 
+KNOXSS\
+https://knoxss.me/?page_id=7 
+Up to 40% OFF
+
 ## Courses & Training:
 
 OffSec AWAE :see_no_evil:\
