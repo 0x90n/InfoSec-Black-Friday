@@ -263,6 +263,10 @@ LastPass\
 https://www.lastpass.com/offer/cyber-week-2020  
 40% off LastPass Premium for new users
 
+Mana Security (Gamification of Vulnerability Management for end users)\
+https://www.manasecurity.com/
+60% discount
+
 ## Hardware:
 
 DJI  :see_no_evil:\
