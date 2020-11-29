@@ -142,10 +142,6 @@ Udemy (Hacking Training - online)\
 https://www.udemy.com  
 All courses $10.99
 
-INE (eLearnSecurity, so eJPT, eCPPT)\
-https://ine.com/  
-40% off with code: BF40
-
 PluralSight\
 https://www.pluralsight.com/offer/2020/bf-cm-40-off  
 40% discount
