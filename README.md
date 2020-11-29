@@ -177,6 +177,10 @@ CloudGuru (was Linux Academy)\
 https://acloudguru.com/pricing  
 Various deals
 
+SEKTOR7 Institute\
+https://institute.sektor7.net/  
+Price drop on all courses
+
 Zero2Automated Malware Analysis Course\
 https://courses.zero2auto.com/beginner-bundle  
 20% off with code: BLACKFRIDAYSALES
