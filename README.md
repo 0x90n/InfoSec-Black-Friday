@@ -233,6 +233,10 @@ Dawid Czagan's Web Hacking Secrets :see_no_evil:\
 https://silesiasecuritylab.com/  
 90% discount promo code: BlackFriday2020
 
+Linux Foundation training and certifications\
+https://training.linuxfoundation.org/cyber-monday-2020/
+40%-60% discounts starting on Monday on certification, training, and cert+training bundles
+
 ## Services:
 
 ProtonMail\
@@ -481,10 +485,6 @@ $7 deals
 PTrace Advanced Software Exploitation\
 https://www.psec-courses.com/courses/advanced-software-exploitation  
 20% off with code BLACKFRIDAY2019
-
-Linux Foundation training and certifications\
-https://training.linuxfoundation.org/cyber-monday-2020/
-40%-60% discounts starting on Monday on certification, training, and cert+training bundles
 
 ## Services:
 
