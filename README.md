@@ -25,6 +25,10 @@ $19 down from $65, free shipping
 
 ## Tools
 
+Suricata IDS Rule Management System\
+https://lawmaker.cloud/  
+Discount % off with code: OMGCYBER
+
 GRAYHATWARFARE (Cloud Storage Buckets Search Engine) :see_no_evil:\
 https://buckets.grayhatwarfare.com/packages  
 Up to 50% off
