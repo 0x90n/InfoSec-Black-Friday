@@ -132,9 +132,9 @@ Humble Bundle\
 https://www.humblebundle.com/  
 45% off Premium
 
-Agile Stationary (cybersecurity card games)\
-https://agilestationery.co.uk/  
-40% off automatically apply when buying 3 or more products
+Agile Stationery (cybersecurity card games)\
+[https://agilestationery.co.uk/](https://agilestationery.co.uk/discount/INFOSEC30?redirect=%2Fpages%2Fgames-catalogue)
+30% off with code INFOSEC30 when buying 3 or more game decks
 
 KNOXSS\
 https://knoxss.me/?page_id=7 
