@@ -19,9 +19,9 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be (
 
 ## Newsletters
 
-Return on Security - Pro Membership\
+Return on Security\
 https://www.returnonsecurity.com/black-friday-25 \
-25% off for 3 months with code: black-friday-25
+25% off the [Pro Membership](https://www.returnonsecurity.com/pro-reports/) for 3 months with code: black-friday-25
 
 ------------------------------------------------------------------------------------------------------------------
 
