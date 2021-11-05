@@ -1,7 +1,7 @@
-# InfoSec Black Friday Deals 2020
-All the deals for InfoSec related software/tools this Black Friday / Cyber Monday
+# InfoSec Black Friday Deals 2021
+All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns.
 
-<3 Hope you all have a well-deserved, happy thanksgiving and kudos to all those who contributed to this list. 
+Heard of an early deal? Let's get this rolling 🎉
 
 ## FAQ
 ### When do these sales end?
@@ -13,9 +13,15 @@ Most likely 27th midday for USA, 28th November for the rest of the world, check 
 ### Can I add deals to the page?
 Yes, please follow formatting guidelines, provide a source and code. Has to be (loosely) infosec related.
 
-:see_no_evil: means 1) Limited user run 2) Great deal or 3) Highly recommended
+:see_no_evil: means 1) Limited to first x users 2) Great deal or 3) Highly recommended
 
 *Disclaimer: I have included my own, and other discount codes sent in directly.
+
+------------------------------------------------------------------------------------------------------------------
+
+
+# InfoSec Black Friday Deals (2020) - OLD
+All the deals for InfoSec related software/tools this Black Friday / Cyber Monday
 
 ## Hacker Essentials
 
@@ -315,7 +321,7 @@ https://gumroad.com/securityinsights
 
 ------------------------------------------------------------------------------------------------------------------
 
-# InfoSec Black Friday Deals (2019)
+# InfoSec Black Friday Deals (2019) - OLD
 These were key deals last year, so keep an eye out and update if released.
 
 ## Hacker Essential
