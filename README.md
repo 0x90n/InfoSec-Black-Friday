@@ -20,8 +20,8 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be (
 ## Newsletters
 
 Return on Security - Pro Membership\
-https://www.returnonsecurity.com/pro-reports/
-25% off for 3 months of the monthly Pro subscription tier with code: black-friday-25 at this link https://www.returnonsecurity.com/black-friday-25
+https://www.returnonsecurity.com/black-friday-25 \
+25% off for 3 months with code: black-friday-25
 
 ------------------------------------------------------------------------------------------------------------------
 
