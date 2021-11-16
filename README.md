@@ -1,17 +1,17 @@
 # InfoSec Black Friday Deals 2021
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns.
 
-Heard of an early deal? Let's get this rolling 🎉
+Heard of an early deal? Let's get this rolling 🎉 The below deals have either publicly announced they'll be doing a deal or highly expected. All USD.
 
 ## FAQ
 ### When do these sales end?
-Most end 29/30th November.
+Most end 30th November.
 
 ### When will most of the deals/discounts be here?
 Most likely 27th midday for USA, 28th November for the rest of the world, check back often!
 
 ### Can I add deals to the page?
-Yes, please follow formatting guidelines, provide a source and code. Has to be (loosely) infosec related.
+Yes, please follow formatting guidelines, provide a source and code. Has to be infosec related.
 
 :see_no_evil: means 1) Limited to first x users 2) Great deal or 3) Highly recommended
 
@@ -22,6 +22,32 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be (
 Return on Security\
 https://www.returnonsecurity.com/black-friday-25 \
 25% off the [Pro Membership](https://www.returnonsecurity.com/pro-reports/) for 3 months with code: black-friday-25
+
+## Tools
+
+Pulsedive Threat Intelligence \
+https://pulsedive.com/about/pro
+Announced a similar/better deal will be made available soon
+
+Sn1per Elite Bundle
+https://sn1persecurity.com/wordpress/black-friday-sale/
+15% discount ($132 savings)
+Ends: 27th 2021 11:59 PM PST
+
+## Courses & Training
+
+DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
+https://training.dronesec.com/p/Black-Friday-2021
+67% off when deal is released (waiting list)
+
+OSINTion (OSINT Training) \
+https://www.theosintion.com/courses/store/
+25% off courses with code: BLACKFRIDAY2021
+15% off bundles with code: BUNDLES2021BLACKFRIDAY
+
+Eric Diaz (Udemy Hacking Courses) \
+https://www.udemy.com/user/eric-daiz/
+50% off with code: 50OFFNOVEMBER
 
 ------------------------------------------------------------------------------------------------------------------
 
