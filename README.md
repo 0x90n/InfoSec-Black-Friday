@@ -26,27 +26,27 @@ https://www.returnonsecurity.com/black-friday-25 \
 ## Tools
 
 Pulsedive Threat Intelligence \
-https://pulsedive.com/about/pro
+https://pulsedive.com/about/pro  
 Announced a similar/better deal will be made available soon
 
-Sn1per Elite Bundle
-https://sn1persecurity.com/wordpress/black-friday-sale/
-15% discount ($132 savings)
+Sn1per Elite Bundle \
+https://sn1persecurity.com/wordpress/black-friday-sale/  
+15% discount ($132 savings)  
 Ends: 27th 2021 11:59 PM PST
 
 ## Courses & Training
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
-https://training.dronesec.com/p/Black-Friday-2021
+https://training.dronesec.com/p/Black-Friday-2021  
 67% off when deal is released (waiting list)
 
 OSINTion (OSINT Training) \
-https://www.theosintion.com/courses/store/
-25% off courses with code: BLACKFRIDAY2021
+https://www.theosintion.com/courses/store/  
+25% off courses with code: BLACKFRIDAY2021  
 15% off bundles with code: BUNDLES2021BLACKFRIDAY
 
 Eric Diaz (Udemy Hacking Courses) \
-https://www.udemy.com/user/eric-daiz/
+https://www.udemy.com/user/eric-daiz/  
 50% off with code: 50OFFNOVEMBER
 
 ------------------------------------------------------------------------------------------------------------------
