@@ -60,6 +60,11 @@ https://info.ine.com/black-friday-2021/
 Premium Access Pass for $499 + free eLearnSecurity certification voucher \
 Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
 
+Burp Suite Certified Practitioner \
+https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
+November 16 - November 30 2021: The certification exam is on sale for $9. \
+Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
+
 ------------------------------------------------------------------------------------------------------------------
 
 
