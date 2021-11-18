@@ -27,7 +27,8 @@ https://www.returnonsecurity.com/black-friday-25 \
 
 Pulsedive Threat Intelligence \
 https://pulsedive.com/about/pro  
-Get 50% off 12 months of any Pulsedive Pro or API plan when deal is released
+https://pulsedive.com/about/api  
+Incoming deal on Pulsedive Pro or API plans when released
 
 Sn1per Elite Bundle \
 https://sn1persecurity.com/wordpress/black-friday-sale/  
