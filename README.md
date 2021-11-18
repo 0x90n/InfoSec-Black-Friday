@@ -378,6 +378,11 @@ Workstation Pro & Fusion Pro, Workstation & Player\
 https://store-au.vmware.com/?PID=3211374&PubCID=1397064&cjevent=3533e3c6115911ea839000790a1c0e0f  
 45-60% off - BF2019
 
+DevUtils\
+Offline Toolbox for Develpers\
+https://devutils.app/  
+30% off - BLACKFRIDAY_2021S
+
 RoyalTS (Toolbox for remote computing)\
 Royal TS (Win) and Royal TSX (macOS) Individual User Licenses\
 https://royalapps.com/ts/win/buy  
