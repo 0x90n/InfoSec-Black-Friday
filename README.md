@@ -49,6 +49,11 @@ Eric Diaz (Udemy Hacking Courses) \
 https://www.udemy.com/user/eric-daiz/  
 50% off with code: 50OFFNOVEMBER
 
+INE (ELearnSecurity Courses) \
+https://info.ine.com/black-friday-2021/  
+Premium Access Pass for $499 + free eLearnSecurity certification voucher \
+Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
+
 ------------------------------------------------------------------------------------------------------------------
 
 
