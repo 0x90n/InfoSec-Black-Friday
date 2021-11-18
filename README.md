@@ -27,12 +27,17 @@ https://www.returnonsecurity.com/black-friday-25 \
 
 Pulsedive Threat Intelligence \
 https://pulsedive.com/about/pro  
-Announced a similar/better deal will be made available soon
+Get 50% off 12 months of any Pulsedive Pro or API plan when deal is released
 
 Sn1per Elite Bundle \
 https://sn1persecurity.com/wordpress/black-friday-sale/  
 15% discount ($132 savings)  
 Ends: 27th 2021 11:59 PM PST
+
+DevUtils\
+Offline Toolbox with Develper/Security applications\
+https://devutils.app/  
+30% off - BLACKFRIDAY_2021S
 
 ## Courses & Training
 
