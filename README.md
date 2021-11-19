@@ -40,6 +40,11 @@ Offline Toolbox with Develper/Security applications\
 https://devutils.app/  
 30% off - BLACKFRIDAY_2021S
 
+Proxyman \
+Proxyman is a native, high-performance Web Debugging Proxy macOS app, which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease.
+https://proxyman.io
+30% OFF - PROXYMAN_BLACK_FRIDAY_2021
+
 ## Courses & Training
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
