@@ -52,7 +52,11 @@ https://proxyman.io
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
 https://training.dronesec.com/p/Black-Friday-2021  
-67% off when deal is released (waiting list)
+(1) 67% off (2) 75% off for EDU/student emails when deal is released
+
+The Cyber Plumber's Lab Guide and Access \
+https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
+(1) 50% off + free handbook (2) 75% off for students
 
 OSINTion (OSINT Training) \
 https://www.theosintion.com/courses/store/  
@@ -80,7 +84,7 @@ Purchase date - December 15 2021: If you pass your exam, you qualify for a refun
 
 Pensterlab Black friday sale \
 https://pentesterlab.com/pro  
-27% off on one year subscription
+27% off one year subscription - no code needed (1) $146 instead of $199 (2) 29.99 instead of 34.99 for students
 
 ## Hardware:
 
