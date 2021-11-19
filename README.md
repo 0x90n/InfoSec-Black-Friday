@@ -80,9 +80,9 @@ https://www.theosintion.com/courses/store/
 
 Security Blue Team \
 https://securityblue.team/#black-friday \
-November 26 - December 3 2021: Black Friday Sale
-25% off BTL1 certification & training (£399 --> £299)
-20% off BTL2 certification & training (£1999 --> £1599)
+November 26 - December 3 2021: Black Friday Sale \
+25% off BTL1 certification & training (£399 --> £299) \
+20% off BTL2 certification & training (£1999 --> £1599) \
 33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
 
 ## Hardware:
