@@ -1,7 +1,10 @@
 # InfoSec Black Friday Deals 2021
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns.
 
-Heard of an early deal? Let's get this rolling 🎉 The below deals have either publicly announced they'll be doing a deal or highly expected. All USD.
+Heard of an early deal? Let's get this rolling 🎉
+The below deals have either publicly announced they'll be doing a deal or highly expected.
+- All USD
+- DYOR and AYOR: I have not vetted links for legitimacy
 
 ## FAQ
 ### When do these sales end?
@@ -60,13 +63,23 @@ https://info.ine.com/black-friday-2021/
 Premium Access Pass for $499 + free eLearnSecurity certification voucher \
 Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
 
+7ASecurity Black friday sale on any course \
+https://store.7asecurity.com/  
+40% off with code: BFCM40 \
+Valid from November 17th to December 1st
+
+Burp Suite Certified Practitioner \
+https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
+November 16 - November 30 2021: The certification exam is on sale for $9. \
+Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
+
+
 ## Hardware:
 
-pcWRT Secure WiFi Router\
-Router with all privacy tools builtin: VLAN, VPN, Ad Block, DoH, Access Control, Monitoring\
-https://www.pcwrt.com/
-25% off - GITHUBBF21
-
+pcWRT Secure WiFi Router \
+Router with all privacy tools builtin: VLAN, VPN, Ad Block, DoH, Access Control, Monitoring \
+https://www.pcwrt.com/  
+25% off with code: GITHUBBF21
 
 ------------------------------------------------------------------------------------------------------------------
 
