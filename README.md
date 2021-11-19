@@ -62,7 +62,11 @@ Purchase date - December 15 2021: If you pass your exam, you qualify for a refun
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
 https://training.dronesec.com/p/Black-Friday-2021  
-67% off when deal is released (waiting list)
+(1) 67% off (2) 75% off for EDU/student emails when deal is released
+
+The Cyber Plumber's Lab Guide and Access \
+https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
+(1) 50% off + free handbook (2) 75% off for students
 
 Eric Diaz (Udemy Hacking Courses) \
 https://www.udemy.com/user/eric-daiz/  
@@ -79,11 +83,20 @@ https://www.theosintion.com/courses/store/
 15% off bundles with code: BUNDLES2021BLACKFRIDAY
 
 Security Blue Team \
-https://securityblue.team/#black-friday \
+https://securityblue.team/#black-friday  
 November 26 - December 3 2021: Black Friday Sale \
 25% off BTL1 certification & training (£399 --> £299) \
 20% off BTL2 certification & training (£1999 --> £1599) \
 33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
+
+Pensterlab Black friday sale \
+https://pentesterlab.com/pro  
+27% off one year subscription - no code needed (1) $146 instead of $199 (2) 29.99 instead of 34.99 for students
+
+The Security Mentor (TCM) Security \
+https://academy.tcm-sec.com/  
+(1) 50% off all courses (2) 20% off PNPT Certification
+
 
 ## Hardware:
 
