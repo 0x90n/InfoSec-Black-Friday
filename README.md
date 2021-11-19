@@ -60,6 +60,11 @@ https://info.ine.com/black-friday-2021/
 Premium Access Pass for $499 + free eLearnSecurity certification voucher \
 Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
 
+7ASecurity Black friday sale on any course \
+https://store.7asecurity.com/  
+40% off with code: BFCM40 \
+Valid from November 17th to December 1st
+
 Burp Suite Certified Practitioner \
 https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
 November 16 - November 30 2021: The certification exam is on sale for $9. \
