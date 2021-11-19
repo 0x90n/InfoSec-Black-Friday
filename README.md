@@ -65,6 +65,10 @@ https://store.7asecurity.com/
 40% off with code: BFCM40 \
 Valid from November 17th to December 1st
 
+Burp Suite Certified Practitioner \
+https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
+November 16 - November 30 2021: The certification exam is on sale for $9. \
+Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
 
 ------------------------------------------------------------------------------------------------------------------
 
