@@ -28,16 +28,6 @@ https://www.returnonsecurity.com/black-friday-25 \
 
 ## Tools
 
-Pulsedive Threat Intelligence \
-https://pulsedive.com/about/pro  
-https://pulsedive.com/about/api  
-Incoming deal on Pulsedive Pro or API plans when released
-
-Sn1per Elite Bundle \
-https://sn1persecurity.com/wordpress/black-friday-sale/  
-15% discount ($132 savings)  
-Ends: 27th 2021 11:59 PM PST
-
 DevUtils\
 Offline Toolbox with Develper/Security applications\
 https://devutils.app/  
@@ -48,16 +38,38 @@ Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate H
 https://proxyman.io  
 30% OFF - PROXYMAN_BLACK_FRIDAY_2021
 
+Pulsedive Threat Intelligence \
+https://pulsedive.com/about/pro  
+https://pulsedive.com/about/api  
+Incoming deal on Pulsedive Pro or API plans when released
+
+Sn1per Elite Bundle \
+https://sn1persecurity.com/wordpress/black-friday-sale/  
+15% discount ($132 savings)  
+Ends: 27th 2021 11:59 PM PST
+
 ## Courses & Training
+
+7ASecurity Black friday sale on any course \
+https://store.7asecurity.com/  
+40% off with code: BFCM40 \
+Valid from November 17th to December 1st
+
+Security Blue Team \
+https://securityblue.team/#black-friday \
+November 26 - December 3 2021: Black Friday Sale
+25% off BTL1 certification & training (£399 --> £299)
+20% off BTL2 certification & training (£1999 --> £1599)
+33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
+
+Burp Suite Certified Practitioner \
+https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
+November 16 - November 30 2021: The certification exam is on sale for $9. \
+Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
 https://training.dronesec.com/p/Black-Friday-2021  
 67% off when deal is released (waiting list)
-
-OSINTion (OSINT Training) \
-https://www.theosintion.com/courses/store/  
-25% off courses with code: BLACKFRIDAY2021  
-15% off bundles with code: BUNDLES2021BLACKFRIDAY
 
 Eric Diaz (Udemy Hacking Courses) \
 https://www.udemy.com/user/eric-daiz/  
@@ -68,16 +80,10 @@ https://info.ine.com/black-friday-2021/
 Premium Access Pass for $499 + free eLearnSecurity certification voucher \
 Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
 
-7ASecurity Black friday sale on any course \
-https://store.7asecurity.com/  
-40% off with code: BFCM40 \
-Valid from November 17th to December 1st
-
-Burp Suite Certified Practitioner \
-https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
-November 16 - November 30 2021: The certification exam is on sale for $9. \
-Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
-
+OSINTion (OSINT Training) \
+https://www.theosintion.com/courses/store/  
+25% off courses with code: BLACKFRIDAY2021  
+15% off bundles with code: BUNDLES2021BLACKFRIDAY
 
 ## Hardware:
 
