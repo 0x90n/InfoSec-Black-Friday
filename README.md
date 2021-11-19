@@ -28,16 +28,6 @@ https://www.returnonsecurity.com/black-friday-25 \
 
 ## Tools
 
-Pulsedive Threat Intelligence \
-https://pulsedive.com/about/pro  
-https://pulsedive.com/about/api  
-Incoming deal on Pulsedive Pro or API plans when released
-
-Sn1per Elite Bundle \
-https://sn1persecurity.com/wordpress/black-friday-sale/  
-15% discount ($132 savings)  
-Ends: 27th 2021 11:59 PM PST
-
 DevUtils\
 Offline Toolbox with Develper/Security applications\
 https://devutils.app/  
@@ -48,29 +38,17 @@ Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate H
 https://proxyman.io  
 30% OFF - PROXYMAN_BLACK_FRIDAY_2021
 
+Pulsedive Threat Intelligence \
+https://pulsedive.com/about/pro  
+https://pulsedive.com/about/api  
+Incoming deal on Pulsedive Pro or API plans when released
+
+Sn1per Elite Bundle \
+https://sn1persecurity.com/wordpress/black-friday-sale/  
+15% discount ($132 savings)  
+Ends: 27th 2021 11:59 PM PST
+
 ## Courses & Training
-
-DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
-https://training.dronesec.com/p/Black-Friday-2021  
-(1) 67% off (2) 75% off for EDU/student emails when deal is released
-
-The Cyber Plumber's Lab Guide and Access \
-https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
-(1) 50% off + free handbook (2) 75% off for students
-
-OSINTion (OSINT Training) \
-https://www.theosintion.com/courses/store/  
-25% off courses with code: BLACKFRIDAY2021  
-15% off bundles with code: BUNDLES2021BLACKFRIDAY
-
-Eric Diaz (Udemy Hacking Courses) \
-https://www.udemy.com/user/eric-daiz/  
-50% off with code: 50OFFNOVEMBER
-
-INE (ELearnSecurity Courses) \
-https://info.ine.com/black-friday-2021/  
-Premium Access Pass for $499 + free eLearnSecurity certification voucher \
-Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
 
 7ASecurity Black friday sale on any course \
 https://store.7asecurity.com/  
@@ -82,9 +60,43 @@ https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-fr
 November 16 - November 30 2021: The certification exam is on sale for $9. \
 Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
 
+DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
+https://training.dronesec.com/p/Black-Friday-2021  
+(1) 67% off (2) 75% off for EDU/student emails when deal is released
+
+The Cyber Plumber's Lab Guide and Access \
+https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
+(1) 50% off + free handbook (2) 75% off for students
+
+Eric Diaz (Udemy Hacking Courses) \
+https://www.udemy.com/user/eric-daiz/  
+50% off with code: 50OFFNOVEMBER
+
+INE (ELearnSecurity Courses) \
+https://info.ine.com/black-friday-2021/  
+Premium Access Pass for $499 + free eLearnSecurity certification voucher \
+Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
+
+OSINTion (OSINT Training) \
+https://www.theosintion.com/courses/store/  
+25% off courses with code: BLACKFRIDAY2021  
+15% off bundles with code: BUNDLES2021BLACKFRIDAY
+
+Security Blue Team \
+https://securityblue.team/#black-friday  
+November 26 - December 3 2021: Black Friday Sale \
+25% off BTL1 certification & training (£399 --> £299) \
+20% off BTL2 certification & training (£1999 --> £1599) \
+33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
+
 Pensterlab Black friday sale \
 https://pentesterlab.com/pro  
 27% off one year subscription - no code needed (1) $146 instead of $199 (2) 29.99 instead of 34.99 for students
+
+The Security Mentor (TCM) Security \
+https://academy.tcm-sec.com/  
+(1) 50% off all courses (2) 20% off PNPT Certification
+
 
 ## Hardware:
 
