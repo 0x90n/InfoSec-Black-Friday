@@ -64,6 +64,11 @@ DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
 https://training.dronesec.com/p/Black-Friday-2021  
 (1) 67% off (2) 75% off for EDU/student emails when deal is released
 
+LetsDefend - Blue Team Training \
+https://letsdefend.io/ \
+50% off code: BLCKFRDY \
+November 25 - November 30 2021
+
 The Cyber Plumber's Lab Guide and Access \
 https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
 (1) 50% off + free handbook (2) 75% off for students
