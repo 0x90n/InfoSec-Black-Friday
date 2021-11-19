@@ -60,6 +60,14 @@ https://info.ine.com/black-friday-2021/
 Premium Access Pass for $499 + free eLearnSecurity certification voucher \
 Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
 
+## Hardware:
+
+pcWRT Secure WiFi Router\
+Router with all privacy tools builtin: VLAN, VPN, Ad Block, DoH, Access Control, Monitoring\
+https://www.pcwrt.com/
+25% off - GITHUBBF21
+
+
 ------------------------------------------------------------------------------------------------------------------
 
 
