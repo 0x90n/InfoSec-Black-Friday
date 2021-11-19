@@ -55,13 +55,6 @@ https://store.7asecurity.com/
 40% off with code: BFCM40 \
 Valid from November 17th to December 1st
 
-Security Blue Team \
-https://securityblue.team/#black-friday \
-November 26 - December 3 2021: Black Friday Sale
-25% off BTL1 certification & training (£399 --> £299)
-20% off BTL2 certification & training (£1999 --> £1599)
-33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
-
 Burp Suite Certified Practitioner \
 https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
 November 16 - November 30 2021: The certification exam is on sale for $9. \
@@ -84,6 +77,13 @@ OSINTion (OSINT Training) \
 https://www.theosintion.com/courses/store/  
 25% off courses with code: BLACKFRIDAY2021  
 15% off bundles with code: BUNDLES2021BLACKFRIDAY
+
+Security Blue Team \
+https://securityblue.team/#black-friday \
+November 26 - December 3 2021: Black Friday Sale
+25% off BTL1 certification & training (£399 --> £299)
+20% off BTL2 certification & training (£1999 --> £1599)
+33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
 
 ## Hardware:
 
