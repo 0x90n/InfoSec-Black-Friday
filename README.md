@@ -43,6 +43,11 @@ Offline Toolbox with Develper/Security applications\
 https://devutils.app/  
 30% off - BLACKFRIDAY_2021S
 
+Proxyman \
+Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
+https://proxyman.io  
+30% OFF - PROXYMAN_BLACK_FRIDAY_2021
+
 ## Courses & Training
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
