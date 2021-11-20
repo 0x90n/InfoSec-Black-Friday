@@ -45,7 +45,7 @@ https://devutils.app/
 Proxyman \
 Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
 https://proxyman.io  
-30% OFF - PROXYMAN_BLACK_FRIDAY_2021
+30% off with code: PROXYMAN_BLACK_FRIDAY_2021
 
 Pulsedive Threat Intelligence :see_no_evil:\
 https://pulsedive.com/about/pro  
