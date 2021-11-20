@@ -28,6 +28,13 @@ https://www.returnonsecurity.com/black-friday-25 \
 
 ## Tools
 
+Workflow86
+Document and automate your operations playbooks and business processes
+https://www.workflow86.com
+https://news.ycombinator.com/item?id=29152173
+30% off any plan for 3 months - BLACKFRIDAY2021
+Ends: Tuesday 30 November 2021 11:59 GMT+11 
+
 Securestack DevSecOps platform :see_no_evil:\
 https://securestack.com/black-friday-sale/  
 30% off and 4 months subscription - deal applied on checkout
