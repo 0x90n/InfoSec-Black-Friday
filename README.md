@@ -35,7 +35,7 @@ https://securestack.com/black-friday-sale/
 GrayHatWarfare (the shodan for S3 buckets/shorteners) :see_no_evil:\
 https://grayhatwarfare.com/packages  
 was €300 now €160 for 1Y premium \
-was €960 now €450 for 1Y enterprise \
+was €960 now €450 for 1Y enterprise
 
 DevUtils \
 Offline Toolbox with Develper/Security applications\
