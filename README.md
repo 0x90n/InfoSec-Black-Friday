@@ -28,7 +28,11 @@ https://www.returnonsecurity.com/black-friday-25 \
 
 ## Tools
 
-DevUtils\
+Securestack DevSecOps platform :see_no_evil:\
+https://securestack.com/black-friday-sale/  
+30% off and 4 months subscription - deal applied on checkout
+
+DevUtils \
 Offline Toolbox with Develper/Security applications\
 https://devutils.app/  
 30% off - BLACKFRIDAY_2021S
@@ -38,7 +42,7 @@ Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate H
 https://proxyman.io  
 30% OFF - PROXYMAN_BLACK_FRIDAY_2021
 
-Pulsedive Threat Intelligence \
+Pulsedive Threat Intelligence :see_no_evil:\
 https://pulsedive.com/about/pro  
 https://pulsedive.com/about/api  
 Incoming deal on Pulsedive Pro or API plans when released
@@ -53,7 +57,7 @@ https://simplelogin.io/pricing/
 $20 first year then $30/year   
 Ends: 30th November, 2021   
 
-Tenable\
+Tenable :see_no_evil:\
 https://www.tenable.com/buy  
 50% off Nessus PRO with code: takehalf
 
@@ -69,16 +73,16 @@ https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-fr
 November 16 - November 30 2021: The certification exam is on sale for $9. \
 Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
 
-DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
+DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:\
 https://training.dronesec.com/p/Black-Friday-2021  
 (1) 67% off (2) 75% off for EDU/student emails when deal is released
 
 LetsDefend - Blue Team Training \
-https://letsdefend.io/ \
+https://letsdefend.io/  
 50% off code: BLCKFRDY \
 November 25 - November 30 2021
 
-The Cyber Plumber's Lab Guide and Access \
+The Cyber Plumber's Lab Guide and Access :see_no_evil:\
 https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
 (1) 50% off + free handbook (2) 75% off for students
 
@@ -91,7 +95,7 @@ https://info.ine.com/black-friday-2021/
 Premium Access Pass for $499 + free eLearnSecurity certification voucher \
 Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
 
-OSINTion (OSINT Training) \
+OSINTion (OSINT Training) :see_no_evil:\
 https://www.theosintion.com/courses/store/  
 25% off courses with code: BLACKFRIDAY2021  
 15% off bundles with code: BUNDLES2021BLACKFRIDAY
@@ -103,7 +107,7 @@ November 26 - December 3 2021: Black Friday Sale \
 20% off BTL2 certification & training (£1999 --> £1599) \
 33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
 
-Pensterlab Black friday sale \
+Pensterlab Black friday sale :see_no_evil:\
 https://pentesterlab.com/pro  
 27% off one year subscription - no code needed (1) $146 instead of $199 (2) 29.99 instead of 34.99 for students
 
