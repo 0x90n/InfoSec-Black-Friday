@@ -48,6 +48,11 @@ https://sn1persecurity.com/wordpress/black-friday-sale/
 15% discount ($132 savings)  
 Ends: 27th 2021 11:59 PM PST
 
+SimpleLogin \
+https://simplelogin.io/pricing/   
+$20 first year then $30/year   
+Ends: 30th November, 2021   
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
