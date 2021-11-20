@@ -53,6 +53,10 @@ https://simplelogin.io/pricing/
 $20 first year then $30/year   
 Ends: 30th November, 2021   
 
+Tenable\
+https://www.tenable.com/buy  
+50% off Nessus PRO with code: takehalf
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
@@ -106,7 +110,6 @@ https://pentesterlab.com/pro
 The Security Mentor (TCM) Security \
 https://academy.tcm-sec.com/  
 (1) 50% off all courses (2) 20% off PNPT Certification
-
 
 ## Hardware:
 
