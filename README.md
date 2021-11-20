@@ -48,6 +48,10 @@ https://sn1persecurity.com/wordpress/black-friday-sale/
 15% discount ($132 savings)  
 Ends: 27th 2021 11:59 PM PST
 
+Tenable\
+https://www.tenable.com/buy  
+50% off Nessus PRO with code: takehalf
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
