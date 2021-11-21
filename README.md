@@ -1,5 +1,6 @@
-# InfoSec Black Friday Deals 2021
-All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns.
+<h1 align="center"> InfoSec Black Friday Deals 2021<h1>
+<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-0.imagensemoldes.com.br%2Fwp-content%2Fuploads%2F2020%2F05%2FShopping-Black-Friday-PNG.png&f=1&nofb=1" height=20% width=20% >
+<p>All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns.<p>
 
 Heard of an early deal? Let's get this rolling 🎉
 The below deals have either publicly announced they'll be doing a deal or highly expected.
@@ -29,25 +30,36 @@ https://www.returnonsecurity.com/black-friday-25 \
 
 ## Tools
 
-Securestack DevSecOps platform :see_no_evil:\
-https://securestack.com/black-friday-sale/  
-30% off and 4 months subscription with code: BLACKFRIDAY21 \
+<img src ="https://securestack.com/wp-content/uploads/2021/09/securestack-horizontal.png" height=30% width=30%>
+<p>Securestack DevSecOps platform :see_no_evil:</p>
+  <p>https://securestack.com/black-friday-sale/  </p>
+<p>30% off and 4 months subscription with code: BLACKFRIDAY21 </p>
 Ends: 2nd December 2021
+  <hr>
 
-DevUtils \
-Offline Toolbox with Develper/Security applications\
-https://devutils.app/  
-30% off - BLACKFRIDAY_2021S
+  
+ 
+  <h3>DevUtils </h3>
+  <img src="https://devutils.app/192.png"  height=10% width=10%>
+  <p>Offline Toolbox with Develper/Security applications</p>
+  <p>https://devutils.app/  </p>
+  <p>30% off - BLACKFRIDAY_2021S </p>
 
-GrayHatWarfare (the shodan for S3 buckets/shorteners) :see_no_evil:\
-https://grayhatwarfare.com/packages  
-was €300 now €160 for 1Y premium \
-was €960 now €450 for 1Y enterprise
+  <hr>
+  
+  <h3>GrayHatWarfare</h3> 
+    <img src="https://grayhatwarfare.com/assets/images/logo/logo-sm.png"  height=15% width=15%>
+  <p>GrayHatWarfare (the shodan for S3 buckets/shorteners) :see_no_evil:</p>
+  <p>https://grayhatwarfare.com/packages  </p>
+  <p>was €300 now €160 for 1Y premium </p>
+  <p>was €960 now €450 for 1Y enterprise</p>
+  <hr>
 
-Proxyman \
-Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
-https://proxyman.io  
-30% off with code: PROXYMAN_BLACK_FRIDAY_2021
+ <h3> Proxyman </h3>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fstudent-app-centre%2Fimage%2Fupload%2Fq_auto%2Ff_auto%2Fw_400%2Fv1590346141%2FStudent%2520App%2520Centre%2FAppAssets%2FI352914902.png&f=1&nofb=1"  height=10% width=10%>
+<p>Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses </p>
+  <P>https://proxyman.io  </p>
+  <P>30% off with code: PROXYMAN_BLACK_FRIDAY_2021</p>
 
 Pulsedive Threat Intelligence :see_no_evil:\
 https://pulsedive.com/about/pro  
