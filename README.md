@@ -1,5 +1,6 @@
-<h1 align="center"> InfoSec Black Friday Deals 2021<h1>
-<img src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-0.imagensemoldes.com.br%2Fwp-content%2Fuploads%2F2020%2F05%2FShopping-Black-Friday-PNG.png&f=1&nofb=1" height=20% width=20% >
+<h1 align="center" > InfoSec Black Friday Deals 2021<h1>
+  <p align="center">
+<img src = "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngall.com%2Fwp-content%2Fuploads%2F2018%2F04%2FBlack-Friday-Download-PNG.png&f=1&nofb=1" height=80% width=80% ></p>
 <p>All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns.<p>
 
 Heard of an early deal? Let's get this rolling 🎉
@@ -9,8 +10,8 @@ The below deals have either publicly announced they'll be doing a deal or highly
 - DYOR and AYOR: I have not vetted links for legitimacy
 
 <h3>FAQ<h3>
-### When do these sales end?
-Most end 30th November
+ When do these sales end?
+ Most end 30th November
 
 ### When will most of the deals/discounts be here?
 Most likely 27th midday for USA, 28th November for the rest of the world, check back often!
@@ -68,7 +69,7 @@ Ends: 2nd December 2021
 <p>Pulsedive Threat Intelligence :see_no_evil: 
 <p>https://pulsedive.com/about/pro  
 <p>https://pulsedive.com/about/api  
-<p>Incoming deal on Pulsedive Pro or API plans when released<\p>
+<p>Incoming deal on Pulsedive Pro or API plans when released
  
   <hr>
 
@@ -80,7 +81,7 @@ Ends: 2nd December 2021
   <hr>
   
 <h3>Workflow86</h3>
-    <img src="https://www.workflow86.com/wp-content/uploads/2021/06/logo-rounded.jpg" height=10% width=10%>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.workflow86.com%2Fwp-content%2Fuploads%2F2020%2F10%2FW86_bw.png&f=1&nofb=1" height=10% width=10%>
 <p>(Document/automate security operation playbooks and business processes - https://news.ycombinator.com/item?id=29152173) :see_no_evil:</p>
 <p>https://www.workflow86.com  
 <p>30% off any plan for 3 months with code: BLACKFRIDAY2021 
@@ -98,7 +99,6 @@ Ends: 2nd December 2021
  
   <h3>Tenable</h3>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tenable.com%2Fsites%2Fall%2Fthemes%2Ftenablefourteen%2Fimg%2Flogo.png&f=1&nofb=1" height=20% width=20%>
-<p>Tenable :see_no_evil:
 <p>https://www.tenable.com/buy  
 <p>50% off Nessus PRO with code: takehalf
 
@@ -114,6 +114,7 @@ Ends: 2nd December 2021
   <hr>
 
 <h3>Burp Suite Certified Practitioner </h3>  
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthreadfix.it%2Fwp-content%2Fuploads%2F2019%2F02%2FPortswigger-BurpSuite-logo.png&f=1&nofb=1" height=10% width=10%>
 <p>https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday 
 <p>November 16 - November 30 2021: The certification exam is on sale for $9. 
 <p>Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
@@ -126,8 +127,9 @@ Ends: 2nd December 2021
   <hr>
   
 <h3>LetsDefend - Blue Team Training </h3>
+  <img src="https://letsdefend.io/static/img/letsdefend-logo.png" height=10% width=10%>
 <p>https://letsdefend.io/  
-<p>50% off code: BLCKFRDY \
+<p>50% off code: BLCKFRDY 
 <p>November 25 - November 30 2021
   <hr>
   
@@ -137,20 +139,20 @@ Ends: 2nd December 2021
   <hr>
 
 <h3>Eric Diaz (Udemy Hacking Courses) </h3>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F128%2Fudemy_official_logo_icon_168371.png&f=1&nofb=1" height=10% width=10%>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F128%2Fudemy_official_logo_icon_168371.png&f=1&nofb=1" height=15% width=15%>
 <p>https://www.udemy.com/user/eric-daiz/  
 <p>50% off with code: 50OFFNOVEMBER
   <hr>
   
 <h3>INE (ELearnSecurity Courses) <h3>
-  <img src="https://d9hhrg4mnvzow.cloudfront.net/info.ine.com/black-friday-2021/2a469cb5-ine-logo-white-w-gradient-01.svg" height=10% width=10%>
+  <img src="https://d9hhrg4mnvzow.cloudfront.net/info.ine.com/black-friday-2021/2a469cb5-ine-logo-white-w-gradient-01.svg" height=15% width=15%>
 <p>https://info.ine.com/black-friday-2021
 <p>Premium Access Pass for $499 + free eLearnSecurity certification voucher 
 <p>Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
   <hr>
 
 <h3>OSINTion (OSINT Training) :see_no_evil:</h3>
-  
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.theosintion.com%2Fwp-content%2Fuploads%2F2021%2F01%2Fcropped-Discord-Profile-Pic-600-x-600.png&f=1&nofb=1" height=10% width=10%>
 <p>https://www.theosintion.com/courses/store/  
 <p>25% off courses with code: BLACKFRIDAY2021  
 <p>15% off bundles with code: BUNDLES2021BLACKFRIDAY
@@ -166,37 +168,37 @@ Ends: 2nd December 2021
   <hr>
 
 <h3>Pensterlab Black friday sale :see_no_evil:<h3>
-  <img src="">
+  <img src="https://assets.pentesterlab.com/logo_m.png">
 <p>https://pentesterlab.com/pro  
 <p>27% off one year subscription - no code needed </p><p>(1) $146 instead of $199 </p><p>(2) 29.99 instead of 34.99 for students
   
   <hr>
 
 <h3>The Cyber Mentor (TCM) Security Courses </h3>
-  <img src="">
+  <img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://file-uploads.teachablecdn.com/c8250cc07e4e48f39cfe04767c5e3af1/09147a6d0c824fdaa5acc7dbee13bd5c" width=15% height=15%>
 <p>https://academy.tcm-sec.com/  
 <p>(1) 50% off all courses <p></p>(2) 20% off PNPT Certification
 
 ## Hardware:
 
-pcWRT Secure WiFi Router \
-Router with all privacy tools builtin: VLAN, VPN, Ad Block, DoH, Access Control, Monitoring \
-https://www.pcwrt.com/  
-25% off with code: GITHUBBF21
+  <h3>pcWRT Secure WiFi Router </h3>
+<p>Router with all privacy tools builtin: VLAN, VPN, Ad Block, DoH, Access Control, Monitoring \]
+<p>https://www.pcwrt.com/  
+<p>25% off with code: GITHUBBF21
 
 ------------------------------------------------------------------------------------------------------------------
 
 
-# InfoSec Black Friday Deals (2020) - OLD
+<h1> InfoSec Black Friday Deals (2020) - OLD </h1>
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday
 
-## Hacker Essentials
+<h2>Hacker Essentials</h2>
 
 Stickermule\
 https://www.stickermule.com/deals  
 $19 down from $65, free shipping
 
-## Tools
+  <h2> Tools</h2>
 
 Suricata IDS Rule Management System\
 https://lawmaker.cloud/  
