@@ -65,28 +65,14 @@ https://www.workflow86.com
 30% off any plan for 3 months with code: BLACKFRIDAY2021 \
 Ends: 30 November
 
-SimpleLogin \
-https://simplelogin.io/pricing/   
-$20 first year applied to cart
-Ends: 30th November   
-
 Tenable :see_no_evil:\
 https://www.tenable.com/buy  
 50% off Nessus PRO with code: takehalf
 
-ESET Anti-Virus \
-https://www.eset.com/us/cyber-weekend-2021/  
-35% off products applied to cart
-
-Murus and Vallum (macOS Firewall) \
-https://murusfirewall.com/  
-50% off applied to cart
-
-MalwareBytes \
-https://try.malwarebytes.com/  
-60% off Malwarebytes Premium, 50% OFF Malwarebytes Premium + Privacy \
-https://try.malwarebytes.com/back-to-business/  
-25% off Endpoint, Detection and Response products
+Burp Bounty Pro Extension \
+https://burpbounty.net/  
+https://order.shareit.com/cart/add?vendorid=200287980&PRODUCT%5B300991779%5D=1  
+20% off with code: CYBERBOUNTY
 
 ## Courses & Training
 
@@ -189,6 +175,20 @@ ifixit (Hardware and electronics equipment) \
 https://www.ifixit.com/black-friday-holiday  
 Multiple discounts applied to cart
 
+## Books:
+
+Apress Books :see_no_evil:\
+https://www.apress.com/us/shop/cybermonday-sale  
+All print books $9.99 and eBooks $6.99 discount applied to cart
+
+Humble Bundle (Check back often for InfoSec books - currently only games)\
+https://www.humblebundle.com/store/promo/black-friday-sale-2021/  
+Up to 80% off applied to cart
+
+NoStarch Press \
+https://nostarch.com/blog/2021-holiday-gift-guide  
+Various deals on books applied to cart
+
 ## Services:
 
 NordVPN \
@@ -203,19 +203,24 @@ Lowendbox - IT/Cloud/Networking sytems \
 https://lowendbox.com/blog/what-is-black-friday/  
 Variety of deals releasing 24th November
 
-## Books:
+SimpleLogin \
+https://simplelogin.io/pricing/   
+$20 first year applied to cart
+Ends: 30th November   
 
-Apress Books :see_no_evil:\
-https://www.apress.com/us/shop/cybermonday-sale  
-All print books $9.99 and eBooks $6.99 discount applied to cart
+ESET Anti-Virus \
+https://www.eset.com/us/cyber-weekend-2021/  
+35% off products applied to cart
 
-Humble Bundle (Check back often for InfoSec books - currently only games)\
-https://www.humblebundle.com/store/promo/black-friday-sale-2021/  
-Up to 80% off applied to cart
+Murus and Vallum (macOS Firewall) \
+https://murusfirewall.com/  
+50% off applied to cart
 
-NoStarch Press \
-https://nostarch.com/blog/2021-holiday-gift-guide  
-Various deals on books applied to cart
+MalwareBytes \
+https://try.malwarebytes.com/  
+60% off Malwarebytes Premium, 50% OFF Malwarebytes Premium + Privacy \
+https://try.malwarebytes.com/back-to-business/  
+25% off Endpoint, Detection and Response products
 
 ------------------------------------------------------------------------------------------------------------------
 
