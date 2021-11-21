@@ -8,7 +8,7 @@ The below deals have either publicly announced they'll be doing a deal or highly
 - All End times in UTC
 - DYOR and AYOR: I have not vetted links for legitimacy
 
-## FAQ
+<h3>FAQ<h3>
 ### When do these sales end?
 Most end 30th November
 
@@ -18,20 +18,20 @@ Most likely 27th midday for USA, 28th November for the rest of the world, check 
 ### Can I add deals to the page?
 Yes, please follow formatting guidelines, provide a source and code. Has to be infosec related.
 
-:see_no_evil: means 1) Limited to first x users 2) Great deal or 3) Highly recommended
+:see_no_evil: means <p>1) Limited to first x users </p><p>2) Great deal or </p><p>3) Highly recommended
 
 *Disclaimer: I have included my own, and other discount codes sent in directly.
 
-## Newsletters
+  <h1>Newsletters</h1>
 
 Return on Security\
 https://www.returnonsecurity.com/black-friday-25 \
 25% off the [Pro Membership](https://www.returnonsecurity.com/pro-reports/) for 3 months with code: black-friday-25
 
-## Tools
+  <h1>Tools</h1>
 
+<h3>Securestack DevSecOps platform :see_no_evil:</h3>
 <img src ="https://securestack.com/wp-content/uploads/2021/09/securestack-horizontal.png" height=30% width=30%>
-<p>Securestack DevSecOps platform :see_no_evil:</p>
   <p>https://securestack.com/black-friday-sale/  </p>
 <p>30% off and 4 months subscription with code: BLACKFRIDAY21 </p>
 Ends: 2nd December 2021
@@ -81,9 +81,9 @@ Ends: 2nd December 2021
   
 <h3>Workflow86</h3>
     <img src="https://www.workflow86.com/wp-content/uploads/2021/06/logo-rounded.jpg" height=10% width=10%>
-<p>Workflow86 (Document/automate security operation playbooks and business processes - https://news.ycombinator.com/item?id=29152173) :see_no_evil:\
+<p>(Document/automate security operation playbooks and business processes - https://news.ycombinator.com/item?id=29152173) :see_no_evil:</p>
 <p>https://www.workflow86.com  
-<p>30% off any plan for 3 months with code: BLACKFRIDAY2021 \
+<p>30% off any plan for 3 months with code: BLACKFRIDAY2021 
 <P>Ends: 30 November 2021
 
   <hr>
@@ -102,11 +102,10 @@ Ends: 2nd December 2021
 <p>https://www.tenable.com/buy  
 <p>50% off Nessus PRO with code: takehalf
 
-  <hr>
+  <br>
   <br>
   
-<h2>Courses & Training</h2>
-  <br>
+<h1>Courses & Training</h1>
 <h3> 7ASecurity Black friday sale on any course </h3>
 <img src ="https://cdn.shopify.com/s/files/1/0282/5476/5165/files/logo_360x.png?v=1592462846">
 <p> https://store.7asecurity.com/ </p> 
@@ -114,18 +113,16 @@ Ends: 2nd December 2021
 <p> valid from November 17th to December 1st</p>
   <hr>
 
-<h3>Burp Suite Certified Practitioner </h3>
-  <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcrimol.com%2Fimages%2Flogo%2Fburpsuite-original-white.png&f=1&nofb=1" height=20% width=20%>
-  
+<h3>Burp Suite Certified Practitioner </h3>  
 <p>https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday 
 <p>November 16 - November 30 2021: The certification exam is on sale for $9. 
 <p>Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
   <hr>
   
 <h3>DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:</h3>
-  <img src ="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/cBTtVZh1SgmP0FG0qJ83">
+  <img src ="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/cBTtVZh1SgmP0FG0qJ83" >
 <p>https://training.dronesec.com/p/Black-Friday-2021  
-<p>(1) 67% off (2) 75% off for EDU/student emails when deal is released
+<p>(1) 67% off </p><p>(2) 75% off for EDU/student emails when deal is released
   <hr>
   
 <h3>LetsDefend - Blue Team Training </h3>
@@ -135,45 +132,50 @@ Ends: 2nd December 2021
   <hr>
   
 <h3>The Cyber Plumber's Lab Guide and Access :see_no_evil:</h3>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublic-files.gumroad.com%2Fvariants%2F4ysmkq5ph8fkqbqyn6tvefgmukkl%2F564af3e46a836cc237993284b63946229742f299f2bfc36fa60d814c826f8ad0&f=1&nofb=1" width=30% height=30%>
 <p>https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
-<p>(1) 50% off + free handbook (2) 75% off for students
+<p>(1) 50% off + free handbook </p><p>(2) 75% off for students
   <hr>
 
 <h3>Eric Diaz (Udemy Hacking Courses) </h3>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2019%2F07%2Fudemy-logo-0.png&f=1&nofb=1">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F128%2Fudemy_official_logo_icon_168371.png&f=1&nofb=1" height=10% width=10%>
 <p>https://www.udemy.com/user/eric-daiz/  
 <p>50% off with code: 50OFFNOVEMBER
   <hr>
   
 <h3>INE (ELearnSecurity Courses) <h3>
-  <img src="https://d9hhrg4mnvzow.cloudfront.net/info.ine.com/black-friday-2021/2a469cb5-ine-logo-white-w-gradient-01.svg">
+  <img src="https://d9hhrg4mnvzow.cloudfront.net/info.ine.com/black-friday-2021/2a469cb5-ine-logo-white-w-gradient-01.svg" height=10% width=10%>
 <p>https://info.ine.com/black-friday-2021
 <p>Premium Access Pass for $499 + free eLearnSecurity certification voucher 
 <p>Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
   <hr>
 
 <h3>OSINTion (OSINT Training) :see_no_evil:</h3>
-  <img src="">
+  
 <p>https://www.theosintion.com/courses/store/  
 <p>25% off courses with code: BLACKFRIDAY2021  
 <p>15% off bundles with code: BUNDLES2021BLACKFRIDAY
   <hr>
 
-Security Blue Team \
-https://securityblue.team/#black-friday  
-November 26 - December 3 2021: Black Friday Sale \
-25% off BTL1 certification & training (£399 --> £299) \
-20% off BTL2 certification & training (£1999 --> £1599) \
-33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
+<h3>Security Blue Team </h3>
+  <img src="https://www.securityblue.team/wp-content/uploads/2021/10/sbtwhitebg-300x222.png" height10% width=10%>
+<p>https://securityblue.team/#black-friday  
+<p>November 26 - December 3 2021: Black Friday Sale 
+<p>25% off BTL1 certification & training (£399 --> £299) 
+<p>20% off BTL2 certification & training (£1999 --> £1599) 
+<p>33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
+  <hr>
 
-Pensterlab Black friday sale :see_no_evil:\
-https://pentesterlab.com/pro  
-27% off one year subscription - no code needed (1) $146 instead of $199 (2) 29.99 instead of 34.99 for students
+<h3>Pensterlab Black friday sale :see_no_evil:<h3>
+  <img src="">
+<p>https://pentesterlab.com/pro  
+<p>27% off one year subscription - no code needed </p><p>(1) $146 instead of $199 </p><p>(2) 29.99 instead of 34.99 for students
+  
+  <hr>
 
-The Cyber Mentor (TCM) Security Courses \
-https://academy.tcm-sec.com/  
-(1) 50% off all courses (2) 20% off PNPT Certification
+<h3>The Cyber Mentor (TCM) Security Courses </h3>
+  <img src="">
+<p>https://academy.tcm-sec.com/  
+<p>(1) 50% off all courses <p></p>(2) 20% off PNPT Certification
 
 ## Hardware:
 
