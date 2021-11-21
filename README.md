@@ -4,11 +4,12 @@ All the deals for InfoSec related software/tools this Black Friday / Cyber Monda
 Heard of an early deal? Let's get this rolling 🎉
 The below deals have either publicly announced they'll be doing a deal or highly expected.
 - All USD
+- All End times in UTC
 - DYOR and AYOR: I have not vetted links for legitimacy
 
 ## FAQ
 ### When do these sales end?
-Most end 30th November.
+Most end 30th November
 
 ### When will most of the deals/discounts be here?
 Most likely 27th midday for USA, 28th November for the rest of the world, check back often!
@@ -30,17 +31,18 @@ https://www.returnonsecurity.com/black-friday-25 \
 
 Securestack DevSecOps platform :see_no_evil:\
 https://securestack.com/black-friday-sale/  
-30% off and 4 months subscription - deal applied on checkout
-
-GrayHatWarfare (the shodan for S3 buckets/shorteners) :see_no_evil:\
-https://grayhatwarfare.com/packages  
-was €300 now €160 for 1Y premium \
-was €960 now €450 for 1Y enterprise
+30% off and 4 months subscription with code: BLACKFRIDAY21 \
+Ends: 2nd December 2021
 
 DevUtils \
 Offline Toolbox with Develper/Security applications\
 https://devutils.app/  
 30% off - BLACKFRIDAY_2021S
+
+GrayHatWarfare (the shodan for S3 buckets/shorteners) :see_no_evil:\
+https://grayhatwarfare.com/packages  
+was €300 now €160 for 1Y premium \
+was €960 now €450 for 1Y enterprise
 
 Proxyman \
 Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
@@ -56,6 +58,11 @@ Sn1per Elite Bundle \
 https://sn1persecurity.com/wordpress/black-friday-sale/  
 15% discount ($132 savings)  
 Ends: 27th 2021 11:59 PM PST
+
+Workflow86 (Document/automate security operation playbooks and business processes - https://news.ycombinator.com/item?id=29152173) :see_no_evil:\
+https://www.workflow86.com  
+30% off any plan for 3 months with code: BLACKFRIDAY2021 \
+Ends: 30 November 2021
 
 SimpleLogin \
 https://simplelogin.io/pricing/   
@@ -116,7 +123,7 @@ Pensterlab Black friday sale :see_no_evil:\
 https://pentesterlab.com/pro  
 27% off one year subscription - no code needed (1) $146 instead of $199 (2) 29.99 instead of 34.99 for students
 
-The Security Mentor (TCM) Security \
+The Cyber Mentor (TCM) Security Courses \
 https://academy.tcm-sec.com/  
 (1) 50% off all courses (2) 20% off PNPT Certification
 
