@@ -73,6 +73,20 @@ Tenable :see_no_evil:\
 https://www.tenable.com/buy  
 50% off Nessus PRO with code: takehalf
 
+ESET Anti-Virus \
+https://www.eset.com/us/cyber-weekend-2021/  
+35% off products applied to cart
+
+Murus and Vallum (macOS Firewall) \
+https://murusfirewall.com/  
+50% off applied to cart
+
+MalwareBytes \
+https://try.malwarebytes.com/  
+60% off Malwarebytes Premium, 50% OFF Malwarebytes Premium + Privacy \
+https://try.malwarebytes.com/back-to-business/  
+25% off Endpoint, Detection and Response products \
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
@@ -87,12 +101,13 @@ Purchase date - December 15 2021: If you pass your exam, you qualify for a refun
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:\
 https://training.dronesec.com/p/Black-Friday-2021  
-(1) 67% off (2) 75% off for EDU/student emails when deal is released
+67% off with code: BFMETAVERSE
+Ends: November 30 2021
 
 LetsDefend - Blue Team Training \
 https://letsdefend.io/  
 50% off code: BLCKFRDY \
-November 25 - November 30 2021
+Ends: 30th November
 
 The Cyber Plumber's Lab Guide and Access :see_no_evil:\
 https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
@@ -101,6 +116,20 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2021
 Eric Diaz (Udemy Hacking Courses) \
 https://www.udemy.com/user/eric-daiz/  
 50% off with code: 50OFFNOVEMBER
+
+Udemy \
+https://www.udemy.com/  
+Most courses $10.99 \
+Ends: 26th November 
+
+PluralSight \
+https://www.pluralsight.com/offer/2021/bf-cm-40-off  
+40% discount \
+Ends: 29th November
+
+Robin Dreeke (Social Engineering Training) \
+https://www.peopleformula.com/online-training-overview  
+25% off all courses with code: infosec25
 
 INE (ELearnSecurity Courses) \
 https://info.ine.com/black-friday-2021/  
@@ -114,10 +143,10 @@ https://www.theosintion.com/courses/store/
 
 Security Blue Team \
 https://securityblue.team/#black-friday  
-November 26 - December 3 2021: Black Friday Sale \
 25% off BTL1 certification & training (£399 --> £299) \
 20% off BTL2 certification & training (£1999 --> £1599) \
 33% off Blue Team Labs Pro subscription (£15/month --> £10/month)
+Ends: 3rd December
 
 Pensterlab Black friday sale :see_no_evil:\
 https://pentesterlab.com/pro  
@@ -127,12 +156,63 @@ The Cyber Mentor (TCM) Security Courses \
 https://academy.tcm-sec.com/  
 (1) 50% off all courses (2) 20% off PNPT Certification
 
+Practical DevSecOps \
+https://www.practical-devsecops.com/black-friday/  
+15% off all courses
+Ends: 26th November
+
+ISACA InfoSec/GRC Training \
+https://www.isaca.org/go/flash  
+15% off CISA/CISM/CRISC/CGEIT/CDPSE training & cert with code: FLASHSALE15
+Ends: 15th December
+
+International Cybersecurity Institute ICSI\
+https://www.icsi.co.uk/
+50% off courses releasing 22nd November \
+Ends: 29th November
+
 ## Hardware:
+
+Hak5 hacking hardware for pentesters :see_no_evil::see_no_evil:\
+https://shop.hak5.org/  
+Huge discounts + free gear
 
 pcWRT Secure WiFi Router \
 Router with all privacy tools builtin: VLAN, VPN, Ad Block, DoH, Access Control, Monitoring \
 https://www.pcwrt.com/  
 25% off with code: GITHUBBF21
+
+ifixit (Hardware and electronics equipment) \
+https://www.ifixit.com/black-friday-holiday  
+Multiple discounts applied to cart
+
+## Services:
+
+NordVPN \
+https://nordvpn.com/offer/  
+72% discount applied to cart
+
+Surfshark VPN \
+https://surfshark.com/deals  
+83% off + 3 months free applied to cart
+
+Lowendbox - IT/Cloud/Networking sytems \
+https://lowendbox.com/blog/what-is-black-friday/  
+Variety of deals releasing 24th November
+
+## Books:
+
+Apress Books :see_no_evil:\
+https://www.apress.com/us/shop/cybermonday-sale  
+All print books $9.99 and eBooks $6.99 discount applied to cart
+
+Humble Bundle (Check back often for InfoSec books - currently only games)\
+https://www.humblebundle.com/store/promo/black-friday-sale-2021/  
+Up to 80% off applied to cart
+
+NoStarch Press \
+https://nostarch.com/blog/2021-holiday-gift-guide  
+Various deals on books applied to cart
 
 ------------------------------------------------------------------------------------------------------------------
 
