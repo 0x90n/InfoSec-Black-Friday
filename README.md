@@ -58,71 +58,107 @@ Ends: 2nd December 2021
  <h3> Proxyman </h3>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fstudent-app-centre%2Fimage%2Fupload%2Fq_auto%2Ff_auto%2Fw_400%2Fv1590346141%2FStudent%2520App%2520Centre%2FAppAssets%2FI352914902.png&f=1&nofb=1"  height=10% width=10%>
 <p>Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses </p>
-  <P>https://proxyman.io  </p>
-  <P>30% off with code: PROXYMAN_BLACK_FRIDAY_2021</p>
+<P>https://proxyman.io  </p>
+<P>30% off with code: PROXYMAN_BLACK_FRIDAY_2021</p>
+  
+  <hr>
+  
+<h3>Pulsedive Threat Intelligence</h3>
+  <img src="https://pulsedive.com/img/logo_light.svg?v=4.9.16"  height=20% width=20%>
+<p>Pulsedive Threat Intelligence :see_no_evil: 
+<p>https://pulsedive.com/about/pro  
+<p>https://pulsedive.com/about/api  
+<p>Incoming deal on Pulsedive Pro or API plans when released<\p>
+ 
+  <hr>
 
-Pulsedive Threat Intelligence :see_no_evil:\
-https://pulsedive.com/about/pro  
-https://pulsedive.com/about/api  
-Incoming deal on Pulsedive Pro or API plans when released
+<h3>Sn1per Elite Bundle </h3>
+  <img src="https://sn1persecurity.com/wordpress/wp-content/uploads/2021/09/Sn1perSecurityLLC-Logo1.png" height=20% width=20%>
+<p>https://sn1persecurity.com/wordpress/black-friday-sale/  
+<p>15% discount ($132 savings)  
+<p>Ends: 27th 2021 11:59 PM PST
+  <hr>
+  
+<h3>Workflow86</h3>
+    <img src="https://www.workflow86.com/wp-content/uploads/2021/06/logo-rounded.jpg" height=10% width=10%>
+<p>Workflow86 (Document/automate security operation playbooks and business processes - https://news.ycombinator.com/item?id=29152173) :see_no_evil:\
+<p>https://www.workflow86.com  
+<p>30% off any plan for 3 months with code: BLACKFRIDAY2021 \
+<P>Ends: 30 November 2021
 
-Sn1per Elite Bundle \
-https://sn1persecurity.com/wordpress/black-friday-sale/  
-15% discount ($132 savings)  
-Ends: 27th 2021 11:59 PM PST
+  <hr>
+  
+<h3>SimpleLogin </h3>
+  <img src="https://simplelogin.io/logo.svg"height=20% width=20% >
+<p>https://simplelogin.io/pricing/   
+<p>$20 first year then $30/year   
+<p>Ends: 30th November, 2021   
 
-Workflow86 (Document/automate security operation playbooks and business processes - https://news.ycombinator.com/item?id=29152173) :see_no_evil:\
-https://www.workflow86.com  
-30% off any plan for 3 months with code: BLACKFRIDAY2021 \
-Ends: 30 November 2021
+  <hr>
+ 
+  <h3>Tenable</h3>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.tenable.com%2Fsites%2Fall%2Fthemes%2Ftenablefourteen%2Fimg%2Flogo.png&f=1&nofb=1" height=20% width=20%>
+<p>Tenable :see_no_evil:
+<p>https://www.tenable.com/buy  
+<p>50% off Nessus PRO with code: takehalf
 
-SimpleLogin \
-https://simplelogin.io/pricing/   
-$20 first year then $30/year   
-Ends: 30th November, 2021   
+  <hr>
+  <br>
+  
+<h2>Courses & Training</h2>
+  <br>
+<h3> 7ASecurity Black friday sale on any course </h3>
+<img src ="https://cdn.shopify.com/s/files/1/0282/5476/5165/files/logo_360x.png?v=1592462846">
+<p> https://store.7asecurity.com/ </p> 
+<p> 40% off with code: BFCM40 </p>
+<p> valid from November 17th to December 1st</p>
+  <hr>
 
-Tenable :see_no_evil:\
-https://www.tenable.com/buy  
-50% off Nessus PRO with code: takehalf
+<h3>Burp Suite Certified Practitioner </h3>
+  <img src ="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcrimol.com%2Fimages%2Flogo%2Fburpsuite-original-white.png&f=1&nofb=1" height=20% width=20%>
+  
+<p>https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday 
+<p>November 16 - November 30 2021: The certification exam is on sale for $9. 
+<p>Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
+  <hr>
+  
+<h3>DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:</h3>
+  <img src ="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://www.filepicker.io/api/file/cBTtVZh1SgmP0FG0qJ83">
+<p>https://training.dronesec.com/p/Black-Friday-2021  
+<p>(1) 67% off (2) 75% off for EDU/student emails when deal is released
+  <hr>
+  
+<h3>LetsDefend - Blue Team Training </h3>
+<p>https://letsdefend.io/  
+<p>50% off code: BLCKFRDY \
+<p>November 25 - November 30 2021
+  <hr>
+  
+<h3>The Cyber Plumber's Lab Guide and Access :see_no_evil:</h3>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpublic-files.gumroad.com%2Fvariants%2F4ysmkq5ph8fkqbqyn6tvefgmukkl%2F564af3e46a836cc237993284b63946229742f299f2bfc36fa60d814c826f8ad0&f=1&nofb=1" width=30% height=30%>
+<p>https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
+<p>(1) 50% off + free handbook (2) 75% off for students
+  <hr>
 
-## Courses & Training
+<h3>Eric Diaz (Udemy Hacking Courses) </h3>
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodownload.org%2Fwp-content%2Fuploads%2F2019%2F07%2Fudemy-logo-0.png&f=1&nofb=1">
+<p>https://www.udemy.com/user/eric-daiz/  
+<p>50% off with code: 50OFFNOVEMBER
+  <hr>
+  
+<h3>INE (ELearnSecurity Courses) <h3>
+  <img src="https://d9hhrg4mnvzow.cloudfront.net/info.ine.com/black-friday-2021/2a469cb5-ine-logo-white-w-gradient-01.svg">
+<p>https://info.ine.com/black-friday-2021
+<p>Premium Access Pass for $499 + free eLearnSecurity certification voucher 
+<p>Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
+  <hr>
 
-7ASecurity Black friday sale on any course \
-https://store.7asecurity.com/  
-40% off with code: BFCM40 \
-Valid from November 17th to December 1st
-
-Burp Suite Certified Practitioner \
-https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
-November 16 - November 30 2021: The certification exam is on sale for $9. \
-Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
-
-DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:\
-https://training.dronesec.com/p/Black-Friday-2021  
-(1) 67% off (2) 75% off for EDU/student emails when deal is released
-
-LetsDefend - Blue Team Training \
-https://letsdefend.io/  
-50% off code: BLCKFRDY \
-November 25 - November 30 2021
-
-The Cyber Plumber's Lab Guide and Access :see_no_evil:\
-https://opsdisk.gumroad.com/l/cphlab/blackfriday2021  
-(1) 50% off + free handbook (2) 75% off for students
-
-Eric Diaz (Udemy Hacking Courses) \
-https://www.udemy.com/user/eric-daiz/  
-50% off with code: 50OFFNOVEMBER
-
-INE (ELearnSecurity Courses) \
-https://info.ine.com/black-friday-2021/  
-Premium Access Pass for $499 + free eLearnSecurity certification voucher \
-Premium for $599 + Pentester Academy access + free eLearnSecurity certification voucher
-
-OSINTion (OSINT Training) :see_no_evil:\
-https://www.theosintion.com/courses/store/  
-25% off courses with code: BLACKFRIDAY2021  
-15% off bundles with code: BUNDLES2021BLACKFRIDAY
+<h3>OSINTion (OSINT Training) :see_no_evil:</h3>
+  <img src="">
+<p>https://www.theosintion.com/courses/store/  
+<p>25% off courses with code: BLACKFRIDAY2021  
+<p>15% off bundles with code: BUNDLES2021BLACKFRIDAY
+  <hr>
 
 Security Blue Team \
 https://securityblue.team/#black-friday  
