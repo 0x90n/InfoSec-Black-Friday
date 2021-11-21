@@ -32,12 +32,12 @@ https://www.returnonsecurity.com/black-friday-25 \
 Securestack DevSecOps platform :see_no_evil:\
 https://securestack.com/black-friday-sale/  
 30% off and 4 months subscription with code: BLACKFRIDAY21 \
-Ends: 2nd December 2021
+Ends: 2nd December
 
 DevUtils \
 Offline Toolbox with Develper/Security applications\
 https://devutils.app/  
-30% off - BLACKFRIDAY_2021S
+30% off with code: BLACKFRIDAY_2021S
 
 GrayHatWarfare (the shodan for S3 buckets/shorteners) :see_no_evil:\
 https://grayhatwarfare.com/packages  
@@ -52,22 +52,23 @@ https://proxyman.io
 Pulsedive Threat Intelligence :see_no_evil:\
 https://pulsedive.com/about/pro  
 https://pulsedive.com/about/api  
-Incoming deal on Pulsedive Pro or API plans when released
+Incoming deal on Pulsedive Pro or API plans released on 24th November
 
 Sn1per Elite Bundle \
 https://sn1persecurity.com/wordpress/black-friday-sale/  
 15% discount ($132 savings)  
-Ends: 27th 2021 11:59 PM PST
+Ends: 28th November
 
-Workflow86 (Document/automate security operation playbooks and business processes - https://news.ycombinator.com/item?id=29152173) :see_no_evil:\
+Workflow86 (Document/automate security operation playbooks and business processes) :see_no_evil: \
+https://news.ycombinator.com/item?id=29152173  
 https://www.workflow86.com  
 30% off any plan for 3 months with code: BLACKFRIDAY2021 \
-Ends: 30 November 2021
+Ends: 30 November
 
 SimpleLogin \
 https://simplelogin.io/pricing/   
-$20 first year then $30/year   
-Ends: 30th November, 2021   
+$20 first year applied to cart
+Ends: 30th November   
 
 Tenable :see_no_evil:\
 https://www.tenable.com/buy  
@@ -85,24 +86,24 @@ MalwareBytes \
 https://try.malwarebytes.com/  
 60% off Malwarebytes Premium, 50% OFF Malwarebytes Premium + Privacy \
 https://try.malwarebytes.com/back-to-business/  
-25% off Endpoint, Detection and Response products \
+25% off Endpoint, Detection and Response products
 
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
 https://store.7asecurity.com/  
 40% off with code: BFCM40 \
-Valid from November 17th to December 1st
+Ends: December 1st
 
 Burp Suite Certified Practitioner \
 https://portswigger.net/blog/burp-suite-certification-prices-hacked-for-black-friday \
 November 16 - November 30 2021: The certification exam is on sale for $9. \
-Purchase date - December 15 2021: If you pass your exam, you qualify for a refund. (If you pass your exam after 15 December 2021, you do not qualify for a refund.)
+Purchase date - December 15 2021: If you pass your exam before 15 Dec 21, you qualify for a refund
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:\
 https://training.dronesec.com/p/Black-Friday-2021  
-67% off with code: BFMETAVERSE
-Ends: November 30 2021
+67% off with code: BFMETAVERSE \
+Ends: 30th November
 
 LetsDefend - Blue Team Training \
 https://letsdefend.io/  
@@ -150,7 +151,9 @@ Ends: 3rd December
 
 Pensterlab Black friday sale :see_no_evil:\
 https://pentesterlab.com/pro  
-27% off one year subscription - no code needed (1) $146 instead of $199 (2) 29.99 instead of 34.99 for students
+27% off one year subscription \
+(1) $146 instead of $199 \
+(2) 29.99 instead of 34.99 for students
 
 The Cyber Mentor (TCM) Security Courses \
 https://academy.tcm-sec.com/  
@@ -163,7 +166,7 @@ Ends: 26th November
 
 ISACA InfoSec/GRC Training \
 https://www.isaca.org/go/flash  
-15% off CISA/CISM/CRISC/CGEIT/CDPSE training & cert with code: FLASHSALE15
+15% off CISA/CISM/CRISC/CGEIT/CDPSE training & cert with code: FLASHSALE15 \
 Ends: 15th December
 
 International Cybersecurity Institute ICSI\
