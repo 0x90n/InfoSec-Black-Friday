@@ -788,7 +788,7 @@ https://www.itrainsec.com/financial-re
 20% discount until Tuesday Dec 1 with code: BLCKFRDYFMA
 
 ## How to edit formatting
-At the end of a normal sentance, place a backslash for newline (\)
+At the end of a normal sentence, place a backslash for newline (\)
 Alternatively with a link, you can double-space (  )
 
 ## Credits
