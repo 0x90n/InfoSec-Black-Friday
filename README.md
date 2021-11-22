@@ -166,8 +166,8 @@ https://www.comptia.org/content/lp/black-friday-preview
 Unknown discount releasing shortly
 
 Riot (Phishing simulation training + cybersecurity awareness on Slack) \
-https://www.tryriot.com
-20% off everything with the **BLACKFRIDAY** code
+https://www.tryriot.com  
+20% off everything with the **BLACKFRIDAY** code \
 Ends: December 1st
 
 
