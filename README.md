@@ -204,7 +204,7 @@ Various deals released 22nd November
 
 Miscreants Cyber & Security clothing \
 https://shopmiscreants.com/  
-25% off with code: 0x090n
+25% off with code: 0x90n
 
 ## Books:
 
