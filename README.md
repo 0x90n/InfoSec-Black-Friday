@@ -6,6 +6,7 @@ The below deals have either publicly announced they'll be doing a deal or highly
 - All USD
 - All End times in UTC
 - DYOR and AYOR: I have not vetted links for legitimacy
+- Some deals use my handle for tracking - these are not referral/affiliate/commission
 
 ## FAQ
 ### When do these sales end?
@@ -192,6 +193,12 @@ Multiple discounts applied to cart
 Yubico/Yubikey \
 https://www.yubico.com/au/store/black-friday/  
 Various deals released 22nd November
+
+## Clothing:
+
+Miscreants Cyber & Security clothing \
+https://shopmiscreants.com/  
+25% off with code: 0x090n
 
 ## Books:
 
