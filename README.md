@@ -160,6 +160,20 @@ https://www.icsi.co.uk/
 50% off courses releasing 22nd November \
 Ends: 29th November
 
+CompTIA Courses \
+https://www.comptia.org/content/lp/black-friday-preview
+Unknown discount releasing shortly
+
+## Mini Course Bundles:
+
+A to Z Cyber Security Training Bundle (12 courses) \
+https://store.boingboing.net/sales/the-a-to-z-cyber-security-it-certification-training-bundle  
+$19.97 applied to cart
+
+2022 Ultimate Cybersecurity Analyst Prep Bundle (8 courses) \
+https://deals.bleepingcomputer.com/sales/the-2022-ultimate-cybersecurity-analyst-certification-preparation-bundle  
+$29.99 applied to cart
+
 ## Hardware:
 
 Hak5 hacking hardware for pentesters :see_no_evil::see_no_evil:\
@@ -174,6 +188,10 @@ https://www.pcwrt.com/
 ifixit (Hardware and electronics equipment) \
 https://www.ifixit.com/black-friday-holiday  
 Multiple discounts applied to cart
+
+Yubico/Yubikey \
+https://www.yubico.com/au/store/black-friday/  
+Various deals released 22nd November
 
 ## Books:
 
