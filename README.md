@@ -231,7 +231,7 @@ https://surfshark.com/deals
 83% off + 3 months free applied to cart
 
 PureVPN \
-https://www.purevpn.com/best-discount-offer?aff=41859
+https://www.purevpn.com/best-discount-offer?aff=41859  
 use coupon code: SAVEMORE, 5-year plan 67.96 USD
 
 Lowendbox - IT/Cloud/Networking sytems \
