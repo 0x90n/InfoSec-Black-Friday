@@ -75,6 +75,11 @@ https://burpbounty.net/
 https://order.shareit.com/cart/add?vendorid=200287980&PRODUCT%5B300991779%5D=1  
 20% off with code: CYBERBOUNTY
 
+Parallels Desktop 17 for Mac \
+https://www.parallels.com/uk/products/desktop/buy/  
+20% off applied at checkout \
+Ends: 2nd December
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
