@@ -233,6 +233,10 @@ Dawid Czagan's Web Hacking Secrets :see_no_evil:\
 https://silesiasecuritylab.com/  
 90% discount promo code: BlackFriday2020
 
+CompTIA Training
+https://global-store.comptia.org/
+Up To 42% on CompTIA Training & Certifications
+
 ## Services:
 
 ProtonMail\
