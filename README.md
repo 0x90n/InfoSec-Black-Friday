@@ -187,17 +187,17 @@ Unknown discount releasing shortly
 
 Riot (Phishing simulation training + cybersecurity awareness on Slack) \
 https://www.tryriot.com  
-20% off everything with the **BLACKFRIDAY** code \
+20% off everything with code: BLACKFRIDAY \
 Ends: December 1st
 
 Try Hack Me (Red and Blue team CTF exercises) \
 https://tryhackme.com/ 
-20% off annual subscription with the **AOC2021** code \
+20% off annual subscription with code: AOC2021 \
 Ends: December 7th
 
 Fuzzinglabs Academy \
-https://academy.fuzzinglabs.com/coupon=BLACKFRIDAY2021
-15% off everything with the **BLACKFRIDAY2021** code \
+https://academy.fuzzinglabs.com/coupon=BLACKFRIDAY2021  
+15% off everything with code: BLACKFRIDAY2021 \
 Ends: December 1st
 
 ## Mini Course Bundles:
