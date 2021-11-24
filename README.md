@@ -182,6 +182,11 @@ https://www.tryriot.com
 20% off everything with the **BLACKFRIDAY** code \
 Ends: December 1st
 
+Try Hack Me (Red and Blue team CTF exercises) \
+https://tryhackme.com/ 
+20% off annual subscription with the **AOC2021** code \
+Ends: December 7th
+
 
 ## Mini Course Bundles:
 
