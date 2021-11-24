@@ -221,6 +221,10 @@ Hak5 hacking hardware for pentesters :see_no_evil::see_no_evil:\
 https://shop.hak5.org/  
 Huge discounts + free gear
 
+Lab401: Hardware for Pentesters, Law Enforcement and Hobbyists. Specialising in RFID.
+https://lab401.com
+Site-wide discounts + free hardware
+
 pcWRT Secure WiFi Router \
 Router with all privacy tools builtin: VLAN, VPN, Ad Block, DoH, Access Control, Monitoring \
 https://www.pcwrt.com/  
