@@ -53,7 +53,8 @@ https://proxyman.io
 Pulsedive Threat Intelligence :see_no_evil:\
 https://pulsedive.com/about/pro  
 https://pulsedive.com/about/api  
-Incoming deal on Pulsedive Pro or API plans released on 24th November
+Get 50% off 12 months of Pulsedive Pro or API by using code "BLACKFRIDAY21"
+Ends: November 30th
 
 Sn1per Elite Bundle \
 https://sn1persecurity.com/wordpress/black-friday-sale/  
