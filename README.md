@@ -24,7 +24,7 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be i
 
 ## Newsletters
 
-Return on Security\
+Return on Security :see_no_evil:\
 https://www.returnonsecurity.com/black-friday-25 \
 25% off the [Pro Membership](https://www.returnonsecurity.com/pro-reports/) for 3 months with code: black-friday-25
 
@@ -75,7 +75,6 @@ https://burpbounty.net/
 https://order.shareit.com/cart/add?vendorid=200287980&PRODUCT%5B300991779%5D=1  
 20% off with code: CYBERBOUNTY
 
-
 Parallels Desktop 17 for Mac \
 https://www.parallels.com/uk/products/desktop/buy/  
 20% off applied at checkout \
@@ -103,6 +102,10 @@ DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_n
 https://training.dronesec.com/p/Black-Friday-2021  
 67% off with code: BFMETAVERSE \
 Ends: 30th November
+
+Reverse Engineering Malware course :see_no_evil:\
+htts://www.reverse-engineer.net/hexorcism-training  
+20% off with code: BLACKFRIDAY2021 \
 
 LetsDefend - Blue Team Training \
 https://letsdefend.io/  
@@ -223,6 +226,10 @@ Miscreants Cyber & Security clothing \
 https://shopmiscreants.com/  
 25% off with code: 0x90n
 
+Red Team t-shirts and other stuff \
+https://RedTeam.vip/shop  
+20% off with code: BLACKFRIDAY21
+
 ## Books:
 
 Apress Books :see_no_evil:\
@@ -273,6 +280,11 @@ https://try.malwarebytes.com/
 60% off Malwarebytes Premium, 50% OFF Malwarebytes Premium + Privacy \
 https://try.malwarebytes.com/back-to-business/  
 25% off Endpoint, Detection and Response products
+
+SSLTrust Certs \
+ssltrust.com.au/  
+20% off Comodo/Sectigo SSL orders with code: 20BLACK \
+Ends: 1st December
 
 ------------------------------------------------------------------------------------------------------------------
 
