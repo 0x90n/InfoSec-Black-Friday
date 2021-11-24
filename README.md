@@ -195,6 +195,10 @@ https://tryhackme.com/
 20% off annual subscription with the **AOC2021** code \
 Ends: December 7th
 
+Fuzzinglabs Academy \
+https://academy.fuzzinglabs.com/coupon=BLACKFRIDAY2021
+15% off everything with the **BLACKFRIDAY2021** code \
+Ends: December 1st
 
 ## Mini Course Bundles:
 
