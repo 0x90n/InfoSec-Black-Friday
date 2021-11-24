@@ -66,6 +66,11 @@ https://www.workflow86.com
 30% off any plan for 3 months with code: BLACKFRIDAY2021 \
 Ends: 30 November
 
+ExploitPack \
+https://exploitpack.com/  
+Buy a Premium license and it will be upgraded to LIFETIME, no extra fees, no annual payments \
+Ends: Once 10 licenses have exhausted or 26th November \
+
 Tenable :see_no_evil:\
 https://www.tenable.com/buy  
 50% off Nessus PRO with code: takehalf
@@ -200,6 +205,10 @@ $19.97 applied to cart
 2022 Ultimate Cybersecurity Analyst Prep Bundle (8 courses) \
 https://deals.bleepingcomputer.com/sales/the-2022-ultimate-cybersecurity-analyst-certification-preparation-bundle  
 $29.99 applied to cart
+
+InfoSecInstitute \
+https://www.infosecinstitute.com/skills/black-friday-boot-camps  
+Up to 30% off
 
 ## Hardware:
 
