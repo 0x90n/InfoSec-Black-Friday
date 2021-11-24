@@ -101,6 +101,11 @@ A PHP Tinker desktop app that helps you run testing code on the local machine an
 https://tinker2.app/  
 50% off with code: BLACKFRIDAY
 
+010 Editor \
+https://sweetscape.com/010editor/  
+30% off applied to cart
+Ends: November 29th
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
