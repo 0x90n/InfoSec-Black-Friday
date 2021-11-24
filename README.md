@@ -189,7 +189,7 @@ Ends: 29th November
 
 CompTIA Courses \
 https://www.comptia.org/content/lp/black-friday-preview
-Unknown discount releasing shortly
+Seems to be very small discounts (e.g. $150 off)
 
 Riot (Phishing simulation training + cybersecurity awareness on Slack) \
 https://www.tryriot.com  
@@ -205,6 +205,11 @@ Fuzzinglabs Academy \
 https://academy.fuzzinglabs.com/coupon=BLACKFRIDAY2021  
 15% off everything with code: BLACKFRIDAY2021 \
 Ends: December 1st
+
+O'Reilly Learning \
+https://www.oreilly.com/  
+40% discount with code: CYBERSAVINGS21 \
+Ends November 29th
 
 ## Mini Course Bundles:
 
@@ -443,11 +448,6 @@ https://knoxss.me/?page_id=7
 Up to 40% OFF
 
 ## Courses & Training:
-
-O'Reilly Books\
-https://www.oreilly.com/  
-40% discount with code: CYBERSAVINGS21 ends November 29th
-
 
 OffSec AWAE :see_no_evil:\
 https://www.offensive-security.com/awae-oswe/  
