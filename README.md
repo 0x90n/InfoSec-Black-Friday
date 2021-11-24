@@ -217,6 +217,10 @@ Up to 30% off
 
 ## Hardware:
 
+Covert Instruments (lockpicks)
+https://covertinstruments.com/collections/black-friday
+Various discounts on lockpicks
+
 Hak5 hacking hardware for pentesters :see_no_evil::see_no_evil:\
 https://shop.hak5.org/  
 Huge discounts + free gear
