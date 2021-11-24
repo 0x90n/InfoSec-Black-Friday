@@ -444,6 +444,11 @@ Up to 40% OFF
 
 ## Courses & Training:
 
+O'Reilly Books\
+https://www.oreilly.com/  
+40% discount with code: CYBERSAVINGS21 ends November 29th
+
+
 OffSec AWAE :see_no_evil:\
 https://www.offensive-security.com/awae-oswe/  
 Various discounts per labs length
