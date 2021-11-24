@@ -92,6 +92,11 @@ https://secupress.me
 3 sites for price of 1, no code needed, from 25th to 26th Nov 2021 \
 Lifetime Licences available, no code needed, from 27th to 30th Nov 2021 \
 
+Tinker 2 \
+A PHP Tinker desktop app that helps you run testing code on the local machine and remote server.\
+https://tinker2.app/  
+50% off with code: BLACKFRIDAY
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
