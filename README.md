@@ -75,6 +75,12 @@ https://burpbounty.net/
 https://order.shareit.com/cart/add?vendorid=200287980&PRODUCT%5B300991779%5D=1  
 20% off with code: CYBERBOUNTY
 
+
+Parallels Desktop 17 for Mac \
+https://www.parallels.com/uk/products/desktop/buy/  
+20% off applied at checkout \
+Ends: 2nd December
+
 SecuPress Pro, WordPress Security Plugin \
 https://secupress.me  
 20% OFF with code BF2021 from 23rd to 24th Nov 2021 \
