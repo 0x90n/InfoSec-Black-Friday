@@ -105,7 +105,7 @@ Ends: November 29th
 
 Mana Security \
 macOS vulnerability management for individuals \
-https://www.manasecurity.com/
+https://www.manasecurity.com/  
 80% off annual subscription with code: CYBERMONDAY \
 $11.99 instead of $59.99 \
 Ends: 2nd December
