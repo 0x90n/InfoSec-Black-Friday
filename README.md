@@ -103,6 +103,13 @@ https://sweetscape.com/010editor/
 30% off applied to cart
 Ends: November 29th
 
+Mana Security \
+macOS vulnerability management for individuals \
+https://www.manasecurity.com/
+80% off annual subscription with code: CYBERMONDAY \
+$11.99 instead of $59.99 \
+Ends: 2nd December
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
