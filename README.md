@@ -39,7 +39,7 @@ https://securestack.com/black-friday-sale/
 Ends: 2nd December
 
 DevUtils \
-Offline Toolbox with Develper/Security applications\
+Offline Toolbox with Developer/Security applications\
 https://devutils.app/  
 30% off with code: BLACKFRIDAY_2021S
 
