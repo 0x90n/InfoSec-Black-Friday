@@ -183,7 +183,11 @@ https://pentesterlab.com/pro
 
 The Cyber Mentor (TCM) Security Courses \
 https://academy.tcm-sec.com/  
-(1) 50% off all courses (2) 20% off PNPT Certification
+(1) 50% off all courses  with code: GIVETHANKS
+https://certifications.tcm-sec.com 
+(2) 20% off PNPT Certification with code: GIVETHANKS
+
+Coupon Code: GIVETHANKS
 
 Cybr Courses (Ethical Hacking & Security+ courses) \
 https://cybr.com/  
@@ -248,7 +252,18 @@ InfoSecInstitute \
 https://www.infosecinstitute.com/skills/black-friday-boot-camps  
 Up to 30% off
 
+Cristina Gheorghisan Reverse Engineering Bundle (Udemy) \
+https://udemy.com/course/reverse-engineering-essentials/  
+https://udemy.com/course/reverse-engineering-deep-dive/  
+https://udemy.com/course/ida-pro-3-hours-primer/  
+Lowest possible price with code: ENDOFNOVLEARN 
+Ends: November 29th
+
 ## Hardware:
+
+KSEC LABS (Red Team Tools, Locksmith, Hacker Gadgets) :see_no_evil:\
+https://labs.ksec.co.uk/black-friday-sale/  
+Various discounts, free items, free shipping and codes on page to use
 
 Covert Instruments (lockpicks) \
 https://covertinstruments.com/collections/black-friday  
@@ -301,6 +316,10 @@ https://nostarch.com/blog/2021-holiday-gift-guide
 Ends: November 29th
 
 ## Services:
+
+PrivacyBunker (GDPR) \
+https://privacybunker.io/  
+50% discount for full-year subscription with coupon: BLACKFRIDAY
 
 NordVPN \
 https://nordvpn.com/offer/  
