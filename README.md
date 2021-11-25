@@ -61,7 +61,7 @@ Get 50% off 12 months of Pulsedive Pro or API by using code "BLACKFRIDAY21"
 Ends: November 30th
 
 Sn1per Elite Bundle \
-<temporarily removed>
+temporarily removed
 
 Workflow86 (Document/automate security operation playbooks and business processes) :see_no_evil: \
 https://news.ycombinator.com/item?id=29152173  
@@ -72,7 +72,7 @@ Ends: 30 November
 ExploitPack \
 https://exploitpack.com/  
 Buy a Premium license and it will be upgraded to LIFETIME, no extra fees, no annual payments \
-Ends: Once 10 licenses have exhausted or 26th November \
+Ends: Once 10 licenses have exhausted or 26th November
 
 Tenable :see_no_evil:\
 https://www.tenable.com/buy  
@@ -92,10 +92,10 @@ SecuPress Pro, WordPress Security Plugin \
 https://secupress.me  
 20% OFF with code BF2021 from 23rd to 24th Nov 2021 \
 3 sites for price of 1, no code needed, from 25th to 26th Nov 2021 \
-Lifetime Licences available, no code needed, from 27th to 30th Nov 2021 \
+Lifetime Licences available, no code needed, from 27th to 30th Nov 2021
 
 Tinker 2 \
-A PHP Tinker desktop app that helps you run testing code on the local machine and remote server.\
+A PHP Tinker desktop app that helps you run testing code on the local machine and remote server. \
 https://tinker2.app/  
 50% off with code: BLACKFRIDAY
 
@@ -123,7 +123,7 @@ Ends: 30th November
 
 Reverse Engineering Malware course :see_no_evil:\
 htts://www.reverse-engineer.net/hexorcism-training  
-20% off with code: BLACKFRIDAY2021 \
+20% off with code: BLACKFRIDAY2021
 
 LetsDefend - Blue Team Training \
 https://letsdefend.io/  
