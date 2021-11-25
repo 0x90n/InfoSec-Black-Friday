@@ -181,6 +181,11 @@ The Cyber Mentor (TCM) Security Courses \
 https://academy.tcm-sec.com/  
 (1) 50% off all courses (2) 20% off PNPT Certification
 
+Cybr Courses (Ethical Hacking & Security+ courses) \
+https://cybr.com/
+Up to 63% off Bundles and Courses
+Ends 29th November
+
 Practical DevSecOps \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses
