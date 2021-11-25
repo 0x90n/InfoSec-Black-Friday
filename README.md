@@ -230,8 +230,8 @@ https://www.oreilly.com/
 Ends November 29th
 
 Cybrary Insider Pro \
-https://www.cybrary.it/upgrade/
-70% discount if paid annualy ($228/yr or $19/month)
+https://www.cybrary.it/upgrade/  
+70% discount if paid annualy ($228/yr or $19/month) \
 Ends November 26th
 
 ## Mini Course Bundles:
