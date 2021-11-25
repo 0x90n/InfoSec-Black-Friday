@@ -1,12 +1,11 @@
-# InfoSec Black Friday Deals
+# InfoSec Black Friday Deals (e.g. "Hack Friday" ~@snyff)
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $$$ during lockdowns.
 
-Heard of an early deal? Let's get this rolling 🎉
 The below deals have either publicly announced they'll be doing a deal or highly expected.
 - All USD
 - All End times in UTC
 - DYOR and AYOR: I have not vetted links for legitimacy
-- Some deals use my handle for tracking - these are not referral/affiliate/commission
+- Some deals use my handle for tracking - these are **not** referral/affiliate/commission
 
 ## FAQ
 ### When do these sales end?
@@ -286,7 +285,8 @@ Up to 80% off applied to cart
 
 NoStarch Press \
 https://nostarch.com/blog/2021-holiday-gift-guide  
-Various deals on books applied to cart
+35% off + FREE shipping on all domestic orders over $50 with code: BLACKFRIDAY35 \
+Ends: November 29th
 
 ## Services:
 
