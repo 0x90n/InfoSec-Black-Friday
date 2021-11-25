@@ -299,6 +299,10 @@ PureVPN \
 https://www.purevpn.com/best-discount-offer?aff=41859  
 use coupon code: SAVEMORE, 5-year plan 67.96 USD
 
+F-Secure TOTAL and FREEDOME VPN \
+https://campaigns.f-secure.com/blackweek21/us-en/  
+50% off, VPN 2-year plan for 5 devices 49.99 USD
+
 Lowendbox - IT/Cloud/Networking sytems \
 https://lowendbox.com/blog/what-is-black-friday/  
 Variety of deals releasing 24th November
