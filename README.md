@@ -239,6 +239,11 @@ https://www.cybrary.it/upgrade/
 70% discount if paid annualy ($228/yr or $19/month) \
 Ends November 26th
 
+CyberWarFare Labs :see_no_evil:\
+https://courses.cyberwarfare.live/black-friday-sale-2021
+Upto 60% discount on bundle courses. 20% on each course
+Limited Duration
+
 ## Mini Course Bundles:
 
 A to Z Cyber Security Training Bundle (12 courses) \
