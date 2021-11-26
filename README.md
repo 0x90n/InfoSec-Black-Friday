@@ -188,8 +188,6 @@ https://academy.tcm-sec.com/
 https://certifications.tcm-sec.com 
 (2) 20% off PNPT Certification with code: GIVETHANKS
 
-Coupon Code: GIVETHANKS
-
 Cybr Courses (Ethical Hacking & Security+ courses) \
 https://cybr.com/  
 Up to 63% off Bundles and Courses \
@@ -238,6 +236,11 @@ Cybrary Insider Pro \
 https://www.cybrary.it/upgrade/  
 70% discount if paid annualy ($228/yr or $19/month) \
 Ends November 26th
+
+CyberWarFare Labs \
+https://courses.cyberwarfare.live/black-friday-sale-2021  
+Up to 60% discount on bundle courses. 20% on each course \
+Limited Duration
 
 ## Mini Course Bundles:
 
