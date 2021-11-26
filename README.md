@@ -242,6 +242,11 @@ https://courses.cyberwarfare.live/black-friday-sale-2021
 Up to 60% discount on bundle courses. 20% on each course \
 Limited Duration
 
+NetworkDefense.io - Blue Team Training  \
+https://networkdefense.io/ | [tweet](https://twitter.com/NetworkDefense/status/1464217050159665157) \
+All Courses 20-25% Off, no code needed. \
+Ends 2021-11-30 00:00 ET
+
 ## Mini Course Bundles:
 
 A to Z Cyber Security Training Bundle (12 courses) \
