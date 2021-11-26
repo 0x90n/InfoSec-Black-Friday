@@ -60,7 +60,8 @@ Get 50% off 12 months of Pulsedive Pro or API by using code "BLACKFRIDAY21"
 Ends: November 30th
 
 Sn1per Elite Bundle \
-temporarily removed
+https://sn1persecurity.com/wordpress/product/sn1per-professional-v9-0-elite-bundle-v2/  
+Discounts applied to cart
 
 Workflow86 (Document/automate security operation playbooks and business processes) :see_no_evil: \
 https://news.ycombinator.com/item?id=29152173  
