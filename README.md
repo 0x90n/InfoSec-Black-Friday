@@ -111,6 +111,12 @@ https://www.manasecurity.com/
 $11.99 instead of $59.99 \
 Ends: 2nd December
 
+ishim — All-in-one Domain Tools \
+WHOIS, bulk availability check, 1-word name generator, and more \
+https://ish.im/black-friday \
+60% off for lifetime Desktop license (use Black Friday URL) \
+Ends: 2nd December
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
