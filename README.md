@@ -206,7 +206,7 @@ Ends: 29th November
 Practical DevSecOps \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses
-Ends: 26th November
+Ends: 30th November
 
 ISACA InfoSec/GRC Training \
 https://www.isaca.org/go/flash  
