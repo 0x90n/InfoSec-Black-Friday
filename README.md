@@ -244,8 +244,13 @@ Limited Duration
 
 NetworkDefense.io - Blue Team Training  \
 https://networkdefense.io/ | [tweet](https://twitter.com/NetworkDefense/status/1464217050159665157) \
-All Courses 20-25% Off, no code needed. \
-Ends 2021-11-30 00:00 ET
+All Courses 20-25% Off, applied to cart \
+Ends: November 30th 00:00 ET
+
+Zero-Point Security \
+https://www.zeropointsecurity.co.uk/  
+15% off Red Team Ops and C2 Development in C# \
+Limited Duration
 
 ## Mini Course Bundles:
 
