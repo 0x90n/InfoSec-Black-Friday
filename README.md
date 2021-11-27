@@ -116,6 +116,11 @@ https://www.manasecurity.com/
 $11.99 instead of $59.99 \
 Ends: 2nd December
 
+Maltego OSINT and Forensics :see_no_evil:\
+https://buy.maltego.com/shop/default/  
+50% off to Upgrade to Maltego Pro plan with code: MALTEGO_CYBERMONDAY 
+Ends: November 29th CET
+
 ## Courses & Training
 
 7ASecurity Black friday sale on any course \
@@ -259,7 +264,7 @@ Ends: November 30th 00:00 ET
 
 Zero-Point Security \
 https://www.zeropointsecurity.co.uk/  
-15% off Red Team Ops and C2 Development in C# \
+15% off Red Team Ops and C2 Development in C#, CRTO exam voucher with code: CYBER15 \
 Limited Duration
 
 ## Mini Course Bundles:
@@ -339,6 +344,11 @@ https://nostarch.com/blog/2021-holiday-gift-guide
 35% off + FREE shipping on all domestic orders over $50 with code: BLACKFRIDAY35 \
 Ends: November 29th
 
+Hackin9 \
+https://hakin9.org/shop/  
+Up to 50% off applied to cart \
+Ends: November 27th
+
 ## Services:
 
 PrivacyBunker (GDPR) \
@@ -388,6 +398,11 @@ SSLTrust Certs \
 ssltrust.com.au/  
 20% off Comodo/Sectigo SSL orders with code: 20BLACK \
 Ends: 1st December
+
+ProtonVPN \
+https://protonvpn.com/support/year-end-offer-terms-2021/  
+50% off Plus plan applied to cart \
+Ends: January 1st 2022 CET
 
 -----------------------------------------------------------------------------------------
 
