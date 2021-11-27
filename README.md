@@ -247,6 +247,11 @@ https://courses.cyberwarfare.live/black-friday-sale-2021
 Up to 60% discount on bundle courses. 20% on each course \
 Limited Duration
 
+SEKTOR7 Institute - Red team courses \
+https://institute.sektor7.net/ | [tweet](https://twitter.com/SEKTOR7net/status/1462759326859280395) \
+$30 off the regular price \
+Ends: November 30th
+
 NetworkDefense.io - Blue Team Training  \
 https://networkdefense.io/ | [tweet](https://twitter.com/NetworkDefense/status/1464217050159665157) \
 All Courses 20-25% Off, applied to cart \
