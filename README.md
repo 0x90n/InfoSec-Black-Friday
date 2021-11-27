@@ -118,7 +118,7 @@ Ends: 2nd December
 
 Maltego OSINT and Forensics :see_no_evil:\
 https://buy.maltego.com/shop/default/  
-50% off to Upgrade to Maltego Pro plan with code: MALTEGO_CYBERMONDAY 
+50% off to Upgrade to Maltego Pro plan with code: MALTEGO_CYBERMONDAY \
 Ends: November 29th CET
 
 ## Courses & Training
