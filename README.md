@@ -242,6 +242,11 @@ https://courses.cyberwarfare.live/black-friday-sale-2021
 Up to 60% discount on bundle courses. 20% on each course \
 Limited Duration
 
+Zero-Point Security \
+https://www.zeropointsecurity.co.uk/  
+15% off Red Team Ops and C2 Development in C# \
+Limited Duration
+
 ## Mini Course Bundles:
 
 A to Z Cyber Security Training Bundle (12 courses) \
