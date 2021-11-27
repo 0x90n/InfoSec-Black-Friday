@@ -242,6 +242,11 @@ https://courses.cyberwarfare.live/black-friday-sale-2021
 Up to 60% discount on bundle courses. 20% on each course \
 Limited Duration
 
+SEKTOR7 Institute - Red team courses \
+https://institute.sektor7.net/ | [tweet](https://twitter.com/SEKTOR7net/status/1462759326859280395) \
+$30 off the regular price \
+Ends November 30th
+
 ## Mini Course Bundles:
 
 A to Z Cyber Security Training Bundle (12 courses) \
