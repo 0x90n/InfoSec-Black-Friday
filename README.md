@@ -379,7 +379,7 @@ https://murusfirewall.com/
 50% off applied to cart
 
 MalwareBytes \
-https://try.malwarebytes.com/  
+https://malwarebytes.com/  
 60% off Malwarebytes Premium, 50% OFF Malwarebytes Premium + Privacy \
 https://try.malwarebytes.com/back-to-business/  
 25% off Endpoint, Detection and Response products
