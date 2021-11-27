@@ -245,7 +245,7 @@ Limited Duration
 SEKTOR7 Institute - Red team courses \
 https://institute.sektor7.net/ | [tweet](https://twitter.com/SEKTOR7net/status/1462759326859280395) \
 $30 off the regular price \
-Ends November 30th
+Ends: November 30th
 
 ## Mini Course Bundles:
 
