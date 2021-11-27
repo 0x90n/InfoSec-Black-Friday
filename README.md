@@ -31,6 +31,11 @@ Return on Security :see_no_evil:\
 https://www.returnonsecurity.com/black-friday-25 \
 25% off the [Pro Membership](https://www.returnonsecurity.com/pro-reports/) for 3 months with code: black-friday-25
 
+Daniel Miessler - Unsupervised Learning \
+https://danielmiessler.memberful.com/checkout?plan=53074&coupon=blackfriday | [tweet](https://twitter.com/DanielMiessler/status/1464309860904824834) \
+$20 USD off the annual membership ($79 USD) \
+Ends: 30th November 00:00 PT
+
 ## Tools
 
 Securestack DevSecOps platform :see_no_evil:\
@@ -246,6 +251,16 @@ SEKTOR7 Institute - Red team courses \
 https://institute.sektor7.net/ | [tweet](https://twitter.com/SEKTOR7net/status/1462759326859280395) \
 $30 off the regular price \
 Ends: November 30th
+
+NetworkDefense.io - Blue Team Training  \
+https://networkdefense.io/ | [tweet](https://twitter.com/NetworkDefense/status/1464217050159665157) \
+All Courses 20-25% Off, applied to cart \
+Ends: November 30th 00:00 ET
+
+Zero-Point Security \
+https://www.zeropointsecurity.co.uk/  
+15% off Red Team Ops and C2 Development in C# \
+Limited Duration
 
 ## Mini Course Bundles:
 
