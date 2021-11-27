@@ -34,7 +34,7 @@ https://www.returnonsecurity.com/black-friday-25 \
 Daniel Miessler - Unsupervised Learning \
 https://danielmiessler.memberful.com/checkout?plan=53074&coupon=blackfriday | [tweet](https://twitter.com/DanielMiessler/status/1464309860904824834) \
 $20 USD off the annual membership ($79 USD) \
-Ends 2021-11-30 00:00 PT
+Ends: 30th November 00:00 PT
 
 ## Tools
 
