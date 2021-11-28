@@ -31,6 +31,11 @@ Return on Security :see_no_evil:\
 https://www.returnonsecurity.com/black-friday-25 \
 25% off the [Pro Membership](https://www.returnonsecurity.com/pro-reports/) for 3 months with code: black-friday-25
 
+Daniel Miessler - Unsupervised Learning \
+https://danielmiessler.memberful.com/checkout?plan=53074&coupon=blackfriday | [tweet](https://twitter.com/DanielMiessler/status/1464309860904824834) \
+$20 USD off the annual membership ($79 USD) \
+Ends: 30th November 00:00 PT
+
 ## Tools
 
 Securestack DevSecOps platform :see_no_evil:\
@@ -110,6 +115,11 @@ https://www.manasecurity.com/
 80% off annual subscription with code: CYBERMONDAY \
 $11.99 instead of $59.99 \
 Ends: 2nd December
+
+Maltego OSINT and Forensics :see_no_evil:\
+https://buy.maltego.com/shop/default/  
+50% off to Upgrade to Maltego Pro plan with code: MALTEGO_CYBERMONDAY \
+Ends: November 29th CET
 
 ## Courses & Training
 
@@ -196,7 +206,7 @@ Ends: 29th November
 Practical DevSecOps \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses
-Ends: 26th November
+Ends: 30th November
 
 ISACA InfoSec/GRC Training \
 https://www.isaca.org/go/flash  
@@ -242,9 +252,19 @@ https://courses.cyberwarfare.live/black-friday-sale-2021
 Up to 60% discount on bundle courses. 20% on each course \
 Limited Duration
 
+SEKTOR7 Institute - Red team courses \
+https://institute.sektor7.net/ | [tweet](https://twitter.com/SEKTOR7net/status/1462759326859280395) \
+$30 off the regular price \
+Ends: November 30th
+
+NetworkDefense.io - Blue Team Training  \
+https://networkdefense.io/ | [tweet](https://twitter.com/NetworkDefense/status/1464217050159665157) \
+All Courses 20-25% Off, applied to cart \
+Ends: November 30th 00:00 ET
+
 Zero-Point Security \
 https://www.zeropointsecurity.co.uk/  
-15% off Red Team Ops and C2 Development in C# \
+15% off Red Team Ops and C2 Development in C#, CRTO exam voucher with code: CYBER15 \
 Limited Duration
 
 ## Mini Course Bundles:
@@ -324,6 +344,11 @@ https://nostarch.com/blog/2021-holiday-gift-guide
 35% off + FREE shipping on all domestic orders over $50 with code: BLACKFRIDAY35 \
 Ends: November 29th
 
+Hackin9 \
+https://hakin9.org/shop/  
+Up to 50% off applied to cart \
+Ends: November 27th
+
 ## Services:
 
 PrivacyBunker (GDPR) \
@@ -373,6 +398,11 @@ SSLTrust Certs \
 ssltrust.com.au/  
 20% off Comodo/Sectigo SSL orders with code: 20BLACK \
 Ends: 1st December
+
+ProtonVPN \
+https://protonvpn.com/support/year-end-offer-terms-2021/  
+50% off Plus plan applied to cart \
+Ends: January 1st 2022 CET
 
 -----------------------------------------------------------------------------------------
 
