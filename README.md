@@ -395,7 +395,7 @@ https://try.malwarebytes.com/back-to-business/
 25% off Endpoint, Detection and Response products
 
 SSLTrust Certs \
-ssltrust.com.au/  
+https://ssltrust.com.au/  
 20% off Comodo/Sectigo SSL orders with code: 20BLACK \
 Ends: 1st December
 
