@@ -319,6 +319,12 @@ Yubico/Yubikey \
 https://www.yubico.com/au/store/black-friday/  
 Various deals released 22nd November
 
+CatSniffer \
+Open source hardware for sniffing, communicating, and attacking IoT (Internet of Things) devices.  \
+https://electroniccats.com/store/catsniffer/
+30% off applied to cart
+Ends: November 29th
+
 ## Clothing:
 
 Miscreants Cyber & Security clothing \
