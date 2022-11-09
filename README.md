@@ -1,7 +1,7 @@
 # InfoSec Black Friday Deals ~ "Hack Friday" 2022 Edition
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $8 on blue and got a free :see_no_evil: instead.
 
-This list is for you if you are in: all teh cyberz, penetration tester, blue team, red team, purple team, secure code, exploit research and development, vulnerability management, threat hunting, incident response, forensics, intelligence, threat intelligence, open-source intelligence, governance/risk/compliance, security architect, network security, CSO/CISO, AppSec, DevSecOps, consulting, security awareness, and <insert your role here>
+This list is for you if you are in: all teh cyberz, penetration tester, blue team, red team, purple team, secure code, exploit research and development, vulnerability management, threat hunting, incident response, forensics, intelligence, threat intelligence, open-source intelligence, governance/risk/compliance, security architect, network security, CSO/CISO, AppSec, DevSecOps, consulting, security awareness, and -insert your role here-
 
 The below deals have either publicly announced they'll be doing a deal or highly expected.
 - All USD
