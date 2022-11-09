@@ -24,9 +24,9 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be i
 
 *Disclaimer: I have included my own, and other discount codes sent in directly by DM/Pigeon/Smoke signals.
 
-PS - if this list helped you and you'd like to say thanks, consider a $2 donation to these awesome groups that help locate missing persons with OSINT:
+PS - if this list helped you and you'd like to say thanks, consider a $2 donation to these awesome groups that help locate missing persons with OSINT: \
 https://mpan.com.au/ - (Australia <3) \
-https://www.tracelabs.org/get-involved - (World) \
+https://www.tracelabs.org/get-involved - (World)
 
 -----------------------------------------------------------------------------------------
 
