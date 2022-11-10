@@ -41,19 +41,19 @@ https://securestack.com/black-friday-sale/
 50% off any subscription for 3 months with code: BLACKFRIDAY22SUB! \
 --OR-- \
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI! \
-Deal ends: 2nd December \
+Deal ends: 2nd December
 
 ## Courses & Training
 
 CareerSec: Securing Your Advancement in the Cyber Workforce \
 https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/infosec-blackfriday-20  
 20% at checkout with code: INFOSEC-BLACKFRIDAY-20 \
-Deal ends: 30th November \
+Deal ends: 30th November
 
-DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training)
+DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
 https://training.dronesec.com/  
 Sign-up to receive notification \
-Deal: 24-29th November \
+Deal: 24-29th November
 
 ## Mini Course Bundles:
 
