@@ -36,6 +36,11 @@ https://www.tracelabs.org/get-involved - (World)
 
 ## Tools
 
+Nessus (Professional or Expert) \
+https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-source=BF22  
+50% off with code: TakeHalf \
+Deal valid: 24-28th November
+
 Securestack DevSecOps platform \
 https://securestack.com/black-friday-sale/  
 50% off any subscription for 3 months with code: BLACKFRIDAY22SUB! \
@@ -53,7 +58,7 @@ Deal ends: 30th November
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
 https://training.dronesec.com/  
 Sign-up to receive notification \
-Deal: 24-29th November
+Deal valid: 24-29th November
 
 ## Mini Course Bundles:
 
