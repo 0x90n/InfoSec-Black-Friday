@@ -60,9 +60,20 @@ https://training.dronesec.com/
 Sign-up to receive notification \
 Deal valid: 24-29th November
 
+The Cyber Plumber's Lab Guide and Access \
+https://opsdisk.gumroad.com/l/cphlab/blackfriday2022  
+(1) 50% off + free handbook (2) 75% off for students \
+Deal ends: December
+
 ## Mini Course Bundles:
 
 ## Hardware:
+
+KSEC LABS (Red Team Tools, Locksmith, Hacker Gadgets) \
+https://labs.ksec.co.uk/black-friday-sale/  
+Various discounts, free items, free shipping and codes on page to use \
+15% off all products with code: BLACKFRIDAY15
+Deal ends: December
 
 ## Wearables:
 
