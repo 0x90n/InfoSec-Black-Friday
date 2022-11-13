@@ -60,6 +60,10 @@ https://training.dronesec.com/
 Sign-up to receive notification \
 Deal valid: 24-29th November
 
+Lets Defend
+http://letsdefend.io/
+50% off with code: BLCKFRDY
+
 ## Mini Course Bundles:
 
 ## Hardware:
