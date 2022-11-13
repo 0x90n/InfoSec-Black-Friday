@@ -50,6 +50,11 @@ Deal ends: 2nd December
 
 ## Courses & Training
 
+Blue Team Training - LetsDefend
+https://letsdefend.io/
+50% off code: BLCKFRDY
+Ends: 2nd December
+
 CareerSec: Securing Your Advancement in the Cyber Workforce \
 https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/infosec-blackfriday-20  
 20% at checkout with code: INFOSEC-BLACKFRIDAY-20 \
