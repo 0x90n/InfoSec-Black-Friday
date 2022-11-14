@@ -33,6 +33,10 @@ https://www.tracelabs.org/get-involved - (World)
 # InfoSec Black Friday Deals 2022
 
 ## Newsletters
+Cybersecurity Weekly Newsletter \
+Coupon: BLCKFRDY-NEWS \
+https://letsdefend.io/cybersecurity-news.html  \
+$1 instead of $100
 
 ## Tools
 
