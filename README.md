@@ -48,12 +48,6 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI! \
 Deal ends: 2nd December
 
-ProtonVPN 
-https://protonvpn.com/blackfriday/
-
-ProtonMail
-https://proton.me/mail/black-friday
-
 ## Courses & Training
 
 Blue Team Training - LetsDefend \
@@ -98,6 +92,16 @@ Deal ends: December
 ## Books:
 
 ## Services:
+
+ProtonVPN \
+https://protonvpn.com/blackfriday/  
+50% off + 6 months free \
+Deal live now
+
+ProtonMail \
+https://proton.me/mail/black-friday  
+40% off \
+Deal live now
 
 -----------------------------------------------------------------------------------------
 
