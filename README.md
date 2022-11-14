@@ -93,6 +93,16 @@ Deal ends: December
 
 ## Services:
 
+ProtonVPN \
+https://protonvpn.com/blackfriday/  
+50% off + 6 months free \
+Deal live now
+
+ProtonMail \
+https://proton.me/mail/black-friday  
+40% off \
+Deal live now
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
