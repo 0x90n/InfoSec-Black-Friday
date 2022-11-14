@@ -99,6 +99,26 @@ Deal ends: End of November
 
 ## Books:
 
+## Printed Resources:
+
+Elevation of Privilege Card Game  \
+https://agilestationery.com/products/elevation-of-privilege-game  
+(1) 10% off 2 or more items with code: CYBER10 \
+(2) 20% off 4 or more items with code: CYBER20 \
+Deal valid: 14-30th November
+
+Cornucopia Card Game \
+https://agilestationery.com/products/owasp-cornucopia-card-deck-ecommerce-website-edition  
+(1) 10% off 2 or more items with code: CYBER10 \
+(2) 20% off 4 or more items with code: CYBER20 \
+Deal valid: 14-30th November
+
+Agile Stationery: Cybersecurity Games and Tools (stencils, sketch pads, posters, privacy tools etc...) \
+https://agilestationery.com/pages/cybersecurity-games-and-tools  
+(1) 10% off 2 or more items with code: CYBER10 \
+(2) 20% off 4 or more items with code: CYBER20 \
+Deal valid: 14-30th November
+
 ## Services:
 
 ProtonVPN \
