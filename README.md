@@ -88,7 +88,7 @@ Various discounts, free items, free shipping and codes on page to use \
 Deal ends: December
 
 Hak5 (Red Team Tools, Hacker Gadgets) \
-https://hak5.org
+https://hak5.org \
 Various discounts, free items, e-books, discount on the shipping \
 Get 2% OFF for every 100$ spent up to 10% \
 Get 200$ OFF for WiFi Pineapple Enterprise \
