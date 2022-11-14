@@ -87,6 +87,14 @@ Various discounts, free items, free shipping and codes on page to use \
 15% off all products with code: BLACKFRIDAY15
 Deal ends: December
 
+Hak5 (Red Team Tools, Hacker Gadgets) \
+https://hak5.org  
+Various discounts, free items, e-books, discount on the shipping \
+Get 2% OFF for every 100$ spent up to 10% \
+Get 200$ OFF for WiFi Pineapple Enterprise \
+Get 15% OFF for bundles \
+Deal ends: End of November
+
 ## Wearables:
 
 ## Books:
