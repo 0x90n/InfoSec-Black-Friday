@@ -65,6 +65,13 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2022
 (1) 50% off + free handbook (2) 75% off for students \
 Deal ends: December
 
+Pensterlab Black friday sale \
+https://pentesterlab.com/pro
+27% off one year subscription \
+(1) US$146 instead of US$199 \
+(2) US$25.99 instead of US$34.99 for students
+Deal valid: 24-29th November
+
 ## Mini Course Bundles:
 
 ## Hardware:
