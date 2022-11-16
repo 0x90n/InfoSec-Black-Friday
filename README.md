@@ -77,6 +77,11 @@ https://pentesterlab.com/pro
 (2) US$25.99 instead of US$34.99 for students
 Deal valid: 24-29th November
 
+Platzi (IT Educational Platform (with security course too)) \
+https://platzi.com/blackfriday  
+30% off one year subscription \
+Deal ends: 25th November
+
 ## Mini Course Bundles:
 
 ## Hardware:
