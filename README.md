@@ -51,7 +51,7 @@ Deal ends: 2nd December
 ## Courses & Training
 
 Practical DevSecOps - Hands on DevSecOps and Product Security Courses \
-https://www.practical-devsecops.com/black-friday/
+https://www.practical-devsecops.com/black-friday/ \
 15% off all courses \
 Ends: 30th November
 
