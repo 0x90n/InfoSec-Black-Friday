@@ -91,6 +91,12 @@ https://platzi.com/blackfriday
 30% off one year subscription \
 Deal ends: 25th November
 
+Zeropointsecurity Trainings (CRTO, CRTO-II) \
+https://training.zeropointsecurity.co.uk/
+20% off code: BLACKFRI22  \
+Reference: https://twitter.com/zeropointsecltd/status/1593334625505579010
+Deal ends: 21th November
+
 ## Mini Course Bundles:
 
 ## Hardware:
