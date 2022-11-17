@@ -52,6 +52,11 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI! \
 Deal ends: 2nd December
 
+Intego Mac Antivirus and Security \
+https://offer.intego.com/en/mpb-sale?aff_id=14341&coupon=1Y29X2&aff_sub4=1Y29X2&vpn=1
+65% off \
+Deal ends: December
+
 ## Courses & Training
 
 Practical DevSecOps - Hands on DevSecOps and Product Security Courses \
