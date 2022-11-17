@@ -55,7 +55,7 @@ Deal ends: 2nd December
 ## Courses & Training
 
 Offensive Security - Penetration Testing Training \
-https://www.offensive-security.com/learn-one/ 
+https://www.offensive-security.com/learn-one/ \
 20% off Learn One \
 Ends: 31st December 
 
