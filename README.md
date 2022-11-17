@@ -92,7 +92,7 @@ https://platzi.com/blackfriday
 Deal ends: 25th November
 
 7asecurity (Security 100% Hands-On Training) \
-https://store.7asecurity.com. 
+https://store.7asecurity.com  
 50% off any course \
 Deal ends: December 2nd 
 
