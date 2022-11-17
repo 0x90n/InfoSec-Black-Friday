@@ -35,8 +35,9 @@ https://www.tracelabs.org/get-involved - (World)
 ## Newsletters
 Cybersecurity Weekly Newsletter \
 Coupon: BLCKFRDY-NEWS \
-https://letsdefend.io/cybersecurity-news.html  \
-$1 instead of $100
+https://letsdefend.io/cybersecurity-news.html  
+99% off ($1 instead of $100) \
+Deal ends: December
 
 ## Tools
 
