@@ -54,6 +54,11 @@ Deal ends: 2nd December
 
 ## Courses & Training
 
+Offensive Security - Penetration Testing Training \
+https://www.offensive-security.com/learn-one/ 
+20% off Learn One \
+Ends: 31st December 
+
 Practical DevSecOps - Hands on DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses \
