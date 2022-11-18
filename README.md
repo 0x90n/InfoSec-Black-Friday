@@ -161,6 +161,11 @@ https://proton.me/mail/black-friday
 40% off \
 Deal live now
 
+Intego Mac Antivirus and Security \
+https://offer.intego.com/en/mpb-sale?aff_id=14341&coupon=1Y29X2&vpn=1  
+65% off \
+Deal ends: December
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
