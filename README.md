@@ -97,6 +97,11 @@ https://platzi.com/blackfriday
 30% off one year subscription \
 Deal ends: 25th November
 
+Zero Point Security Certifications & Courses \
+https://training.zeropointsecurity.co.uk  
+20% off with code: BLACKFRI22 \
+Deal ends: 21th November
+
 7asecurity (Security 100% Hands-On Training) \
 https://store.7asecurity.com  
 50% off any course with code: BFCM50 \
