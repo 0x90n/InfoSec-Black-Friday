@@ -92,7 +92,7 @@ https://platzi.com/blackfriday
 Deal ends: 25th November
 
 Zero-Point Security Black Friday Sale \
-https://training.zeropointsecurity.co.uk
+https://training.zeropointsecurity.co.uk/
 20% off all courses and exams with the code: BLACKFRI22 \
 Deal ends: 28th November
 
