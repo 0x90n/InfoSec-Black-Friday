@@ -47,9 +47,9 @@ Deal valid: 24-28th November
 
 Securestack DevSecOps platform \
 https://securestack.com/black-friday-sale/  
-50% off any subscription for 3 months with code: BLACKFRIDAY22SUB! \
+50% off any subscription for 3 months with code: BLACKFRIDAY22SUB \
 --OR-- \
-FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI! \
+FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
 ## Courses & Training
