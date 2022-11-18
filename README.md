@@ -93,7 +93,7 @@ Deal ends: 25th November
 
 7asecurity (Security 100% Hands-On Training) \
 https://store.7asecurity.com  
-50% off any course \
+50% off any course with code: BFCM50 \
 Deal ends: December 2nd 
 
 ## Mini Course Bundles:
