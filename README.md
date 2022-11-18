@@ -54,6 +54,12 @@ Deal ends: 2nd December
 
 ## Courses & Training
 
+Hexordia & Cyber 5W - Digital Forensics Training \
+https://www.hexordia.com/black-friday-sale  
+https://cyber5w.com/  
+50% off courses code: c5whexordiabfcm22 \
+Deal valid: November 25-28 2022
+
 Practical DevSecOps - Hands on DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses \
@@ -96,6 +102,10 @@ https://training.zeropointsecurity.co.uk
 20% off with code: BLACKFRI22 \
 Deal ends: 21th November
 
+7asecurity (Security 100% Hands-On Training) \
+https://store.7asecurity.com  
+50% off any course with code: BFCM50 \
+Deal ends: December 2nd 
 
 ## Mini Course Bundles:
 
