@@ -151,6 +151,16 @@ Deal valid: 14-30th November
 
 ## Services:
 
+Surfshark VPN \
+https://surfshark.com/deals \
+84% off and 2 months free \
+Deal valid until 26th November \
+
+NordVPN \
+https://nordvpn.com/offer \
+68% off
+Deal live now
+
 ProtonVPN \
 https://protonvpn.com/blackfriday/  
 50% off + 6 months free \
