@@ -167,7 +167,7 @@ https://offer.intego.com/en/mpb-sale?aff_id=14341&coupon=1Y29X2&vpn=1
 Deal ends: December
 
 BitDefender \
-https://www.bitdefender.com/solutions/
+https://www.bitdefender.com/solutions/ \
 Up to 67% off \
 Deal live now
 
