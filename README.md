@@ -53,6 +53,11 @@ FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22
 Deal ends: 2nd December
 
 ## Courses & Training
+AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security
+https://www.appsecengineer.com/main-menu-pages/pricing
+25% off Annual Plans with code THANKSGIVING22
+Ends: 30th November
+
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one/
 20% off Learn One \
