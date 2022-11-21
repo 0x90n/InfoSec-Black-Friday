@@ -53,8 +53,16 @@ FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22
 Deal ends: 2nd December
 
 ## Courses & Training
+TCM Security \
+https://tcm-sec.com/coupon \
+50% off All Courses \
+20% off PNPT – with training or PNPT without training. \
+50% off First Month’s All-Access Pass \
+25% off the Annual All-Access Pass \
+Deal ends: 28th November
+
 Offensive Security - Penetration Testing Training \
-https://www.offensive-security.com/learn-one/
+https://www.offensive-security.com/learn-one/ \
 20% off Learn One \
 Ends: 31st December 
 
