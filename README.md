@@ -58,6 +58,13 @@ https://www.offensive-security.com/learn-one/
 20% off Learn One \
 Ends: 31st December 
 
+Pentester Academy \
+https://www.pentesteracademy.com
+20% off Annual Pentester Academy Subscription
+10% off Pentester Academy Live Bootcamps
+Promo Code: BF199
+Deal likely to be extended through 11/30
+
 Hexordia & Cyber 5W - Digital Forensics Training \
 https://www.hexordia.com/black-friday-sale  
 https://cyber5w.com/  
