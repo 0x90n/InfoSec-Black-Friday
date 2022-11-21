@@ -130,7 +130,7 @@ Get 15% OFF for bundles \
 Deal ends: End of November
 
 Maltronics (Red Team Tools, Hacker Gadgets) \
-https://maltronics.com
+https://maltronics.com \
 15% off site wide with code: BF2022
 
 ## Wearables:
