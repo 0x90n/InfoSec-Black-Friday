@@ -155,6 +155,11 @@ Deal valid: 14-30th November
 
 ## Services:
 
+Spaces \
+https://spacesformac.xyz
+40%-55% Off \
+Deal live now
+
 ProtonVPN \
 https://protonvpn.com/blackfriday/  
 50% off + 6 months free \
