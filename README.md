@@ -112,7 +112,7 @@ https://store.7asecurity.com
 Deal ends: December 2nd 
 
 The Offensive Labs (Security 100% Hands-On Training) \
-https://www.theoffensivelabs.com/ 
+https://www.theoffensivelabs.com 
 70% off any course with code: BLACKFRIDAY22 \
 Deal ends: December
 
