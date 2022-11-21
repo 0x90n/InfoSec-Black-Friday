@@ -96,6 +96,15 @@ https://store.7asecurity.com
 50% off any course with code: BFCM50 \
 Deal ends: December 2nd 
 
+TCM Security (Security Educational and Certification Platform) \
+https://academy.tcm-sec.com  
+20% off PNPT \
+50% off All Courses \
+50% off First Month's All-Access Pass \
+25% off the Annual All-Access Pass \
+Coupon Code: GIVETHANKS \
+Deal is valid: 21-28 November
+
 ## Mini Course Bundles:
 
 ## Hardware:
