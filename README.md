@@ -54,9 +54,18 @@ Deal ends: 2nd December
 
 ## Courses & Training
 Offensive Security - Penetration Testing Training \
-https://www.offensive-security.com/learn-one/
+https://www.offensive-security.com/learn-one/   
 20% off Learn One \
 Ends: 31st December 
+
+TCM Security - Penetration Testing Training \
+https://tcm-sec.com/coupon/  
+50% off All Courses \
+20% off PNPT \
+50% off First Month’s All-Access Pass \
+25% off the Annual All-Access Pass  
+Coupon Code: GIVETHANKS \
+Ends: 28th November  
 
 Hexordia & Cyber 5W - Digital Forensics Training \
 https://www.hexordia.com/black-friday-sale  
@@ -90,7 +99,7 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2022
 Deal ends: December
 
 Pensterlab Black friday sale \
-https://pentesterlab.com/pro
+https://pentesterlab.com/pro  
 27% off one year subscription \
 (1) US$146 instead of US$199 \
 (2) US$25.99 instead of US$34.99 for students
