@@ -53,6 +53,10 @@ FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22
 Deal ends: 2nd December
 
 ## Courses & Training
+Offensive Security - Penetration Testing Training \
+https://www.offensive-security.com/learn-one/
+20% off Learn One \
+Ends: 31st December 
 
 Hexordia & Cyber 5W - Digital Forensics Training \
 https://www.hexordia.com/black-friday-sale  
