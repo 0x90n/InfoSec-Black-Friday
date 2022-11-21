@@ -111,6 +111,12 @@ https://store.7asecurity.com
 50% off any course with code: BFCM50 \
 Deal ends: December 2nd 
 
+TheXSSRat (Bug Bounty and Hacking)
+(https://thexssrat.podia.com/)
+85% off any course with code: lemon
+Full House is $500 with 85% comes to $75 for all
+Deal ends: Nov 25
+
 ## Mini Course Bundles:
 
 ## Hardware:
