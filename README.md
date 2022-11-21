@@ -52,6 +52,11 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
+Proxyman \
+Modern. Native. Web Debugging Proxy for macOS, iOS, and Android. Capture & Inspect HTTP/HTTPS traffic with ease. Fully supports Apple M1 & macOS Ventura \
+https://proxyman.io  
+30% off with code: PROXYMAN_BLACK_FRIDAY_2022
+
 ## Courses & Training
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one/
