@@ -54,7 +54,7 @@ Deal ends: 2nd December
 
 CantHide Geolocation OSINT \
 https://canthide.me  
-90% off unlimited subscription for 1 months with \
+90% off unlimited subscription for 1 months \
 Deal ends: 31st December
 
 ## Courses & Training
