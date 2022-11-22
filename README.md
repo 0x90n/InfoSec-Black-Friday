@@ -170,7 +170,13 @@ use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
-## Mini Course Bundles:
+## Mini Courses:
+
+Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
+https://agilestationery.com/pages/play-elevation-of-privilege-with-adam-shostack \
+15% off sessions booked in Q1. Excludes delivery. \
+Deal ends: November 30th
+
 
 ## Hardware:
 
