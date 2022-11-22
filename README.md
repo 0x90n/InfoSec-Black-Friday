@@ -52,12 +52,11 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
-CantHide Geolocation OSINT \
-https://canthide.me  
-90% off unlimited subscription for 1 months \
-Deal ends: 31st December
+IDA - Reverse Engineering Tool \
+https://hex-rays.com/terms-and-conditions-black-friday-sale-2022/  
+25% off IDA Home and 10% off IDA Pro applied automatically to cart \
+Deal valid: 25th-28th November (CET)
 
-=======
 Proxyman \
 Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
 https://proxyman.io 
@@ -69,31 +68,23 @@ Lifetime premium license instead of one-year subscription
 
 Burp Bounty Pro Extension \ 
 https://burpbounty.net/
-59€ per year instead of 79€ 
+$60 per year instead of $80 
 
 Grayhat Warfare \
 https://grayhatwarfare.com/packages/ 
-160€ instead of 300€ for yearly pro \
-450€ instead of 960€ for yearly enterprise
+$160 instead of $300 for yearly pro \
+$460 instead of $985 for yearly enterprise
 
 ## Courses & Training
-AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security
-https://www.appsecengineer.com/main-menu-pages/pricing
-25% off Annual Plans with code THANKSGIVING22
-Ends: 30th November
-
-TCM Security \
-https://tcm-sec.com/coupon \
-50% off All Courses \
-20% off PNPT – with training or PNPT without training. \
-50% off First Month’s All-Access Pass \
-25% off the Annual All-Access Pass \
-Deal ends: 28th November
+AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
+https://www.appsecengineer.com/main-menu-pages/pricing  
+25% off Annual Plans with code: THANKSGIVING22 \
+Deal ends: 30th November
 
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one/ \
 20% off Learn One \
-Ends: 31st December 
+Deal nds: 31st December 
 
 Hexordia & Cyber 5W - Digital Forensics Training \
 https://www.hexordia.com/black-friday-sale  
@@ -104,12 +95,12 @@ Deal valid: November 25-28 2022
 Practical DevSecOps - Hands on DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses \
-Ends: 30th November
+Deal ends: 30th November
 
 Blue Team Training - LetsDefend \
 https://letsdefend.io/  
 50% off code: BLCKFRDY \
-Ends: 2nd December
+Deal ends: 2nd December
 
 CareerSec: Securing Your Advancement in the Cyber Workforce \
 https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/infosec-blackfriday-20  
@@ -127,13 +118,13 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2022
 Deal ends: December
 
 Pensterlab Black friday sale \
-https://pentesterlab.com/pro
+https://pentesterlab.com/pro  
 27% off one year subscription \
 (1) US$146 instead of US$199 \
 (2) US$25.99 instead of US$34.99 for students
 Deal valid: 24-29th November
 
-Platzi (IT Educational Platform (with security course too)) \
+Platzi (IT Educational Platform (with security courses)) \
 https://platzi.com/blackfriday  
 30% off one year subscription \
 Deal ends: 25th November
@@ -148,13 +139,12 @@ https://store.7asecurity.com
 50% off any course with code: BFCM50 \
 Deal ends: December 2nd 
 
-TheXSSRat (Bug Bounty and Hacking)
-(https://thexssrat.podia.com/)
-85% off any course with code: lemon
-Full House is $500 with 85% comes to $75 for all
+TheXSSRat (Bug Bounty and Hacking) \
+(https://thexssrat.podia.com/)  
+85% off any course with code: lemon \
+Full House is $500 with 85% comes to $75 for all \
 Deal ends: Nov 25
 
-=======
 The Offensive Labs (Security 100% Hands-On Training) \
 https://www.theoffensivelabs.com 
 70% off any course with code: BLACKFRIDAY22 \
@@ -171,7 +161,7 @@ https://tcm-sec.com/coupon/
 (2) 20% off PNPT \
 (3) 50% off First Month’s All-Access Pass* \
 (4) 25% off the Annual All-Access Pass* \
-with code: GIVETHANKS \
+use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
@@ -194,14 +184,19 @@ Get 15% OFF for bundles \
 Deal ends: End of November
 
 Maltronics (Red Team Tools, Hacker Gadgets) \
-https://maltronics.com \
+https://maltronics.com  
 15% off site wide with code: BF2022
 
 ## Wearables:
 
 ## Books:
 
-## Printed Resources:
+## Games:
+
+CantHide Geolocation OSINT \
+https://canthide.me  
+90% off unlimited subscription for 1 months \
+Deal ends: 31st December
 
 Elevation of Privilege Card Game  \
 https://agilestationery.com/products/elevation-of-privilege-game  
@@ -224,13 +219,13 @@ Deal valid: 14-30th November
 ## Services:
 
 Surfshark VPN \
-https://surfshark.com/deals \
+https://surfshark.com/deals  
 84% off and 2 months free \
 Deal valid until 26th November \
 
 NordVPN \
-https://nordvpn.com/offer \
-68% off
+https://nordvpn.com/offer  
+68% off \
 Deal live now
 
 ProtonVPN \
@@ -248,12 +243,12 @@ https://offer.intego.com/en/mpb-sale?aff_id=14341&coupon=1Y29X2&vpn=1
 65% off \
 Deal ends: December
 
-WPSec WordPress Vulnerability Scanner\
-https://wpsec.com/blackfriday/
+WPSec WordPress Vulnerability Scanner \
+https://wpsec.com/blackfriday/  
 29€ off \
 
 BitDefender \
-https://www.bitdefender.com/solutions \
+https://www.bitdefender.com/solutions  
 Up to 67% off \
 Deal live now
 
