@@ -137,6 +137,21 @@ https://store.7asecurity.com
 50% off any course with code: BFCM50 \
 Deal ends: December 2nd 
 
+Offensive C# \
+https://www.udemy.com/course/offensive-csharp/?couponCode=BLACKFRIDAY22  
+50% off at checkout with code: BLACKFRIDAY22 \
+Deal ends: 22th November  
+
+TCM Security Certification & Courses \
+https://tcm-sec.com/coupon/  
+(1) 50% off all courses \
+(2) 20% off PNPT \
+(3) 50% off First Month’s All-Access Pass* \
+(4) 25% off the Annual All-Access Pass* \
+with code: GIVETHANKS \
+\* Refer to the link for more details \
+Deal ends: 29th November, 4:59 am UTC
+
 ## Mini Course Bundles:
 
 ## Hardware:
