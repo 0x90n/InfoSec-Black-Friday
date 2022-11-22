@@ -52,9 +52,22 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
+Grayhat Warfare \
+https://grayhatwarfare.com/packages/ 
+160€ instead of 300€ for yearly pro \
+450€ instead of 960€ for yearly enterprise
+
 ## Courses & Training
+TCM Security \
+https://tcm-sec.com/coupon \
+50% off All Courses \
+20% off PNPT – with training or PNPT without training. \
+50% off First Month’s All-Access Pass \
+25% off the Annual All-Access Pass \
+Deal ends: 28th November
+
 Offensive Security - Penetration Testing Training \
-https://www.offensive-security.com/learn-one/
+https://www.offensive-security.com/learn-one/ \
 20% off Learn One \
 Ends: 31st December 
 
@@ -155,6 +168,16 @@ Deal valid: 14-30th November
 
 ## Services:
 
+Surfshark VPN \
+https://surfshark.com/deals \
+84% off and 2 months free \
+Deal valid until 26th November \
+
+NordVPN \
+https://nordvpn.com/offer \
+68% off
+Deal live now
+
 ProtonVPN \
 https://protonvpn.com/blackfriday/  
 50% off + 6 months free \
@@ -173,6 +196,10 @@ Deal ends: December
 WPSec WordPress Vulnerability Scanner\
 https://wpsec.com/blackfriday/
 29€ off \
+
+BitDefender \
+https://www.bitdefender.com/solutions \
+Up to 67% off \
 Deal live now
 
 -----------------------------------------------------------------------------------------
