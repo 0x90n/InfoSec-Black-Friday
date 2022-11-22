@@ -81,6 +81,11 @@ https://www.appsecengineer.com/main-menu-pages/pricing
 25% off Annual Plans with code: THANKSGIVING22 \
 Deal ends: 30th November
 
+OSINT Combine - Open-Source Intelligence & Dark Web Investigation Training :see_no_evil:\
+https://academy.osintcombine.com/
+20% off with code: BLACKFRIDAY22
+Deal ends: 28th November
+
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one/ \
 20% off Learn One \
