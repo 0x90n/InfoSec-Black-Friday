@@ -136,9 +136,10 @@ Deal ends: 25th November
 
 Security Blue Team (SBT) \
 https://securityblue.team/black-friday/
-25% off for BTL2 cert + FREE 6 Months BTLO Pro
-BTL1 + FREE 6 Months BTLO Pro
-Discounts for BTL Pro
+25% off for BTL2 cert + FREE 6 Months BTLO Pro \
+BTL1 + FREE 6 Months BTLO Pro \
+Discounts for BTL Pro \
+Deal valid: 22-9 December
 
 Zero Point Security Certifications & Courses \
 https://training.zeropointsecurity.co.uk  
