@@ -160,6 +160,11 @@ https://www.udemy.com/course/offensive-csharp/?couponCode=BLACKFRIDAY22
 50% off at checkout with code: BLACKFRIDAY22 \
 Deal ends: 22th November  
 
+OSINT Combine \
+https://academy.osintcombine.com \
+20% off courses at checkout with code: BLACKFRIDAY22 \
+Deal ends: 28th November
+
 TCM Security Certification & Courses :see_no_evil:\
 https://tcm-sec.com/coupon/  
 (1) 50% off all courses \
@@ -198,7 +203,7 @@ https://maltronics.com
 
 ## Games:
 
-CantHide Geolocation OSINT \
+CantHide Geolocation \
 https://canthide.me  
 90% off unlimited subscription for 1 months \
 Deal ends: 31st December
