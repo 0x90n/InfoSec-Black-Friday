@@ -77,6 +77,11 @@ https://grayhatwarfare.com/packages/
 450€ instead of 960€ for yearly enterprise
 
 ## Courses & Training
+AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security
+https://www.appsecengineer.com/main-menu-pages/pricing
+25% off Annual Plans with code THANKSGIVING22
+Ends: 30th November
+
 TCM Security \
 https://tcm-sec.com/coupon \
 50% off All Courses \
