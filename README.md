@@ -175,7 +175,7 @@ Deal ends: 29th November, 4:59 am UTC
 Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
 https://agilestationery.com/pages/play-elevation-of-privilege-with-adam-shostack \
 15% off sessions booked in Q1. Excludes delivery. \
-Deal ends: November 30th
+Deal ends: 15th December
 
 
 ## Hardware:
