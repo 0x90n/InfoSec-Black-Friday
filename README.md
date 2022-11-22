@@ -52,6 +52,11 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
+Grayhat Warfare \
+https://grayhatwarfare.com/packages/ 
+160€ instead of 300€ for yearly pro \
+450€ instead of 960€ for yearly enterprise
+
 ## Courses & Training
 TCM Security \
 https://tcm-sec.com/coupon \
