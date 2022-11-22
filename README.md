@@ -52,6 +52,19 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
+Proxyman \
+Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
+https://proxyman.io 
+30% off with code: PROXYMAN_BLACK_FRIDAY_2022
+
+ExploitPack \
+https://exploitpack.com/
+Lifetime premium license instead of one-year subscription
+
+Burp Bounty Pro Extension \ 
+https://burpbounty.net/
+59€ per year instead of 79€ 
+
 Grayhat Warfare \
 https://grayhatwarfare.com/packages/ 
 160€ instead of 300€ for yearly pro \
