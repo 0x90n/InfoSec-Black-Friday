@@ -252,6 +252,12 @@ https://www.bitdefender.com/solutions
 Up to 67% off \
 Deal live now
 
+LastPass \
+https://www.lastpass.com
+Get 25% Off 
+Deal for Cyber Week
+
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
