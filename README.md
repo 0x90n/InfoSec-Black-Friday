@@ -52,6 +52,12 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
+CantHide Geolocation OSINT \
+https://canthide.me  
+90% off unlimited subscription for 1 months \
+Deal ends: 31st December
+
+=======
 Proxyman \
 Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
 https://proxyman.io 
