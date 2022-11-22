@@ -52,9 +52,35 @@ https://securestack.com/black-friday-sale/
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
+Proxyman \
+Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
+https://proxyman.io 
+30% off with code: PROXYMAN_BLACK_FRIDAY_2022
+
+ExploitPack \
+https://exploitpack.com/
+Lifetime premium license instead of one-year subscription
+
+Burp Bounty Pro Extension \ 
+https://burpbounty.net/
+59€ per year instead of 79€ 
+
+Grayhat Warfare \
+https://grayhatwarfare.com/packages/ 
+160€ instead of 300€ for yearly pro \
+450€ instead of 960€ for yearly enterprise
+
 ## Courses & Training
+TCM Security \
+https://tcm-sec.com/coupon \
+50% off All Courses \
+20% off PNPT – with training or PNPT without training. \
+50% off First Month’s All-Access Pass \
+25% off the Annual All-Access Pass \
+Deal ends: 28th November
+
 Offensive Security - Penetration Testing Training \
-https://www.offensive-security.com/learn-one/
+https://www.offensive-security.com/learn-one/ \
 20% off Learn One \
 Ends: 31st December 
 
@@ -116,6 +142,21 @@ https://www.theoffensivelabs.com
 70% off any course with code: BLACKFRIDAY22 \
 Deal ends: December
 
+Offensive C# \
+https://www.udemy.com/course/offensive-csharp/?couponCode=BLACKFRIDAY22  
+50% off at checkout with code: BLACKFRIDAY22 \
+Deal ends: 22th November  
+
+TCM Security Certification & Courses \
+https://tcm-sec.com/coupon/  
+(1) 50% off all courses \
+(2) 20% off PNPT \
+(3) 50% off First Month’s All-Access Pass* \
+(4) 25% off the Annual All-Access Pass* \
+with code: GIVETHANKS \
+\* Refer to the link for more details \
+Deal ends: 29th November, 4:59 am UTC
+
 ## Mini Course Bundles:
 
 ## Hardware:
@@ -160,6 +201,16 @@ Deal valid: 14-30th November
 
 ## Services:
 
+Surfshark VPN \
+https://surfshark.com/deals \
+84% off and 2 months free \
+Deal valid until 26th November \
+
+NordVPN \
+https://nordvpn.com/offer \
+68% off
+Deal live now
+
 ProtonVPN \
 https://protonvpn.com/blackfriday/  
 50% off + 6 months free \
@@ -174,6 +225,15 @@ Intego Mac Antivirus and Security \
 https://offer.intego.com/en/mpb-sale?aff_id=14341&coupon=1Y29X2&vpn=1  
 65% off \
 Deal ends: December
+
+WPSec WordPress Vulnerability Scanner\
+https://wpsec.com/blackfriday/
+29€ off \
+
+BitDefender \
+https://www.bitdefender.com/solutions \
+Up to 67% off \
+Deal live now
 
 -----------------------------------------------------------------------------------------
 
