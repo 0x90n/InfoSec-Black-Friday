@@ -17,7 +17,7 @@ Most likely 24th midday, but some start on Monday, so check back often!
 ### When do these sales end?
 Most end 30th November
 
-### Can I add deals to the page?
+### Can I add deals to the page?https://github.com/0x90n/InfoSec-Black-Friday
 Yes, please follow formatting guidelines, provide a source and code. Has to be infosec related, no affiliate links, deal has to be active or a waitlist.
 
 :see_no_evil: means 1) Limited to first x users 2) Great deal or 3) Highly recommended by moi
@@ -256,6 +256,11 @@ BitDefender \
 https://www.bitdefender.com/solutions  
 Up to 67% off \
 Deal live now
+
+LastPass \
+https://www.lastpass.com
+Get 25% Off \
+Deal valid for Cyber Week
 
 -----------------------------------------------------------------------------------------
 
