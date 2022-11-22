@@ -33,7 +33,7 @@ https://www.tracelabs.org/get-involved - (World)
 # InfoSec Black Friday Deals 2022
 
 ## Newsletters
-Cybersecurity Weekly Newsletter \
+Cybersecurity Weekly Newsletter :see_no_evil:\
 https://letsdefend.io/cybersecurity-news.html  
 99% off ($1 instead of $100) with code: BLCKFRDY-NEWS \
 Deal ends: December
@@ -66,7 +66,7 @@ ExploitPack \
 https://exploitpack.com/  
 Lifetime premium license instead of one-year subscription
 
-Burp Bounty Pro Extension \ 
+Burp Bounty Pro Extension \
 https://burpbounty.net/  
 $60 per year instead of $80 
 
@@ -109,8 +109,8 @@ Deal ends: 30th November
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
 https://training.dronesec.com/  
-Sign-up to receive notification \
-Deal valid: 24-29th November
+40% off with code: GIVETHANKS22 \
+Deal ends: 2nd December
 
 The Cyber Plumber's Lab Guide and Access \
 https://opsdisk.gumroad.com/l/cphlab/blackfriday2022  
