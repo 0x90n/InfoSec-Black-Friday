@@ -59,19 +59,19 @@ Deal valid: 25th-28th November (CET)
 
 Proxyman \
 Web Debugging Proxy macOS app for sec/devs to capture, inspect, and manipulate HTTP(s) requests/responses \
-https://proxyman.io 
+https://proxyman.io  
 30% off with code: PROXYMAN_BLACK_FRIDAY_2022
 
 ExploitPack \
-https://exploitpack.com/
+https://exploitpack.com/  
 Lifetime premium license instead of one-year subscription
 
 Burp Bounty Pro Extension \ 
-https://burpbounty.net/
+https://burpbounty.net/  
 $60 per year instead of $80 
 
 Grayhat Warfare \
-https://grayhatwarfare.com/packages/ 
+https://grayhatwarfare.com/packages/  
 $160 instead of $300 for yearly pro \
 $460 instead of $985 for yearly enterprise
 
@@ -146,7 +146,7 @@ Full House is $500 with 85% comes to $75 for all \
 Deal ends: Nov 25
 
 The Offensive Labs (Security 100% Hands-On Training) \
-https://www.theoffensivelabs.com 
+https://www.theoffensivelabs.com  
 70% off any course with code: BLACKFRIDAY22 \
 Deal ends: December
 
