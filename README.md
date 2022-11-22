@@ -170,6 +170,11 @@ use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
+Penetration Testing Fundamentals (GERMAN) \
+https://karrierewelt.golem.de/collections/black-week/products/penetration-testing-fundamentals  
+50% off at checkout \
+Deal ends: 30th November  
+
 ## Mini Course Bundles:
 
 ## Hardware:
