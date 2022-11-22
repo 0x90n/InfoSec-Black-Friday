@@ -170,6 +170,11 @@ use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
+Hacking Android Applications for Bug Bounty and Pentesting \
+[https://www.udemy.com/course/offensive-csharp/?couponCode=BLACKFRIDAY22  ](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY)
+65% off at checkout with code: BLACKFRIDAY \
+Deal ends: 27th November  
+
 ## Mini Course Bundles:
 
 ## Hardware:
