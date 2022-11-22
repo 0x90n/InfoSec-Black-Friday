@@ -193,6 +193,10 @@ https://offer.intego.com/en/mpb-sale?aff_id=14341&coupon=1Y29X2&vpn=1
 65% off \
 Deal ends: December
 
+WPSec WordPress Vulnerability Scanner\
+https://wpsec.com/blackfriday/
+29€ off \
+
 BitDefender \
 https://www.bitdefender.com/solutions \
 Up to 67% off \
