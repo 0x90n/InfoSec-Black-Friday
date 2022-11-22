@@ -33,7 +33,7 @@ https://www.tracelabs.org/get-involved - (World)
 # InfoSec Black Friday Deals 2022
 
 ## Newsletters
-Cybersecurity Weekly Newsletter :see_no_evil:\
+Cybersecurity Weekly Newsletter \
 https://letsdefend.io/cybersecurity-news.html  
 99% off ($1 instead of $100) with code: BLCKFRDY-NEWS \
 Deal ends: December
@@ -45,14 +45,14 @@ https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-source=BF22
 50% off with code: TakeHalf \
 Deal valid: 24-28th November
 
-Securestack DevSecOps platform \
+Securestack DevSecOps platform :see_no_evil:\
 https://securestack.com/black-friday-sale/  
 50% off any subscription for 3 months with code: BLACKFRIDAY22SUB \
 --OR-- \
 FREE mini assessment of source code, AWS and web assets with code: BLACKFRIDAY22MINI \
 Deal ends: 2nd December
 
-IDA - Reverse Engineering Tool \
+IDA - Reverse Engineering Tool :see_no_evil:\
 https://hex-rays.com/terms-and-conditions-black-friday-sale-2022/  
 25% off IDA Home and 10% off IDA Pro applied automatically to cart \
 Deal valid: 25th-28th November (CET)
@@ -70,7 +70,7 @@ Burp Bounty Pro Extension \
 https://burpbounty.net/  
 $60 per year instead of $80 
 
-Grayhat Warfare \
+Grayhat Warfare :see_no_evil:\
 https://grayhatwarfare.com/packages/  
 $160 instead of $300 for yearly pro \
 $460 instead of $985 for yearly enterprise
@@ -97,7 +97,7 @@ https://www.practical-devsecops.com/black-friday/
 15% off all courses \
 Deal ends: 30th November
 
-Blue Team Training - LetsDefend \
+Blue Team Training - LetsDefend :see_no_evil:\
 https://letsdefend.io/  
 50% off code: BLCKFRDY \
 Deal ends: 2nd December
@@ -107,7 +107,7 @@ https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/infosec-blackfriday
 20% at checkout with code: INFOSEC-BLACKFRIDAY-20 \
 Deal ends: 30th November
 
-DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) \
+DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:\
 https://training.dronesec.com/  
 40% off with code: GIVETHANKS22 \
 Deal ends: 2nd December
@@ -117,7 +117,7 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2022
 (1) 50% off + free handbook (2) 75% off for students \
 Deal ends: December
 
-Pensterlab Black friday sale \
+Pensterlab :see_no_evil:\
 https://pentesterlab.com/pro  
 27% off one year subscription \
 (1) US$146 instead of US$199 \
@@ -155,7 +155,7 @@ https://www.udemy.com/course/offensive-csharp/?couponCode=BLACKFRIDAY22
 50% off at checkout with code: BLACKFRIDAY22 \
 Deal ends: 22th November  
 
-TCM Security Certification & Courses \
+TCM Security Certification & Courses :see_no_evil:\
 https://tcm-sec.com/coupon/  
 (1) 50% off all courses \
 (2) 20% off PNPT \
@@ -175,7 +175,7 @@ Various discounts, free items, free shipping and codes on page to use \
 15% off all products with code: BLACKFRIDAY15
 Deal ends: December
 
-Hak5 (Red Team Tools, Hacker Gadgets) \
+Hak5 (Red Team Tools, Hacker Gadgets) :see_no_evil:\
 https://hak5.org  
 Various discounts, free items, e-books, discount on the shipping \
 Get 2% OFF for every 100$ spent up to 10% \
