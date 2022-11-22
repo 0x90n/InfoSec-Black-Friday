@@ -137,6 +137,11 @@ https://store.7asecurity.com
 50% off any course with code: BFCM50 \
 Deal ends: December 2nd 
 
+The Offensive Labs (Security 100% Hands-On Training) \
+https://www.theoffensivelabs.com 
+70% off any course with code: BLACKFRIDAY22 \
+Deal ends: December
+
 Offensive C# \
 https://www.udemy.com/course/offensive-csharp/?couponCode=BLACKFRIDAY22  
 50% off at checkout with code: BLACKFRIDAY22 \
