@@ -259,6 +259,11 @@ Deal Ends: November 28
 
 ## Wearables:
 
+Security Merch (Merchandise for Hackers) \
+https://securitymerch.com  
+50% Off with code: BLACKFRIDAY22 \
+Deal Ends: November 30
+
 ## Books:
 
 Microsoft Press Store (Security Books)\
