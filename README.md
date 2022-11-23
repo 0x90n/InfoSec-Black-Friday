@@ -177,6 +177,11 @@ use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
+Pluralsight Security Training \
+https://www.pluralsight.com/offer/2022/bf-cm-50-off  
+Standard SAVE 50% - $149 ($299 original) per year \
+Premium SAVE 50% - $224 ($449 original) per year \
+Deal live now
 
 Hacking Android Applications for Bug Bounty and Pentesting \
 https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY  
