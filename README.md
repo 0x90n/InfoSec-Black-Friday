@@ -93,6 +93,11 @@ https://blog.pulsedive.com/black-friday-2022/
 https://forms.gle/XApB63ZUWH5kcpns9  
 Humble Cyber Bundle - 25% off 2 or more Pulsedive Products (Pro, API, Feed)
  
+Kon-Boot - Bypass Windows / macOS Passwords \
+https://kon-boot.com/?NOVEMBER=1  
+25% off select licenses \
+Deal ends: 28th November  
+  
 ## Courses & Training
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
 https://www.appsecengineer.com/main-menu-pages/pricing  
@@ -107,7 +112,7 @@ Deal ends: 28th November
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one/ \
 20% off Learn One \
-Deal nds: 31st December 
+Deal ends: 31st December 
 
 Hexordia & Cyber 5W - Digital Forensics Training \
 https://www.hexordia.com/black-friday-sale  
