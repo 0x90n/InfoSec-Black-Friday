@@ -366,6 +366,14 @@ Kleen Scan AV Scanner \
 https://kleenscan.com/latest_news  
 Get yearly package for $10 (down from $180)
 
+UnderDefense Cybersecurity \
+https://underdefense.com/cyber-monday-offer/  
+20% off Application/Network/Infrastructure Pentest \
+40% off four App Pentests (multi-year bundle) \
+20-40% Off 24×7 Managed Threat Detection and Response \
+20-40% off for Incident Response Retainer \
+Deal ends: Nov 30th \
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
