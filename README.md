@@ -98,6 +98,11 @@ https://kon-boot.com/?NOVEMBER=1
 25% off select licenses \
 Deal ends: 28th November  
   
+010 Editor - Professional text and hex editing with Binary Templates \
+https://www.sweetscape.com/store/  
+25% off \
+Deal ends: 28th November  
+  
 ## Courses & Training
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
 https://www.appsecengineer.com/main-menu-pages/pricing  
