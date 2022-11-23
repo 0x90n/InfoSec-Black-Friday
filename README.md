@@ -134,6 +134,13 @@ https://platzi.com/blackfriday
 30% off one year subscription \
 Deal ends: 25th November
 
+Security Blue Team (SBT) \
+https://securityblue.team/black-friday/  
+25% off for BTL2 cert + FREE 6 Months BTLO Pro \
+BTL1 + FREE 6 Months BTLO Pro \
+Discounts for BTL Pro \
+Deal valid: 22-9 December
+
 Zero Point Security Certifications & Courses \
 https://training.zeropointsecurity.co.uk  
 20% off with code: BLACKFRI22 \
@@ -170,6 +177,27 @@ use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
+
+Hacking Android Applications for Bug Bounty and Pentesting \
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY  
+65% off at checkout with code: BLACKFRIDAY \
+Deal ends: 27th November  
+
+Penetration Testing Fundamentals (GERMAN) \
+https://karrierewelt.golem.de/collections/black-week/products/penetration-testing-fundamentals  
+50% off at checkout \
+Deal ends: 30th November  
+
+INE Training and Certifications (including eLearn Certifications) \
+https://linktr.ee/inetraining  
+(1) 40% off all eLearn certifications - thanks40 \
+(2) 40% off ICCA certificatiom  - thanks40 \
+(3) INE Premium at $499 from $799 - blkfri499 \
+(4) INE Premium+ at $649 from $999 - blkfri649 \
+(5) Pentester Academy at $199 from $249 - BF199 \
+(6) Pentester Academy Bootcamps at 10% off - BF10 \
+Deal ends: 25th November
+
 ## Mini Course Bundles:
 
 ## Hardware:
@@ -195,6 +223,11 @@ https://maltronics.com
 ## Wearables:
 
 ## Books:
+
+Microsoft Press Store (Security Books)\
+https://www.microsoftpressstore.com/  
+40-55% on books and ebooks with code BOOKSGIVING \
+Deal ends: End of November
 
 ## Games:
 
@@ -266,6 +299,10 @@ Anonaddy email alias service \
 https://anonaddy.com/  
 40% off first year with code BLACKFRIDAY22 \
 Deal ends: Nov 30th
+
+Kleen Scan AV Scanner \
+https://kleenscan.com/latest_news
+Get yearly package for $10 (down from $180)
 
 -----------------------------------------------------------------------------------------
 
