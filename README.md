@@ -97,6 +97,11 @@ Kon-Boot - Bypass Windows / macOS Passwords \
 https://kon-boot.com/?NOVEMBER=1  
 25% off select licenses \
 Deal ends: 28th November  
+
+1BitSquared - Embedded Hardware and FPGA Tools \
+https://1bitsquared.com/discount/BLACKFRIDAY2022  
+$7 off towards shipping for orders above $25 \
+Deal ends: 28th November
   
 ## Courses & Training
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
