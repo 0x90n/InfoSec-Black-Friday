@@ -40,6 +40,11 @@ Deal ends: December
 
 ## Tools
 
+ImmuniWeb AI Platform
+https://www.immuniweb.com
+Black Friday: 40% off any one-time purchase and monthly subscriptions with code: BF22-XARA
+Thanksgiving Day (24th November only): 40% off ImmuniWeb Discovery with code: 8AXN-1XYS-FMUJ
+
 Nessus (Professional or Expert) \
 https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-source=BF22  
 50% off with code: TakeHalf \
