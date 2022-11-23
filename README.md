@@ -167,7 +167,7 @@ Deal valid: 22-9 December
 Zero Point Security Certifications & Courses \
 https://training.zeropointsecurity.co.uk  
 20% off with code: BLACKFRI22 \
-Deal ends: 21th November
+Deal ends: 28th November
 
 7asecurity (Security 100% Hands-On Training) \
 https://store.7asecurity.com  
