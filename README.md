@@ -210,6 +210,11 @@ https://www.bugbountyhunter.com/membership/
 37.33% off \
 Deal ends: 28th November 23:59:59 UTC
 
+Cybr - Cybersecurity training and community \
+https://cybr.com/pricing/  
+29% lifetime discount on yearly plans \
+Deal ends: 27th November  23:59:59 UTC
+
 ## Mini Courses:
 
 Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
