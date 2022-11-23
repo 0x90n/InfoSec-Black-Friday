@@ -17,7 +17,7 @@ Most likely 24th midday, but some start on Monday, so check back often!
 ### When do these sales end?
 Most end 30th November
 
-### Can I add deals to the page?https://github.com/0x90n/InfoSec-Black-Friday
+### Can I add deals to the page?
 Yes, please follow formatting guidelines, provide a source and code. Has to be infosec related, no affiliate links, deal has to be active or a waitlist.
 
 :see_no_evil: means 1) Limited to first x users 2) Great deal or 3) Highly recommended by moi
@@ -327,7 +327,7 @@ Get yearly package for $10 (down from $180)
 
 ## How to edit formatting
 At the end of a normal sentence, place a backslash for newline (\)
-Alternatively with a link, you can double-space (  )
+After a link, please use a double-space (  )
 
 ## Credits
 If you wouldd like to DM me a deal rather than submitting a PR: @securitymeta_
