@@ -40,6 +40,11 @@ Deal ends: December
 
 ## Tools
 
+Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan \
+[https://securityforeveryone.com/products/continuous-security](https://securityforeveryone.com/products/continuous-security)
+50% off with code: BLACKFRIDAY \
+Deal valid: 30th November
+
 Nessus (Professional or Expert) \
 https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-source=BF22  
 50% off with code: TakeHalf \
