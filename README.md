@@ -210,6 +210,17 @@ https://www.bugbountyhunter.com/membership/
 37.33% off \
 Deal ends: 28th November 23:59:59 UTC
 
+Code4Startup \
+https://code4startup/pricing/
+50% off first 3 months, automatically applied \
+Deal ends: 29th November 
+
+Build 7 Startups with Rails 7 \
+https://code4startup.com/rails_7_series
+Up to 50% Off
+Deal ends: 29th November 
+
+
 ## Mini Courses:
 
 Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
