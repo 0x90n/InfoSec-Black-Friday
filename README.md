@@ -313,7 +313,7 @@ Deal ends: December
 
 WPSec WordPress Vulnerability Scanner \
 https://wpsec.com/blackfriday/  
-29€ off \
+$29 off
 
 BitDefender \
 https://www.bitdefender.com/solutions  
