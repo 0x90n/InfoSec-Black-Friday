@@ -185,8 +185,13 @@ Deal ends: 29th November, 4:59 am UTC
 
 Enciphers Training (Mobile Security 100% Hands-On Training)  \
 https://training.enciphers.com/  
-40% off any course with code: W1NT3R-1S-COM1NG \ 
-Deal ends: December 
+40% off at checkout with code: W1NT3R-1S-COM1NG  \
+Deal ends: December
+
+Bug Bounty Hunter - Bug Bounty Training by zseano \
+https://www.bugbountyhunter.com/membership/  
+37.33% off \
+Deal ends: 28th November 23:59:59 UTC
 
 ## Mini Courses:
 
