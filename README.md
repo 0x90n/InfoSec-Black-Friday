@@ -281,6 +281,11 @@ Deal Ends: November 30
 
 ## Books:
 
+No Starch Press
+https://nostarch.com/
+35% off + free shipping on U.S. orders over $50 with code HOLIDEALS
+Deal ends: 28th November
+
 Microsoft Press Store (Security Books)\
 https://www.microsoftpressstore.com/  
 40-55% on books and ebooks with code BOOKSGIVING \
