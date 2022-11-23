@@ -295,6 +295,11 @@ https://www.lastpass.com
 Get 25% Off \
 Deal valid for Cyber Week
 
+Anonaddy email alias service \
+https://anonaddy.com/  
+40% off first year with code BLACKFRIDAY22 \
+Deal ends: Nov 30th
+
 Kleen Scan AV Scanner \
 https://kleenscan.com/latest_news
 Get yearly package for $10 (down from $180)
