@@ -185,7 +185,7 @@ Deal ends: 29th November, 4:59 am UTC
 
 Enciphers Training (Mobile Security 100% Hands-On Training)  \
 https://training.enciphers.com/  
-40% off any course with code: W1NT3R-1S-COM1NG   \ 
+40% off any course with code: W1NT3R-1S-COM1NG \ 
 Deal ends: December 
 
 ## Mini Courses:
