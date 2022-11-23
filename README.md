@@ -45,6 +45,13 @@ Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan \
 50% off with code: BLACKFRIDAY \
 Deal valid: 30th November
 
+ImmuniWeb AI Platform \
+https://www.immuniweb.com  
+Black Friday: 40% off any one-time purchase and monthly subscriptions with code: BF22-XARA \
+Thanksgiving Day: 40% off ImmuniWeb Discovery with code: 8AXN-1XYS-FMUJ \
+Deals valid only on their respective days
+
+
 Nessus (Professional or Expert) \
 https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-source=BF22  
 50% off with code: TakeHalf \
