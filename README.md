@@ -77,7 +77,7 @@ $460 instead of $985 for yearly enterprise
 
 PulseDive Threat Intelligence \
 https://blog.pulsedive.com/black-friday-2022/  
-50% off Pro for First Year or 25% off API and Feed bundles \
+50% off Pro for first year or 25% off API and Feed bundles \
 https://forms.gle/XApB63ZUWH5kcpns9  
 Humble Cyber Bundle - 25% off 2 or more Pulsedive Products (Pro, API, Feed)
  
