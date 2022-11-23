@@ -82,8 +82,8 @@ https://www.appsecengineer.com/main-menu-pages/pricing
 Deal ends: 30th November
 
 OSINT Combine - Open-Source Intelligence & Dark Web Investigation Training :see_no_evil:\
-https://academy.osintcombine.com/
-20% off with code: BLACKFRIDAY22
+https://academy.osintcombine.com/  
+20% off with code: BLACKFRIDAY22 \
 Deal ends: 28th November
 
 Offensive Security - Penetration Testing Training \
@@ -233,7 +233,7 @@ https://maltronics.com
 15% off site wide with code: BF2022
 
 iFixIt Hardware and Security Tooling \
-https://www.ifixit.com/promotions/black-friday-holiday
+https://www.ifixit.com/promotions/black-friday-holiday  
 25% Off Seasonal Bundles \
 20% Off Toolkits \
 Multiple On-Sale Kits \
@@ -310,7 +310,7 @@ Up to 67% off \
 Deal live now
 
 LastPass \
-https://www.lastpass.com
+https://www.lastpass.com  
 Get 25% Off \
 Deal valid for Cyber Week
 
@@ -320,7 +320,7 @@ https://anonaddy.com/
 Deal ends: Nov 30th
 
 Kleen Scan AV Scanner \
-https://kleenscan.com/latest_news
+https://kleenscan.com/latest_news  
 Get yearly package for $10 (down from $180)
 
 -----------------------------------------------------------------------------------------
