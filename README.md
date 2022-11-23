@@ -206,6 +206,11 @@ https://maltronics.com
 
 ## Books:
 
+Microsoft Press Store (Security Books)\
+https://www.microsoftpressstore.com/  
+40-55% on books and ebooks with code BOOKSGIVING \
+Deal ends: End of November
+
 ## Games:
 
 CantHide Geolocation OSINT \
