@@ -263,7 +263,7 @@ Get 25% Off \
 Deal valid for Cyber Week
 
 Anonaddy email alias service \
-https://anonaddy.com/ \
+https://anonaddy.com/  
 40% off first year with code BLACKFRIDAY22 \
 Deal ends: Nov 30th
 
