@@ -75,9 +75,11 @@ https://grayhatwarfare.com/packages/
 $160 instead of $300 for yearly pro \
 $460 instead of $985 for yearly enterprise
 
-PulseDive Threat Intelligence
+PulseDive Threat Intelligence \
 https://blog.pulsedive.com/black-friday-2022/  
-50% off Pro for First Year or 25% off API and Feed bundles
+50% off Pro for First Year or 25% off API and Feed bundles \
+https://forms.gle/XApB63ZUWH5kcpns9  
+Humble Cyber Bundle - 25% off 2 or more Pulsedive Products (Pro, API, Feed)
  
 ## Courses & Training
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
@@ -253,6 +255,11 @@ https://www.microsoftpressstore.com/
 Deal ends: End of November
 
 ## Games:
+
+PWNX Cyber Lab Game & Training \
+https://play.pwnx.io  
+50% off premium packages \
+Deal ends: 30th November
 
 CantHide Geolocation OSINT \
 https://canthide.me  
