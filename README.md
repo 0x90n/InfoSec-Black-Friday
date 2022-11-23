@@ -210,6 +210,14 @@ https://www.bugbountyhunter.com/membership/
 37.33% off \
 Deal ends: 28th November 23:59:59 UTC
 
+Cyberwarfare Labs \
+https://www.cyberwarfare.live/cwl-black-friday-sale-2022/ \
+20% off individual courses with code: CWLBLACKFRIDAY20 \
+25% off individual training with code: CWLBLACKFRIDAYT25 \
+30%-60% off on bundle deals:
+https://www.cyberwarfare.live/course-bundle-deals
+
+
 ## Mini Courses:
 
 Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
