@@ -41,7 +41,7 @@ Deal ends: December
 ## Tools
 
 Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan \
-[https://securityforeveryone.com/products/continuous-security](https://securityforeveryone.com/products/continuous-security)
+https://securityforeveryone.com/products/continuous-security  
 50% off with code: BLACKFRIDAY \
 Deal valid: 30th November
 
