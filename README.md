@@ -75,6 +75,10 @@ https://grayhatwarfare.com/packages/
 $160 instead of $300 for yearly pro \
 $460 instead of $985 for yearly enterprise
 
+PulseDive Threat Intelligence
+https://blog.pulsedive.com/black-friday-2022/  
+50% off Pro for First Year or 25% off API and Feed bundles
+ 
 ## Courses & Training
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
 https://www.appsecengineer.com/main-menu-pages/pricing  
