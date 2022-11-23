@@ -177,6 +177,13 @@ use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
+## Mini Courses:
+
+Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
+https://agilestationery.com/pages/play-elevation-of-privilege-with-adam-shostack  
+15% off sessions booked in Q1. Excludes delivery. \
+Deal ends: 15th December
+
 Pluralsight Security Training \
 https://www.pluralsight.com/offer/2022/bf-cm-50-off  
 Standard SAVE 50% - $149 ($299 original) per year \
@@ -243,20 +250,20 @@ Deal ends: 31st December
 
 Elevation of Privilege Card Game  \
 https://agilestationery.com/products/elevation-of-privilege-game  
-(1) 10% off 2 or more items with code: CYBER10 \
-(2) 20% off 4 or more items with code: CYBER20 \
+(1) 15% off with code: CYBER15 \
+(2) 30% off 3 or more items with code: CYBER30 \
 Deal valid: 14-30th November
 
 Cornucopia Card Game \
 https://agilestationery.com/products/owasp-cornucopia-card-deck-ecommerce-website-edition  
-(1) 10% off 2 or more items with code: CYBER10 \
-(2) 20% off 4 or more items with code: CYBER20 \
+(1) 15% off with code: CYBER15 \
+(2) 30% off 3 or more items with code: CYBER30 \
 Deal valid: 14-30th November
 
 Agile Stationery: Cybersecurity Games and Tools (stencils, sketch pads, posters, privacy tools etc...) \
 https://agilestationery.com/pages/cybersecurity-games-and-tools  
-(1) 10% off 2 or more items with code: CYBER10 \
-(2) 20% off 4 or more items with code: CYBER20 \
+(1) 15% off with code: CYBER15 \
+(2) 30% off 3 or more items with code: CYBER30 \
 Deal valid: 14-30th November
 
 ## Services:
