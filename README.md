@@ -170,16 +170,15 @@ use code: GIVETHANKS \
 \* Refer to the link for more details \
 Deal ends: 29th November, 4:59 am UTC
 
-INE Training and Certifications (including eLearn Certifications)
-https://linktr.ee/inetraining
-(1) 40% off all eLearn certifications - thanks40
-(2) 40% off ICCA certificatiom  - thanks40
-(3) INE Premium at $499 from $799 - blkfri499
-(4) INE Premium+ at $649 from $999 - blkfri649
-(5) Pentester Academy at $199 from $249 - BF199
-(6) Pentester Academy Bootcamps at 10% off - BF10
+INE Training and Certifications (including eLearn Certifications) \
+https://linktr.ee/inetraining  
+(1) 40% off all eLearn certifications - thanks40 \
+(2) 40% off ICCA certificatiom  - thanks40 \
+(3) INE Premium at $499 from $799 - blkfri499 \
+(4) INE Premium+ at $649 from $999 - blkfri649 \
+(5) Pentester Academy at $199 from $249 - BF199 \
+(6) Pentester Academy Bootcamps at 10% off - BF10 \
 Deal ends: 25th November
-
 
 ## Mini Course Bundles:
 
@@ -272,6 +271,10 @@ LastPass \
 https://www.lastpass.com
 Get 25% Off \
 Deal valid for Cyber Week
+
+Kleen Scan AV Scanner \
+https://kleenscan.com/latest_news
+Get yearly package for $10 (down from $180)
 
 -----------------------------------------------------------------------------------------
 
