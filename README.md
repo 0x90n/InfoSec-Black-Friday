@@ -192,8 +192,8 @@ Maltronics (Red Team Tools, Hacker Gadgets) \
 https://maltronics.com  
 15% off site wide with code: BF2022
 
-iFixIt \
-https://www.ifixit.com/promotions/black-friday-holiday \
+iFixIt Hardware and Security Tooling \
+https://www.ifixit.com/promotions/black-friday-holiday
 25% Off Seasonal Bundles \
 20% Off Toolkits \
 Multiple On-Sale Kits \
