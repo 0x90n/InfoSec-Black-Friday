@@ -172,7 +172,7 @@ Deal valid: 22-9 December
 Zero Point Security Certifications & Courses \
 https://training.zeropointsecurity.co.uk  
 20% off with code: BLACKFRI22 \
-Deal ends: 21th November
+Deal ends: 28th November
 
 7asecurity (Security 100% Hands-On Training) \
 https://store.7asecurity.com  
@@ -291,6 +291,11 @@ https://securitymerch.com
 Deal Ends: November 30
 
 ## Books:
+
+No Starch Press - InfoSec Books :see_no_evil:\
+https://nostarch.com/  
+35% off + free shipping on U.S. orders over $50 with code HOLIDEALS \
+Deal ends: 28th November
 
 Microsoft Press Store (Security Books)\
 https://www.microsoftpressstore.com/  
