@@ -270,6 +270,13 @@ https://pentesterlab.com/pro
 (2) US$25.99 instead of US$34.99 for students
 Deal valid: 24-29th November
 
+KodeKloud \
+https://kodekloud.com/pricing/
+KodeKloud STANDARD - 40 % Off \
+KodeKloud PRO - 55 % Off \
+Deal Time: Ongoing
+
+
 ## Mini Courses:
 
 Pluralsight Security Training \
