@@ -38,6 +38,16 @@ https://letsdefend.io/cybersecurity-news.html
 99% off ($1 instead of $100) with code: BLCKFRDY-NEWS \
 Deal ends: December
 
+## Professional Services (NEW CATEGORY):
+
+UnderDefense Cybersecurity \
+https://underdefense.com/cyber-monday-offer/  
+20% off Application/Network/Infrastructure Pentest \
+40% off four App Pentests (multi-year bundle) \
+20-40% Off 24×7 Managed Threat Detection and Response \
+20-40% off for Incident Response Retainer \
+Deal ends: Nov 30th \
+
 ## Tools
 
 Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan \
@@ -50,7 +60,6 @@ https://www.immuniweb.com
 Black Friday: 40% off any one-time purchase and monthly subscriptions with code: BF22-XARA \
 Thanksgiving Day: 40% off ImmuniWeb Discovery with code: 8AXN-1XYS-FMUJ \
 Deals valid only on their respective days
-
 
 Nessus (Professional or Expert) \
 https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-source=BF22  
@@ -150,13 +159,6 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2022
 (1) 50% off + free handbook (2) 75% off for students \
 Deal ends: December
 
-Pensterlab :see_no_evil:\
-https://pentesterlab.com/pro  
-27% off one year subscription \
-(1) US$146 instead of US$199 \
-(2) US$25.99 instead of US$34.99 for students
-Deal valid: 24-29th November
-
 Platzi (IT Educational Platform (with security courses)) \
 https://platzi.com/blackfriday  
 30% off one year subscription \
@@ -184,11 +186,6 @@ TheXSSRat (Bug Bounty and Hacking) \
 85% off any course with code: lemon \
 Full House is $500 with 85% comes to $75 for all \
 Deal ends: Nov 25
-
-The Offensive Labs (Security 100% Hands-On Training) \
-https://www.theoffensivelabs.com  
-70% off any course with code: BLACKFRIDAY22 \
-Deal ends: December
 
 Cybrary (CyberSecurity Trainings) \
 https://www.cybrary.it/  
@@ -221,12 +218,36 @@ https://www.bugbountyhunter.com/membership/
 37.33% off \
 Deal ends: 28th November 23:59:59 UTC
 
+Cybr - Cybersecurity training and community \
+https://cybr.com/pricing/  
+29% lifetime discount on yearly plans \
+Deal ends: 27th November  23:59:59 UTC
+
+## Practical Labs (NEW CATEGORY):
+
 Cyberwarfare Labs \
 https://www.cyberwarfare.live/cwl-black-friday-sale-2022/  
 20% off individual courses with code: CWLBLACKFRIDAY20 \
 25% off individual training with code: CWLBLACKFRIDAYT25 \
 https://www.cyberwarfare.live/course-bundle-deals  
 30%-60% off on bundle deals
+
+PWNX Cyber Lab Game & Training \
+https://play.pwnx.io  
+50% off premium packages \
+Deal ends: 30th November
+
+The Offensive Labs (Security 100% Hands-On Training) \
+https://www.theoffensivelabs.com  
+70% off any course with code: BLACKFRIDAY22 \
+Deal ends: December
+
+Pensterlab :see_no_evil:\
+https://pentesterlab.com/pro  
+27% off one year subscription \
+(1) US$146 instead of US$199 \
+(2) US$25.99 instead of US$34.99 for students
+Deal valid: 24-29th November
 
 ## Mini Courses:
 
@@ -302,12 +323,7 @@ https://www.microsoftpressstore.com/
 40-55% on books and ebooks with code BOOKSGIVING \
 Deal ends: End of November
 
-## Games:
-
-PWNX Cyber Lab Game & Training \
-https://play.pwnx.io  
-50% off premium packages \
-Deal ends: 30th November
+## Games (NEW CATEGORY):
 
 CantHide Geolocation OSINT \
 https://canthide.me  
@@ -386,14 +402,6 @@ Deal ends: Nov 30th
 Kleen Scan AV Scanner \
 https://kleenscan.com/latest_news  
 Get yearly package for $10 (down from $180)
-
-UnderDefense Cybersecurity \
-https://underdefense.com/cyber-monday-offer/  
-20% off Application/Network/Infrastructure Pentest \
-40% off four App Pentests (multi-year bundle) \
-20-40% Off 24×7 Managed Threat Detection and Response \
-20-40% off for Incident Response Retainer \
-Deal ends: Nov 30th \
 
 -----------------------------------------------------------------------------------------
 
