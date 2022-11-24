@@ -221,12 +221,14 @@ https://www.bugbountyhunter.com/membership/
 37.33% off \
 Deal ends: 28th November 23:59:59 UTC
 
-## Mini Courses:
+Cyberwarfare Labs \
+https://www.cyberwarfare.live/cwl-black-friday-sale-2022/  
+20% off individual courses with code: CWLBLACKFRIDAY20 \
+25% off individual training with code: CWLBLACKFRIDAYT25 \
+https://www.cyberwarfare.live/course-bundle-deals  
+30%-60% off on bundle deals
 
-Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
-https://agilestationery.com/pages/play-elevation-of-privilege-with-adam-shostack  
-15% off sessions booked in Q1. Excludes delivery. \
-Deal ends: 15th December
+## Mini Courses:
 
 Pluralsight Security Training \
 https://www.pluralsight.com/offer/2022/bf-cm-50-off  
@@ -253,8 +255,6 @@ https://linktr.ee/inetraining
 (5) Pentester Academy at $199 from $249 - BF199 \
 (6) Pentester Academy Bootcamps at 10% off - BF10 \
 Deal ends: 25th November
-
-## Mini Course Bundles:
 
 ## Hardware:
 
@@ -326,6 +326,11 @@ https://agilestationery.com/pages/cybersecurity-games-and-tools
 (1) 15% off with code: CYBER15 \
 (2) 30% off 3 or more items with code: CYBER30 \
 Deal valid: 14-30th November
+
+Play 2 Learn: Remote Facilitation of Elevation of Privilege Games \
+https://agilestationery.com/pages/play-elevation-of-privilege-with-adam-shostack  
+15% off sessions booked in Q1. Excludes delivery. \
+Deal ends: 15th December
 
 ## Services:
 
