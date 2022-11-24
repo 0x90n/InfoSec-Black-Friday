@@ -244,6 +244,12 @@ https://cybr.com/pricing/
 29% lifetime discount on yearly plans \
 Deal ends: 27th November  23:59:59 UTC
 
+CloudBreach - Offensive Azure Security Professional \
+https://cloudbreach.io/BlackFriday/ 
+20% Discount on All CloudBreach Security Training Products \
+Promo code: BlackFriday22 \
+Deal ends: 30th November  23:59:59 UTC
+
 ## Practical Labs (NEW CATEGORY):
 
 Cyberwarfare Labs \
