@@ -185,6 +185,12 @@ https://www.theoffensivelabs.com
 70% off any course with code: BLACKFRIDAY22 \
 Deal ends: December
 
+Cybrary (CyberSecurity Trainings) \
+https://www.cybrary.it/  
+20% off annual membership with code: BlackFriday20 \
+Change plan to ANNUAL, then replace the ANNUAL10 coupon with the above coupon \
+Deal ends: Nov 25 (Friday) midnight
+
 Offensive C# \
 https://www.udemy.com/course/offensive-csharp/?couponCode=BLACKFRIDAY22  
 50% off at checkout with code: BLACKFRIDAY22 \
