@@ -438,7 +438,7 @@ https://kleenscan.com/latest_news
 Get yearly package for $10 (down from $180)
 
 Daito Authenticator - Web-based & shared 2FA for teams \
-https://www.daito.io/
+https://www.daito.io/  
 30% off first month or entire first year with code BLACKFRIDAY2022 \
 Deal ends: Nov 30th
 
