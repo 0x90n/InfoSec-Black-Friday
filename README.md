@@ -437,10 +437,16 @@ Kleen Scan AV Scanner \
 https://kleenscan.com/latest_news  
 Get yearly package for $10 (down from $180)
 
+
 Guardian Firewall + VPN \
 https://guardianapp.com/thanksgiving-sale-2022/  
 Get 20% off Guardian Pro \
 Deal ends: end of Cyber Monday 2022 \
+
+Daito Authenticator - Web-based & shared 2FA for teams \
+https://www.daito.io/  
+30% off first month or entire first year with code BLACKFRIDAY2022 \
+Deal ends: Nov 30th
 
 -----------------------------------------------------------------------------------------
 
