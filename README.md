@@ -123,6 +123,12 @@ https://www.sweetscape.com/store/
 Deal ends: 28th November  
   
 ## Courses & Training
+The OSINTion - Affordable Open Source Intelligence (OSINT) Training\
+https://www.theosintion.com
+40% off courses and 1:1 Investigation Experiences at https://www.theosintion.com/courses/store  with code: BLACKFRIDAY2022\
+Additonal 20% off bundles at https://app.acuityscheduling.com/catalog.php?owner=17960574&category=Bundles with code: BLACKFRIDAYBUNDLE2022 \
+Deal ends: 1st December
+
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
 https://www.appsecengineer.com/main-menu-pages/pricing  
 25% off Annual Plans with code: THANKSGIVING22 \
