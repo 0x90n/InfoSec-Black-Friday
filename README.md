@@ -48,6 +48,15 @@ https://underdefense.com/cyber-monday-offer/
 20-40% off for Incident Response Retainer \
 Deal ends: Nov 30th
 
+Central InfoSec \
+https://www.centralinfosec.com/cyber-monday  
+25% Off - External Network Penetration Test \
+25% Off - Internal Network Penetration Test \
+25% Off - Web Application Penetration Test \
+35% Off - Red Team Assessment (Assumed Breach) \
+50% Off - Red Team Assessment (Full Scope) \
+Deal Ends November 30th 2022
+
 ## Tools
 
 Workflow86 - document, automate and manage security processes and ops \
