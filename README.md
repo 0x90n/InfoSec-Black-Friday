@@ -250,6 +250,11 @@ https://cloudbreach.io/BlackFriday/
 Promo code: BlackFriday22 \
 Deal ends: 30th November  23:59:59 UTC
 
+ISACA - CISA & CISM Certification  \
+https://www.isaca.org/campaigns/cisa-cism-exam-discount  
+10% off at checkout with code: PRODEXAM10  \
+Deal ends: December 31st 
+
 ## Practical Labs (NEW CATEGORY):
 
 Cyberwarfare Labs \
