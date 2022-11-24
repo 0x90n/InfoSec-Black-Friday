@@ -367,6 +367,7 @@ Deal Ends: November 30
 Miscreants - Thoughtfully designed apparel and homegoods for hackers \ 
 New collection (Object Oriented) drops 11/25 Midnight EST \
 https://shopmiscreants.com/?ref=0x09n   
+20% Off Everything with code: COZY20 \
 Deal valid November 25th-28th
 
 ## Books:
