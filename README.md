@@ -55,6 +55,11 @@ https://www.workflow86.com/
 30% off for 3 months with code: BLACKFRIDAY \
 Deal valid: 3 December 2022
 
+ScanTitan - Website and External Attack Surface Security Scanning and Monitoring \
+https://www.scantitan.com/  
+Lifetime for Professional Plan for $95.52 USD (92% Off) with code: BF-THGV-LZKJ \
+Deal valid: 1 December 2022
+
 Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan \
 https://securityforeveryone.com/products/continuous-security  
 50% off with code: BLACKFRIDAY \
