@@ -338,9 +338,9 @@ https://www.ifixit.com/promotions/black-friday-holiday
 Multiple On-Sale Kits \
 Deal Ends: November 28 
 
-BusKill (Magnetic Breakaway Dead Man Switch)
-https://buskill.in/
-Get 10% off all orders paid with cryptocurrency
+BusKill (Magnetic Breakaway Dead Man Switch) :see_no_evil: \
+https://buskill.in/  
+Get 10% off all orders paid with cryptocurrency \
 Deal ends: Dec 04
 
 ## Wearables:
