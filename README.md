@@ -51,7 +51,7 @@ Deal ends: Nov 30th
 ## Tools
 
 Workflow86 - document, automate and manage security processes and ops \
-https://www.workflow86.com/
+https://www.workflow86.com/  
 30% off for 3 months with code: BLACKFRIDAY \
 Deal valid: 3 December 2022
 
