@@ -438,7 +438,7 @@ https://kleenscan.com/latest_news
 Get yearly package for $10 (down from $180)
 
 Guardian Firewall + VPN \
-https://guardianapp.com/thanksgiving-sale-2022/
+https://guardianapp.com/thanksgiving-sale-2022/  
 Get 20% off Guardian Pro \
 Deal ends: end of Cyber Monday 2022 \
 
