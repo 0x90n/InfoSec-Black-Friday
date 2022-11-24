@@ -50,6 +50,11 @@ Deal ends: Nov 30th
 
 ## Tools
 
+Workflow86 - document, automate and manage security processes and ops \
+https://www.workflow86.com/  
+30% off for 3 months with code: BLACKFRIDAY \
+Deal valid: 3 December 2022
+
 Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan \
 https://securityforeveryone.com/products/continuous-security  
 50% off with code: BLACKFRIDAY \
