@@ -169,8 +169,9 @@ https://www.theoffensivelabs.com
 Deal ends: December
 
 Cybrary (CyberSecurity Trainings) \
-https://www.cybrary.it/upgrade/checkout/?utm_source=twitter&utm_medium=social-organic&utm_campaign=black-friday-promo  
-20% off annual memberships with code: BlackFriday20 \
+https://www.cybrary.it/  
+20% off annual membership with code: BlackFriday20 \
+Change plan to ANNUAL, then replace the ANNUAL10 coupon with the above coupon \
 Deal ends: Nov 25 (Friday) midnight
 
 Offensive C# \
