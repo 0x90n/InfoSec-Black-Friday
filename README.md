@@ -358,7 +358,7 @@ Get 10% off all orders paid with cryptocurrency \
 Deal ends: Dec 04
 
 EXPLIoT \
-https://bit.ly/BlackFriYaySaleExpliot 
+https://store.expliot.io
 Get More Than You Bought + 5% Off on EXPLIoT Products \
 Deal ends: 30th Nov
 
