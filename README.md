@@ -296,6 +296,11 @@ KodeKloud STANDARD - 40 % Off \
 KodeKloud PRO - 55 % Off \
 Deal Time: Ongoing
 
+Tryhackme \
+https://tryhackme.com/
+Tryhackme personal Annual subscription - 20 % Off \
+Code: AOC22 or NetworkChuck2022 \
+Deal Time: Ongoing
 
 ## Mini Courses:
 
