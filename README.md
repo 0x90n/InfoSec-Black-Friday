@@ -139,7 +139,7 @@ Deal ends: 28th November
 Little Snitch - Host based macOS firewall \
 https://www.obdev.at/products/littlesnitch/order.html
 50% off \
-Deal ends: N/A
+Deal ends: Unknown or N/A
   
 ## Courses & Training
 The OSINTion - Affordable Open Source Intelligence (OSINT) Training\
