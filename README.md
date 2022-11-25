@@ -36,7 +36,7 @@ https://www.tracelabs.org/get-involved - (World)
 Unsupervised Learning Subscription (Annual) \
 https://danielmiessler.com/subscribe/ \
 25% off ($74.00 instead of $99) with code: blackfriday \
-Deal ends: TBD
+Deal ends: Nov 27th, 2022 at 11:59pm
 
 Cybersecurity Weekly Newsletter \
 https://letsdefend.io/cybersecurity-news.html  
