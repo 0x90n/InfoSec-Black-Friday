@@ -135,6 +135,11 @@ Deal ends: 28th November
 https://www.sweetscape.com/store/  
 25% off \
 Deal ends: 28th November  
+
+Little Snitch - Host based macOS firewall \
+https://www.obdev.at/products/littlesnitch/order.html
+50% off \
+Deal ends: N/A
   
 ## Courses & Training
 The OSINTion - Affordable Open Source Intelligence (OSINT) Training\
