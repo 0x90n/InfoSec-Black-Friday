@@ -33,6 +33,11 @@ https://www.tracelabs.org/get-involved - (World)
 # InfoSec Black Friday Deals 2022
 
 ## Newsletters
+Unsupervised Learning Subscription (Annual) \
+https://danielmiessler.memberful.com/checkout?plan=53074&coupon=blackfriday \
+25% off ($74.00 instead of $99) with code: blackfriday \
+Deal ends: TBD
+
 Cybersecurity Weekly Newsletter \
 https://letsdefend.io/cybersecurity-news.html  
 99% off ($1 instead of $100) with code: BLCKFRDY-NEWS \
