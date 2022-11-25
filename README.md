@@ -299,7 +299,7 @@ Deal Time: Ongoing
 Tryhackme \
 https://tryhackme.com/
 Tryhackme personal Annual subscription - 20 % Off \
-Code: AOC22 or NetworkChuck2022 \
+Code: AOC22 \
 Deal Time: Ongoing
 
 ## Mini Courses:
