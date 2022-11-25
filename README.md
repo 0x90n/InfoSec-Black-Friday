@@ -364,6 +364,12 @@ https://securitymerch.com
 50% Off with code: BLACKFRIDAY22 \
 Deal Ends: November 30
 
+Miscreants - Thoughtfully designed apparel and homegoods for hackers :see_no_evil: \ 
+New collection (Object Oriented) drops 11/25 Midnight EST \
+https://shopmiscreants.com/?ref=0x09n   
+20% Off Everything with code: COZY20 \
+Deal valid November 25th-28th
+
 ## Books:
 
 No Starch Press - InfoSec Books :see_no_evil:\
