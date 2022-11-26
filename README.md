@@ -146,6 +146,11 @@ https://www.obdev.at/products/littlesnitch/order.html
 50% off \
 Deal ends: Unknown or N/A
   
+Wins app - A New Mac Window Manager. Bring System-level Arrange Window features to Mac. Shortcuts, Shake window to hidden other windows and more \
+https://wins.cool  \
+50% off with code: BLACKFRIDAY_2022 \
+Deal ends: 31th December  
+
 ## Courses & Training
 
 SEKTOR7 Institute :see_no_evil: \
