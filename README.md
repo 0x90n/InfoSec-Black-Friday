@@ -140,6 +140,11 @@ Deal ends: 28th November
 https://www.sweetscape.com/store/  
 25% off \
 Deal ends: 28th November  
+
+Little Snitch - Host based macOS firewall \
+https://www.obdev.at/products/littlesnitch/order.html  
+50% off \
+Deal ends: Unknown or N/A
   
 ## Courses & Training
 Applied Network Defense / Chris Sanders \
