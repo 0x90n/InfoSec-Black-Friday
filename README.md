@@ -33,6 +33,11 @@ https://www.tracelabs.org/get-involved - (World)
 # InfoSec Black Friday Deals 2022
 
 ## Newsletters
+Unsupervised Learning Subscription (Annual) \
+https://danielmiessler.com/subscribe/  
+25% off ($74.00 instead of $99) with code: blackfriday \
+Deal ends: Nov 27th, 2022 at 11:59pm
+
 Cybersecurity Weekly Newsletter \
 https://letsdefend.io/cybersecurity-news.html  
 99% off ($1 instead of $100) with code: BLCKFRDY-NEWS \
@@ -135,8 +140,18 @@ Deal ends: 28th November
 https://www.sweetscape.com/store/  
 25% off \
 Deal ends: 28th November  
+
+Little Snitch - Host based macOS firewall \
+https://www.obdev.at/products/littlesnitch/order.html  
+50% off \
+Deal ends: Unknown or N/A
   
 ## Courses & Training
+Applied Network Defense / Chris Sanders \
+https://networkdefense.io  
+20-25% all courses. Discounted price are reflect on course website \
+Deal ends: 29 November at midnight ET
+
 The OSINTion - Affordable Open Source Intelligence (OSINT) Training\
 https://www.theosintion.com
 40% off courses and 1:1 Investigation Experiences at https://www.theosintion.com/courses/store  with code: BLACKFRIDAY2022\
@@ -301,6 +316,12 @@ https://courses.tib3rius.com
 75% off any course or bundle with code: BLACKFRIDAY \
 Deal ends: December 1
 
+Tryhackme \
+https://tryhackme.com/  
+Tryhackme personal Annual subscription - 20 % Off \
+Code: AOC22 \
+Deal ends: 29th November
+
 ## Mini Courses:
 
 Pluralsight Security Training \
@@ -360,6 +381,11 @@ BusKill (Magnetic Breakaway Dead Man Switch) :see_no_evil: \
 https://buskill.in/  
 Get 10% off all orders paid with cryptocurrency \
 Deal ends: Dec 04
+
+EXPLIoT \
+https://store.expliot.io  
+Get More Than You Bought + 5% Off on EXPLIoT Products \
+Deal ends: 30th Nov
 
 ## Wearables:
 
