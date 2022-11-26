@@ -290,6 +290,12 @@ https://pentesterlab.com/pro
 (2) US$25.99 instead of US$34.99 for students
 Deal valid: 24-29th November
 
+TryHackMe \
+https://tryhackme.com/why-subscribe \
+(Anually )US$4.8/Month instead of US$6/Month \
+Promo code: Use code AOC2022 at checkout \
+Deal ends: 37th November, 11 PM \
+
 KodeKloud - DevSecOps Training \
 https://kodekloud.com/pricing/  
 KodeKloud STANDARD - 40 % Off \
