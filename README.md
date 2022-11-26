@@ -86,8 +86,9 @@ Thanksgiving Day: 40% off ImmuniWeb Discovery with code: 8AXN-1XYS-FMUJ \
 Deals valid only on their respective days
 
 Nessus (Professional or Expert) \
-https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-source=BF22  
-50% off with code: TakeHalf \
+https://store.tenable.com/1479/purl-webNessusTwoYearOptin?x-source=BF22  
+https://store.tenable.com/1479/purl-webExpertTwoYearOptin?x-source=BF22
+50% off with code: TakeHalf (Only Valid for 2 year license)\
 Deal valid: 24-28th November
 
 Securestack DevSecOps platform :see_no_evil:\
