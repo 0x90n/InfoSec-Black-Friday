@@ -297,7 +297,7 @@ KodeKloud PRO - 55 % Off \
 Deal Time: Ongoing
 
 Tib3rius - Privilege Escalation for OSCP & Beyond! \
-https://courses.tib3rius.com
+https://courses.tib3rius.com  
 75% off any course or bundle with code: BLACKFRIDAY \
 Deal ends: December 1
 
