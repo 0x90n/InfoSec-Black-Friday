@@ -147,6 +147,17 @@ https://www.obdev.at/products/littlesnitch/order.html
 Deal ends: Unknown or N/A
   
 ## Courses & Training
+
+SEKTOR7 Institute :see_no_evil: \
+https://institute.sektor7.net  
+25% off regular price with code: BEFICOM-22 \
+Deal ends: Cyber Monday
+
+Securízame hacking, DFIR and hardening training (SPANISH) \
+https://www.securizame.com/BlackFriday2022/  
+25% discount for online and online++ training \
+Deal ends: 2nd December
+
 Applied Network Defense / Chris Sanders \
 https://networkdefense.io  
 20-25% all courses. Discounted price are reflect on course website \
@@ -443,6 +454,10 @@ https://agilestationery.com/pages/play-elevation-of-privilege-with-adam-shostack
 Deal ends: 15th December
 
 ## Services:
+
+ESET Anti-Virus \
+https://www.eset.com/us/cyber-week-2022/
+50% off regular licenses \
 
 Surfshark VPN \
 https://surfshark.com/deals  
