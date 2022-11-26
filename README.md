@@ -137,7 +137,7 @@ https://www.sweetscape.com/store/
 Deal ends: 28th November  
 
 Little Snitch - Host based macOS firewall \
-https://www.obdev.at/products/littlesnitch/order.html
+https://www.obdev.at/products/littlesnitch/order.html  
 50% off \
 Deal ends: Unknown or N/A
   
