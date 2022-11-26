@@ -137,6 +137,11 @@ https://www.sweetscape.com/store/
 Deal ends: 28th November  
   
 ## Courses & Training
+Applied Network Defense / Chris Sanders \
+https://networkdefense.io  
+20-25% all courses. Discounted price are reflect on course website \
+Deal ends: 29 November at midnight ET
+
 The OSINTion - Affordable Open Source Intelligence (OSINT) Training\
 https://www.theosintion.com
 40% off courses and 1:1 Investigation Experiences at https://www.theosintion.com/courses/store  with code: BLACKFRIDAY2022\
