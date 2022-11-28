@@ -341,10 +341,10 @@ Standard SAVE 50% - $149 ($299 original) per year \
 Premium SAVE 50% - $224 ($449 original) per year \
 Deal live now
 
-Hacking Android Applications for Bug Bounty and Pentesting \
-https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY  
-65% off at checkout with code: BLACKFRIDAY \
-Deal ends: 27th November  
+Android Applications hacking for Bug Bounty and Pentesting \
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=CYBERMONDAY 
+65% off at checkout with code: CYBERMONDAY \
+Deal ends: 28th December  
 
 Penetration Testing Fundamentals (GERMAN) \
 https://karrierewelt.golem.de/collections/black-week/products/penetration-testing-fundamentals  
