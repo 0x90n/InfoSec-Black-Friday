@@ -290,6 +290,14 @@ https://www.isaca.org/campaigns/cisa-cism-exam-discount
 10% off at checkout with code: PRODEXAM10  \
 Deal ends: December 31st 
 
+Signal Labs - Cybersecurity Technical Trainings \
+(Reverse Engineering, Vulnerability Research, Offensive Tool Development) \
+Main Website: https://www.signal-labs.com \
+Self-Paced Trainings: https://signal-labs.thinkific.com/collections \
+20% Discount on all trainings (non-stackable) \
+Promo Code: BlackFriday \
+Valid Dates: November 28th - December 5th
+
 ## Practical Labs (NEW CATEGORY):
 
 Cyberwarfare Labs \
