@@ -290,6 +290,11 @@ https://www.isaca.org/campaigns/cisa-cism-exam-discount
 10% off at checkout with code: PRODEXAM10  \
 Deal ends: December 31st 
 
+The Linux Foundation - Kubernetes Security Essentials Course + Certified Kubernetes Security Specialist (CKS) Exam Bundle (+others) \
+https://training.linuxfoundation.org/cyber-2022/#bundles/
+50% off at checkout with code: CYBER22CC \
+Deal ends: December 5th 
+
 ## Practical Labs (NEW CATEGORY):
 
 Cyberwarfare Labs \
