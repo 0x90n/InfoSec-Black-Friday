@@ -70,6 +70,12 @@ Source: https://twitter.com/saferinternetpr/status/1721050353356177788
 
 ## Games (NEW CATEGORY):
 
+Elevation of Privilege Card Game with Privacy
+https://agilestationery.com/products/elevation-of-privilege-with-privacy-suit
+(1) 15% off with code: CYBER15
+(2) 30% off 3 or more items with code: CYBER30
+Deal valid until 30th November
+
 
 ## Services:
 
