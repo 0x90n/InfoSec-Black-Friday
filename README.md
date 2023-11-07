@@ -1,3 +1,5 @@
+## As it seems the original project will not have a 2023 edition, a fork placed here.
+
 # InfoSec Black Friday Deals ~ "Hack Friday" 2023 Edition
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday, for all the hackers that saved $8 on blue and got a free :see_no_evil: instead.
 
@@ -30,7 +32,7 @@ https://www.tracelabs.org/get-involved - (World)
 
 -----------------------------------------------------------------------------------------
 
-# InfoSec Black Friday Deals 2022
+# InfoSec Black Friday Deals 2023
 
 ## Newsletters
 
@@ -42,7 +44,14 @@ https://www.tracelabs.org/get-involved - (World)
 
   
 ## Courses & Training
+https://alteredsecurity.com/online-labs
+20% off on all our on-demand classes from November 10th to 12th 2023
+20% off on all our on-demand classes and bootcamps in Q1 and Q2 2024 from November 24th to 27th 2023. 
+Source: https://twitter.com/AlteredSecurity/status/1719755796349624584
 
+https://saferinternetproject.com.au/
+We are introducing our first ever discount on memberships with UP TO 35% discounts on all memberships!
+Source: https://twitter.com/saferinternetpr/status/1721050353356177788
 
 ## Practical Labs (NEW CATEGORY):
 
