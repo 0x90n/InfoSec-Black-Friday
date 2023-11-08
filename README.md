@@ -53,6 +53,10 @@ https://saferinternetproject.com.au/
 We are introducing our first ever discount on memberships with UP TO 35% discounts on all memberships!  
 Source: https://twitter.com/saferinternetpr/status/1721050353356177788  
 
+https://redteamsorcery.teachable.com/  
+All our courses are now $10 for this weekend.  
+Source: https://twitter.com/Ox4d5a/status/1720987918142173414  
+
 ## Practical Labs (NEW CATEGORY):
 
 
