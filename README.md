@@ -14,13 +14,13 @@ The below deals have either publicly announced they'll be doing a deal or highly
 ## FAQ
 
 ### When will most of the deals/discounts be here?
-Most likely 24th midday, but some start on Monday, so check back often!
+Most likely 24th midday, but some start before, so check back often!
 
 ### When do these sales end?
 Most end 30th November
 
 ### Can I add deals to the page?
-Yes, please follow formatting guidelines, provide a source and code. Has to be infosec related, no affiliate links, deal has to be active or a waitlist.
+Yes, please follow formatting guidelines, provide a source and code. Has to be infosec related, no affiliate links, deal has to be active or a waitlist.  
 
 :see_no_evil: means 1) Limited to first x users 2) Great deal or 3) Highly recommended by moi
 
@@ -57,7 +57,7 @@ https://redteamsorcery.teachable.com/
 All our courses are now $10 for this weekend.  
 Source: https://twitter.com/Ox4d5a/status/1720987918142173414  
 
-## Practical Labs (NEW CATEGORY):
+## Practical Labs:
 
 
 ## Mini Courses:
@@ -72,7 +72,7 @@ Source: https://twitter.com/Ox4d5a/status/1720987918142173414
 ## Books:
 
 
-## Games (NEW CATEGORY):
+## Games:
 
 Elevation of Privilege Card Game with Privacy \
 https://agilestationery.com/products/elevation-of-privilege-with-privacy-suit  
@@ -87,14 +87,13 @@ Deal valid until 30th November
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
-At the end of a normal sentence, place a backslash for newline (`\`)  
-After a link, please use a double-space (`  `)
+At the end of a sentence or a link, use a double-space (`  `) or place a backslash (`\`) for newline.  
 
 ## Credits
-If you would like to DM me a deal rather than submitting a PR: @securitymeta_
-Other PRs and sources will be thanked here.
+As the owner (@securitymeta_) doesn't seem active on his repo anymore, if you would like to DM me a deal rather than submitting a PR: @CriimBow  
 
-Thanks to those who credited and help spread the word!
+Thank you to everyone involved in this edition (add your username when creating a PR):   
+@PfiatDe, @sjgibbs
 
 ## Discoverability
 infosec black friday, information security black friday, cybersec black friday, cyber security black friday, netsec black friday, hacking black friday
