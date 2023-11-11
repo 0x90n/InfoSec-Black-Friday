@@ -57,6 +57,11 @@ https://redteamsorcery.teachable.com/
 All our courses are now $10 for this weekend.  
 Source: https://twitter.com/Ox4d5a/status/1720987918142173414  
 
+https://checkout.appsecengineer.com/pro
+Get $100 off with our exclusive offer on AppSecEngineer Pro Annual plan. Until 30th November 2023.
+Use Coupon Code: PUMPKINPIE25
+Source: https://twitter.com/AppSecEngineer/status/1722675950775828812
+
 ## Practical Labs:
 
 
