@@ -70,7 +70,7 @@ Source: https://twitter.com/AppSecEngineer/status/1722675950775828812
 
 ## Hardware:
 
-https://labs.ksec.co.uk/black-friday-sale/ 
+https://labs.ksec.co.uk/black-friday-sale/  
 Red Team Tools & Hacker Hardware - 15% off all products with code: BLACKFRIDAY15  
 Deal valid until 27th November 
 
