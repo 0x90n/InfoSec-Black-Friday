@@ -62,6 +62,11 @@ Get $100 off with our exclusive offer on AppSecEngineer Pro Annual plan. Until 3
 Use Coupon Code: PUMPKINPIE25  
 Source: https://twitter.com/AppSecEngineer/status/1722675950775828812  
 
+Coursera \
+First month of Coursera Plus for only $1. \
+Source: https://www.coursera.org/collections/2023-black-friday-it-courses \
+Valid until November 24, 2023, 11:59 p.m. PT for new Coursera Plus subscribers only
+
 ## Practical Labs:
 
 
@@ -97,6 +102,12 @@ https://protonvpn.com/blackfriday \
 ProtonVPN Plus - 1, 15, 30 months - 10%, 52%, 60% off \
 Proton Unlimited - 12 months - 33% off \
 Live Now - Ends on December 4 at 10:00 AM UTC+1
+
+Bitdefender \
+Save up to 30% on Bitdefender Total Security anti-malware software \
+Save up to 30% on Bitdefender Antivirus Plus \
+Save up to 30% on Bitdefender Premium VPN \
+Source: https://www.businesswire.com/news/home/20231111912364/en/Bitdefender-Black-Friday-2023-Summary-of-Early-VPN-Total-Security-Antivirus-Offers-Shared-by-Retail-Fuse
 
 -----------------------------------------------------------------------------------------
 
