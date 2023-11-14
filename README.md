@@ -45,7 +45,7 @@ https://www.tracelabs.org/get-involved - (World)
   
 ## Courses & Training
 
-**Practical DevSecOps** training and certification, learn DevSecOps, Kubernetes Security, Container Security, API Security, and Threat Modeling. 
+**Practical DevSecOps** training and certification, learn hands-on DevSecOps, Kubernetes Security, Container Security, API Security, and Threat Modeling. 
 15% off all courses, save USD 180 or more, discounts applied automatically. 
 Source: https://www.practical-devsecops.com/black-friday/
 
