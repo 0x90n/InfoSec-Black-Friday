@@ -76,7 +76,7 @@ https://letsdefend.io/
 Deal ends: 2nd December
 
 Offensive Security - Penetration Testing Training \
-https://www.offensive-security.com/learn-one
+https://www.offensive-security.com/learn-one  
 20% off Learn One subscription \
 Deal ends: 31st December 
 
@@ -125,7 +125,7 @@ Deal is live
 
 Safer Internet Project Ongoing Labs \
 https://saferinternetproject.com  
-35% off all memberships (e.g. $35 USD p/m to $23 USD p/m) \
+35% off all memberships (e.g. $35 USD p/m to $23 USD p/m)
 
 Altered Security Online Pentesting Labs \
 https://www.alteredsecurity.com/online-labs  
@@ -163,7 +163,6 @@ Elevation of Privilege Card Game  \
 https://agilestationery.com/products/elevation-of-privilege-game  
 (1) 15% off with code: CYBER15 \
 (2) 30% off 3 or more items with code: CYBER30 \
-Deal Ends: Unknown \
 
 
 ## Services:
