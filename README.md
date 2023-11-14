@@ -44,6 +44,11 @@ https://www.tracelabs.org/get-involved - (World)
 
   
 ## Courses & Training
+
+Hands-on DevSecOps, Kubernetes Security, Container Security, API Security, Threat Modeling training and certification
+15% off all courses, save USD 180 or more, discounts applied automatically. 
+Source: https://www.practical-devsecops.com/black-friday/
+
 https://alteredsecurity.com/online-labs  
 20% off on all our on-demand classes from November 10th to 12th 2023  
 20% off on all our on-demand classes and bootcamps in Q1 and Q2 2024 from November 24th to 27th 2023.   
