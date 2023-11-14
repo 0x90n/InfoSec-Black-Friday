@@ -105,11 +105,10 @@ Deal valid until 30th November
 
 ## Services:
 
-ProtonVPN \
-https://protonvpn.com/blackfriday \
-ProtonVPN Plus - 1, 15, 30 months - 10%, 52%, 60% off \
-Proton Unlimited - 12 months - 33% off \
-Live Now - Ends on December 4 at 10:00 AM UTC+1
+Proton \
+Sales on Mail, Drive, Pass, VPN, Bundles, and Proton Unlimited
+https://proton.me/support/black-friday-2023 \
+Live Now - Ends on December 4 at 09:00 AM UTC
 
 Bitdefender \
 Save up to 30% on Bitdefender Total Security anti-malware software \
