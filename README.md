@@ -59,7 +59,7 @@ Source: https://twitter.com/Ox4d5a/status/1720987918142173414
 
 https://checkout.appsecengineer.com/pro  
 Get $100 off with our exclusive offer on AppSecEngineer Pro Annual plan. Until 30th November 2023.  
-Use Coupon Code: PUMPKINPIE25  
+Use Coupon Code: `PUMPKINPIE25`  
 Source: https://twitter.com/AppSecEngineer/status/1722675950775828812  
 
 Coursera  
@@ -69,8 +69,8 @@ Valid until November 24, 2023, 11:59 p.m. PT for new Coursera Plus subscribers o
 
 https://securitydojo.co.in/courses.html#bookTrainings  
 SecurityDojo Kubernetes Training Courses up to 90% OFF   
-(1) 25% off with code "BlackFriday1" on 1-1 Instructor  
-(2) 25% off with code "BlackFridayCorporate" on corporate passes  
+(1) 25% off with code `BlackFriday1` on 1-1 Instructor  
+(2) 25% off with code `BlackFridayCorporate` on corporate passes  
 Source: https://www.linkedin.com/feed/update/urn:li:activity:7130002008194891777  
 
 Zero Point Security  
@@ -81,6 +81,11 @@ OffSec
 20% off Learn One Subscription  
 Source: Banner ad at the bottom of https://offsec.com  
 
+The Cyber Plumber's Lab Guide and Interactive Access  
+https://opsdisk.gumroad.com/l/cphlab/blackfriday2023  
+Use Coupon code: `BLACKFRIDAY2023` or click on the link  
+Source: https://twitter.com/opsdisk/status/1724115449674146235  
+Valid until the end of 2023  
 
 ## Practical Labs:
 
@@ -91,7 +96,7 @@ Source: Banner ad at the bottom of https://offsec.com
 ## Hardware:
 
 https://labs.ksec.co.uk/black-friday-sale/  
-Red Team Tools & Hacker Hardware - 15% off all products with code: BLACKFRIDAY15  
+Red Team Tools & Hacker Hardware - 15% off all products with code: `BLACKFRIDAY15`  
 Deal valid until 27th November 
 
 
@@ -105,8 +110,8 @@ Deal valid until 27th November
 
 Elevation of Privilege Card Game with Privacy \
 https://agilestationery.com/products/elevation-of-privilege-with-privacy-suit  
-(1) 15% off with code: CYBER15 \
-(2) 30% off 3 or more items with code: CYBER30 \
+(1) 15% off with code: `CYBER15` \
+(2) 30% off 3 or more items with code: `CYBER30` \
 Deal valid until 30th November
 
 
