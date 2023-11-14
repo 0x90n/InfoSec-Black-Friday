@@ -1,7 +1,7 @@
 # InfoSec Black Friday Deals ~ "Friday Hack Fest" 2023 Edition
 All the deals for InfoSec related software/tools this Black Friday / Cyber Monday. 
 
-I was a little late getting started with my wife pushing out a little 0-day baby as of today.
+I was a little late getting started with my wife pushing out a little 0-day baby as of today. Thank you CriimBow for kicking things off in the meantime! 
 
 ### Just 2023 things
 Quality over quantity - this list goes through a level of vetting for dodginess, gated-deals, deals that aren't infosec related and either can't be verified or break promises (e.g. states % off all courses, but has exclusions). There are also some vendors being stood up (literally) with courses and training 'just' for black friday; at your service here to weed out the genuine from the fake.
@@ -91,7 +91,9 @@ Deal ends: 1st December
 
 The Cyber Plumber's Lab Guide and Access \
 https://opsdisk.gumroad.com/l/cphlab/blackfriday2023  
-33% off ($13.37 USD) with code BLACKFRIDAY2023  \
+(1) 33% off ($13.37 USD) + free handbook \
+(2) 75% off for students \
+Use code: BLACKFRIDAY2023  \
 Deal ends: December
 
 DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:\
@@ -182,7 +184,7 @@ Up to 90% off, selected titles are $6.99
 Elevation of Privilege Card Game  \
 https://agilestationery.com/products/elevation-of-privilege-game  
 (1) 15% off with code: CYBER15 \
-(2) 30% off 3 or more items with code: CYBER30 \
+(2) 30% off 3 or more items with code: CYBER30
 
 
 ## Services:
@@ -225,6 +227,8 @@ After a link, please use a double-space (  )
 ## Credits
 If you wouldd like to DM me a deal rather than submitting a PR: @securitymeta_
 Other PRs and sources will be thanked here.
+
+Check out CriimBow's fork for a new/different formatting: https://github.com/CriimBow/InfoSec-Black-Friday/tree/master
 
 Thanks to those who contributed and help spread the word!
 
