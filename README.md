@@ -39,14 +39,14 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be i
 ## InfoSec Career Development (NEW CATEGORY 2023!)
 
 CareerSec: Securing Your Advancement in the Cyber Workforce \
-https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/cyber-friday-25
+https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/cyber-friday-25  
 25% at checkout with code: cyber-friday-25 \
 Deal ends: 30th November
 
 
 ## Newsletters
 
-**Return on Security Subscription (Annual) :see_no_evil: \**
+Return on Security Subscription (Annual) :see_no_evil: \
 https://www.returnonsecurity.com/upgrade?offer_id=3fde9e85-dc7c-48a6-94c4-c350db62504a  
 25% off ($74.00 instead of $99) \
 Deal ends: 30th November
