@@ -70,7 +70,7 @@ Deal ends: 23rd December
   
 ## Courses & Training
 
-Blue Team Training - LetsDefend :see_no_evil:\
+Blue Team Training - LetsDefend :see_no_evil: \
 https://letsdefend.io/  
 50% off code: BLCKFRDY \
 Deal ends: 2nd December
@@ -79,6 +79,10 @@ Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one  
 20% off Learn One subscription \
 Deal ends: 31st December 
+
+SafeStack - Secure Development Training Platform :see_no_evil: \
+https://safestack.io/  
+25% off plans with code: BFTHANKS2023
 
 Zero Point Security Certifications & Courses \
 https://training.zeropointsecurity.co.uk  
@@ -105,10 +109,24 @@ https://www.practical-devsecops.com/black-friday/
 15% off all courses \
 Deal ends: 30th November
 
+TCM Security Certification & Courses :see_no_evil: \
+https://tcm-sec.com/  
+(1) 20% off of certifications and live trainings \
+(2) 50% off of the first payment of the All-Access Membership (any plan) \
+Code: GobbleGobble23 \
+Deal yet to start
+
 AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
 https://checkout.appsecengineer.com/pro    
 $100 USD off Annual Pro Plan with code: PUMPKINPIE25 \
 Deal ends: 30th November
+
+Pensterlab :see_no_evil: \
+https://pentesterlab.com/pro
+27% off one year subscription, applied automatically \
+(1) US$146 instead of US$199 \
+(2) US$25.99 instead of US$34.99 for students \
+Deal valid: 24-29th November
 
 Securízame hacking, DFIR and hardening training (SPANISH) \
 https://www.securizame.com/BlackFriday2023/  
