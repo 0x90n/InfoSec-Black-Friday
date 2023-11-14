@@ -68,10 +68,10 @@ Source: https://www.coursera.org/collections/2023-black-friday-it-courses \
 Valid until November 24, 2023, 11:59 p.m. PT for new Coursera Plus subscribers only
 
 Zero Point Security \
-20% off courses until December 1st with code `BLACKFRI23`
+20% off courses until December 1st with code `BLACKFRI23` \
 Source: Pop up on https://training.zeropointsecurity.co.uk
 
-OffSec \ 
+OffSec \
 20% off Learn One Subscription \
 Source: Banner ad at the bottom of https://offsec.com
 
