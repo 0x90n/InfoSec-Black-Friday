@@ -62,18 +62,25 @@ Get $100 off with our exclusive offer on AppSecEngineer Pro Annual plan. Until 3
 Use Coupon Code: PUMPKINPIE25  
 Source: https://twitter.com/AppSecEngineer/status/1722675950775828812  
 
-Coursera \
-First month of Coursera Plus for only $1. \
-Source: https://www.coursera.org/collections/2023-black-friday-it-courses \
-Valid until November 24, 2023, 11:59 p.m. PT for new Coursera Plus subscribers only
+Coursera  
+First month of Coursera Plus for only $1.  
+Source: https://www.coursera.org/collections/2023-black-friday-it-courses 
+Valid until November 24, 2023, 11:59 p.m. PT for new Coursera Plus subscribers only  
 
-Zero Point Security \
-20% off courses until December 1st with code `BLACKFRI23` \
-Source: Pop up on https://training.zeropointsecurity.co.uk
+https://securitydojo.co.in/courses.html#bookTrainings  
+SecurityDojo Kubernetes Training Courses up to 90% OFF   
+(1) 25% off with code "BlackFriday1" on 1-1 Instructor  
+(2) 25% off with code "BlackFridayCorporate" on corporate passes  
+Source: https://www.linkedin.com/feed/update/urn:li:activity:7130002008194891777  
 
-OffSec \
-20% off Learn One Subscription \
-Source: Banner ad at the bottom of https://offsec.com
+Zero Point Security  
+20% off courses until December 1st with code `BLACKFRI23`  
+Source: Pop up on https://training.zeropointsecurity.co.uk  
+
+OffSec  
+20% off Learn One Subscription  
+Source: Banner ad at the bottom of https://offsec.com  
+
 
 ## Practical Labs:
 
