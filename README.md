@@ -155,7 +155,9 @@ Deal Ends: November 28
 
 
 ## Books:
-
+Springer Apress Cybersecurity eBooks \
+https://link.springer.com/shop/springernature/cyber-fixed-price-sale-cybersecurity-ethicalhacking/en-us/  
+Up to 90% off, selected titles are $6.99
 
 ## Games:
 
