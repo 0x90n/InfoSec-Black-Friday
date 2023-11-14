@@ -30,6 +30,13 @@ Yes, please follow formatting guidelines, provide a source and code. Has to be i
 
 -----------------------------------------------------------------------------------------
 
+## Games
+
+Elevation of Privilege Card Game  \
+https://agilestationery.com/products/elevation-of-privilege-game  
+(1) 15% off with code: CYBER15 \
+(2) 30% off 3 or more items with code: CYBER30 \
+
 ## How to edit formatting
 At the end of a normal sentence, place a backslash for newline (\)
 After a link, please use a double-space (  )
