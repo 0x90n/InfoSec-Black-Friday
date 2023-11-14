@@ -62,16 +62,25 @@ Get $100 off with our exclusive offer on AppSecEngineer Pro Annual plan. Until 3
 Use Coupon Code: PUMPKINPIE25  
 Source: https://twitter.com/AppSecEngineer/status/1722675950775828812  
 
-Coursera \
-First month of Coursera Plus for only $1. \
-Source: https://www.coursera.org/collections/2023-black-friday-it-courses \
-Valid until November 24, 2023, 11:59 p.m. PT for new Coursera Plus subscribers only
+Coursera  
+First month of Coursera Plus for only $1.  
+Source: https://www.coursera.org/collections/2023-black-friday-it-courses 
+Valid until November 24, 2023, 11:59 p.m. PT for new Coursera Plus subscribers only  
 
 https://securitydojo.co.in/courses.html#bookTrainings  
 SecurityDojo Kubernetes Training Courses up to 90% OFF   
 (1) 25% off with code "BlackFriday1" on 1-1 Instructor  
 (2) 25% off with code "BlackFridayCorporate" on corporate passes  
 Source: https://www.linkedin.com/feed/update/urn:li:activity:7130002008194891777  
+
+Zero Point Security  
+20% off courses until December 1st with code `BLACKFRI23`  
+Source: Pop up on https://training.zeropointsecurity.co.uk  
+
+OffSec  
+20% off Learn One Subscription  
+Source: Banner ad at the bottom of https://offsec.com  
+
 
 ## Practical Labs:
 
@@ -103,11 +112,10 @@ Deal valid until 30th November
 
 ## Services:
 
-ProtonVPN \
-https://protonvpn.com/blackfriday \
-ProtonVPN Plus - 1, 15, 30 months - 10%, 52%, 60% off \
-Proton Unlimited - 12 months - 33% off \
-Live Now - Ends on December 4 at 10:00 AM UTC+1
+Proton \
+Sales on Mail, Drive, Pass, VPN, Bundles, and Proton Unlimited
+https://proton.me/support/black-friday-2023 \
+Live Now - Ends on December 4 at 09:00 AM UTC
 
 Bitdefender \
 Save up to 30% on Bitdefender Total Security anti-malware software \
@@ -124,7 +132,7 @@ At the end of a sentence or a link, use a double-space (`  `) or place a backsla
 As the owner (@securitymeta_) doesn't seem active on his repo anymore, if you would like to DM me a deal rather than submitting a PR: @CriimBow  
 
 Thank you to everyone involved in this edition (add your username when creating a PR):   
-@PfiatDe, @sjgibbs
+@PfiatDe, @sjgibbs, @The-Asshat
 
 ## Discoverability
 infosec black friday, information security black friday, cybersec black friday, cyber security black friday, netsec black friday, hacking black friday
