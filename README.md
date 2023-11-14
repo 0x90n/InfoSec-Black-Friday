@@ -11,14 +11,15 @@ Following [PR's rejection](https://github.com/0x90n/InfoSec-Black-Friday/pull/18
 * 📚 [Books](#books)
 * 👕 [Wearables](#wearables)
 * 💾 [Games](#games)
+* 🤝🏼 [Services](#services)
 
 
 -----------------------------------------------------------------------------------------
 
-# Tools
+## Tools
 
 
-# Courses & Training
+## Courses & Training
 | Provider | Discount | Link | Source |
 | --- | --- | --- | --- |
 | Red Team Sorcery | All courses are now $10 | https://redteamsorcery.teachable.com/  | https://twitter.com/Ox4d5a/status/1720987918142173414 |
@@ -32,14 +33,14 @@ Following [PR's rejection](https://github.com/0x90n/InfoSec-Black-Friday/pull/18
 | Coursera | First month of Coursera Plus for only $1/1€ | https://www.coursera.org/courseraplus/special/onedollar-nov-2023 | https://www.coursera.org/collections/2023-black-friday-it-courses |
 
 
-# Practical Labs
+## Practical Labs
 | Provider | Discount | Link | Source |
 | --- | --- | --- | --- |
 |The Cyber Plumber's Lab Guide and Interactive Access | Use Coupon code: `BLACKFRIDAY2023` or click on the link | https://opsdisk.gumroad.com/l/cphlab/blackfriday2023  | https://twitter.com/opsdisk/status/1724115449674146235 |
 | Altered Security Online Pentesting Labs  | 20% off classes and bootcamps in Q1 and Q2 2024 with code `BLACKFRIDAY2023` | https://www.alteredsecurity.com/online-labs | https://twitter.com/AlteredSecurity/status/1719755796349624584  | 
 
 
-# Hardware
+## Hardware
 | Provider | Discount | Link | Source |
 | --- | --- | --- | --- |
 |KSEC LABS | 15% off all products with code: `BLACKFRIDAY15` | https://labs.ksec.co.uk/ | https://labs.ksec.co.uk/black-friday-sale/ |
@@ -48,7 +49,7 @@ Following [PR's rejection](https://github.com/0x90n/InfoSec-Black-Friday/pull/18
 ## Wearables
 
 
-# Books
+## Books
 | Provider | Discount | Link | Source |
 | --- | --- | --- | --- |
 | Apress & Springer eBooks | $6.99 | https://link.springer.com/shop/springernature/cyber-fixed-price-sale-cybersecurity-ethicalhacking/en-us/ |  |
