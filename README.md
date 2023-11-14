@@ -67,6 +67,12 @@ First month of Coursera Plus for only $1. \
 Source: https://www.coursera.org/collections/2023-black-friday-it-courses \
 Valid until November 24, 2023, 11:59 p.m. PT for new Coursera Plus subscribers only
 
+https://securitydojo.co.in/courses.html#bookTrainings
+First ever 90% off on Instructor Led Kubernetes Crusade: Mastering Attack & Defense Strategies - Student Edition until 10th December 2023
+Use Coupon Code "BlackFriday1" on 1-1 Instructor Led 2-Day Kubernetes Crusade: Mastering Attack & Defense Strategies until 1st January 2023
+Use Coupon Code "BlackFridayCorporate" on Instructor Led 2-Day Kubernetes Crusade: Mastering Attack & Defense Strategies - Corporate Edition until 1st January 2023
+Source: https://www.linkedin.com/feed/update/urn:li:activity:7130002008194891777
+
 ## Practical Labs:
 
 
