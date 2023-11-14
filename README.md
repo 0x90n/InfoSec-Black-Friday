@@ -46,7 +46,7 @@ Deal ends: 30th November
 
 ## Newsletters
 
-Return on Security Subscription (Annual) :see_no_evil: \
+**Return on Security Subscription (Annual) :see_no_evil: \**
 https://www.returnonsecurity.com/upgrade?offer_id=3fde9e85-dc7c-48a6-94c4-c350db62504a  
 25% off ($74.00 instead of $99) \
 Deal ends: 30th November
