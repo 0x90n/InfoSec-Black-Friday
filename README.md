@@ -44,6 +44,7 @@ https://www.tracelabs.org/get-involved - (World)
 
   
 ## Courses & Training
+
 https://alteredsecurity.com/online-labs  
 20% off on all our on-demand classes from November 10th to 12th 2023  
 20% off on all our on-demand classes and bootcamps in Q1 and Q2 2024 from November 24th to 27th 2023.   
@@ -86,6 +87,10 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2023
 Use Coupon code: `BLACKFRIDAY2023` or click on the link  
 Source: https://twitter.com/opsdisk/status/1724115449674146235  
 Valid until the end of 2023  
+
+Practical DevSecOps training and certification, learn hands-on DevSecOps, Kubernetes Security, Container Security, API Security, and Threat Modeling.  
+15% off all courses, discounts applied automatically.  
+Source: https://www.practical-devsecops.com/black-friday/  
 
 ## Practical Labs:
 
