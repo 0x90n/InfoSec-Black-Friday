@@ -27,7 +27,7 @@ Following [PR's rejection](https://github.com/0x90n/InfoSec-Black-Friday/pull/18
 | Red Team Sorcery | All courses are now $10 | https://redteamsorcery.teachable.com/  | https://twitter.com/Ox4d5a/status/1720987918142173414 |
 | AppSecEngineer | 25% with the coupon `PUMPKINPIE25` | https://www.appsecengineer.com/ | https://twitter.com/AppSecEngineer/status/1722675950775828812 |
 | OffSec | 20% off Lean One Subscription | https://offsec.com | Banner at the bottom of the website  |
-| SecurityDojo Kubernetes Security Training Courses | (1) Flat 90% off on student passes <br /> (2) 25% off with code `BlackFriday1` on 1-1 Instructor<br /> (2) 25% off with code `BlackFridayCorporate` on corporate passes | https://securitydojo.co.in/courses.html#bookTrainings | https://www.linkedin.com/feed/update/urn:li:activity:7130002008194891777 |
+| SecurityDojo Kubernetes Security Training Courses | (1) Flat 90% off on student passes <br /> (2) 25% off with code `BlackFriday1` on 1-1 Instructor<br /> (3) 25% off with code `BlackFridayCorporate` on corporate passes | https://securitydojo.co.in/courses.html#bookTrainings | https://www.linkedin.com/feed/update/urn:li:activity:7130002008194891777 |
 | Practical DevSecOps | 15% off all courses, discounts applied automatically | https://www.practical-devsecops.com/ | https://www.practical-devsecops.com/black-friday/  |
 | Zero-Point Security | 20% off courses until December 1st with code `BLACKFRI23`  | https://training.zeropointsecurity.co.uk |  |
 | Safer Internet Project | up to 35% discounts on all memberships | https://saferinternetproject.com.au/  | https://twitter.com/saferinternetpr/status/1721050353356177788  | 
