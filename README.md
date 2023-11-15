@@ -155,6 +155,13 @@ https://secops.group/pentesting-exams/
 75% off on all Essentials & Professional Exams with code: BLACK-FRIDAY-75-OFF \
 Deal Ends: 24 November
 
+TryHackme Advent of Cyber Deal
+https://tryhackme.com/room/adventofcyber2023
+20% off personal annual subscriptions using the discount code AOC2023 at checkout
+Valid until 7th December
+
+
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
