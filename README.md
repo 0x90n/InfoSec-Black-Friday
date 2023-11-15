@@ -173,9 +173,10 @@ Deal valid: 24-27 November
 
 KSEC LABS (Red Team Tools, Locksmith, Hacker Gadgets) \
 https://labs.ksec.co.uk/black-friday-sale/  
-Various discounts, free items, free shipping and codes on page to use \
+Various discounts, free shipping and codes on page to use \
 15% off all products with code: BLACKFRIDAY15 \
-Deal ends: 27th November
+20% off all Pro Pick Tools (Automatic Discount) \
+Deal ends: 30th November
 
 iFixIt Hardware and Security Tooling \
 https://www.ifixit.com/promotions/black-friday-holiday  
