@@ -150,6 +150,11 @@ https://thexssrat.podia.com/
 60% off with code: WEEKLYSALES \
 Deal is live
 
+TryHackMe Cyber Security Training \
+https://tryhackme.com/r/pricing  
+20% off personal annual subscription (Premium with code: AOC2023 \
+Deal ends: 7 December
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
