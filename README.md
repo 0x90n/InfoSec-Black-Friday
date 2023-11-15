@@ -43,7 +43,6 @@ https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/cyber-friday-25
 25% at checkout with code: cyber-friday-25 \
 Deal ends: 30th November
 
-
 ## Newsletters
 
 Return on Security Subscription (Annual) :see_no_evil: \
@@ -67,15 +66,21 @@ Deal ends: 23rd December
 
 ## Tools
 
-PortDroid - A swiss army knife of network tools for Android \
+PortDroid - A swiss army knife of network security tools for Android \
 https://portdroid.net/black-friday-2023/  
 50% off lifetime version with code: CYBER_2023 \
 Deal ends: 4th December
+
+PulseDive Threat Intelligence  :see_no_evil: \
+https://pulsedive.com/about/enterprise  
+50% off for 6 months with code: BLACKFRIDAY23 \
+Deal ends: 26th November
   
 ## Courses & Training
 
 Blue Team Training - LetsDefend :see_no_evil: \
 https://letsdefend.io/  
+https://app.letsdefend.io/enterprise-basic  
 50% off code: BLCKFRDY \
 Deal ends: 2nd December
 
