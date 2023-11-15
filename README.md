@@ -17,7 +17,9 @@ Following [PR's rejection](https://github.com/0x90n/InfoSec-Black-Friday/pull/18
 -----------------------------------------------------------------------------------------
 
 ## Tools
-
+| Provider | Discount | Link | Source |
+| --- | --- | --- | --- |
+|PortDroid | 50% off lifetime version with code: `CYBER_2023` | https://portdroid.net/ | https://portdroid.net/black-friday-2023/ |
 
 ## Courses & Training
 | Provider | Discount | Link | Source |
