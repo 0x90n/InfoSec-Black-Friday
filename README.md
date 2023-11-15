@@ -66,6 +66,11 @@ Deal ends: 23rd December
 
 ## Tools
 
+PortDroid - A swiss army knife of network security tools for Android \
+https://portdroid.net/black-friday-2023/  
+50% off lifetime version with code: CYBER_2023 \
+Deal ends: 4th December
+
 PulseDive Threat Intelligence  :see_no_evil: \
 https://pulsedive.com/about/enterprise  
 50% off for 6 months with code: BLACKFRIDAY23 \
