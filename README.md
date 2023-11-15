@@ -67,6 +67,14 @@ Deal ends: 23rd December
 
 ## Tools
 
+## Certifications
+
+The SecOps Group Black Friday Bonanza
+
+75% off on ALL Essentials & Professional Exams! 
+Deal Ends: November 24th.
+Use code: BLACK-FRIDAY-75-OFF
+https://lnkd.in/d_S3nzmZ
   
 ## Courses & Training
 
