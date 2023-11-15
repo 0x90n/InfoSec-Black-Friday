@@ -171,6 +171,11 @@ https://australia.ifixit.com/collections/black-friday-deals
 Multiple On-Sale Kits \
 Deal Ends: November 28 
 
+Dell Technologies \
+https://www.dell.com/en-us/shop/deals  
+Save up to $600 on desktops, laptops, and peripherals \
+Deal is live
+
 ## Wearables:
 
 
