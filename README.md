@@ -58,6 +58,11 @@ Deal ends: December
 
 ## Professional Services:
 
+Blue Team Training for SOC Teams - LetsDefend \
+https://app.letsdefend.io/enterprise-basic \
+50% OFF ($210 instead of $420) with code: BLCKFRDY \
+Deal ends: 2nd December
+
 UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
 20-40% off App/Network/Infra Pentests \
