@@ -150,6 +150,11 @@ https://thexssrat.podia.com/
 60% off with code: WEEKLYSALES \
 Deal is live
 
+The SecOps Group Security Exams \
+https://secops.group/pentesting-exams/  
+75% off on all Essentials & Professional Exams with code: BLACK-FRIDAY-75-OFF \
+Deal Ends: 24 November
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
