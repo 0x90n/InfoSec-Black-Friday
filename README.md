@@ -141,6 +141,13 @@ https://thexssrat.podia.com/
 60% off with code: WEEKLYSALES \
 Deal is live
 
+SecurityDojo Kubernetes Security Training Courses \
+https://securitydojo.co.in/courses.html#bookTrainings
+(1) Flat 90% off on Student passes \
+(2) 25% off with code BlackFriday1 on 1-1 Instructor \
+(3) 25% off with code BlackFridayCorporate on Corporate passes
+Deal Valid: Till 15 December 2023
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
