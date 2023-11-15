@@ -60,7 +60,7 @@ Deal ends: December
 UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
 20-40% off App/Network/Infra Pentests \
-20-40% Off 24×7 Managed Threat Detection and Response \
+20-40% off 24×7 Managed Threat Detection and Response \
 20-40% off for Incident Response Retainer \
 Deal ends: 23rd December
 
@@ -155,11 +155,10 @@ https://secops.group/pentesting-exams/
 75% off on all Essentials & Professional Exams with code: BLACK-FRIDAY-75-OFF \
 Deal Ends: 24 November
 
-TryHackme Advent of Cyber Deal
-https://tryhackme.com/room/adventofcyber2023
-20% off personal annual subscriptions using the discount code AOC2023 at checkout
-Valid until 7th December
-
+TryHackme Advent of Cyber Deal \
+https://tryhackme.com/room/adventofcyber2023  
+20% off personal annual subscriptions with code: AOC2023 \
+Deal ends: 7th December
 
 
 ## Practical Labs:
