@@ -68,7 +68,7 @@ Deal ends: 23rd December
 ## Tools
 
 PortDroid - A swiss army knife of network tools for Android \
-[https://portdroid.net/black-friday-2023/](https://portdroid.net/black-friday-2023/)
+https://portdroid.net/black-friday-2023/ 
 50% off lifetime version with code: CYBER_2023 \
 Deal ends: 4th December
   
