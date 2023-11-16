@@ -64,6 +64,13 @@ https://underdefense.com/cyber-monday-offer/
 20-40% off for Incident Response Retainer \
 Deal ends: 23rd December
 
+GrayhatWarfare \
+https://grayhatwarfare.com/packages  
+40% off Premium & Enterprise Abos \
+Deal live
+
+
+
 ## Tools
 
 PortDroid - A swiss army knife of network security tools for Android \
