@@ -170,6 +170,10 @@ https://tryhackme.com/room/adventofcyber2023
 20% off personal annual subscriptions with code: AOC2023 \
 Deal ends: 7th December
 
+CQURE Academy Cybersecurity SkillSet Courses in Black Friday prices!
+https://news.cqureacademy.com/blackfriday2023
+20% Off Live Virtual Classes. 29% off Cybersecurity Master Annual Program 2024,  30% off Cybersecurity Skillset Courses 
+Deal Ends: 27th -28th Nov 
 
 ## Practical Labs:
 
