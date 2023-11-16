@@ -193,7 +193,10 @@ Multiple On-Sale Kits \
 Deal Ends: November 28 
 
 ## Wearables:
-
+HackCloth Hacking Hoodies, T-Shirts & Sweatshirts \
+https://hackcloth.com/  
+Free shipping + Buy 2 get 20% off storewide \
+Deal Ends: 1st December
 
 ## Books:
 Springer Apress Cybersecurity eBooks \
