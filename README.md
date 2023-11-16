@@ -33,6 +33,7 @@ Following [PR's rejection](https://github.com/0x90n/InfoSec-Black-Friday/pull/18
 | Safer Internet Project | up to 35% discounts on all memberships | https://saferinternetproject.com.au/  | https://twitter.com/saferinternetpr/status/1721050353356177788  | 
 |7asecurity | 50% with code: `BFCM50` | https://store.7asecurity.com/ | banner |
 | Coursera | First month of Coursera Plus for only $1/1€ | https://www.coursera.org/courseraplus/special/onedollar-nov-2023 | https://www.coursera.org/collections/2023-black-friday-it-courses |
+| Invictus Incident Response | All OnDemand courses 20% off with code `BLACKFRIDAY` |https://academy.invictus-ir.com/
 
 
 ## Practical Labs
