@@ -160,6 +160,11 @@ https://tryhackme.com/room/adventofcyber2023
 20% off personal annual subscriptions with code: AOC2023 \
 Deal ends: 7th December
 
+Zero-Point Security \
+https://training.zeropointsecurity.co.uk/  
+Get 20% off selected courses with the code BLACKFRI23 \
+Deal ends: 1st December
+
 
 ## Practical Labs:
 
