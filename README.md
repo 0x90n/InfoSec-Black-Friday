@@ -213,6 +213,11 @@ Springer Apress Cybersecurity eBooks \
 https://link.springer.com/shop/springernature/cyber-fixed-price-sale-cybersecurity-ethicalhacking/en-us/  
 Up to 90% off, selected titles are $6.99
 
+Microsoft Press 
+https://www.microsoftpressstore.com/store/browse/books#!?sort=Relevance
+Use discount code IGNITE to save 30% on books/eBooks & 70% on video
+Deal Ends: November 19
+
 ## Games:
 
 Elevation of Privilege Card Game  \
