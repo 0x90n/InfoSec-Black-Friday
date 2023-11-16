@@ -76,7 +76,7 @@ https://pulsedive.com/about/enterprise
 50% off for 6 months with code: BLACKFRIDAY23 \
 Deal ends: 26th November
   
-SecureStack DevSecOps SaaS \
+SecureStack DevSecOps SaaS  :see_no_evil: \
 https://securestack.com/black-friday-sale  
 50% off for 12 months with code: BLACKFRIDAY23WOW \
 Deal ends: 2nd December
