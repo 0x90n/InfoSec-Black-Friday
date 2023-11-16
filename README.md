@@ -1,3 +1,6 @@
+To avoid having two repos in parallel, the repo is archived with the return of the [original repository](https://github.com/0x90n/InfoSec-Black-Friday) and its high activity.  
+
+
 # InfoSec Black Friday Deals ~ "Hack Friday" 2023 Edition
 The purpose of this repo is to list all BlackFriday deals related to infosec of interest.
 
