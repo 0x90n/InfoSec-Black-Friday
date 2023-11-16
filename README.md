@@ -210,6 +210,12 @@ https://agilestationery.com/products/elevation-of-privilege-game
 (1) 15% off with code: CYBER15 \
 (2) 30% off 3 or more items with code: CYBER30
 
+SecDim Attack and Defence Wargames  \
+https://secdim.com  
+(1) 25% off annual Professional plan \
+(2) 35% off annual Professional plan when you reply here: https://discuss.secdim.com/t/35-off-annual-professional-plan/1568  
+Deal Ends: 1st December
+
 
 ## Services:
 
