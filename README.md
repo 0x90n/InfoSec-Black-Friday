@@ -64,12 +64,10 @@ https://underdefense.com/cyber-monday-offer/
 20-40% off for Incident Response Retainer \
 Deal ends: 23rd December
 
-GrayhatWarfare \
+GrayhatWarfare Open Bucket & shorurl Secrets \
 https://grayhatwarfare.com/packages  
-40% off Premium & Enterprise Abos \
-Deal live
-
-
+40% off Premium ($200 down from $370) & Enterprise ($560 down from $1190) \
+Deal live now
 
 ## Tools
 
