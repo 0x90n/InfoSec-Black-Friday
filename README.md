@@ -89,7 +89,7 @@ Deal ends: 2nd December
 ## Courses & Training
 
 AppSecEngineer - Hands-on Training, Labs and Challenges on AppSec, DevSecOps, AWS, Azure and GCP Security, Kubernetes Security, Threat Modeling and more \
-https://appsecengineer.com
+https://appsecengineer.com/
 25% off on Annual Plans (Pro and Plus) for Individuals and Annual Business Plans with coupon code PUMPKINPIE25 \
 Deal ends: 30th November
 
