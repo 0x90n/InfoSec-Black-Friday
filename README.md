@@ -76,6 +76,11 @@ https://portdroid.net/black-friday-2023/
 50% off lifetime version with code: CYBER_2023 \
 Deal ends: 4th December
 
+Proxyman - Capture, inspect, and manipulate HTTP/HTTPS traffic \
+https://proxyman.io/  
+30% off with code: PROXYMAN_BLACKFRIDAY_2023 \
+Deal ends: 25th November
+
 PulseDive Threat Intelligence  :see_no_evil: \
 https://pulsedive.com/about/enterprise  
 50% off for 6 months with code: BLACKFRIDAY23 \
@@ -93,6 +98,19 @@ https://letsdefend.io/
 https://app.letsdefend.io/enterprise-basic  
 50% off code: BLCKFRDY \
 Deal ends: 2nd December
+
+Cloud Academy \
+https://cloudacademy.com/pricing  
+41% off annual plan
+
+Datacamp \
+https://www.datacamp.com/promo  
+50% off annual plan
+
+International Society of Automation (Industrial Cybersecurity) \
+https://programs.isa.org/blackfridayweek23  
+30% off with code: BFCM23 \
+Deal ends: 27 November
 
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one  
@@ -190,6 +208,14 @@ Deal valid: 24-27 November
 
 ## Mini Courses:
 
+## Exams:
+
+CREST Registered Penetration Tester (CRT) Exam \
+https://www.crest-approved.org/skills-certifications-careers/crest-registered-penetration-tester  
+https://www.crest-approved.org/crt-examination-promotional-form  
+CREST members get 75% off when claiming the code with their CREST member email. \
+40% discount available for non-CREST members \
+Deal ends: 31st January (Exam must be booked by 31 January 2024 and must be taken by 30 April 2024)
 
 ## Hardware:
 
