@@ -88,6 +88,11 @@ Deal ends: 2nd December
 
 ## Courses & Training
 
+AppSecEngineer - Hands-on Training, Labs and Challenges on AppSec, DevSecOps, AWS, Azure and GCP Security, Kubernetes Security, Threat Modeling and more \
+https://appsecengineer.com
+25% off on Annual Plans (Pro and Plus) for Individuals and Annual Business Plans with coupon code PUMPKINPIE25 \
+Deal ends: 30th November
+
 Blue Team Training - LetsDefend :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/enterprise-basic  
@@ -136,11 +141,6 @@ https://tcm-sec.com/
 (2) 50% off of the first payment of the All-Access Membership (any plan) \
 Code: GobbleGobble23 \
 Deal yet to start
-
-AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
-https://checkout.appsecengineer.com/pro    
-$100 USD off Annual Pro Plan with code: PUMPKINPIE25 \
-Deal ends: 30th November
 
 Pensterlab :see_no_evil: \
 https://pentesterlab.com/pro
