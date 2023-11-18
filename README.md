@@ -208,6 +208,11 @@ https://australia.ifixit.com/collections/black-friday-deals
 Multiple On-Sale Kits \
 Deal Ends: November 28 
 
+Yubico Hardware MFA Keys \
+https://www.yubico.com/gb/store/2023/cyber-week/  
+Buy One, Get One 50% OFF for YubiKey 5 Series and Security Key Series \
+Deal valid: 20-27 November
+
 ## Wearables:
 HackCloth Hacking Hoodies, T-Shirts & Sweatshirts \
 https://hackcloth.com/  
