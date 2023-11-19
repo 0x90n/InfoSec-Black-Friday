@@ -190,7 +190,7 @@ Deal valid: 24-27 November
 
 ## Mini Courses:
 Hacking Android Applications for Bug Bounty and Pentesting \
-https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23 \
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/  
 65% off at checkout with code: BLACKFRIDAY23 \
 Starts: 11/20/2023 8:00 AM PST \
 Expires: 11/25/2023 8:00 AM PST 
