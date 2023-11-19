@@ -201,6 +201,10 @@ https://mr.un1k0d3r.world/portal/index.php
 25% off both the coding class and red team training courses \
 Discount live now
 
+The OSINTion Academy
+On Demand Courses:  https://academy.theosintion.com/courses?affcode=989966_6g0qf83e
+Live Courses:   https://theosintion.as.me/schedule.php
+Get 80% off all on-demand courses,  40% off upcoming live courses using code: BLACKFRIDAY
 
 ## Practical Labs:
 
