@@ -66,6 +66,11 @@ Deal ends: 23rd December
 
 ## Tools
 
+Pākiki Proxy \
+https://pakikiproxy.com/  
+25% off the yearly subscriptions for life with code: BLACKFRIDAY23 \
+Deal ends: 2nd December
+
 GrayhatWarfare Open Bucket & shorturl Secrets :see_no_evil: \
 https://grayhatwarfare.com/packages  
 40% off Premium ($200 down from $370) & Enterprise ($560 down from $1190) \
