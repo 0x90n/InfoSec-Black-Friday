@@ -275,6 +275,12 @@ https://nordvpn.com/offer
 69% off and 3 months free \
 Deal live now
 
+Private Internet Access \
+https://www.privateinternetaccess.com/buy-vpn-online  
+$79 for 3-year plan + 4 months free \
+Effectively $1.98/month (83% off) \
+Deal ends: 23rd November 9AM ET
+
 BitDefender \
 https://www.bitdefender.com/solutions  
 Up to 30% off \
