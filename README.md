@@ -109,13 +109,9 @@ https://app.letsdefend.io/enterprise-basic
 50% off code: BLCKFRDY \
 Deal ends: 2nd December
 
-Cloud Academy \
+Cloud Academy (Security Courses) \
 https://cloudacademy.com/pricing  
 41% off annual plan
-
-Datacamp \
-https://www.datacamp.com/promo  
-50% off annual plan
 
 International Society of Automation (Industrial Cybersecurity) \
 https://programs.isa.org/blackfridayweek23  
@@ -166,7 +162,7 @@ Code: GobbleGobble23 \
 Deal yet to start
 
 Pensterlab :see_no_evil: \
-https://pentesterlab.com/pro
+https://pentesterlab.com/pro  
 27% off one year subscription, applied automatically \
 (1) US$146 instead of US$199 \
 (2) US$25.99 instead of US$34.99 for students \
@@ -229,9 +225,10 @@ Expires: 11/25/2023 8:00 AM PST
 CREST Registered Penetration Tester (CRT) Exam \
 https://www.crest-approved.org/skills-certifications-careers/crest-registered-penetration-tester  
 https://www.crest-approved.org/crt-examination-promotional-form  
-CREST members get 75% off when claiming the code with their CREST member email. \
-40% discount available for non-CREST members \
-Deal ends: 31st January (Exam must be booked by 31 January 2024 and must be taken by 30 April 2024)
+75% off for CREST members (claim with CREST member email) \
+40% discount for non-CREST members \
+Exam must be booked by 31 January 2024 and must be taken by 30 April 2024 \
+Deal ends: 31st January
 
 ## Hardware:
 
