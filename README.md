@@ -76,6 +76,11 @@ https://portdroid.net/black-friday-2023/
 50% off lifetime version with code: CYBER_2023 \
 Deal ends: 4th December
 
+Proxyman - Capture, inspect, and manipulate HTTP/HTTPS traffic \
+https://proxyman.io/  
+30% off with code: PROXYMAN_BLACKFRIDAY_2023 \
+Deal ends: 25th November
+
 PulseDive Threat Intelligence  :see_no_evil: \
 https://pulsedive.com/about/enterprise  
 50% off for 6 months with code: BLACKFRIDAY23 \
@@ -88,11 +93,29 @@ Deal ends: 2nd December
 
 ## Courses & Training
 
+AppSecEngineer - Hands-on Training, Labs and Challenges (AppSec/DevSecOps/Cloud Security/Kubernetes Security/Threat Modeling) \
+https://appsecengineer.com/  
+25% off on Annual Plans (Pro and Plus) for Individuals and Annual Business Plans with coupon code: PUMPKINPIE25 \
+Deal ends: 30th November
+
 Blue Team Training - LetsDefend :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/enterprise-basic  
 50% off code: BLCKFRDY \
 Deal ends: 2nd December
+
+Cloud Academy \
+https://cloudacademy.com/pricing  
+41% off annual plan
+
+Datacamp \
+https://www.datacamp.com/promo  
+50% off annual plan
+
+International Society of Automation (Industrial Cybersecurity) \
+https://programs.isa.org/blackfridayweek23  
+30% off with code: BFCM23 \
+Deal ends: 27 November
 
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one  
@@ -136,11 +159,6 @@ https://tcm-sec.com/
 (2) 50% off of the first payment of the All-Access Membership (any plan) \
 Code: GobbleGobble23 \
 Deal yet to start
-
-AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
-https://checkout.appsecengineer.com/pro    
-$100 USD off Annual Pro Plan with code: PUMPKINPIE25 \
-Deal ends: 30th November
 
 Pensterlab :see_no_evil: \
 https://pentesterlab.com/pro
@@ -194,6 +212,15 @@ https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pen
 65% off at checkout with code: BLACKFRIDAY23 \
 Starts: 11/20/2023 8:00 AM PST \
 Expires: 11/25/2023 8:00 AM PST 
+
+## Exams:
+
+CREST Registered Penetration Tester (CRT) Exam \
+https://www.crest-approved.org/skills-certifications-careers/crest-registered-penetration-tester  
+https://www.crest-approved.org/crt-examination-promotional-form  
+CREST members get 75% off when claiming the code with their CREST member email. \
+40% discount available for non-CREST members \
+Deal ends: 31st January (Exam must be booked by 31 January 2024 and must be taken by 30 April 2024)
 
 ## Hardware:
 
@@ -252,6 +279,12 @@ NordVPN \
 https://nordvpn.com/offer  
 69% off and 3 months free \
 Deal live now
+
+Private Internet Access \
+https://www.privateinternetaccess.com/buy-vpn-online  
+$79 for 3-year plan + 4 months free \
+Effectively $1.98/month (83% off) \
+Deal ends: 23rd November 9AM ET
 
 BitDefender \
 https://www.bitdefender.com/solutions  
