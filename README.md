@@ -276,6 +276,11 @@ Deal Ends: 1st December
 
 ## Services:
 
+AirVPN \
+https://airvpn.org/forums/topic/56906-2023-black-friday-sale  
+Up to 74% saved on 3 year subscription, reduced discounts for lower time periods \
+Deal live now
+
 Surfshark VPN \
 https://surfshark.com/deal/blackfriday  
 80% off and up to 5 months free \
