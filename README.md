@@ -195,6 +195,12 @@ https://news.cqureacademy.com/blackfriday2023
 (3) 30% off Cybersecurity Skillset Courses \
 Deal Ends: 27th November
 
+Mr. Un1k0d3r's Malware Development and Red Team Training Bundle \
+https://mr.un1k0d3r.world/portal/index.php  
+25% off both the coding class and red team training courses \
+Discount live now
+
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
