@@ -96,6 +96,11 @@ https://securestack.com/black-friday-sale
 50% off for 12 months with code: BLACKFRIDAY23WOW \
 Deal ends: 2nd December
 
+Wins app - A New Mac Window Manager. Bring System-level Arrange Window features to Mac. Dock Window Previewer, Shake window to hidden other windows and more
+https://wins.cool
+50% off with code: BLACKFRIDAY_2023
+Deal ends: 2th December
+
 ## Courses & Training
 
 AppSecEngineer - Hands-on Training, Labs and Challenges (AppSec/DevSecOps/Cloud Security/Kubernetes Security/Threat Modeling) \
