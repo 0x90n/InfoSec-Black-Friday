@@ -112,7 +112,8 @@ Deal ends: 27th November
 ## Courses & Training
 
 Security Blue Team (SBT) :see_no_evil: \
-https://securityblue.team/black-friday/  
+https://securityblue.team/  
+Log into your account to have discounts applied automatically \
 50% off for BTL2 \
 Free 6-months BTLO with BTL1 \
 $125 for 12 months for BTL Pro \
