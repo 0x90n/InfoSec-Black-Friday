@@ -72,6 +72,17 @@ https://www.immunity-systems.com/1337blackfriday2023.html
 (4) 20% off for Mobile Application Security tests \
 Deal ends: 30th December or until exhausted
 
+Coastline Cybersecurity \
+https://coastlinecyber.com \
+- 30% OFF on External Penetration Testing \
+- 30% OFF on Internal Penetration Testing \
+- 30% OFF on Web Application Security Assessment \
+- 30% OFF on Mobile Application Security Assessment \
+- 30% OFF on Active Directory Assessment \
+- 30% OFF on Cloud Security Assessment \
+- 30% OFF on IoT Security Assessment \
+Deal ends: 30th December
+
 ## Tools
 
 Pākiki Proxy \
