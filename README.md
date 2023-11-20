@@ -72,6 +72,11 @@ https://www.immunity-systems.com/1337blackfriday2023.html
 (4) 20% off for Mobile Application Security tests \
 Deal ends: 30th December or until exhausted
 
+Sekurno - Penetration testing \
+https://www.sekurno.com/#black-friday 
+20% Off on All Penetration Testing Services \
+Deal ends: December
+
 ## Tools
 
 Pākiki Proxy \
