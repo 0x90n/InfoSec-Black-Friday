@@ -185,6 +185,8 @@ TheXSSRat Bug Bounty and Hacking Courses \
 https://thexssrat.podia.com/  
 40% off with code: lemon \
 60% off with code: WEEKLYSALES \
+70% off with code: AC44Z9J \
+70% off "Endless Cybersecurity Journey" with code: BFCROWDFAV (Buy the "all in one" Endless Cybersecurity Journey and get another code for a friend free) \
 Deal is live
 
 The SecOps Group Security Exams \
