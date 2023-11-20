@@ -230,6 +230,10 @@ Live Courses: https://theosintion.as.me/schedule.php
 80% off all on-demand courses \
 40% off upcoming live courses with code: BLACKFRIDAY \
 
+Blue Cape Security \
+On Demand Courses: https://bluecapesecurity.com/courses/  
+25% off training courses with code: BLACKFRIDAY25 \
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
