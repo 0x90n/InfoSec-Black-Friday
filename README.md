@@ -96,6 +96,11 @@ https://securestack.com/black-friday-sale
 50% off for 12 months with code: BLACKFRIDAY23WOW \
 Deal ends: 2nd December
 
+Burp Bounty Pro :see_no_evil: \
+https://burpbounty.net  
+20€ off from 79€ to 59€ \
+Deal ends: 27th November
+
 ## Courses & Training
 
 AppSecEngineer - Hands-on Training, Labs and Challenges (AppSec/DevSecOps/Cloud Security/Kubernetes Security/Threat Modeling) \
