@@ -230,6 +230,12 @@ Live Courses: https://theosintion.as.me/schedule.php
 80% off all on-demand courses \
 40% off upcoming live courses with code: BLACKFRIDAY \
 
+Kapersky xTraining
+20% off the usual price of our on-demand online cybersecurity courses
+https://xtraining.kaspersky.com/
+No Coupon required
+Deal valid: 24-27th November
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
