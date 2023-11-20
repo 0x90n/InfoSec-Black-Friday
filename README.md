@@ -230,6 +230,10 @@ Live Courses: https://theosintion.as.me/schedule.php
 80% off all on-demand courses \
 40% off upcoming live courses with code: BLACKFRIDAY \
 
+eLearn Security Certifications \
+https://checkout.ine.com/black-friday-2023
+50% discount on many certifications like eWPTx
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
