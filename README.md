@@ -64,13 +64,13 @@ https://underdefense.com/cyber-monday-offer/
 20-40% off for Incident Response Retainer \
 Deal ends: 23rd December
 
-Immunity Systems
-45% off for Network Penetration tests
-https://www.immunity-systems.com/1337blackfriday2023.html
-30% off for Web Application Security Testing
-25% off for Red Teaming service
-20% off for Mobile Application Security Testing
-
+Immunity Systems \
+https://www.immunity-systems.com/1337blackfriday2023.html  
+(1) 45% off for Network Penetration tests \
+(2) 30% off for Web Application Security tests \
+(3) 25% off for Red Teaming services \
+(4) 20% off for Mobile Application Security tests \
+Deal ends: 30th December or until exhausted
 
 ## Tools
 
