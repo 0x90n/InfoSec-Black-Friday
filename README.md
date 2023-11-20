@@ -230,10 +230,6 @@ Live Courses: https://theosintion.as.me/schedule.php
 80% off all on-demand courses \
 40% off upcoming live courses with code: BLACKFRIDAY \
 
-eLearn Security Certifications \
-https://checkout.ine.com/black-friday-2023
-50% discount on many certifications like eWPTx
-
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
@@ -261,6 +257,10 @@ https://www.crest-approved.org/crt-examination-promotional-form
 40% discount for non-CREST members \
 Exam must be booked by 31 January 2024 and must be taken by 30 April 2024 \
 Deal ends: 31st January
+
+eLearn Security Certifications \
+https://checkout.ine.com/black-friday-2023 \
+50% discount on many certifications like eWPTx \
 
 ## Hardware:
 
