@@ -260,7 +260,7 @@ Deal ends: 31st January
 
 eLearn Security Certifications \
 https://checkout.ine.com/black-friday-2023 \
-50% discount on many certifications like eWPTx \
+50% discount on many certifications like eWPTx 
 
 ## Hardware:
 
