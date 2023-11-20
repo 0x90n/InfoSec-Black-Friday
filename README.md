@@ -111,6 +111,13 @@ Deal ends: 27th November
 
 ## Courses & Training
 
+Security Blue Team (SBT) :see_no_evil: \
+https://securityblue.team/black-friday/  
+50% off for BTL2 \
+Free 6-months BTLO with BTL1 \
+$125 for 12 months for BTL Pro \
+Deal ends: 2nd December
+
 AppSecEngineer - Hands-on Training, Labs and Challenges (AppSec/DevSecOps/Cloud Security/Kubernetes Security/Threat Modeling) \
 https://appsecengineer.com/  
 25% off on Annual Plans (Pro and Plus) for Individuals and Annual Business Plans with coupon code: PUMPKINPIE25 \
@@ -172,7 +179,7 @@ https://tcm-sec.com/
 (1) 20% off of certifications and live trainings \
 (2) 50% off of the first payment of the All-Access Membership (any plan) \
 Code: GobbleGobble23 \
-Deal yet to start
+Deal ends: 27th November
 
 Pensterlab :see_no_evil: \
 https://pentesterlab.com/pro  
