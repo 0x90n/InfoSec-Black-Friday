@@ -96,9 +96,9 @@ https://securestack.com/black-friday-sale
 50% off for 12 months with code: BLACKFRIDAY23WOW \
 Deal ends: 2nd December
 
-Burp Bounty Pro :see_no_evil: \
+Burp Bounty Pro (Burp Suite Marketplace App) \
 https://burpbounty.net  
-20€ off from 79€ to 59€ \
+$21 off from $86 to $64 \
 Deal ends: 27th November
 
 ## Courses & Training
