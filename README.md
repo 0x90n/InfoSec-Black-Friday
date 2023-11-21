@@ -59,18 +59,24 @@ Deal ends: December
 
 UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
-20-40% off App/Network/Infra Pentests \
-20-40% off 24×7 Managed Threat Detection and Response \
-20-40% off for Incident Response Retainer \
+- 20-40% off App/Network/Infra Pentests \
+- 20-40% off 24×7 Managed Threat Detection and Response \
+- 20-40% off for Incident Response Retainer \
 Deal ends: 23rd December
 
 Immunity Systems \
 https://www.immunity-systems.com/1337blackfriday2023.html  
-(1) 45% off for Network Penetration tests \
-(2) 30% off for Web Application Security tests \
-(3) 25% off for Red Teaming services \
-(4) 20% off for Mobile Application Security tests \
+- 45% off for Network Penetration tests \
+- 30% off for Web Application Security tests \
+- 25% off for Red Teaming services \
+- 20% off for Mobile Application Security tests \
 Deal ends: 30th December or until exhausted
+
+Coastline Cybersecurity \
+https://coastlinecyber.com \
+- 30% off for External/Internal/Web/AD Penetration Testing \
+- 30% off for Mobile/Cloud/IoT Application Security assessments \
+Deal ends: 30th December
 
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
