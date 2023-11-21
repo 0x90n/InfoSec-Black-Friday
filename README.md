@@ -61,7 +61,7 @@ UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
 - 20-40% off App/Network/Infra Pentests
 - 20-40% off 24×7 Managed Threat Detection and Response
-- 20-40% off for Incident Response Retainer
+- 20-40% off for Incident Response Retainer \
 Deal ends: 23rd December
 
 Immunity Systems \
@@ -69,13 +69,18 @@ https://www.immunity-systems.com/1337blackfriday2023.html
 - 45% off for Network Penetration tests
 - 30% off for Web Application Security tests
 - 25% off for Red Teaming services
-- 20% off for Mobile Application Security tests
+- 20% off for Mobile Application Security tests \
 Deal ends: 30th December or until exhausted
 
 Coastline Cybersecurity \
 https://coastlinecyber.com  
 - 30% off for External/Internal/Web/AD Penetration Testing
-- 30% off for Mobile/Cloud/IoT Application Security assessments
+- 30% off for Mobile/Cloud/IoT Application Security assessments \
+Deal ends: 30th December
+
+Security For Everyone \
+https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off  
+- 50% off with code: BlackFriday50 \
 Deal ends: 30th December
 
 ## Tools
@@ -119,6 +124,11 @@ Burp Bounty Pro (Burp Suite Marketplace App) \
 https://burpbounty.net  
 $21 off from $86 to $64 \
 Deal ends: 27th November
+
+Tenable Nessus Pro \
+https://www.tenable.com/buy  
+50% off Nessus PRO with code: takehalf \
+Deal valid: 23rd-27th November
 
 ## Courses & Training
 
@@ -271,6 +281,13 @@ https://arcx.io/courses
 50% off - No code required \
 Deal ends: 27th November @ midnight
 
+Certificate of Cloud Security Knowledge (CCSK) Training by Cloud Security Alliance - CYBER MONDAY ONLY - \
+https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation  
+https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle  
+https://cloudsecurityalliance.org/education/ccsk/  
+50% discount for exam and/or training course \
+Deal valid: 27 November 2023 only
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
@@ -404,11 +421,11 @@ One month free ($29 USD off)
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
-At the end of a normal sentence, place a backslash for newline (\)
+At the end of a normal sentence, place a backslash for newline (\\)
 After a link, please use a double-space (  )
 
 ## Credits
-If you wouldd like to DM me a deal rather than submitting a PR: @securitymeta_
+If you would like to DM me a deal rather than submitting a PR: @securitymeta_
 Other PRs and sources will be thanked here.
 
 Check out CriimBow's fork for a new/different formatting: https://github.com/CriimBow/InfoSec-Black-Friday/tree/master
