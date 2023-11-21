@@ -122,10 +122,10 @@ Deal ends: 27th November
 
 ## Courses & Training
 
-NahamSec Intro to Bug Bounty Hunting and Web Application Hacking
+NahamSec Intro to Bug Bounty Hunting and Web Application Hacking \
 https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec/
-100% OFF code: FREEBLACKFRIDAY
-Only $9.99 with code: BLACKFRIDAY23
+100% OFF code: FREEBLACKFRIDAY \
+Only $9.99 with code: BLACKFRIDAY23 \
 
 Security Blue Team (SBT) :see_no_evil: \
 https://www.securityblue.team/black-friday-2023  
