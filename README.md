@@ -125,6 +125,11 @@ https://burpbounty.net
 $21 off from $86 to $64 \
 Deal ends: 27th November
 
+Tenable Nessus Pro \
+https://www.tenable.com/buy  
+50% off Nessus PRO with code: takehalf \
+Deal valid: 23rd-27th November
+
 ## Courses & Training
 
 Security Blue Team (SBT) :see_no_evil: \
@@ -277,6 +282,18 @@ https://aptdefend.com/black-friday-2023/
 50% off for first six months of annual subscription \
 Free phishing test for up to 250 users \
 Deal valid: now-31st December
+
+ArcX Cyber Threat Intelligence Training \
+https://arcx.io/courses  
+50% off - No code required \
+Deal ends: 27th November @ midnight
+
+Certificate of Cloud Security Knowledge (CCSK) Training by Cloud Security Alliance - CYBER MONDAY ONLY - \
+https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation  
+https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle  
+https://cloudsecurityalliance.org/education/ccsk/  
+50% discount for exam and/or training course \
+Deal valid: 27 November 2023 only
 
 ## Practical Labs:
 
