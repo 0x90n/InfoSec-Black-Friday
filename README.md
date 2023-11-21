@@ -399,11 +399,11 @@ One month free ($29 USD off)
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
-At the end of a normal sentence, place a backslash for newline (\)
+At the end of a normal sentence, place a backslash for newline (\\)
 After a link, please use a double-space (  )
 
 ## Credits
-If you wouldd like to DM me a deal rather than submitting a PR: @securitymeta_
+If you would like to DM me a deal rather than submitting a PR: @securitymeta_
 Other PRs and sources will be thanked here.
 
 Check out CriimBow's fork for a new/different formatting: https://github.com/CriimBow/InfoSec-Black-Friday/tree/master
