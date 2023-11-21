@@ -235,6 +235,10 @@ https://institute.sektor7.net/?coupon=BW23
 20% off on all RED TEAM Operator courses with code: BW23 \
 Deal ends: 27th November
 
+Blue Cape Security \
+On Demand Courses: https://bluecapesecurity.com/courses/  
+25% off training courses with code: BLACKFRIDAY25 \
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
@@ -262,6 +266,10 @@ https://www.crest-approved.org/crt-examination-promotional-form
 40% discount for non-CREST members \
 Exam must be booked by 31 January 2024 and must be taken by 30 April 2024 \
 Deal ends: 31st January
+
+eLearn Security Certifications \
+https://checkout.ine.com/black-friday-2023 \
+50% discount on many certifications like eWPTx 
 
 ## Hardware:
 
