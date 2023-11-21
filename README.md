@@ -74,8 +74,9 @@ Deal ends: 30th December or until exhausted
 
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
-https://exploitpack.com/order.html
-LIFETIME License - Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) \
+https://exploitpack.com/order.html  
+LIFETIME License - Upgrade from $980 USD 1-year license to Lifetime \
+Deal availability: 10 licenses only \
 Deal ends: 26th November
 
 Pākiki Proxy \
