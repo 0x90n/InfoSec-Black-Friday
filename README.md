@@ -276,6 +276,11 @@ Pluralsight InfoSec Courses \
 https://www.pluralsight.com/pricing/skills?type=individual  
 50% off - No code required
 
+ArcX Cyber Threat Intelligence Training \
+https://arcx.io/courses  
+50% off - No code required \
+Deal ends: 27th November @ midnight
+
 Certificate of Cloud Security Knowledge (CCSK) Training by Cloud Security Alliance - CYBER MONDAY ONLY - \
 https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation  
 https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle  
