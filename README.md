@@ -266,6 +266,11 @@ Pluralsight InfoSec Courses \
 https://www.pluralsight.com/pricing/skills?type=individual  
 50% off - No code required
 
+OccupyTheWeb - Hackers-Arise!
+http://hackers-arise.com/online-store
+30% off everything at Hackers-Arise! - Subscriber, Subscriber Pro, and Starter Bundle and more!
+Coupon: CYBERWEEK2023
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
