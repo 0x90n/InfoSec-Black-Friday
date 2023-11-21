@@ -276,6 +276,13 @@ Pluralsight InfoSec Courses \
 https://www.pluralsight.com/pricing/skills?type=individual  
 50% off - No code required
 
+Certificate of Cloud Security Knowledge (CCSK) Training by Cloud Security Alliance - CYBER MONDAY ONLY - \
+https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation  
+https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle  
+https://cloudsecurityalliance.org/education/ccsk/  
+50% discount for exam and/or training course \
+Deal valid: 27 November 2023 only
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
