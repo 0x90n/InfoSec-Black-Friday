@@ -78,6 +78,11 @@ https://coastlinecyber.com
 - 30% off for Mobile/Cloud/IoT Application Security assessments
 Deal ends: 30th December
 
+Security For Everyone \
+https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off  
+- 50% off with code: BlackFriday50
+Deal ends: 1st December
+
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
 https://exploitpack.com/order.html  
