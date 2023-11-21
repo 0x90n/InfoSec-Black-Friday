@@ -266,13 +266,12 @@ Pluralsight InfoSec Courses \
 https://www.pluralsight.com/pricing/skills?type=individual  
 50% off - No code required
 
-Certificate of Cloud Security Knowledge (CCSK) Training by Cloud Security Alliance \
+Certificate of Cloud Security Knowledge (CCSK) Training by Cloud Security Alliance - CYBER MONDAY ONLY - \
 https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation  
 https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle  
 https://cloudsecurityalliance.org/education/ccsk/  
 50% discount for exam and/or training course \
-Deal starts: 27 November 2023 \
-Deal ends: ?
+Deal valid: 27 November 2023 only
 
 ## Practical Labs:
 
@@ -311,13 +310,6 @@ Deal ends: 31st January
 eLearn Security Certifications \
 https://checkout.ine.com/black-friday-2023 \
 50% discount on many certifications like eWPTx 
-
-Certificate of Cloud Security Knowledge (CCSK) Exam by Cloud Security Alliance \
-https://exams.cloudsecurityalliance.org/en  
-https://cloudsecurityalliance.org/education/ccsk/  
-50% discount for exam and/or training course \
-Deal starts: 27 November 2023 \
-Deal ends: ?
 
 ## Hardware:
 
