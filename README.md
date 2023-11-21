@@ -223,6 +223,13 @@ https://tryhackme.com/room/adventofcyber2023
 20% off personal annual subscriptions with code: AOC2023 \
 Deal ends: 7th December
 
+SecurityDojo Kubernetes Security Training Courses \
+https://securitydojo.co.in/courses.html#bookTrainings
+(1) Flat 90% off on Student passes \
+(2) 25% off with code BlackFriday1 on 1-1 Instructor \
+(3) 25% off with code BlackFridayCorporate on Corporate passes \
+Deal is live
+
 CQURE Academy Cybersecurity SkillSet Courses \
 https://news.cqureacademy.com/blackfriday2023  
 (1) 20% Off Live Virtual Classes \
