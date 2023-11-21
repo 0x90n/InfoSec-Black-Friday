@@ -230,6 +230,11 @@ Live Courses: https://theosintion.as.me/schedule.php
 80% off all on-demand courses \
 40% off upcoming live courses with code: BLACKFRIDAY \
 
+Sektor7 Redteam courses \
+https://institute.sektor7.net/?coupon=BW23  
+20% off on all RED TEAM Operator courses with code: BW23 \
+Deal ends: 27th November
+
 Blue Cape Security \
 On Demand Courses: https://bluecapesecurity.com/courses/  
 25% off training courses with code: BLACKFRIDAY25 \
