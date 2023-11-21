@@ -244,11 +244,16 @@ Live Courses: https://theosintion.as.me/schedule.php
 Sektor7 Redteam courses \
 https://institute.sektor7.net/?coupon=BW23  
 20% off on all RED TEAM Operator courses with code: BW23 \
-Deal ends: 27th November
+Deal valid: 20th-27th November
 
 Blue Cape Security \
 On Demand Courses: https://bluecapesecurity.com/courses/  
 25% off training courses with code: BLACKFRIDAY25 \
+
+Invictus Incident Response Training \
+https://academy.invictus-ir.com  
+20% off with code: BLACKFRIDAY \
+Deal ends: 30th November
 
 ## Practical Labs:
 
