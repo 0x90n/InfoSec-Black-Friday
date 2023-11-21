@@ -370,7 +370,6 @@ https://covertinstruments.com/collections/black-friday-sale
 Multiple On-Sale Kits \
 Deal Ends: 3rd December 
 
-
 ## Wearables:
 HackCloth Hacking Hoodies, T-Shirts & Sweatshirts \
 https://hackcloth.com/  
