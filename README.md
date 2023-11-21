@@ -266,6 +266,11 @@ Pluralsight InfoSec Courses \
 https://www.pluralsight.com/pricing/skills?type=individual  
 50% off - No code required
 
+ArcX Cyber Threat Intelligence Training \
+https://arcx.io/courses  
+50% off - No code required \
+Deal ends: 27th November @ midnight
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
