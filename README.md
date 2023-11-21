@@ -276,6 +276,13 @@ Pluralsight InfoSec Courses \
 https://www.pluralsight.com/pricing/skills?type=individual  
 50% off - No code required
 
+APT Defend security awareness with phishing simulation platform \
+https://aptdefend.com/black-friday-2023/
+50% off for first three months of pay as you go subscription \
+50% off for first six months of annual subscription \
+Free phishing test for up to 250 users \
+Deal valid: now-31st December
+
 ArcX Cyber Threat Intelligence Training \
 https://arcx.io/courses  
 50% off - No code required \
