@@ -276,7 +276,7 @@ https://aptdefend.com/black-friday-2023/
 50% off for first three months of pay as you go subscription \
 50% off for first six months of annual subscription \
 Free phishing test for up to 250 users \
-Deal valid: 31st December
+Deal valid: now-31st December
 
 ## Practical Labs:
 
