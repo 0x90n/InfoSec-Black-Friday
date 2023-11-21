@@ -120,6 +120,11 @@ https://burpbounty.net
 $21 off from $86 to $64 \
 Deal ends: 27th November
 
+Tenable Nessus Pro
+https://www.tenable.com/buy
+50% off Nessus PRO with code: takehalf
+Deal Valid: From 23rd to 27th November
+
 ## Courses & Training
 
 Security Blue Team (SBT) :see_no_evil: \
