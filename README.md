@@ -231,10 +231,9 @@ Live Courses: https://theosintion.as.me/schedule.php
 40% off upcoming live courses with code: BLACKFRIDAY \
 
 Sektor7 Redteam courses \
-20% off on all RED TEAM Operator courses \
-Coupon code: BW23 \
-Link: https://institute.sektor7.net/?coupon=BW23 \
-Validity: end of Cyber Monday (Nov 27th)\
+https://institute.sektor7.net/?coupon=BW23  
+20% off on all RED TEAM Operator courses with code: BW23 \
+Deal ends: 27th November
 
 ## Practical Labs:
 
