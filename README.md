@@ -59,23 +59,23 @@ Deal ends: December
 
 UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
-- 20-40% off App/Network/Infra Pentests \
-- 20-40% off 24×7 Managed Threat Detection and Response \
-- 20-40% off for Incident Response Retainer \
+- 20-40% off App/Network/Infra Pentests
+- 20-40% off 24×7 Managed Threat Detection and Response
+- 20-40% off for Incident Response Retainer
 Deal ends: 23rd December
 
 Immunity Systems \
 https://www.immunity-systems.com/1337blackfriday2023.html  
-- 45% off for Network Penetration tests \
-- 30% off for Web Application Security tests \
-- 25% off for Red Teaming services \
-- 20% off for Mobile Application Security tests \
+- 45% off for Network Penetration tests
+- 30% off for Web Application Security tests
+- 25% off for Red Teaming services
+- 20% off for Mobile Application Security tests
 Deal ends: 30th December or until exhausted
 
 Coastline Cybersecurity \
-https://coastlinecyber.com \
-- 30% off for External/Internal/Web/AD Penetration Testing \
-- 30% off for Mobile/Cloud/IoT Application Security assessments \
+https://coastlinecyber.com  
+- 30% off for External/Internal/Web/AD Penetration Testing
+- 30% off for Mobile/Cloud/IoT Application Security assessments
 Deal ends: 30th December
 
 ## Tools
@@ -107,8 +107,8 @@ Deal ends: 25th November
 
 PulseDive Threat Intelligence  :see_no_evil: \
 https://pulsedive.com/about/enterprise  
-50% off for 6 months with code: BLACKFRIDAY23 \
-Deal ends: 26th November
+50% off for 6 months of Pro with code: BLACKFRIDAY23 \
+Deal ends: 28th November
   
 SecureStack DevSecOps SaaS  :see_no_evil: \
 https://securestack.com/black-friday-sale  
@@ -123,14 +123,13 @@ Deal ends: 27th November
 ## Courses & Training
 
 Security Blue Team (SBT) :see_no_evil: \
-https://securityblue.team/  
-Log into your account to have discounts applied automatically \
+https://www.securityblue.team/black-friday-2023  
 50% off for BTL2 \
 Free 6-months BTLO with BTL1 \
 $125 for 12 months for BTL Pro \
 Deal ends: 2nd December
 
-AppSecEngineer - Hands-on Training, Labs and Challenges (AppSec/DevSecOps/Cloud Security/Kubernetes Security/Threat Modeling) \
+AppSecEngineer - Hands-on Training, Labs and Challenges \
 https://appsecengineer.com/  
 25% off on Annual Plans (Pro and Plus) for Individuals and Annual Business Plans with coupon code: PUMPKINPIE25 \
 Deal ends: 30th November
@@ -210,7 +209,8 @@ https://thexssrat.podia.com/
 40% off with code: lemon \
 60% off with code: WEEKLYSALES \
 70% off with code: AC44Z9J \
-70% off "Endless Cybersecurity Journey" with code: BFCROWDFAV (Buy the "all in one" Endless Cybersecurity Journey and get another code for a friend free) \
+70% off "Endless Cybersecurity Journey" with code: BFCROWDFAV \
+(Buy the "all in one" Endless Cybersecurity Journey and get another code for a friend free) \
 Deal is live
 
 The SecOps Group Security Exams \
