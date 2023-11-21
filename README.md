@@ -365,6 +365,12 @@ https://www.yubico.com/gb/store/2023/cyber-week/
 Buy One, Get One 50% OFF for YubiKey 5 Series and Security Key Series \
 Deal valid: 20-27 November
 
+Covert Instruments Lockpicking Tools \
+https://covertinstruments.com/collections/black-friday-sale
+Multiple On-Sale Kits \
+Deal Ends: 3rd December 
+
+
 ## Wearables:
 HackCloth Hacking Hoodies, T-Shirts & Sweatshirts \
 https://hackcloth.com/  
