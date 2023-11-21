@@ -59,12 +59,36 @@ Deal ends: December
 
 UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
-20-40% off App/Network/Infra Pentests \
-20-40% off 24×7 Managed Threat Detection and Response \
-20-40% off for Incident Response Retainer \
+- 20-40% off App/Network/Infra Pentests
+- 20-40% off 24×7 Managed Threat Detection and Response
+- 20-40% off for Incident Response Retainer
 Deal ends: 23rd December
 
+Immunity Systems \
+https://www.immunity-systems.com/1337blackfriday2023.html  
+- 45% off for Network Penetration tests
+- 30% off for Web Application Security tests
+- 25% off for Red Teaming services
+- 20% off for Mobile Application Security tests
+Deal ends: 30th December or until exhausted
+
+Coastline Cybersecurity \
+https://coastlinecyber.com  
+- 30% off for External/Internal/Web/AD Penetration Testing
+- 30% off for Mobile/Cloud/IoT Application Security assessments
+Deal ends: 30th December
+
 ## Tools
+Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
+https://exploitpack.com/order.html  
+LIFETIME License - Upgrade from $980 USD 1-year license to Lifetime \
+Deal availability: 10 licenses only \
+Deal ends: 26th November
+
+Pākiki Proxy \
+https://pakikiproxy.com/  
+25% off the yearly subscriptions for life with code: BLACKFRIDAY23 \
+Deal ends: 2nd December
 
 GrayhatWarfare Open Bucket & shorturl Secrets :see_no_evil: \
 https://grayhatwarfare.com/packages  
@@ -76,23 +100,54 @@ https://portdroid.net/black-friday-2023/
 50% off lifetime version with code: CYBER_2023 \
 Deal ends: 4th December
 
-PulseDive Threat Intelligence  :see_no_evil: \
-https://pulsedive.com/about/enterprise  
-50% off for 6 months with code: BLACKFRIDAY23 \
-Deal ends: 26th November
+Proxyman - Capture, inspect, and manipulate HTTP/HTTPS traffic \
+https://proxyman.io/  
+30% off with code: PROXYMAN_BLACKFRIDAY_2023 \
+Deal ends: 25th November
+
+Pulsedive Threat Intelligence  :see_no_evil: \
+https://pulsedive.com/pro  
+50% off for 6 months of Pro with code: BLACKFRIDAY23 \
+Deal ends: 28th November
   
 SecureStack DevSecOps SaaS  :see_no_evil: \
 https://securestack.com/black-friday-sale  
 50% off for 12 months with code: BLACKFRIDAY23WOW \
 Deal ends: 2nd December
 
+Burp Bounty Pro (Burp Suite Marketplace App) \
+https://burpbounty.net  
+$21 off from $86 to $64 \
+Deal ends: 27th November
+
 ## Courses & Training
+
+Security Blue Team (SBT) :see_no_evil: \
+https://www.securityblue.team/black-friday-2023  
+50% off for BTL2 \
+Free 6-months BTLO with BTL1 \
+$125 for 12 months for BTL Pro \
+Deal ends: 2nd December
+
+AppSecEngineer - Hands-on Training, Labs and Challenges \
+https://appsecengineer.com/  
+25% off on Annual Plans (Pro and Plus) for Individuals and Annual Business Plans with coupon code: PUMPKINPIE25 \
+Deal ends: 30th November
 
 Blue Team Training - LetsDefend :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/enterprise-basic  
 50% off code: BLCKFRDY \
 Deal ends: 2nd December
+
+Cloud Academy (Security Courses) \
+https://cloudacademy.com/pricing  
+41% off annual plan
+
+International Society of Automation (Industrial Cybersecurity) \
+https://programs.isa.org/blackfridayweek23  
+30% off with code: BFCM23 \
+Deal ends: 27 November
 
 Offensive Security - Penetration Testing Training \
 https://www.offensive-security.com/learn-one  
@@ -135,15 +190,10 @@ https://tcm-sec.com/
 (1) 20% off of certifications and live trainings \
 (2) 50% off of the first payment of the All-Access Membership (any plan) \
 Code: GobbleGobble23 \
-Deal yet to start
-
-AppSecEngineer - Hands-on Training and Challenges in AppSec, DevSecOps and Cloud-Native Security \
-https://checkout.appsecengineer.com/pro    
-$100 USD off Annual Pro Plan with code: PUMPKINPIE25 \
-Deal ends: 30th November
+Deal ends: 27th November
 
 Pensterlab :see_no_evil: \
-https://pentesterlab.com/pro
+https://pentesterlab.com/pro  
 27% off one year subscription, applied automatically \
 (1) US$146 instead of US$199 \
 (2) US$25.99 instead of US$34.99 for students \
@@ -158,6 +208,9 @@ TheXSSRat Bug Bounty and Hacking Courses \
 https://thexssrat.podia.com/  
 40% off with code: lemon \
 60% off with code: WEEKLYSALES \
+70% off with code: AC44Z9J \
+70% off "Endless Cybersecurity Journey" with code: BFCROWDFAV \
+(Buy the "all in one" Endless Cybersecurity Journey and get another code for a friend free) \
 Deal is live
 
 The SecOps Group Security Exams \
@@ -177,6 +230,38 @@ https://securitydojo.co.in/courses.html#bookTrainings
 (3) 25% off with code BlackFridayCorporate on Corporate passes \
 Deal is live
 
+CQURE Academy Cybersecurity SkillSet Courses \
+https://news.cqureacademy.com/blackfriday2023  
+(1) 20% Off Live Virtual Classes \
+(2) 29% off Cybersecurity Master Annual Program 2024 \
+(3) 30% off Cybersecurity Skillset Courses \
+Deal Ends: 27th November
+
+Mr. Un1k0d3r's Malware Development and Red Team Training Bundle \
+https://mr.un1k0d3r.world/portal/index.php  
+25% off both the coding class and red team training courses \
+Discount live now
+
+The OSINTion Academy \
+On Demand Courses: https://academy.theosintion.com/courses?affcode=989966_6g0qf83e  
+Live Courses: https://theosintion.as.me/schedule.php  
+80% off all on-demand courses \
+40% off upcoming live courses with code: BLACKFRIDAY \
+
+Sektor7 Redteam courses \
+https://institute.sektor7.net/?coupon=BW23  
+20% off on all RED TEAM Operator courses with code: BW23 \
+Deal valid: 20th-27th November
+
+Blue Cape Security \
+On Demand Courses: https://bluecapesecurity.com/courses/  
+25% off training courses with code: BLACKFRIDAY25 \
+
+Invictus Incident Response Training \
+https://academy.invictus-ir.com  
+20% off with code: BLACKFRIDAY \
+Deal ends: 30th November
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
@@ -190,6 +275,30 @@ Deal valid: 24-27 November
 
 ## Mini Courses:
 
+NahamSec - Intro to Bug Bounty Hunting and Web Application Hacking \
+https://www.udemy.com/course/intro-to-bug-bounty-by-nahamsec        
+100% off with code: FREEBLACKFRIDAY \
+$9.99 with code: BLACKFRIDAY23 
+
+Hacking Android Applications for Bug Bounty and Pentesting \
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/  
+65% off at checkout with code: BLACKFRIDAY23 \
+Starts: 11/20/2023 8:00 AM PST \
+Expires: 11/25/2023 8:00 AM PST 
+
+## Exams:
+
+CREST Registered Penetration Tester (CRT) Exam \
+https://www.crest-approved.org/skills-certifications-careers/crest-registered-penetration-tester  
+https://www.crest-approved.org/crt-examination-promotional-form  
+75% off for CREST members (claim with CREST member email) \
+40% discount for non-CREST members \
+Exam must be booked by 31 January 2024 and must be taken by 30 April 2024 \
+Deal ends: 31st January
+
+eLearn Security Certifications \
+https://checkout.ine.com/black-friday-2023 \
+50% discount on many certifications like eWPTx 
 
 ## Hardware:
 
@@ -208,6 +317,11 @@ https://australia.ifixit.com/collections/black-friday-deals
 Multiple On-Sale Kits \
 Deal Ends: November 28 
 
+Yubico Hardware MFA Keys \
+https://www.yubico.com/gb/store/2023/cyber-week/  
+Buy One, Get One 50% OFF for YubiKey 5 Series and Security Key Series \
+Deal valid: 20-27 November
+
 ## Wearables:
 HackCloth Hacking Hoodies, T-Shirts & Sweatshirts \
 https://hackcloth.com/  
@@ -218,6 +332,10 @@ Deal Ends: 1st December
 Springer Apress Cybersecurity eBooks \
 https://link.springer.com/shop/springernature/cyber-fixed-price-sale-cybersecurity-ethicalhacking/en-us/  
 Up to 90% off, selected titles are $6.99
+
+Microsoft Press store by Pearson \
+https://www.microsoftpressstore.com/store/browse/books#!?sort=Relevance  
+30% on books/eBooks & 70% on video with code IGNITE \
 
 ## Games:
 
@@ -232,8 +350,12 @@ https://secdim.com
 (2) 35% off annual Professional plan when you reply here: https://discuss.secdim.com/t/35-off-annual-professional-plan/1568  
 Deal Ends: 1st December
 
-
 ## Services:
+
+AirVPN \
+https://airvpn.org/forums/topic/56906-2023-black-friday-sale  
+Up to 74% saved on 3 year subscription, reduced discounts for lower time periods \
+Deal live now
 
 Surfshark VPN \
 https://surfshark.com/deal/blackfriday  
@@ -244,6 +366,12 @@ NordVPN \
 https://nordvpn.com/offer  
 69% off and 3 months free \
 Deal live now
+
+Private Internet Access \
+https://www.privateinternetaccess.com/buy-vpn-online  
+$79 for 3-year plan + 4 months free \
+Effectively $1.98/month (83% off) \
+Deal ends: 23rd November 9AM ET
 
 BitDefender \
 https://www.bitdefender.com/solutions  
