@@ -262,6 +262,10 @@ https://www.crest-approved.org/crt-examination-promotional-form
 Exam must be booked by 31 January 2024 and must be taken by 30 April 2024 \
 Deal ends: 31st January
 
+eLearn Security Certifications \
+https://checkout.ine.com/black-friday-2023 \
+50% discount on many certifications like eWPTx 
+
 ## Hardware:
 
 KSEC LABS (Red Team Tools, Locksmith, Hacker Gadgets) \
