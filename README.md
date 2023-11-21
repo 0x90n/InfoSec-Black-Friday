@@ -262,6 +262,10 @@ https://academy.invictus-ir.com
 20% off with code: BLACKFRIDAY \
 Deal ends: 30th November
 
+Pluralsight Subscriptions Black Friday deals
+https://www.pluralsight.com/pricing/skills?type=individual
+50% off - No code required
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
