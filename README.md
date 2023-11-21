@@ -55,7 +55,7 @@ https://letsdefend.io/cybersecurity-news.html
 95% off ($5 instead of $95) with code: BLCKFRDY-NEWS \
 Deal ends: December
 
-## Professional Services:
+## Professional Services
 
 UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
@@ -130,7 +130,28 @@ https://www.tenable.com/buy
 50% off Nessus PRO with code: takehalf \
 Deal valid: 23rd-27th November
 
-## Courses & Training
+## Live Courses & Conferences (NEW CATEGORY 2023!)
+
+Ringzer0 BOOTSTRAP24 Training and Conference \
+https://ringzer0.training/#instructions  
+https://ringzer0.regfox.com/bootstrap24-austin/  
+$400 discount on trainings \
+$50 discount on conference tickets \
+Can be used with early-bird pricing, with code: R0CYBERMONDAY2023 \
+Deal valid: 24th-28th November
+
+The OSINTion Academy \
+On Demand Courses: https://academy.theosintion.com/courses?affcode=989966_6g0qf83e  
+Live Courses: https://theosintion.as.me/schedule.php  
+80% off all on-demand courses \
+40% off upcoming live courses with code: BLACKFRIDAY \
+
+Invictus Incident Response Training \
+https://academy.invictus-ir.com  
+20% off with code: BLACKFRIDAY \
+Deal ends: 30th November
+
+## Online Courses & Training
 
 Security Blue Team (SBT) :see_no_evil: \
 https://www.securityblue.team/black-friday-2023  
@@ -180,9 +201,9 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2023
 Use code: BLACKFRIDAY2023  \
 Deal ends: December
 
-DroneSec (Drone Cybersec, Threat Intel & Counter-Drone Security Training) :see_no_evil:\
+DroneSec (Drone Cybersec, Threat Intel, OSINT, RF & Counter-Drone Security Training) :see_no_evil:\
 https://training.dronesec.com/p/bundle  
-20% off with code: GIVETHANKS23 \
+Down from $1495 to $495 + 20% off with code: GIVETHANKS23 \
 Deal valid: 22-30 November
 
 7asecurity (Security 100% Hands-On Training) \
@@ -252,12 +273,6 @@ https://mr.un1k0d3r.world/portal/index.php
 25% off both the coding class and red team training courses \
 Discount live now
 
-The OSINTion Academy \
-On Demand Courses: https://academy.theosintion.com/courses?affcode=989966_6g0qf83e  
-Live Courses: https://theosintion.as.me/schedule.php  
-80% off all on-demand courses \
-40% off upcoming live courses with code: BLACKFRIDAY \
-
 Sektor7 Redteam courses \
 https://institute.sektor7.net/?coupon=BW23  
 20% off on all RED TEAM Operator courses with code: BW23 \
@@ -266,11 +281,6 @@ Deal valid: 20th-27th November
 Blue Cape Security \
 On Demand Courses: https://bluecapesecurity.com/courses/  
 25% off training courses with code: BLACKFRIDAY25 \
-
-Invictus Incident Response Training \
-https://academy.invictus-ir.com  
-20% off with code: BLACKFRIDAY \
-Deal ends: 30th November
 
 Pluralsight InfoSec Courses \
 https://www.pluralsight.com/pricing/skills?type=individual  
