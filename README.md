@@ -80,7 +80,7 @@ Deal ends: 30th December
 
 Security For Everyone \
 https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off  
-- 50% off with code: BlackFriday50
+- 50% off with code: BlackFriday50 \
 Deal ends: 30th December
 
 ## Tools
