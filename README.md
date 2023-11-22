@@ -320,6 +320,12 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
+Various Udemy security courses >85% off until Nov 24, such as \
+Pentest+: https://www.udemy.com/course/pentestplus  
+Security+: https://www.udemy.com/course/securityplus  
+Network+: https://www.udemy.com/course/comptia-network-n10-008  
+
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
