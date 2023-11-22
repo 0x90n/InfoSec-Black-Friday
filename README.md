@@ -79,9 +79,9 @@ https://coastlinecyber.com
 Deal ends: 30th December
 
 Sekurno - Penetration testing \
-https://www.sekurno.com/#black-friday
-- 20% Off on All Penetration Testing Services
-- Deal ends: December
+https://www.sekurno.com/#black-friday  
+- 20% Off on All Penetration Testing Services \
+Deal ends: December
 
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
