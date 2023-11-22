@@ -140,6 +140,12 @@ https://zoomeye.org/business
 50% off for one-year advanced member level \
 Deal ends: 27th November
 
+HexRaysSA
+Enjoy 30% OFF #IDAHome licenses. 
+https://hex-rays.com/blog/black-friday-deals-2023/
+
+Offer is valid from 4 pm (CET) Wednesday, 22nd November, until 3 pm (CET) December 1st, 2023.
+
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
 Ringzer0 BOOTSTRAP24 Training and Conference \
@@ -160,6 +166,10 @@ Invictus Incident Response Training \
 https://academy.invictus-ir.com  
 20% off with code: BLACKFRIDAY \
 Deal ends: 30th November
+
+HexRaysSA
+50% OFF our December IDA Skills Training Sessions
+https://hex-rays.com/blog/black-friday-deals-2023/
 
 ## Online Courses & Training
 
