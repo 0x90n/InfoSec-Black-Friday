@@ -366,8 +366,8 @@ Buy One, Get One 50% OFF for YubiKey 5 Series and Security Key Series \
 Deal valid: 20-27 November
 
 Covert Instruments Lockpicking Tools \
-https://covertinstruments.com/collections/black-friday-sale
-Multiple On-Sale Kits \
+https://covertinstruments.com/collections/black-friday-sale  
+Multiple On-Sale Kits discounts applied automatically \
 Deal Ends: 3rd December 
 
 ## Wearables:
