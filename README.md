@@ -305,6 +305,12 @@ https://cloudsecurityalliance.org/education/ccsk/
 50% discount for exam and/or training course \
 Deal valid: 27 November 2023 only
 
+Expliot Academy (ioT Hacking Skills)
+https://academy.expliot.io/courses
+45% OFF on courses
+Using Code: BF45
+Deal expires: 23rd November
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
