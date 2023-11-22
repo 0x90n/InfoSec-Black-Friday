@@ -140,6 +140,12 @@ https://zoomeye.org/business
 50% off for one-year advanced member level \
 Deal ends: 27th November
 
+DOCGuard - Malware Analysis Tool \
+https://app.docguard.io \
+https://app.docguard.io/pricing \
+50% off code: BLCKFRDY \
+Deal ends: 2nd December
+
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
 Ringzer0 BOOTSTRAP24 Training and Conference \
