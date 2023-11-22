@@ -142,6 +142,10 @@ Deal ends: 27th November
 
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
+Practical TLS \
+http://pracnet.net/tls \
+Use Code: BF2023 to purchase course at $50
+
 Ringzer0 BOOTSTRAP24 Training and Conference \
 https://ringzer0.training/#instructions  
 https://ringzer0.regfox.com/bootstrap24-austin/  
