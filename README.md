@@ -83,6 +83,11 @@ https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off
 - 50% off with code: BlackFriday50 \
 Deal ends: 30th December
 
+Sekurno - Penetration testing \
+https://www.sekurno.com/#black-friday  
+- 20% Off on All Penetration Testing Services \
+Deal ends: December
+
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
 https://exploitpack.com/order.html  
