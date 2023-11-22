@@ -135,6 +135,11 @@ https://www.tenable.com/buy
 50% off Nessus PRO with code: takehalf \
 Deal valid: 23rd-27th November
 
+ZoomEye - Cyber OSINT Search Engine \
+https://zoomeye.org/business  
+50% off for one-year advanced member level \
+Deal ends: 27th November
+
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
 Ringzer0 BOOTSTRAP24 Training and Conference \
