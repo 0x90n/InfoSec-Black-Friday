@@ -305,6 +305,11 @@ https://cloudsecurityalliance.org/education/ccsk/
 50% discount for exam and/or training course \
 Deal valid: 27 November 2023 only
 
+Cybr Black Friday Deal (AWS Cloud Security)
+https://cybr.com/pricing/
+Get 4 months free
+Ends 11/27 at 10:00pm MST
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
