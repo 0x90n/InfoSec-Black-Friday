@@ -140,6 +140,11 @@ https://zoomeye.org/business
 50% off for one-year advanced member level \
 Deal ends: 27th November
 
+PDFPeer - Chat with any PDF in seconds! \
+https://pdfpeer.com
+50% OFF on all plans with code: BF50 \
+Deal ends: 28th November
+
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
 Ringzer0 BOOTSTRAP24 Training and Conference \
