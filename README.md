@@ -400,7 +400,7 @@ https://hak5.org/
 - 50% OFF Cloud C2 - CODE: CLOUD50 \
 - $100 OFF O.MG Cable - Get Codes https://hak5.org/collections/mischief-gadgets  \
 - $10 OFF Rubber Ducky - CODE: DUCK10 \
-- 50% OFF Payload Studio  \
+- 50% OFF Payload Studio \
 Deal Ends: Usually on Cyber Monday
 
 ## Wearables:
