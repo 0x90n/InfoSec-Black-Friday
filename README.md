@@ -89,6 +89,12 @@ https://www.sekurno.com/#black-friday
 Deal ends: December
 
 ## Tools
+
+DOCGuard - Malware Analysis Tool
+https://app.docguard.io/pricing
+50% off code: BLCKFRDY
+Deal ends: 2nd December
+
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
 https://exploitpack.com/order.html  
 LIFETIME License - Upgrade from $980 USD 1-year license to Lifetime \
