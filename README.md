@@ -88,6 +88,11 @@ https://www.sekurno.com/#black-friday
 - 20% Off on All Penetration Testing Services \
 Deal ends: December
 
+AnyRun Interactive Malware Analysis Service
+Buy one annual subscription and get the second one FREE for your colleague or 3 months of Threat Intelligence Feeds as a gift!
+https://app.any.run/plans/
+Deal ends: Nov 27th
+
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
 https://exploitpack.com/order.html  
