@@ -329,6 +329,11 @@ https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pen
 Starts: 11/20/2023 8:00 AM PST \
 Expires: 11/25/2023 8:00 AM PST 
 
+Cybr's Cloud Security Training \
+https://cybr.com/pricing/
+4 months free ($19 off) yearly subscription \
+Deal ends: 27 November @ 10:00pm MST 
+
 ## Exams:
 
 CREST Registered Penetration Tester (CRT) Exam \
