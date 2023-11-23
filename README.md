@@ -57,6 +57,11 @@ Deal ends: December
 
 ## Professional Services
 
+Vumetric - Penetration testing \
+https://www.vumetric.com/penetration-testing-services/
+- 25% Off on All Penetration Testing Services (Web, Network, etc.) \
+Deal ends: 30th December 2023
+
 UnderDefense Cybersecurity \
 https://underdefense.com/cyber-monday-offer/  
 - 20-40% off App/Network/Infra Pentests
