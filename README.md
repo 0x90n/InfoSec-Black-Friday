@@ -190,6 +190,11 @@ Free 6-months BTLO with BTL1 \
 $125 for 12 months for BTL Pro \
 Deal ends: 2nd December
 
+Practical TLS Training Course \
+http://pracnet.net/tls  
+85% off ($297 down to $50) with code: BF2023
+Deal ends: 6th December
+
 AppSecEngineer - Hands-on Training, Labs and Challenges \
 https://appsecengineer.com/  
 25% off on Annual Plans (Pro and Plus) for Individuals and Annual Business Plans with coupon code: PUMPKINPIE25 \
