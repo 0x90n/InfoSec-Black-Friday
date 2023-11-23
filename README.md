@@ -140,9 +140,11 @@ https://zoomeye.org/business
 50% off for one-year advanced member level \
 Deal ends: 27th November
 
-HexRaysSA
-Enjoy 30% OFF #IDAHome licenses. 
-https://hex-rays.com/blog/black-friday-deals-2023/
+HexRays Binary Code Analysis Tool \
+https://hex-rays.com/blog/black-friday-deals-2023/  
+30% OFF IDA Home licenses \
+50% off December IDA Pro online training sessions (limited to first 10 users, must have IDA license) \
+Deal ends: 1st December
 
 Offer is valid from 4 pm (CET) Wednesday, 22nd November, until 3 pm (CET) December 1st, 2023.
 
