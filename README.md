@@ -459,6 +459,12 @@ https://nostarch.com/
 35% off + free shipping on U.S. orders over $75 with code: DEALS4DAYS \
 Deal Ends: 27th November
 
+Hacklido Cybersecurity E-book Collection \
+hacklidostore.gumroad.com  
+90% OFF on all products : Coupon : HACKLIDOBF23 \
+Deal Ends: 1 December 
+
+
 ## Games:
 
 Elevation of Privilege Card Game  \
