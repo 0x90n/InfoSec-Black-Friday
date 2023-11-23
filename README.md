@@ -365,7 +365,8 @@ https://github.com/RedTeamOperations/cwl-blackfriday-offers/
 - Red Team Beginner to Advance Path Bundle (35% OFF)
 - Red Team On-Premise to Cloud Path Bundle (35% OFF)
 - Best Selling Bundle (35% OFF)
-- Purple Team Path Bundle (30% OFF)\
+- Purple Team Path Bundle (30% OFF)
+- Individual Courses (20% OFF, No Code Required)\
 Offer valid till 27th November 2023
 
 ## Mini Courses:
