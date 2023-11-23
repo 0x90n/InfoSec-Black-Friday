@@ -347,6 +347,11 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
+Antisyphon Training \
+https://subscriptions.antisyphontraining.com/catalog_signup  
+$1500 for access to all On-Demand courses (28 courses at time of deal) for 1 year \
+Deal is live
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
@@ -361,6 +366,11 @@ Deal valid: 24-27 November
 Cyberwarfare Labs \
 https://cyberwarfare.live/black-friday/  
 50% off on various courses and bundles, codes on page
+
+Kase Scenarios \
+https://courses.kasescenarios.com/bundles/blackfriday-bundle  
+$65 for 3 OSINT scenarios \
+Deal goes live on 24 November
 
 ## Mini Courses:
 
@@ -513,6 +523,11 @@ Deal ends: December
 WPSec WordPress Vulnerability Scanner (Old 2022 deal still works - yikes) \
 https://wpsec.com/blackfriday/  
 One month free ($29 USD off)
+
+Malwarebytes \
+50% off select Personal plans \
+https://www.malwarebytes.com/pricing  
+Deals ends: 26 November
 
 -----------------------------------------------------------------------------------------
 
