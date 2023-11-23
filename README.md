@@ -140,6 +140,11 @@ https://zoomeye.org/business
 50% off for one-year advanced member level \
 Deal ends: 27th November
 
+DOCGuard - Malware Analysis Tool \
+https://app.docguard.io/pricing  
+50% off with code: BLCKFRDY \
+Deal ends: 8th December
+
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
 Ringzer0 BOOTSTRAP24 Training and Conference \
@@ -212,8 +217,10 @@ Use code: BLACKFRIDAY2023  \
 Deal ends: December
 
 DroneSec (Drone Cybersec, Threat Intel, OSINT, RF & Counter-Drone Security Training) :see_no_evil:\
-https://training.dronesec.com/p/bundle  
-Down from $1495 to $495 + 20% off with code: GIVETHANKS23 \
+https://training.dronesec.com/p/black-friday-2023  
+20% off all courses with code: GIVETHANKS23 \
+https://store.dronesec.com/  
+20% off all merch with code: GIVETHANKS
 Deal valid: 22-30 November
 
 7asecurity (Security 100% Hands-On Training) \
