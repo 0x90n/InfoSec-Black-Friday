@@ -459,6 +459,10 @@ https://nostarch.com/
 35% off + free shipping on U.S. orders over $75 with code: DEALS4DAYS \
 Deal Ends: 27th November
 
+Visual Threat Intelligence: An Illustrated Guide For Threat Researchers \
+https://store.securitybreak.io/threatintel
+35% off on the eBook with code: BLACKFRIDAYVTI
+
 ## Games:
 
 Elevation of Privilege Card Game  \
