@@ -88,11 +88,6 @@ https://www.sekurno.com/#black-friday
 - 20% Off on All Penetration Testing Services \
 Deal ends: December
 
-AnyRun Interactive Malware Analysis Service
-Buy one annual subscription and get the second one FREE for your colleague or 3 months of Threat Intelligence Feeds as a gift!
-https://app.any.run/plans/
-Deal ends: Nov 27th
-
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
 https://exploitpack.com/order.html  
@@ -144,6 +139,11 @@ ZoomEye - Cyber OSINT Search Engine \
 https://zoomeye.org/business  
 50% off for one-year advanced member level \
 Deal ends: 27th November
+
+AnyRun Interactive Malware Analysis Service \
+https://app.any.run/plans/  
+Buy one annual subscription and get the second one free OR 3 months of Threat Intelligence Feeds \
+Deal ends: Nov 27th
 
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
