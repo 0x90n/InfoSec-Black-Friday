@@ -320,6 +320,11 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
+Cyberwarfare Live
+https://cyberwarfare.live/black-friday/
+Upto 50% off on various courses, Bundles
+
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
