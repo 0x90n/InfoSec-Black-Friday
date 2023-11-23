@@ -404,6 +404,12 @@ Microsoft Press store by Pearson \
 https://www.microsoftpressstore.com/store/browse/books#!?sort=Relevance  
 30% on books/eBooks & 70% on video with code IGNITE \
 
+NoStarch Press
+https://nostarch.com/
+Black Friday Sale! 35% off + FREE shipping on U.S. orders over $75.
+Use code DEALS4DAYS. 
+Deal ends Nov. 27.
+
 ## Games:
 
 Elevation of Privilege Card Game  \
