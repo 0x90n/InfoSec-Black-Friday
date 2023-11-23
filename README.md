@@ -156,6 +156,11 @@ https://app.docguard.io/pricing
 50% off with code: BLCKFRDY \
 Deal ends: 8th December
 
+HTTP Toolkit - HTTP interception, debugging & reverse engineering tool \
+https://httptoolkit.com/ \
+50% off annual accounts with code `BLACKFRIDAY` \
+Deal ends: 27th November
+
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
 Ringzer0 BOOTSTRAP24 Training and Conference \
