@@ -422,6 +422,11 @@ https://hackcloth.com/
 Free shipping + Buy 2 get 20% off storewide \
 Deal Ends: 1st December
 
+Miscreants - Thoughtfully designed apparel for hackers 🙈  \
+https://shop.miscreants.com/  
+(1) 20% off everything + free sticker pack with code: ROSEBUD (Only valid through Nov 27th 11:59pm)  \
+(2) 10% off everything with code: CYBER10 (Deal ends December 30th, 11:59pm)
+
 ## Books:
 Springer Apress Cybersecurity eBooks \
 https://link.springer.com/shop/springernature/cyber-fixed-price-sale-cybersecurity-ethicalhacking/en-us/  
