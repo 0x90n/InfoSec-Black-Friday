@@ -140,6 +140,12 @@ https://zoomeye.org/business
 50% off for one-year advanced member level \
 Deal ends: 27th November
 
+HexRays Binary Code Analysis Tool \
+https://hex-rays.com/blog/black-friday-deals-2023/  
+30% OFF IDA Home licenses \
+50% off December IDA Pro online training sessions (limited to first 10 users, must have IDA license) \
+Deal ends: 1st December
+
 AnyRun Interactive Malware Analysis Service \
 https://app.any.run/plans/  
 Buy one annual subscription and get the second one free OR 3 months of Threat Intelligence Feeds \
@@ -170,6 +176,10 @@ Invictus Incident Response Training \
 https://academy.invictus-ir.com  
 20% off with code: BLACKFRIDAY \
 Deal ends: 30th November
+
+HexRaysSA
+50% OFF our December IDA Skills Training Sessions
+https://hex-rays.com/blog/black-friday-deals-2023/
 
 ## Online Courses & Training
 
