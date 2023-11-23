@@ -320,11 +320,6 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
-Cyberwarfare Live
-https://cyberwarfare.live/black-friday/
-Upto 50% off on various courses, Bundles
-
-
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
@@ -335,6 +330,10 @@ Altered Security Online Pentesting Labs \
 https://www.alteredsecurity.com/online-labs  
 20% off classes and bootcamps in Q1 and Q2 2024 with code BLACKFRIDAY2023 \
 Deal valid: 24-27 November
+
+Cyberwarfare Labs \
+https://cyberwarfare.live/black-friday/  
+50% off on various courses and bundles, codes on page
 
 ## Mini Courses:
 
