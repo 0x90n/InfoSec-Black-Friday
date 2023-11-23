@@ -140,6 +140,11 @@ https://zoomeye.org/business
 50% off for one-year advanced member level \
 Deal ends: 27th November
 
+AnyRun Interactive Malware Analysis Service \
+https://app.any.run/plans/  
+Buy one annual subscription and get the second one free OR 3 months of Threat Intelligence Feeds \
+Deal ends: Nov 27th
+
 DOCGuard - Malware Analysis Tool \
 https://app.docguard.io/pricing  
 50% off with code: BLCKFRDY \
