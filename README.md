@@ -358,6 +358,10 @@ https://www.alteredsecurity.com/online-labs
 20% off classes and bootcamps in Q1 and Q2 2024 with code BLACKFRIDAY2023 \
 Deal valid: 24-27 November
 
+Cyberwarfare Labs \
+https://cyberwarfare.live/black-friday/  
+50% off on various courses and bundles, codes on page
+
 ## Mini Courses:
 
 NahamSec - Intro to Bug Bounty Hunting and Web Application Hacking \
