@@ -416,6 +416,20 @@ https://covertinstruments.com/collections/black-friday-sale
 Multiple On-Sale Kits discounts applied automatically \
 Deal Ends: 3rd December 
 
+Hak5 Black Friday Sale :see_no_evil: \
+https://hak5.org/  
+
+- Free organizer with a new Custom Field Kit over $250
+- $40 off education with code: EDUKIT40
+- $100 off Pineapple Enterprise with code: ENTERPRISE100
+- Free programmer with any O.MG device purchase - just add to cart
+- 50% off Malicious Cable Detector
+- 50% off Cloud C2 with code: CLOUD50
+- $100 OFF O.MG Cable - Codes listed here: https://hak5.org/collections/mischief-gadgets  
+- $10 OFF Rubber Ducky with code: DUCK10
+- 50% OFF Payload Studio \
+Deal Ends: 28th November
+
 ## Wearables:
 HackCloth Hacking Hoodies, T-Shirts & Sweatshirts \
 https://hackcloth.com/  
