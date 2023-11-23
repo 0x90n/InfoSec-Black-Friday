@@ -404,9 +404,9 @@ Microsoft Press store by Pearson \
 https://www.microsoftpressstore.com/store/browse/books#!?sort=Relevance  
 30% on books/eBooks & 70% on video with code IGNITE \
 
-No Starch Press \
-https://nostarch.com/
-35% off + free shipping on U.S. orders over $75 with code DEALS4DAYS \
+No Starch Press Hacking and Security books :see_no_evil: \
+https://nostarch.com/  
+35% off + free shipping on U.S. orders over $75 with code: DEALS4DAYS \
 Deal Ends: 27th November
 
 ## Games:
