@@ -260,7 +260,7 @@ https://tcm-sec.com/
 Code: GobbleGobble23 \
 Deal ends: 27th November
 
-Pensterlab :see_no_evil: \
+Pentesterlab :see_no_evil: \
 https://pentesterlab.com/pro  
 27% off one year subscription, applied automatically \
 (1) US$146 instead of US$199 \
