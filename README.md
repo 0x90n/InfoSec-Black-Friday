@@ -146,7 +146,15 @@ https://hex-rays.com/blog/black-friday-deals-2023/
 50% off December IDA Pro online training sessions (limited to first 10 users, must have IDA license) \
 Deal ends: 1st December
 
-Offer is valid from 4 pm (CET) Wednesday, 22nd November, until 3 pm (CET) December 1st, 2023.
+AnyRun Interactive Malware Analysis Service \
+https://app.any.run/plans/  
+Buy one annual subscription and get the second one free OR 3 months of Threat Intelligence Feeds \
+Deal ends: Nov 27th
+
+DOCGuard - Malware Analysis Tool \
+https://app.docguard.io/pricing  
+50% off with code: BLCKFRDY \
+Deal ends: 8th December
 
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
@@ -224,8 +232,10 @@ Use code: BLACKFRIDAY2023  \
 Deal ends: December
 
 DroneSec (Drone Cybersec, Threat Intel, OSINT, RF & Counter-Drone Security Training) :see_no_evil:\
-https://training.dronesec.com/p/bundle  
-Down from $1495 to $495 + 20% off with code: GIVETHANKS23 \
+https://training.dronesec.com/p/black-friday-2023  
+20% off all courses with code: GIVETHANKS23 \
+https://store.dronesec.com/  
+20% off all merch with code: GIVETHANKS
 Deal valid: 22-30 November
 
 7asecurity (Security 100% Hands-On Training) \
