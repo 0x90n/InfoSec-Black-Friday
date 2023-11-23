@@ -58,11 +58,11 @@ Deal ends: December
 ## Professional Services
 
 UnderDefense Cybersecurity \
-https://underdefense.com/cyber-monday-offer/  
-- 20-40% off App/Network/Infra Pentests
-- 20-40% off 24×7 Managed Threat Detection and Response
-- 20-40% off for Incident Response Retainer \
-Deal ends: 23rd December
+https://underdefense.com/black-friday-2023/?utm_source=github.com
+- 25% off App/Network/Infra Pentests
+- 25% off 24×7 Managed Threat Detection and Response
+- 25% off Managed SIEM (SIEM-as-a-Service) \
+Deal ends: 5th December
 
 Immunity Systems \
 https://www.immunity-systems.com/1337blackfriday2023.html  
