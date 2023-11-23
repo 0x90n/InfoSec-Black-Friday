@@ -142,10 +142,6 @@ Deal ends: 27th November
 
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
-Practical TLS \
-http://pracnet.net/tls \
-Use Code: BF2023 to purchase course at $50
-
 Ringzer0 BOOTSTRAP24 Training and Conference \
 https://ringzer0.training/#instructions  
 https://ringzer0.regfox.com/bootstrap24-austin/  
@@ -173,6 +169,11 @@ https://www.securityblue.team/black-friday-2023
 Free 6-months BTLO with BTL1 \
 $125 for 12 months for BTL Pro \
 Deal ends: 2nd December
+
+Practical TLS Training Course \
+http://pracnet.net/tls  
+85% off ($297 down to $50) with code: BF2023
+Deal ends: 6th December
 
 AppSecEngineer - Hands-on Training, Labs and Challenges \
 https://appsecengineer.com/  
