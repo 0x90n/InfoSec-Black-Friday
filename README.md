@@ -546,10 +546,10 @@ Visual Threat Intelligence: An Illustrated Guide For Threat Researchers \
 https://store.securitybreak.io/threatintel  
 35% off on the eBook with code: BLACKFRIDAYVTI
 
-Manning Books Black Friday Sale
-www.manning.com
-Save 50% on everything digital (All eBooks, liveProject, and liveVideos) sitewide. 
-Save 40% off all print books too.
+Manning Security Books \
+www.manning.com  
+50% off everything digital (All eBooks, liveProject, and liveVideos) sitewide \
+40% off all print books
 
 ## Games:
 
