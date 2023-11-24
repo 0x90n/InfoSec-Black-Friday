@@ -460,7 +460,7 @@ https://nostarch.com/
 Deal Ends: 27th November
 
 Visual Threat Intelligence: An Illustrated Guide For Threat Researchers \
-https://store.securitybreak.io/threatintel \
+https://store.securitybreak.io/threatintel  
 35% off on the eBook with code: BLACKFRIDAYVTI
 
 ## Games:
