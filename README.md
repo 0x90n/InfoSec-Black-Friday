@@ -347,9 +347,9 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
-Zero2Auto
+Zero2Automated Malware Reverse Engineering Course \
 https://courses.zero2auto.com/
-25% discount using code BLACKFRIDAY
+25% discount using code: BLACKFRIDAY \
 Deal Ends: Midnight, November 27th!
 
 ## Practical Labs:
