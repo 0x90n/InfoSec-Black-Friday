@@ -359,6 +359,7 @@ https://www.alteredsecurity.com/online-labs
 Deal valid: 24-27 November
 
 CyberWarfare Labs \
+https://cyberwarfare.live/black-friday/  
 https://github.com/RedTeamOperations/cwl-blackfriday-offers/  
 - All-In-One Access Bundle (50% OFF)
 - Cloud Red Team Path Bundle (40% OFF)
@@ -366,8 +367,8 @@ https://github.com/RedTeamOperations/cwl-blackfriday-offers/
 - Red Team On-Premise to Cloud Path Bundle (35% OFF)
 - Best Selling Bundle (35% OFF)
 - Purple Team Path Bundle (30% OFF)
-- Individual Courses (20% OFF, No Code Required)\
-Offer valid till 27th November 2023
+- Individual Courses (20% OFF, No Code Required) \
+Deal ends: 27th November 2023
 
 ## Mini Courses:
 
