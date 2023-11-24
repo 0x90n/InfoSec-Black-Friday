@@ -136,7 +136,7 @@ https://www.tenable.com/buy
 Deal valid: 23rd-27th November
 
 FullHunt Attack Surface Management Platform - Enterprise Edition \
-https://fullhunt.io/ \
+https://fullhunt.io/  
 50% off FullHunt Attack Surface Management Platform - Enterprise Edition \
 Also free 4x life-time search credits on the community platform for everyone who tweets about [@FullHunt](https://twitter.com/fullhunt) (Make sure to mention [@FullHunt](https://twitter.com/fullhunt)). \
 Deal ends: 1st December
