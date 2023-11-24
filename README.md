@@ -215,10 +215,6 @@ https://academy.invictus-ir.com
 20% off with code: BLACKFRIDAY \
 Deal ends: 30th November
 
-HexRaysSA
-50% OFF our December IDA Skills Training Sessions
-https://hex-rays.com/blog/black-friday-deals-2023/
-
 ## Online Courses & Training
 
 Security Blue Team (SBT) :see_no_evil: \
@@ -362,7 +358,7 @@ https://www.pluralsight.com/pricing/skills?type=individual
 50% off - No code required
 
 APT Defend security awareness with phishing simulation platform \
-https://aptdefend.com/black-friday-2023/
+https://aptdefend.com/black-friday-2023/  
 50% off for first three months of pay as you go subscription \
 50% off for first six months of annual subscription \
 Free phishing test for up to 250 users \
@@ -449,6 +445,10 @@ Cybr's Cloud Security Training \
 https://cybr.com/pricing/
 4 months free ($19 off) yearly subscription, applied on page \
 Deal ends: 27 November
+
+Enciphers Application Security Courses \
+https://training.enciphers.com/p/all-courses  
+40% off all courses with code: WINTERFELL40
 
 ## Exams:
 
@@ -538,7 +538,7 @@ https://nostarch.com/
 Deal Ends: 27th November
 
 Hacklido Cybersecurity E-book Collection \
-hacklidostore.gumroad.com  
+https://hacklidostore.gumroad.com/  
 90% OFF on all products : Coupon : HACKLIDOBF23 \
 Deal Ends: 1 December 
 
