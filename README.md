@@ -157,7 +157,7 @@ https://app.docguard.io/pricing
 Deal ends: 8th December
 
 delivr.to - Purple team testing for Email Gateways \
-https://delivr.to \
+https://delivr.to  
 31% off monthly or annual subscription with code: BLACKFRIDAY \
 Deal ends: Nov 25th
 
