@@ -546,6 +546,11 @@ Visual Threat Intelligence: An Illustrated Guide For Threat Researchers \
 https://store.securitybreak.io/threatintel  
 35% off on the eBook with code: BLACKFRIDAYVTI
 
+Manning Security Books \
+www.manning.com  
+50% off everything digital (All eBooks, liveProject, and liveVideos) sitewide \
+40% off all print books
+
 ## Games:
 
 Elevation of Privilege Card Game  \
