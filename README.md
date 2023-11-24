@@ -57,6 +57,10 @@ Deal ends: December
 
 ## Professional Services
 
+FORTBRIDGE \
+https://fortbridge.co.uk/
+- 20% discoung on all Penetration testing, offer valid until 15/12/2023
+
 CQR company \
 https://cqr.company 
 - 20-40% off OSINT, Penetration testing, Smart contract audit and other 50+ services with code: BFriday \
