@@ -157,8 +157,8 @@ https://app.docguard.io/pricing
 Deal ends: 8th December
 
 HTTP Toolkit - HTTP interception, debugging & reverse engineering tool \
-https://httptoolkit.com/ \
-50% off annual accounts with code `BLACKFRIDAY` \
+https://httptoolkit.com/  
+50% off annual accounts with code: BLACKFRIDAY \
 Deal ends: 27th November
 
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
