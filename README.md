@@ -567,7 +567,20 @@ www.manning.com
 Elevation of Privilege Card Game  \
 https://agilestationery.com/products/elevation-of-privilege-game  
 (1) 15% off with code: CYBER15 \
-(2) 30% off 3 or more items with code: CYBER30
+(2) 30% off 3 or more items with code: CYBER30 \
+Deal valid: 24-30th November
+
+Cornucopia Card Game \
+https://agilestationery.com/products/owasp-cornucopia-card-deck-ecommerce-website-edition  
+(1) 15% off with code: CYBER15 \
+(2) 30% off 3 or more items with code: CYBER30 \
+Deal valid: 24-30th November
+
+Agile Stationery: Cybersecurity Games and Tools (stencils, sketch pads, posters, privacy tools etc...) \
+https://agilestationery.com/pages/cybersecurity-games-and-tools  
+(1) 15% off with code: CYBER15 \
+(2) 30% off 3 or more items with code: CYBER30 \
+Deal valid: 24-30th November
 
 SecDim Attack and Defence Wargames  \
 https://secdim.com  
