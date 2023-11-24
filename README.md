@@ -88,6 +88,13 @@ https://www.sekurno.com/#black-friday
 - 20% Off on All Penetration Testing Services \
 Deal ends: December
 
+ScanTitan Cybersecurity and Attack Surface Monitoring \
+https://scantitan.com/scantitan-2023-cybersecurity-black-friday-offers/  
+- Lifetime professional plan for one website
+- Lifetime business plan for one website
+- 50% off annual consultant plan, unlimited websites \
+Deal ends: 27th November
+
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
 https://exploitpack.com/order.html  
