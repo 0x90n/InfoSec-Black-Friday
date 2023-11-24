@@ -401,9 +401,9 @@ https://gtworek.com/mastering-windows-internals
 40% off on course and course+community access \
 Deal ends: 27th November
 
-Null-Char - Malware Analysis Course
-https://courses.null-char.com/courses/the-art-of-malware-analysis
-$50 off using code November_Holidays_23
+Null-Char - Malware Analysis Course \
+https://courses.null-char.com/courses/the-art-of-malware-analysis  
+$50 off with code: November_Holidays_23
 
 ## Practical Labs:
 
