@@ -411,9 +411,17 @@ https://www.alteredsecurity.com/online-labs
 20% off classes and bootcamps in Q1 and Q2 2024 with code BLACKFRIDAY2023 \
 Deal valid: 24-27 November
 
-Cyberwarfare Labs \
+CyberWarfare Labs \
 https://cyberwarfare.live/black-friday/  
-50% off on various courses and bundles, codes on page
+https://github.com/RedTeamOperations/cwl-blackfriday-offers/  
+- All-In-One Access Bundle (50% OFF)
+- Cloud Red Team Path Bundle (40% OFF)
+- Red Team Beginner to Advance Path Bundle (35% OFF)
+- Red Team On-Premise to Cloud Path Bundle (35% OFF)
+- Best Selling Bundle (35% OFF)
+- Purple Team Path Bundle (30% OFF)
+- Individual Courses (20% OFF, No Code Required) \
+Deal ends: 27th November 2023
 
 Kase Scenarios \
 https://courses.kasescenarios.com/bundles/blackfriday-bundle  
