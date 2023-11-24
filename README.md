@@ -132,6 +132,11 @@ https://proxyman.io/
 30% off with code: PROXYMAN_BLACKFRIDAY_2023 \
 Deal ends: 25th November
 
+010 Editor - SweetScape Software \
+https://www.sweetscape.com/store/
+15% off from New User License and Upgrade/Maintenance
+Deal ends: 27th November
+
 Pulsedive Threat Intelligence  :see_no_evil: \
 https://pulsedive.com/pro  
 50% off for 6 months of Pro with code: BLACKFRIDAY23 \
