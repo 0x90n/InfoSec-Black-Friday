@@ -162,6 +162,11 @@ https://app.docguard.io/pricing
 50% off with code: BLCKFRDY \
 Deal ends: 8th December
 
+delivr.to - Purple team testing for Email Gateways \
+https://delivr.to  
+31% off monthly or annual subscription with code: BLACKFRIDAY \
+Deal ends: Nov 25th
+
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
 Ringzer0 BOOTSTRAP24 Training and Conference \
