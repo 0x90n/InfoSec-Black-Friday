@@ -57,6 +57,11 @@ Deal ends: December
 
 ## Professional Services
 
+CQR company \
+https://cqr.company 
+- 20-40% off OSINT, Penetration testing, Smart contract audit and other 50+ services with code: BFriday \
+Deal ends: 31st December
+
 Vumetric - Penetration testing \
 https://www.vumetric.com/penetration-testing-services/
 - 25% Off on All Penetration Testing Services (Web, Network, etc.) \
@@ -141,6 +146,11 @@ Burp Bounty Pro (Burp Suite Marketplace App) \
 https://burpbounty.net  
 $21 off from $86 to $64 \
 Deal ends: 27th November
+
+Cryeye Continuous Cloud Security Auditing Tool \
+https://cryeye.net  
+30% off cryeye service with code: BFriday \
+Deal ends: 31st December
 
 Tenable Nessus Pro \
 https://www.tenable.com/buy  
