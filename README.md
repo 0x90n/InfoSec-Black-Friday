@@ -349,8 +349,8 @@ Deal (allegedly) ends: 23rd November
 
 Mastering Windows Internals (6*90 minutes by Grzegorz Tworek) \
 https://gtworek.com/mastering-windows-internals  
-40% off on course and course+community access.
-Deal ends: 27rd November
+40% off on course and course+community access \
+Deal ends: 27th November
 
 ## Practical Labs:
 
