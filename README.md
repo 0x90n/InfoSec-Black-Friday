@@ -59,7 +59,7 @@ Deal ends: December
 
 CQR company \
 https://cqr.company 
-- 20-40% off OSINT, Penetration testing, Smart contract audit and other 50+ services with code: BFriday. \
+- 20-40% off OSINT, Penetration testing, Smart contract audit and other 50+ services with code: BFriday \
 Deal ends: 31st December
 
 UnderDefense Cybersecurity \
@@ -135,9 +135,9 @@ https://burpbounty.net
 $21 off from $86 to $64 \
 Deal ends: 27th November
 
-Cryeye \
+Cryeye Continuous Cloud Security Auditing Tool \
 https://cryeye.net  
-30% off cryeye service with code: BFriday. \
+30% off cryeye service with code: BFriday \
 Deal ends: 31st December
 
 Tenable Nessus Pro \
