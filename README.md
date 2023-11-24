@@ -385,6 +385,11 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
+Evilgnx Mastery Course \
+https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY40SALE  
+40% off with code: BLACKFRIDAY40SALE \
+Deal ends: 24 hrs only (Page will display whether the deal is active or not)
+
 Zero2Automated Malware Reverse Engineering Course \
 https://courses.zero2auto.com/
 25% discount using code: BLACKFRIDAY \
