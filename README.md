@@ -405,6 +405,12 @@ Null-Char - Malware Analysis Course \
 https://courses.null-char.com/courses/the-art-of-malware-analysis  
 $50 off with code: November_Holidays_23
 
+NetworkDefense.io
+https://www.networkdefense.io/p/course-list/
+All Courses 25% Off
+Use Code: BLESSYOURHEART
+Deal ends: Nov 28th
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
