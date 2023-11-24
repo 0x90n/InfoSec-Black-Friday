@@ -395,7 +395,7 @@ https://checkout.ine.com/black-friday-2023 \
 
 ISC2 (International Information System Security Certification Consortium) \
 https://www.isc2.org/landing/exam-peace-of-mind  
-50% discount on Exam Peace of Mind (retake/2nd attempt) 
+50% discount on Exam Peace of Mind (retake/2nd attempt) \
 Following exams only: CISSP, CCSP, SSCP, CSSLP, CGRC, ISSAP, ISSEP and ISSMP \
 Your first exam attempt must be administered on or before December 31, 2023 \
 Deal ends: 30th November
