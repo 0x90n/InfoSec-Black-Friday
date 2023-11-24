@@ -401,11 +401,6 @@ https://gtworek.com/mastering-windows-internals
 40% off on course and course+community access \
 Deal ends: 27th November
 
-Haiku, Inc
-https://product.haikuinc.io/haiku-bundle-black-friday-cyber-monday-sale
-50% on Haiku and Haiku Pro Cybersecurity Product Bundle
-Deal Ends: 11:59 PM PST on 27th Nov
-
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
@@ -563,6 +558,11 @@ https://secdim.com
 (1) 25% off annual Professional plan \
 (2) 35% off annual Professional plan when you reply here: https://discuss.secdim.com/t/35-off-annual-professional-plan/1568  
 Deal Ends: 1st December
+
+Haiku Gamified Cybersecurity Learning \
+https://product.haikuinc.io/haiku-bundle-black-friday-cyber-monday-sale  
+50% on Haiku and Haiku Pro Cybersecurity Product Bundle \
+Deal Ends: 27th November
 
 ## Services:
 
