@@ -347,6 +347,11 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
+Evilgnx Mastery Course 
+https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY40SALE
+Coupon: BLACKFRIDAY40SALE
+Deal ends:  24 hrs only. Page will display whether the deal is active or not.
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
