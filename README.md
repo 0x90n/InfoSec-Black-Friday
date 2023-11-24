@@ -375,6 +375,11 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
+Zero2Automated Malware Reverse Engineering Course \
+https://courses.zero2auto.com/
+25% discount using code: BLACKFRIDAY \
+Deal Ends: Midnight, November 27th!
+
 Antisyphon Training \
 https://subscriptions.antisyphontraining.com/catalog_signup  
 $1500 for access to all On-Demand courses (28 courses at time of deal) for 1 year \
