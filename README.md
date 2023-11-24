@@ -627,6 +627,12 @@ Malwarebytes \
 https://www.malwarebytes.com/pricing  
 Deals ends: 26 November
 
+Pentester \
+10% off Personal / Business plans \
+https://pentester.com  
+Deal ends: December 1st
+Promo Code: HACKTHEPLANET
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
