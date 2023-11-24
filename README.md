@@ -169,6 +169,11 @@ https://app.docguard.io/pricing
 50% off with code: BLCKFRDY \
 Deal ends: 8th December
 
+HTTP Toolkit - HTTP interception, debugging & reverse engineering tool \
+https://httptoolkit.com/  
+50% off annual accounts with code: BLACKFRIDAY \
+Deal ends: 27th November
+
 delivr.to - Purple team testing for Email Gateways \
 https://delivr.to  
 31% off monthly or annual subscription with code: BLACKFRIDAY \
