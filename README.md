@@ -450,6 +450,13 @@ https://cybr.com/pricing/
 4 months free ($19 off) yearly subscription, applied on page \
 Deal ends: 27 November
 
+Various Udemy security courses \
+Pentest+: https://www.udemy.com/course/pentestplus  
+Security+: https://www.udemy.com/course/securityplus  
+Network+: https://www.udemy.com/course/comptia-network-n10-008  
+Up to 85% off \
+Deal ends: 24th November
+
 Enciphers Application Security Courses \
 https://training.enciphers.com/p/all-courses  
 40% off all courses with code: WINTERFELL40
