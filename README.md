@@ -58,11 +58,11 @@ Deal ends: December
 ## Professional Services
 
 UnderDefense Cybersecurity \
-https://underdefense.com/cyber-monday-offer/  
-- 20-40% off App/Network/Infra Pentests
-- 20-40% off 24×7 Managed Threat Detection and Response
-- 20-40% off for Incident Response Retainer \
-Deal ends: 23rd December
+https://underdefense.com/black-friday-2023/?utm_source=github.com
+- 25% off App/Network/Infra Pentests
+- 25% off 24×7 Managed Threat Detection and Response
+- 25% off Managed SIEM (SIEM-as-a-Service) \
+Deal ends: 5th December
 
 Immunity Systems \
 https://www.immunity-systems.com/1337blackfriday2023.html  
@@ -87,6 +87,13 @@ Sekurno - Penetration testing \
 https://www.sekurno.com/#black-friday  
 - 20% Off on All Penetration Testing Services \
 Deal ends: December
+
+ScanTitan Cybersecurity and Attack Surface Monitoring \
+https://scantitan.com/scantitan-2023-cybersecurity-black-friday-offers/  
+- Lifetime professional plan for one website
+- Lifetime business plan for one website
+- 50% off annual consultant plan, unlimited websites \
+Deal ends: 27th November
 
 ## Tools
 Exploit Pack - Advanced exploitation framework with 0days and 39.000+ exploits \
@@ -135,6 +142,12 @@ https://www.tenable.com/buy
 50% off Nessus PRO with code: takehalf \
 Deal valid: 23rd-27th November
 
+FullHunt Attack Surface Management Platform - Enterprise Edition \
+https://fullhunt.io/  
+50% off FullHunt Attack Surface Management Platform - Enterprise Edition \
+Also free 4x life-time search credits on the community platform for everyone who tweets about [@FullHunt](https://twitter.com/fullhunt) (Make sure to mention [@FullHunt](https://twitter.com/fullhunt)). \
+Deal ends: 1st December
+
 ZoomEye - Cyber OSINT Search Engine \
 https://zoomeye.org/business  
 50% off for one-year advanced member level \
@@ -160,6 +173,11 @@ HTTP Toolkit - HTTP interception, debugging & reverse engineering tool \
 https://httptoolkit.com/  
 50% off annual accounts with code: BLACKFRIDAY \
 Deal ends: 27th November
+
+delivr.to - Purple team testing for Email Gateways \
+https://delivr.to  
+31% off monthly or annual subscription with code: BLACKFRIDAY \
+Deal ends: Nov 25th
 
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
@@ -352,6 +370,11 @@ https://academy.expliot.io/courses
 45% off on courses using Code: BF45 \
 Deal (allegedly) ends: 23rd November
 
+Mastering Windows Internals (6*90 minutes by Grzegorz Tworek) \
+https://gtworek.com/mastering-windows-internals  
+40% off on course and course+community access \
+Deal ends: 27th November
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
@@ -397,6 +420,13 @@ Deal ends: 31st January
 eLearn Security Certifications \
 https://checkout.ine.com/black-friday-2023 \
 50% discount on many certifications like eWPTx 
+
+ISC2 (International Information System Security Certification Consortium) \
+https://www.isc2.org/landing/exam-peace-of-mind  
+50% discount on Exam Peace of Mind (retake/2nd attempt) \
+Following exams only: CISSP, CCSP, SSCP, CSSLP, CGRC, ISSAP, ISSEP and ISSMP \
+Your first exam attempt must be administered on or before December 31, 2023 \
+Deal ends: 30th November
 
 ## Hardware:
 
@@ -463,6 +493,10 @@ No Starch Press Hacking and Security books :see_no_evil: \
 https://nostarch.com/  
 35% off + free shipping on U.S. orders over $75 with code: DEALS4DAYS \
 Deal Ends: 27th November
+
+Visual Threat Intelligence: An Illustrated Guide For Threat Researchers \
+https://store.securitybreak.io/threatintel  
+35% off on the eBook with code: BLACKFRIDAYVTI
 
 ## Games:
 
