@@ -199,6 +199,11 @@ https://delivr.to
 31% off monthly or annual subscription with code: BLACKFRIDAY \
 Deal ends: Nov 25th
 
+Pentester \
+https://pentester.com  
+10% off Personal / Business plans with code: HACKTHEPLANET \
+Deal ends: 1st December 1st
+
 ## Live Courses & Conferences (NEW CATEGORY 2023!)
 
 Ringzer0 BOOTSTRAP24 Training and Conference \
