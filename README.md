@@ -453,6 +453,11 @@ https://courses.kasescenarios.com/bundles/blackfriday-bundle
 $65 for 3 OSINT scenarios \
 Deal goes live on 24 November
 
+Kaspersky XTraining \
+https://xtraining.kaspersky.com/
+20% off many popular online courses \
+Deal valid: 20th-27th November \
+
 ## Mini Courses:
 
 NahamSec - Intro to Bug Bounty Hunting and Web Application Hacking \
