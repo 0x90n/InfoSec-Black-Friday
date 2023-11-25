@@ -456,7 +456,7 @@ Deal goes live on 24 November
 Kaspersky XTraining \
 https://xtraining.kaspersky.com/  
 20% off many popular online courses \
-Deal valid: 20th-27th November \
+Deal valid: 20th-27th November
 
 ## Mini Courses:
 
