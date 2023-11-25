@@ -58,8 +58,9 @@ Deal ends: December
 ## Professional Services
 
 FORTBRIDGE \
-https://fortbridge.co.uk/
-- 20% discoung on all Penetration testing, offer valid until 15/12/2023
+https://fortbridge.co.uk/  
+- 20% discoung on all Penetration testing services \
+Deal ends: 15th December
 
 CQR company \
 https://cqr.company 
