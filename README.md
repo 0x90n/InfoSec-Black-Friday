@@ -509,10 +509,10 @@ https://covertinstruments.com/collections/black-friday-sale
 Multiple On-Sale Kits discounts applied automatically \
 Deal Ends: 3rd December 
 
-Firewalla Black Friday Sale \
-https://firewalla.com/ \
+Firewalla Black Friday Sale :see_no_evil: \
+https://firewalla.com/  
 Buy GOLD PLUS/SE and WI-FI SD get $25 OFF \
-$20 discount code for Firewalla Rack Mount - BFCM23-RACKMOUNT20 \
+$20 discount code for Firewalla Rack Mount with code: BFCM23-RACKMOUNT20 \
 Deal Ends: 28th November
 
 Hak5 Black Friday Sale :see_no_evil: \
