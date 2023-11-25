@@ -454,7 +454,7 @@ $65 for 3 OSINT scenarios \
 Deal goes live on 24 November
 
 Kaspersky XTraining \
-https://xtraining.kaspersky.com/
+https://xtraining.kaspersky.com/  
 20% off many popular online courses \
 Deal valid: 20th-27th November \
 
