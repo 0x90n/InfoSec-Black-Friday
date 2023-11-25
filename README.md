@@ -133,8 +133,8 @@ https://proxyman.io/
 Deal ends: 25th November
 
 010 Editor - SweetScape Software \
-https://www.sweetscape.com/store/
-15% off from New User License and Upgrade/Maintenance
+https://www.sweetscape.com/store/  
+15% off from New User License and Upgrade/Maintenance \
 Deal ends: 27th November
 
 Pulsedive Threat Intelligence  :see_no_evil: \
