@@ -426,9 +426,9 @@ https://www.networkdefense.io/p/course-list/
 Deal ends: 28th November
 
 Red Team Field Manual \
-https://www.thertfm.com/store/
-20% off RTFM Video Library
-25% off RTFM Video Library + SWAG
+https://www.thertfm.com/store/ \
+20% off RTFM Video Library \
+25% off RTFM Video Library + SWAG \
 25% off RTFM Video Library + SWAG + FREE BONUS ITEMS!
 
 ## Practical Labs:
