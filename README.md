@@ -425,6 +425,12 @@ https://www.networkdefense.io/p/course-list/
 25% off all courses with code: BLESSYOURHEART \
 Deal ends: 28th November
 
+Red Team Field Manual \
+https://www.thertfm.com/store/
+20% off RTFM Video Library
+25% off RTFM Video Library + SWAG
+25% off RTFM Video Library + SWAG + FREE BONUS ITEMS!
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
