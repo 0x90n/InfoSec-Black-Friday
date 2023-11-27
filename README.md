@@ -230,6 +230,13 @@ https://academy.invictus-ir.com
 20% off with code: BLACKFRIDAY \
 Deal ends: 30th November
 
+Converge Security Conference 2024 \
+https://convergesec.com  
+https://cvent.me/0Oeqlx  
+$50 discount on conference tickets: BF2023
+Deal ends: 15 December 2023
+
+
 ## Online Courses & Training
 
 Security Blue Team (SBT) :see_no_evil: \
