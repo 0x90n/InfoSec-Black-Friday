@@ -453,6 +453,12 @@ https://courses.kasescenarios.com/bundles/blackfriday-bundle
 $65 for 3 OSINT scenarios \
 Deal goes live on 24 November
 
+CloudBreach Labs \
+https://cloudbreach.io/blackfriday \
+- Breaching AWS (20% OFF) \
+- Breaching Azure (20% OFF) \
+Deal ends: 10th of December 2023 \
+
 ## Mini Courses:
 
 NahamSec - Intro to Bug Bounty Hunting and Web Application Hacking \
