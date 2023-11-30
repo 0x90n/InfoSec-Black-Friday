@@ -425,6 +425,14 @@ https://www.networkdefense.io/p/course-list/
 25% off all courses with code: BLESSYOURHEART \
 Deal ends: 28th November
 
+Black Hat Ethical Hacking \
+https://www.blackhatethicalhacking.com/courses  
+UP TO 70% OFF - No code required \
+Courses Available: \
+Offensive Security and Ethical Hacking Course \
+The Bug Bounty Hunting Course \
+Deal ends: 06th December
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
