@@ -300,7 +300,7 @@ Deal valid: 15 November - 5 December
 Practical DevSecOps - Hands on DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses \
-Deal ends: 30th November
+Deal ends: 31th December
 
 TCM Security Certification & Courses :see_no_evil: \
 https://tcm-sec.com/  
