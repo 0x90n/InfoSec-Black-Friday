@@ -117,6 +117,15 @@ LIFETIME License - Upgrade from $980 USD 1-year license to Lifetime \
 Deal availability: 10 licenses only \
 Deal ends: 26th November
 
+Crawlbase Smart Proxy \
+https://crawlbase.com/smart-proxy 
+Validity: Nov 20 until Dec 20, 2023\
+Coupon Code: FRIDAYSP20
+Discount: 20% for a "lifetime" on Smart Proxy 
+
+
+
+
 Pākiki Proxy \
 https://pakikiproxy.com/  
 25% off the yearly subscriptions for life with code: BLACKFRIDAY23 \
