@@ -51,36 +51,36 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Online Courses & Training
 
-CloudBreach - Offensive Azure & AWS Security Trainings and Certifications \
-https://cloudbreach.io/  
-Deal unlocks: 25 November 2024
-
-LetsDefend - Blue Team Training \
+**LetsDefend** - Blue Team Training \
 https://letsdefend.io/  
 https://app.letsdefend.io/enterprise-basic  
 55% off on annual plans with code: BLCKFRDY55 \
 Deal ends: 2nd December
 
-Invictus - Cloud Incident Response Training \
+**CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications \
+https://cloudbreach.io/  
+Deal unlocks: 25 November 2024
+
+**Invictus** - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
 20% off all on-demand courses with code: BLACKFRIDAY24 \
 Deal ends: 2nd December
 
-Altered Security - Online Security Training Labs \
+**Altered Security** - Online Security Training Labs \
 https://www.alteredsecurity.com/  
 20% off all courses and bootcamps in Q1 & Q2 2025 \
 25% off when you purchase more than one course \
 No coupon code required \
 Deal ends: 2nd December
 
-Practical DevSecOps - AI Security, DevSecOps and Product Security Courses \
+**Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses \
 Deal ends: 6th December
 
 ## Practical Labs
 
-PentesterLab - Practical pentesting & hacking Labs \
+**PentesterLab** - Practical pentesting & hacking Labs \
 https://pentesterlab.com/pro  
 27% off one year subscription, applied automatically \
 (1) US$146 instead of US$199 \
@@ -99,7 +99,7 @@ Deal starts: 28th November
 
 ## Games:
 
-Agile Stationery - Threat Modeling Card Games, Sets and Books \
+**Agile Stationery** - Threat Modeling Card Games, Sets and Books \
 OWASP Cornucopia, Cumulus, Elevation of MLSec, PLOT4AI, LINDDUN Go, and the classic Elevation of Privilege! \
 [https://agilestationery.com/collections/threat-modeling](https://agilestationery.com/discount/CYBER304324?redirect=%2Fcollections%2Fthreat-modeling)  
 30% off 3 items or more with code: CYBER304324 \
@@ -111,7 +111,7 @@ Deal valid: 1st November - 15th December (1 use per customer)
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
-Bold the company/page title with (**)double stars on either end(**)
+Bold the company/page title with /** double stars on either end /**
 At the end of a line, place a backslash for newline (\\)
 After a link, please use a double-space (  )
 
