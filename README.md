@@ -63,7 +63,7 @@ Deal ends: 2nd December
 
 Invictus - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
-20% off all on-demand courses with code: BLACKFRIDAY24 
+20% off all on-demand courses with code: BLACKFRIDAY24 \
 Deal ends: 2nd December
 
 Altered Security - Online Security Training Labs \
@@ -73,7 +73,7 @@ https://www.alteredsecurity.com/
 No coupon code required \
 Deal ends: 2nd December
 
-Practical DevSecOps - Hands-on AI Security, DevSecOps and Product Security Courses \
+Practical DevSecOps - AI Security, DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses \
 Deal ends: 6th December
@@ -111,7 +111,8 @@ Deal valid: 1st November - 15th December (1 use per customer)
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
-At the end of a normal sentence, place a backslash for newline (\\)
+Bold the company/page title with (**)double stars on either end(**)
+At the end of a line, place a backslash for newline (\\)
 After a link, please use a double-space (  )
 
 ## Credits
