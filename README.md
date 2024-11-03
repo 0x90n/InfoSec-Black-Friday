@@ -51,15 +51,22 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Online Courses & Training
 
+International Society of Automation - Industrial Cybersecurity \
+https://programs.isa.org/blackfridayweek24  
+30% off with code: BFCM24
+Deal valid: 25 Nov - 2 Dec
+
 **LetsDefend** - Blue Team Training \
 https://letsdefend.io/  
 https://app.letsdefend.io/enterprise-basic  
+https://letsdefend.io/cybersecurity-newsletter
 55% off on annual plans with code: BLCKFRDY55 \
+98% off Cyber Newsletter with code: BLCKFRDY-NEWS \
 Deal ends: 2nd December
 
 **CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications \
 https://cloudbreach.io/  
-Deal unlocks: 25 November 2024
+Deal unlocks: 25th November 
 
 **Invictus** - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
@@ -111,8 +118,8 @@ Deal valid: 1st November - 15th December (1 use per customer)
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
-Bold the company/page title with /** double stars on either end /**
-At the end of a line, place a backslash for newline (\\)
+Bold the company/page title with /** double stars on either end /** \
+At the end of a line, place a backslash for newline (\\) \
 After a link, please use a double-space (  )
 
 ## Credits
