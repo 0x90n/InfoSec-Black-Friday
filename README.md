@@ -51,15 +51,15 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Online Courses & Training
 
-International Society of Automation - Industrial Cybersecurity \
+**International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
-30% off with code: BFCM24
+30% off with code: BFCM24 \
 Deal valid: 25 Nov - 2 Dec
 
 **LetsDefend** - Blue Team Training \
 https://letsdefend.io/  
 https://app.letsdefend.io/enterprise-basic  
-https://letsdefend.io/cybersecurity-newsletter
+https://letsdefend.io/cybersecurity-newsletter  
 55% off on annual plans with code: BLCKFRDY55 \
 98% off Cyber Newsletter with code: BLCKFRDY-NEWS \
 Deal ends: 2nd December
