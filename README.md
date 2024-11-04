@@ -85,6 +85,13 @@ https://www.practical-devsecops.com/black-friday/
 15% off all courses \
 Deal ends: 6th December
 
+**TCM Academy** - Blue & Red Cyber Security Training and Certifications \
+Certifications: https://certifications.tcm-sec.com/  
+Academy: https://academy.tcm-sec.com/  
+20% off of all certifications and live training (NO COUPON REQUIRED) \
+50% off of any All Access Membership (use code: GOBBLE24 at checkout) \
+Deal ends: 2nd December
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
