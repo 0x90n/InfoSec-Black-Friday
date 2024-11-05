@@ -120,6 +120,10 @@ OWASP Cornucopia, Cumulus, Elevation of MLSec, PLOT4AI, LINDDUN Go, and the clas
 Deal valid: 1st November - 15th December (1 use per customer)
 
 ## Services:
+**ProtonMail Black Friday Deals**
+Mask your data. Save big.
+Save up to 60% on encrypted email with ProtonMail's Black Friday special promotion.
+[Check out the deal here!](https://proton.me/mail/black-friday)
 
 
 -----------------------------------------------------------------------------------------
