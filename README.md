@@ -121,7 +121,7 @@ Deal valid: 1st November - 15th December (1 use per customer)
 
 ## Services:
 
-**Proton Mail/VPN/Pass/Drive** - Encrypted Services
+**Proton Mail/VPN/Pass/Drive** - Encrypted Services \
 https://proton.me/mail/black-friday  
 60% off Mail \
 70% off VPN \
