@@ -111,6 +111,11 @@ Deal starts: 28th November
 
 ## Books:
 
+**The CloudSec Engineer** - A practical guide on how to enter, establish yourself, and thrive in the Cloud Security industry as an individual contributor. \
+https://engineer.cloudsecbooks.com/
+30% off with code: `CYBERNOVEMBER24` \
+Deal valid: 1st November - 15th December
+
 ## Games:
 
 **Agile Stationery** - Threat Modeling Card Games, Sets and Books \
