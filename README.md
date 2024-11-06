@@ -53,15 +53,15 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
-30% off with code: BFCM24 \
+30% off with code: `BFCM24` \
 Deal valid: 25 Nov - 2 Dec
 
 **LetsDefend** - Blue Team Training \
 https://letsdefend.io/  
 https://app.letsdefend.io/enterprise-basic  
 https://letsdefend.io/cybersecurity-newsletter  
-55% off on annual plans with code: BLCKFRDY55 \
-98% off Cyber Newsletter with code: BLCKFRDY-NEWS \
+55% off on annual plans with code: `BLCKFRDY55` \
+98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
 Deal ends: 2nd December
 
 **CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications \
@@ -70,7 +70,7 @@ Deal unlocks: 25th November
 
 **Invictus** - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
-20% off all on-demand courses with code: BLACKFRIDAY24 \
+20% off all on-demand courses with code: `BLACKFRIDAY24` \
 Deal ends: 2nd December
 
 **Altered Security** - Online Security Training Labs \
@@ -89,7 +89,7 @@ Deal ends: 6th December
 Certifications: https://certifications.tcm-sec.com/  
 Academy: https://academy.tcm-sec.com/  
 20% off of all certifications and live training (NO COUPON REQUIRED) \
-50% off of any All Access Membership (use code: GOBBLE24 at checkout) \
+50% off of any All Access Membership (use code: `GOBBLE24` at checkout) \
 Deal ends: 2nd December
 
 ## Practical Labs
@@ -121,7 +121,7 @@ Deal valid: 1st November - 15th December
 **Agile Stationery** - Threat Modeling Card Games, Sets and Books \
 OWASP Cornucopia, Cumulus, Elevation of MLSec, PLOT4AI, LINDDUN Go, and the classic Elevation of Privilege! \
 [https://agilestationery.com/collections/threat-modeling](https://agilestationery.com/discount/CYBER304324?redirect=%2Fcollections%2Fthreat-modeling)  
-30% off 3 items or more with code: CYBER304324 \
+30% off 3 items or more with code: `CYBER304324` \
 Deal valid: 1st November - 15th December (1 use per customer)
 
 ## Services:
@@ -138,6 +138,7 @@ Deal valid: 4th November - 3rd December
 
 ## How to edit formatting
 Bold the company/page title with /** double stars on either end /** \
+Backticks `` around coupon codes e.g. `code` \
 At the end of a line, place a backslash for newline (\\) \
 After a link, please use a double-space (  )
 
