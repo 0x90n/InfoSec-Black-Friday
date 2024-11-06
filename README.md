@@ -89,7 +89,7 @@ Deal ends: 6th December
 Certifications: https://certifications.tcm-sec.com/  
 Academy: https://academy.tcm-sec.com/  
 20% off of all certifications and live training (NO COUPON REQUIRED) \
-50% off of any All Access Membership (use code: `GOBBLE24` at checkout) \
+50% off of any All Access Membership with code: `GOBBLE24` \
 Deal ends: 2nd December
 
 ## Practical Labs
