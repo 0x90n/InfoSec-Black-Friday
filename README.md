@@ -105,6 +105,12 @@ Deal starts: 28th November
 
 ## Exams:
 
+**The SecOps Group** - P𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴 E𝘅𝗮𝗺𝘀! \
+https://secops.group/pentesting-exams/#infosecexams \
+90% off on all pentesting exams. Use code: `BLACKFRIDAY-90` \
+No expirity on exam vouchers! \
+Deal unlocks: 6th November
+
 ## Hardware:
 
 ## Wearables:
