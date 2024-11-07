@@ -120,14 +120,14 @@ Deal unlocks: 6th November
 
 **KSEC Labs** - Hacker Hardware, Red Team Tools & Security Research Devices \
 https://labs.ksec.co.uk/black-friday-sale/  
-15% off storewide, free shipping available and gift included in every order with code: `BLACKFRIDAY2024` \
+15% off storewide, free shipping + free gift for every order with code: `BLACKFRIDAY2024` \
 Deal valid: 25th - 30th November
 
 ## Wearables:
 
 ## Books:
 
-**The CloudSec Engineer** - A practical guide on how to enter, establish yourself, and thrive in the Cloud Security industry as an individual contributor. \
+**The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry. \
 https://engineer.cloudsecbooks.com/  
 30% off with code: `CYBERNOVEMBER24` \
 Deal valid: 1st November - 15th December
@@ -135,7 +135,7 @@ Deal valid: 1st November - 15th December
 ## Games:
 
 **Agile Stationery** - Threat Modeling Card Games, Sets and Books \
-OWASP Cornucopia, Cumulus, Elevation of MLSec, PLOT4AI, LINDDUN Go, and the classic Elevation of Privilege! \
+OWASP Cornucopia, Cumulus, Elevation of MLSec, PLOT4AI, LINDDUN Go, and Elevation of Privilege! \
 [https://agilestationery.com/collections/threat-modeling](https://agilestationery.com/discount/CYBER304324?redirect=%2Fcollections%2Fthreat-modeling)  
 30% off 3 items or more with code: `CYBER304324` \
 Deal valid: 1st November - 15th December (1 use per customer)
