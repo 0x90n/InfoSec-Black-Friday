@@ -92,6 +92,11 @@ Academy: https://academy.tcm-sec.com/
 50% off of any All Access Membership with code: `GOBBLE24` \
 Deal ends: 2nd December
 
+**Total Training by KSEC** - Your Trusted Partner In Security Education \
+https://training.ksec.co.uk/  
+10% off all training courses with code: `BF2024` \
+Deal valid: 25th - 30th November
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
@@ -105,13 +110,18 @@ Deal starts: 28th November
 
 ## Exams:
 
-**The SecOps Group** - P𝗲𝗻𝘁𝗲𝘀𝘁𝗶𝗻𝗴 E𝘅𝗮𝗺𝘀! \
+**The SecOps Group** - Pentesting Exams \
 https://secops.group/pentesting-exams/#infosecexams  
 90% off on all pentesting exams. Use code: `BLACKFRIDAY-90` \
 No expirity on exam vouchers! \
 Deal unlocks: 6th November
 
 ## Hardware:
+
+**KSEC Labs** - Hacker Hardware, Red Team Tools & Security Research Devices \
+https://labs.ksec.co.uk/black-friday-sale/  
+15% off storewide, free shipping available and gift included in every order with code: `BLACKFRIDAY2024` \
+Deal valid: 25th - 30th November
 
 ## Wearables:
 
