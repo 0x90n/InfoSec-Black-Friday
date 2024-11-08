@@ -49,6 +49,11 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## Tools
 
+**GasbyAI** - AI chat and appsuite with popular provider
+https://gasbyai.com
+30% off using code `BlackFriday2024`
+Deals end: 2nd Dec
+
 ## Online Courses & Training
 
 **International Society of Automation** - Industrial Cybersecurity \
