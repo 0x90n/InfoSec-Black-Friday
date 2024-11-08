@@ -48,6 +48,10 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 ## Professional Services
 
 ## Tools
+**PortDroid** - A swiss army knife of network security tools for Android \
+https://portdroid.net/black-friday-2024/  
+~50% off lifetime version with code: `CYBER_2024` \
+Deal ends: 4th December
 
 ## Online Courses & Training
 
