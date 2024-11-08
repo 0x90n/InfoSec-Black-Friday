@@ -56,7 +56,7 @@ https://programs.isa.org/blackfridayweek24
 30% off with code: `BFCM24` \
 Deal valid: 25 Nov - 2 Dec
 
-**LetsDefend** - Blue Team Training \
+**LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/enterprise-basic  
 https://letsdefend.io/cybersecurity-newsletter  
@@ -64,9 +64,10 @@ https://letsdefend.io/cybersecurity-newsletter
 98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
 Deal ends: 2nd December
 
-**CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications \
-https://cloudbreach.io/  
-Deal unlocks: 25th November 
+**CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications :see_no_evil: \
+https://cloudbreach.io/blackfriday/  
+20% off with code: `BlackFriday24` \
+Deal valid: 22 November - 6 December
 
 **Invictus** - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
@@ -118,7 +119,7 @@ Deal unlocks: 6th November
 
 ## Hardware:
 
-**KSEC Labs** - Hacker Hardware, Red Team Tools & Security Research Devices \
+**KSEC Labs** - Hacker Hardware, Red Team Tools & Security Research Devices :see_no_evil: \
 https://labs.ksec.co.uk/black-friday-sale/  
 15% off storewide, free shipping + free gift for every order with code: `BLACKFRIDAY2024` \
 Deal valid: 25th - 30th November
