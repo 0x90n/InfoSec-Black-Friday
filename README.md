@@ -102,6 +102,12 @@ https://training.ksec.co.uk/
 10% off all training courses with code: `BF2024` \
 Deal valid: 25th - 30th November
 
+**CyberPro** - Cybersecurity Training - Mobile App \
+iOS: [App link](https://apps.apple.com/app/apple-store/id6499339401?pt=127014487&ct=Github&mt=8) \
+Android: [App link](https://play.google.com/store/apps/details?id=com.cyberlearn.cyber_pro&hl=en_US) \
+50% off on all plans \
+Deal ends: 10th December
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
