@@ -98,6 +98,13 @@ https://training.ksec.co.uk/
 10% off all training courses with code: `BF2024` \
 Deal valid: 25th - 30th November
 
+**OffSec** - Blue & Red Cyber Security Training and Certifications \
+Website: https://www.offsec.com/ \
+Courses: https://www.offsec.com/courses-and-certifications/\
+20% off of all certifications and live training (Choose PEN-100 or Learn One) \
+Deal valid: 1st November - 30th December
+
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
