@@ -58,7 +58,7 @@ Deal ends: 4th December
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
-Deal valid: 25 Nov - 2 Dec
+Deal valid: 25th November - 2nd December
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
@@ -71,7 +71,7 @@ Deal ends: 2nd December
 **CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications :see_no_evil: \
 https://cloudbreach.io/blackfriday/  
 20% off with code: `BlackFriday24` \
-Deal valid: 22 November - 6 December
+Deal valid: 22nd November - 6th December
 
 **Invictus** - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
@@ -81,7 +81,7 @@ Deal ends: 2nd December
 **Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
 https://academy.bluraven.io  
 35% off with code: `BFCM24` \
-Deal valid: 15 November - 7 December
+Deal valid: 15th November - 7th December
 
 **Altered Security** - Online Security Training Labs \
 https://www.alteredsecurity.com/  
