@@ -78,6 +78,11 @@ https://academy.invictus-ir.com
 20% off all on-demand courses with code: `BLACKFRIDAY24` \
 Deal ends: 2nd December
 
+**Blu Raven Academy** - Hands-On KQL Training for Threat Hunting, Detection Engineering, and Security Analysis \
+https://academy.bluraven.io  
+35% off with code: `BFCM24` \
+Deal valid: 15 November - 7 December
+
 **Altered Security** - Online Security Training Labs \
 https://www.alteredsecurity.com/  
 20% off all courses and bootcamps in Q1 & Q2 2025 \
