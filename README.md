@@ -49,9 +49,9 @@ https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/2024-cyber-friday-2
 Deal ends: 1st December
 
 **CyberSec Careers** - The CyberSec People Career [Community](https://cybersec.careers/) \
-https://www.cyberseccareers.community/checkout/personal-branding
+https://www.cyberseccareers.community/checkout/personal-branding  
 30% off the Career Potential Program with code: `BFPB1` \
-https://www.cyberseccareers.community/checkout/optimus
+https://www.cyberseccareers.community/checkout/optimus  
 30% off the Job Transition Program with code: `BFCOACHING` \
 Deal ends: 1st December
 
