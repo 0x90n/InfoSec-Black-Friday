@@ -43,7 +43,7 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## InfoSec Career Development
 
-CareerSec: Securing Your Advancement in the Cyber Workforce \
+**CareerSec**: Securing Your Advancement in the Cyber Workforce \
 https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/2024-cyber-friday-25 \
 25% at checkout with code: `2024-cyber-friday-25` \
 Deal ends: 1st December
