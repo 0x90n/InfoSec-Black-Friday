@@ -43,10 +43,16 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 ## InfoSec Career Development
 
-**CareerSec**: Securing Your Advancement in the Cyber Workforce \
-https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/2024-cyber-friday-25 \
+**CareerSec** - Securing Your Advancement in the Cyber Workforce \
+https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/2024-cyber-friday-25  
 25% at checkout with code: `2024-cyber-friday-25` \
 Deal ends: 1st December
+
+**CyberSec Careers** - The CyberSec People Career Community \
+https://www.cyberseccareers.community/checkout/unlock-your-career-potential-personal-branding-for-cybersecurity-leaders  
+30% off the Career Potential Program with code: `BFPB1`
+https://www.cyberseccareers.community/checkout/job-transition-program-cyberseccareers-optimus-package
+30% off the Job Transition Program with code: `BFCOACHING`
 
 ## Newsletters
 
@@ -151,7 +157,7 @@ Deal valid: 1st November - 15th December
 
 **Agile Stationery** - Threat Modeling Card Games, Sets and Books \
 OWASP Cornucopia, Cumulus, Elevation of MLSec, PLOT4AI, LINDDUN Go, and Elevation of Privilege! \
-[https://agilestationery.com/collections/threat-modeling](https://agilestationery.com/discount/CYBER304324?redirect=%2Fcollections%2Fthreat-modeling)  
+https://agilestationery.com/collections/threat-modeling
 30% off 3 items or more with code: `CYBER304324` \
 Deal valid: 1st November - 15th December (1 use per customer)
 
