@@ -186,7 +186,7 @@ https://proton.me/mail/black-friday
 60% off Mail \
 70% off VPN \
 60% off Drive \
-Pass deal coming soon \
+50% off Pass \
 Deal valid: 4th November - 3rd December
 
 -----------------------------------------------------------------------------------------
