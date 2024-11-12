@@ -123,6 +123,11 @@ https://training.ksec.co.uk/
 10% off all training courses with code: `BF2024` \
 Deal valid: 25th - 30th November
 
+**HackTricks Training** \
+https://training.hacktricks.xyz/
+-20% on all courses & -30% on course bundles (The discounts are applied automatically in the web) \
+Deal valid: 13th - 30th November
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
