@@ -78,7 +78,7 @@ Deal valid: 25th November - 2nd December
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
-https://app.letsdefend.io/enterprise-basic  
+https://app.letsdefend.io/business-pricing
 https://letsdefend.io/cybersecurity-newsletter  
 55% off on annual plans with code: `BLCKFRDY55` \
 98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
