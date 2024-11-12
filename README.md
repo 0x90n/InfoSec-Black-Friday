@@ -35,6 +35,8 @@ Yes, please follow the below formatting guidelines, provide a source and code. H
 
 :rocket::rocket: means the vendor is a community supporter. They have committed financially to support the time and effort involved in providing you this list, with a portion being donated to the EFF! https://www.eff.org/
 
+:new: means first time ever joining the list!
+
 *Disclaimer: I have included my own, paid and other discount codes sent in directly by DM/Pigeon/Smoke signals.
 
 -----------------------------------------------------------------------------------------
@@ -50,11 +52,10 @@ Deal ends: 1st December
 
 **CyberSec Careers** - The CyberSec People Career [Community](https://cybersec.careers/) \
 https://www.cyberseccareers.community/checkout/personal-branding  
-30% off the Career Potential Program with code: `BFPB1` \
+30% off the Personal Branding for Current and Future Cybersecurity Leaders Program with code: `BFPB1` \
 https://www.cyberseccareers.community/checkout/optimus  
 30% off the Job Transition Program with code: `BFCOACHING` \
 Deal ends: 1st December
-
 
 ## Newsletters
 
@@ -129,7 +130,17 @@ https://pentesterlab.com/pro
 (2) US$25.99 instead of US$34.99 for students \
 Deal starts: 28th November
 
+**Constructing Defense** - Build Your Cybersecurity Purple Teaming Home Lab :new: \
+https://course.constructingdefense.com/constructing-defense  
+25% off, applied automatically \
+Deal ends: Unknown
+
 ## Mini Courses
+
+**LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
+https://www.lufsec.com/products/  
+50% off all courses + free eBook, applied automatically \
+Deal valid: 25th November - 2nd December
 
 ## Exams:
 
@@ -145,6 +156,11 @@ Deal unlocks: 6th November
 https://labs.ksec.co.uk/black-friday-sale/  
 15% off storewide, free shipping + free gift for every order with code: `BLACKFRIDAY2024` \
 Deal valid: 25th - 30th November
+
+**Hak5** - Pentester / Red Teamer Hardware Equipment and Tools \
+https://shop.hak5.org/collections/bfcm  
+Up to 50% off, stackable savings + free shipping with codes on page \
+Deal valid: 1st - 30th November
 
 ## Wearables:
 
