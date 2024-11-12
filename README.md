@@ -191,6 +191,17 @@ https://proton.me/mail/black-friday
 50% off Pass \
 Deal valid: 4th November - 3rd December
 
+**NordVPN** - VPN Service \
+https://nordvpn.com/pricing
+69% off
+
+OR
+
+https://nordvpn.com/pricing/social-deal/?coupon=besafewithnord
+Basic: 75% off with code: `besafewithnord` \
+Plus: 74% off with code: `besafewithnord` \
+Complete: 73% off with code: `besafewithnord` \
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
