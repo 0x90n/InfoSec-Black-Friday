@@ -199,6 +199,13 @@ https://www.expressvpn.com/order
 https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
 84% off VPN 2 Years Plan + 2 months free
 
+**IP VANISH VPN**\
+https://www.ipvanish.com/pricing/
+1yr - Essential $3.33/mo > $39.99 for the first year
+1yr - Advanced $4.49 /mo > $53.88 for the first year
+2yr - Essential $2.19/mo > $52.56 for the first 2 years
+2yr - Advanced $3.29/mo > $78.96 for the first 2 years
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
