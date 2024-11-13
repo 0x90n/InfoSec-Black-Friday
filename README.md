@@ -63,12 +63,13 @@ Deal ends: 1st December
 
 ## Professional Services
 
-**SecurityBoat** - Offensive Security Solutions
+**SecurityBoat** - SecurityBoat provides a comprehensive suite of cybersecurity solutions, specializing in both offensive and defensive strategies. Our offensive services include manual penetration testing, source code reviews, and red teaming activities to identify and mitigate potential vulnerabilities. Additionally, our defensive solutions are designed to safeguard your digital assets, fortify your security posture, and proactively defend against cyber threats.
+
+With SecurityBoat, you gain a trusted partner in building a robust security framework tailored to meet the unique challenges of today’s digital landscape.
+
 https://securityboat.net/
 
-SecurityBoat offers a range of offensive security solutions, including but not limited to manual penetration testing, source code reviews, and red teaming activities.
-
-**Black Friday Special**: Get 50% off on all our penetration testing services, including application, network, IT infrastructure, and cloud pentests.
+**Black Friday Special**: Get 50% off on all our cybersecurity services, including offensive and defensive security solutions.
 
 To claim the offer, email us your requirements with the subject line **BLACKFRIDAY2024** at sales@securityboat.net
 
