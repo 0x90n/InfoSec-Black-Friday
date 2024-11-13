@@ -191,6 +191,14 @@ https://proton.me/mail/black-friday
 50% off Pass \
 Deal valid: 4th November - 3rd December
 
+**Express VPN**\
+https://www.expressvpn.com/order
+61% off VPN 2 Years Plan + 6 months free\
+
+**CyberGhost VPN**\
+https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
+84% off VPN 2 Years Plan + 2 months free
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
