@@ -75,6 +75,22 @@ https://portdroid.net/black-friday-2024/
 ~50% off lifetime version with code: `CYBER_2024` \
 Deal ends: 4th December
 
+
+
+
+
+*[Subreddit tracker](https://subreddittraffic.live/)*
+
+Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.
+
+30% OFF lifetime plan with code **BLACKFRIDAY2024**
+
+Deal ends: 7th December
+
+
+
+
+
 ## Online Courses & Training
 
 **International Society of Automation** - Industrial Cybersecurity \
@@ -271,3 +287,6 @@ Other PRs and sources will be thanked here.
 infosec black friday, information security black friday, cybersec black friday, cyber security black friday, netsec black friday, hacking black friday
 infosec cyber monday, information security cyber monday, cybersec cyber monday, cyber security cyber monday, netsec cyber monday, hacking cyber monday
 infosec deals, coupons, discounts, sales, pentest, penetration test, red team, blue team, purple team, thanksgiving, blackfriday2024
+
+
+
