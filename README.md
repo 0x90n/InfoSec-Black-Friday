@@ -63,6 +63,11 @@ Deal ends: 1st December
 
 ## Professional Services
 
+**SecurityBoat** - Offensive & Defensive solutuions inc pentesting/source code reviews/red teaming :new: \
+https://securityboat.net/  
+50% off all services with code `BLACKFRIDAY2024` in email subject to `sales@securityboat.net` \
+Deal Ends: 20th December
+
 ## Tools
 **PortDroid** - A swiss army knife of network security tools for Android \
 https://portdroid.net/black-friday-2024/  
