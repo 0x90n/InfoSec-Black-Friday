@@ -203,6 +203,12 @@ https://agilestationery.com/collections/threat-modeling
 30% off 3 items or more with code: `CYBER304324` \
 Deal valid: 1st November - 15th December (1 use per customer)
 
+**SecDim** - In-Repository Secure Code Learning :new: \
+https://mailchi.mp/secdim.com/4l2a7uwcir
+The world's first in-repository attack and defence wargame to learn appsec, devsecops, secure code and secure code review. Find, hack and fix security vulnerabilities inspired by real-world incidents.  \
+35% off yearly, checkout using code: `APPSECWASHARD2024` \
+Deal valid: 29th November - 5th December
+
 ## Services:
 
 **Proton Mail/VPN/Pass/Drive** - Encrypted Services \
