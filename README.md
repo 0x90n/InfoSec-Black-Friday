@@ -77,6 +77,11 @@ Deal ends: 4th December
 
 ## Online Courses & Training
 
+**TheXero** - Premium Offensive Cybersecurity Training  \
+https://training.thexero.co.uk/p/wifi-specialist  
+$300 off with code: `blackfriday2024` \
+Offer valid until 2nd December
+
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
