@@ -113,10 +113,10 @@ No coupon code required \
 Deal ends: 2nd December
 
 **MobileHackingLab** - Android Userland Fuzzing & Exploitation Online Training Course \
-https://www.mobilehackinglab.com/afe
-30% off courses and all lab options with code: `AFE30`
-https://www.mobilehackinglab.com/course/android-userland-fuzzing-and-exploitation-90-days-lab-and-exam
-50% off (limited to 2 uses only) the 90 day access with code: `AFE50`
+https://www.mobilehackinglab.com/afe  
+30% off courses and all lab options with code: `AFE30` \
+https://www.mobilehackinglab.com/course/android-userland-fuzzing-and-exploitation-90-days-lab-and-exam  
+50% off (limited to 2 uses only) the 90 day access with code: `AFE50` \
 40% off (limited to 2 uses only) the 90 day access with code: `AFE40`
 
 **Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
@@ -137,7 +137,7 @@ https://training.ksec.co.uk/
 Deal valid: 25th - 30th November
 
 **HackTricks Training** \
-https://training.hacktricks.xyz/
+https://training.hacktricks.xyz  
 -20% on all courses & -30% on course bundles (The discounts are applied automatically in the web) \
 Deal valid: 13th - 30th November
 
@@ -249,7 +249,7 @@ https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
 84% off VPN 2 Years Plan + 2 months free
 
 **IP VANISH VPN** \
-https://www.ipvanish.com/pricing/
+https://www.ipvanish.com/pricing/  
 1yr - Essential $3.33/mo > $39.99 for the first year \
 1yr - Advanced $4.49 /mo > $53.88 for the first year \
 2yr - Essential $2.19/mo > $52.56 for the first 2 years \
