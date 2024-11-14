@@ -66,7 +66,7 @@ Deal ends: 1st December
 
 **SecurityBoat** - Offensive & Defensive solutuions inc pentesting/source code reviews/red teaming :new: \
 https://securityboat.net/  
-50% off all services with code `BLACKFRIDAY2024` in email subject to `sales@securityboat.net` \
+50% off all services with code `BLACKFRIDAY2024` in email subject to sales@securityboat.net \
 Deal Ends: 20th December
 
 ## Tools
@@ -76,11 +76,6 @@ https://portdroid.net/black-friday-2024/
 Deal ends: 4th December
 
 ## Online Courses & Training
-
-**TheXero** - Premium Offensive Cybersecurity Training  \
-https://training.thexero.co.uk/p/wifi-specialist  
-$300 off with code: `blackfriday2024` \
-Offer valid until 2nd December
 
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
@@ -138,6 +133,11 @@ Deal valid: 25th - 30th November
 https://training.hacktricks.xyz/
 -20% on all courses & -30% on course bundles (The discounts are applied automatically in the web) \
 Deal valid: 13th - 30th November
+
+**TheXero** - Premium Offensive Cybersecurity Training  \
+https://training.thexero.co.uk/p/wifi-specialist  
+$300 off with code: `blackfriday2024` \
+Offer valid until 2nd December
 
 ## Practical Labs
 
