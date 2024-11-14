@@ -142,6 +142,12 @@ https://course.constructingdefense.com/constructing-defense
 25% off, applied automatically \
 Deal ends: Unknown
 
+**HackingClub** - 200+ VMs that simulate real case web hacking scenarios :new: \
+https://mapa.hackingclub.com  
+Lessons mostly in BR Portuguese, but global VMs accessible inc new ones released every week \
+60% off, applied automatically \
+Deal ends: November 29th
+
 ## Mini Courses
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
