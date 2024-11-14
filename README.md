@@ -112,6 +112,14 @@ https://www.alteredsecurity.com/
 No coupon code required \
 Deal ends: 2nd December
 
+**MobileHackingLab**
+Android Userland Fuzzing & Exploitation
+https://www.mobilehackinglab.com/afe
+Advance your skills and become a specialist in mobile security with our proven Android Userland Fuzzing & Exploitation course. This advanced training dives deep into mobile fuzzing & exploitation techniques, equipping you to identify and exploit vulnerabilities in Android applications.
+Offer 2 times 50% vouchers and 4 times 40% vouchers for the 90 days lab access, if you use the code AFE50, or AFE40.
+Use the code AFE30 to get 30% off on all lab options:
+Coupon code: AFE50*
+
 **Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses \
