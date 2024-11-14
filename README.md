@@ -191,15 +191,24 @@ https://proton.me/mail/black-friday
 50% off Pass \
 Deal valid: 4th November - 3rd December
 
-**Express VPN**\
-https://www.expressvpn.com/order
-61% off VPN 2 Years Plan + 6 months free\
+**NordVPN** \
+https://nordvpn.com/pricing. 
+69% off \
+OR \
+https://nordvpn.com/pricing/social-deal/. 
+Basic: 75% off with code: `besafewithnord` \
+Plus: 74% off with code: `besafewithnord` \
+Complete: 73% off with code: `besafewithnord`
 
-**CyberGhost VPN**\
-https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
+**Express VPN** \
+https://www.expressvpn.com/order. 
+61% off VPN 2 Years Plan + 6 months free \
+
+**CyberGhost VPN** \
+https://www.cyberghostvpn.com/buy/cyberghost-vpn-3. 
 84% off VPN 2 Years Plan + 2 months free
 
-**IP VANISH VPN**\
+**IP VANISH VPN** \
 https://www.ipvanish.com/pricing/
 1yr - Essential $3.33/mo > $39.99 for the first year
 1yr - Advanced $4.49 /mo > $53.88 for the first year
