@@ -52,7 +52,8 @@ https://mikeprivette.gumroad.com/l/avoiding-lateral-movement/2024-cyber-friday-2
 25% at checkout with code: `2024-cyber-friday-25` \
 Deal ends: 1st December
 
-**CyberSec Careers** - The CyberSec People Career [Community](https://cybersec.careers/) \
+**CyberSec Careers** - The CyberSec People Career Community \
+https://cybersec.careers/
 https://www.cyberseccareers.community/checkout/personal-branding  
 30% off the Personal Branding for Current and Future Cybersecurity Leaders Program with code: `BFPB1` \
 https://www.cyberseccareers.community/checkout/optimus  
@@ -198,7 +199,7 @@ Deal valid: 1st November - 15th December
 
 **Agile Stationery** - Threat Modeling Card Games, Sets and Books \
 OWASP Cornucopia, Cumulus, Elevation of MLSec, PLOT4AI, LINDDUN Go, and Elevation of Privilege! \
-https://agilestationery.com/collections/threat-modeling
+https://agilestationery.com/collections/threat-modeling  
 30% off 3 items or more with code: `CYBER304324` \
 Deal valid: 1st November - 15th December (1 use per customer)
 
@@ -213,27 +214,27 @@ https://proton.me/mail/black-friday
 Deal valid: 4th November - 3rd December
 
 **NordVPN** \
-https://nordvpn.com/pricing. 
+https://nordvpn.com/pricing  
 69% off \
 OR \
-https://nordvpn.com/pricing/social-deal/. 
+https://nordvpn.com/pricing/social-deal/  
 Basic: 75% off with code: `besafewithnord` \
 Plus: 74% off with code: `besafewithnord` \
 Complete: 73% off with code: `besafewithnord`
 
 **Express VPN** \
-https://www.expressvpn.com/order. 
+https://www.expressvpn.com/order  
 61% off VPN 2 Years Plan + 6 months free \
 
 **CyberGhost VPN** \
-https://www.cyberghostvpn.com/buy/cyberghost-vpn-3. 
+https://www.cyberghostvpn.com/buy/cyberghost-vpn-3  
 84% off VPN 2 Years Plan + 2 months free
 
 **IP VANISH VPN** \
 https://www.ipvanish.com/pricing/
-1yr - Essential $3.33/mo > $39.99 for the first year
-1yr - Advanced $4.49 /mo > $53.88 for the first year
-2yr - Essential $2.19/mo > $52.56 for the first 2 years
+1yr - Essential $3.33/mo > $39.99 for the first year \
+1yr - Advanced $4.49 /mo > $53.88 for the first year \
+2yr - Essential $2.19/mo > $52.56 for the first 2 years \
 2yr - Advanced $3.29/mo > $78.96 for the first 2 years
 
 -----------------------------------------------------------------------------------------
