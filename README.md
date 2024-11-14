@@ -64,10 +64,17 @@ Deal ends: 1st December
 
 ## Professional Services
 
-**SecurityBoat** - Offensive & Defensive solutuions inc pentesting/source code reviews/red teaming :new: \
-https://securityboat.net/  
-50% off all services with code `BLACKFRIDAY2024` in email subject to `sales@securityboat.net` \
-Deal Ends: 20th December
+**SecurityBoat** - SecurityBoat provides a comprehensive suite of cybersecurity solutions, specializing in both offensive and defensive strategies. Our offensive services include manual penetration testing, source code reviews, and red teaming activities to identify and mitigate potential vulnerabilities. Additionally, our defensive solutions are designed to safeguard your digital assets, fortify your security posture, and proactively defend against cyber threats.
+
+With SecurityBoat, you gain a trusted partner in building a robust security framework tailored to meet the unique challenges of today’s digital landscape.
+
+https://securityboat.net/
+
+**Black Friday Special**: Get 50% off on all our cybersecurity services, including offensive and defensive security solutions.
+
+To claim the offer, email us your requirements with the subject line **BLACKFRIDAY2024** at sales@securityboat.net
+
+**Deal Ends**: December 20, 2024
 
 ## Tools
 **PortDroid** - A swiss army knife of network security tools for Android \
