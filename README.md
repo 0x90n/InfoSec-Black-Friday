@@ -224,7 +224,7 @@ Complete: 73% off with code: `besafewithnord`
 
 **Express VPN** \
 https://www.expressvpn.com/order  
-61% off VPN 2 Years Plan + 6 months free \
+61% off VPN 2 Years Plan + 6 months free
 
 **CyberGhost VPN** \
 https://www.cyberghostvpn.com/buy/cyberghost-vpn-3  
