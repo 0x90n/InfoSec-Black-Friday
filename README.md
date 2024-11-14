@@ -79,7 +79,9 @@ Deal ends: 4th December
 
 
 
-*[Subreddit tracker](https://subreddittraffic.live/)*
+#### *Subreddit tracker*
+
+https://subreddittraffic.live/
 
 Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.
 
