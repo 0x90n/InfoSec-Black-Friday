@@ -169,6 +169,11 @@ https://shop.hak5.org/collections/bfcm
 Up to 50% off, stackable savings + free shipping with codes on page \
 Deal valid: 1st - 30th November
 
+**Yubikey** - Hardware MFA Keys \
+https://www.yubico.com/store/2024/black-friday-sale/#  
+$25 off on orders above $100 \
+Deal valid: 25th November - 2nd December
+
 ## Wearables:
 
 ## Books:
