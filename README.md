@@ -137,9 +137,9 @@ https://course.constructingdefense.com/constructing-defense
 25% off, applied automatically \
 Deal ends: Unknown
 
-**HackingClub** - Brazilian(BR) platform with 200+ Virtual machines that simulates real case scenarios and delivers a hands-on training in different web hacking scenarios :new: \
-https://mapa.hackingclub.com \
-Lessons mostly in Brazilian Portuguese, but 200+ VMS available for practice acessible from all around the world, releasing new ones every week.\
+**HackingClub** - 200+ VMs that simulate real case web hacking scenarios :new: \
+https://mapa.hackingclub.com  
+Lessons mostly in BR Portuguese, but global VMs accessible inc new ones released every week \
 60% off, applied automatically \
 Deal ends: November 29th
 
