@@ -77,6 +77,15 @@ Deal ends: 4th December
 
 ## Online Courses & Training
 
+**OPSWAT** - Critical Infrastructure security courses \
+https://opswatacademy.com/courses \
+Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle \
+US$99 instead of US$660 applied automatically \
+OT Security Expert: https://opswatacademy.com/courses/ot-security-expert \
+US$79 instead of US$1,000 applied automatically \
+Deal ends: Unknown
+
+
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
