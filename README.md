@@ -77,20 +77,10 @@ Deal ends: 4th December
 
 
 
-
-
-#### *Subreddit tracker*
-
-https://subreddittraffic.live/
-
-Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.
-
-30% OFF lifetime plan with code **BLACKFRIDAY2024**
-
+**Subreddit tracker**-Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic.
+https://subreddittraffic.live/  
+~30% OFF lifetime plan with code: `BLACKFRIDAY2024`\
 Deal ends: 7th December
-
-
-
 
 
 ## Online Courses & Training
