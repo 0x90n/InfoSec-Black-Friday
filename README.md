@@ -167,12 +167,11 @@ Lessons mostly in BR Portuguese, but global VMs accessible inc new ones released
 Deal ends: November 29th
 
 **Cloud Security Alliance** - Certificate of Cloud Security Knowledge (CCSK) and Certificate of Competence in Zero Trust (CCZT) :new: \
-[https://www.csacybermonday.com/2024](https://www.csacybermonday.com/2024)  \
-50% off, applied automatically \
-CCSK v5 exam & online training + CCZT exam & online training – $625 (regularly $1,250) \
-CCSK & CCZT exam tokens* only – $310 (regularly $620) \
-Deal starts: December 02th \
-Deal ends: December 02th
+https://www.csacybermonday.com/2024  
+50% off applied automatically \
+CCSK v5 + CCZT exam & online training bundle – $625 down from $1,250 \
+CCSK + CCZT exam tokens* only bundle – $310 down from $620 \
+Deal valid: 2nd December only
 
 ## Mini Courses
 
