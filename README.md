@@ -75,6 +75,11 @@ https://portdroid.net/black-friday-2024/
 ~50% off lifetime version with code: `CYBER_2024` \
 Deal ends: 4th December
 
+**Wins** - A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac \
+https://wins.cool  
+40% off lifetime version with code: `BLACKFRIDAY_2024` \
+Deal ends: 4th December
+
 ## Online Courses & Training
 
 **International Society of Automation** - Industrial Cybersecurity \
