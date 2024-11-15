@@ -146,6 +146,11 @@ https://training.thexero.co.uk/p/wifi-specialist
 $300 off with code: `blackfriday2024` \
 Offer valid until 2nd December
 
+**Arcanum Information Security** - Jason Haddix courses \
+https://arcanuminfosec.gumroad.com/l/elkjk
+$500 discount on *Red Blue Purple AI* and *The Bug Hunter's Methodology Live Course December* package (~$3000~ $2500) \
+Offer valid until 2nd December
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
