@@ -262,6 +262,11 @@ https://www.ipvanish.com/pricing/
 2yr - Essential $2.19/mo > $52.56 for the first 2 years \
 2yr - Advanced $3.29/mo > $78.96 for the first 2 years
 
+**Mr. Un1k0d3r Red Team Training and Coding Classes** \
+https://mr.un1k0d3r.online/training/blueskyblackfridaydiscount.php
+
+50% discount on combination purchase of Red Team Training and Coding Classes recordings.
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
