@@ -239,9 +239,9 @@ https://proton.me/mail/black-friday
 Deal valid: 4th November - 3rd December
 
 **Tuta Mail – Encrypted Email Service** \
-https://tuta.com/blog/black-weeks-at-tuta \
-62% off Legend \
-Plan Deal valid: November 15 – December 4, 2024
+https://tuta.com/blog/black-weeks-at-tuta  
+62% off Legend Plan, applied automatically \
+Deal valid:  15th November – 4th Decembe
 
 **NordVPN** \
 https://nordvpn.com/pricing  
