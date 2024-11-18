@@ -77,15 +77,6 @@ Deal ends: 4th December
 
 ## Online Courses & Training
 
-**OPSWAT** - Critical Infrastructure security courses \
-https://opswatacademy.com/courses \
-Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle \
-US$99 instead of US$660 applied automatically \
-OT Security Expert: https://opswatacademy.com/courses/ot-security-expert \
-US$79 instead of US$1,000 applied automatically \
-Deal ends: Unknown
-
-
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
@@ -154,6 +145,13 @@ Deal valid: 13th - 30th November
 https://training.thexero.co.uk/p/wifi-specialist  
 $300 off with code: `blackfriday2024` \
 Offer valid until 2nd December
+
+**OPSWAT** - Critical Infrastructure security courses \
+https://opswatacademy.com/courses  
+Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle  
+85% off (US$99 instead of US$660) applied automatically \
+OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
+92% off (US$79 instead of US$1,000) applied automatically \
 
 ## Practical Labs
 
