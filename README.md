@@ -86,7 +86,8 @@ Deal valid: 25th November - 2nd December
 https://letsdefend.io/  
 https://app.letsdefend.io/business-pricing  
 https://letsdefend.io/cybersecurity-newsletter  
-55% off on annual plans with code: `BLCKFRDY55`, additional 50% off for students by using .edu email (55% + 50%) \
+55% off on annual plans with code: `BLCKFRDY55` \
+Additional 50% off for students by using .edu email (55% + 50%) \
 98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
 Deal ends: 2nd December
 
