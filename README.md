@@ -159,6 +159,11 @@ Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-ci
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
 92% off (US$79 instead of US$1,000) applied automatically \
 
+**CyberWarFare Labs**
+https://cyberwarfare.live/blackfriday/
+Upto 80% off on all the bundles: https://cyberwarfare.live/blackfriday/
+50% off on all the individual courses: https://cyberwarfare.live/
+Deals End: 2nd December
 
 ## Practical Labs
 
