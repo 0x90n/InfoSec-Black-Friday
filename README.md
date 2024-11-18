@@ -220,6 +220,11 @@ $25 off on orders above $100 \
 Deal valid: 25th November - 2nd December
 
 ## Wearables:
+  
+**HackCloth Clothing** - Hacker hoodies, T-Shirts & Sweatshirts \
+https://hackcloth.com/  
+Buy 2 get 20% off storewide + Free shipping worldwide \
+Deal valid: 17th November 2024 - 2nd January 2025  
 
 ## Books:
 
