@@ -187,6 +187,12 @@ CCSK v5 + CCZT exam & online training bundle – $625 down from $1,250 \
 CCSK + CCZT exam tokens* only bundle – $310 down from $620 \
 Deal valid: 2nd December only
 
+**LabEx** - Learn Linux, DevOps & Cybersecurity with Hands-on Labs 🧪 \
+https://labex.io/pricing
+50% OFF (2 Years) with code **BF50OFF** \
+30% OFF (1 Year) with code **BF30OFF** \
+Deal valid: 18th November - 7th December
+
 ## Mini Courses
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
