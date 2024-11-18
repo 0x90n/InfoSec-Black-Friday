@@ -77,6 +77,11 @@ Deal ends: 4th December
 
 ## Online Courses & Training
 
+**Enciphers** - Demistifying Security \
+[https://training.enciphers.com](https://training.enciphers.com/)  
+60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
+Deal ends: 29th November
+
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
