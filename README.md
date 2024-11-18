@@ -147,12 +147,18 @@ https://training.thexero.co.uk/p/wifi-specialist
 $300 off with code: `blackfriday2024` \
 Offer valid until 2nd December
 
+**Arcanum Information Security** - Jason Haddix courses \
+https://arcanuminfosec.gumroad.com/l/elkjk  
+17% ($500) ff on *Red Blue Purple AI* and *The Bug Hunter's Methodology Live Course December* package \
+Offer valid until 2nd December
+
 **OPSWAT** - Critical Infrastructure security courses \
 https://opswatacademy.com/courses  
 Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-cip-cybersecurity-bundle  
 85% off (US$99 instead of US$660) applied automatically \
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
 92% off (US$79 instead of US$1,000) applied automatically \
+
 
 ## Practical Labs
 
