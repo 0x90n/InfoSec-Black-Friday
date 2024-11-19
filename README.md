@@ -62,6 +62,11 @@ Deal ends: 1st December
 
 ## Newsletters
 
+**LetsDefend** - Blue Team Training Newsletter :see_no_evil: \
+https://letsdefend.io/cybersecurity-newsletter  
+98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
+Deal ends: 2nd December
+
 ## Professional Services
 
 **SecurityBoat** - Offensive & Defensive solutuions inc pentesting/source code reviews/red teaming :new: \
@@ -90,10 +95,8 @@ Deal valid: 25th November - 2nd December
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/business-pricing  
-https://letsdefend.io/cybersecurity-newsletter  
 55% off on annual plans with code: `BLCKFRDY55` \
 Additional 50% off for students by using .edu email (55% + 50%) \
-98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
 Deal ends: 2nd December
 
 **CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications :see_no_evil: \
@@ -197,6 +200,12 @@ https://www.csacybermonday.com/2024
 CCSK v5 + CCZT exam & online training bundle – $625 down from $1,250 \
 CCSK + CCZT exam tokens* only bundle – $310 down from $620 \
 Deal valid: 2nd December only
+
+**LabEx** - Learn Linux, DevOps & Cybersecurity with Hands-on Labs \
+https://labex.io/pricing  
+50% off (2 Years) with code `BF50OFF` \
+30% Ooff (1 Year) with code `BF30OFF` \
+Deal valid: 18th November - 7th December
 
 ## Mini Courses
 
