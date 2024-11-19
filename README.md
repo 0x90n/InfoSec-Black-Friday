@@ -70,6 +70,14 @@ https://securityboat.net/
 Deal Ends: 20th December
 
 ## Tools
+
+**ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring \
+https://scantitan.com \
+Deals start from 21-Nov-2024 to 05-Dec-2024 \
+90% of LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-B5C9-JMLF-BF24` \
+90% of LIFETIME for one BUSINESS plan: `LIFETIMEBUS-YJKS-QVP6-BF24` \
+:see_no_evil: 75% of LIFETIME for unlimited websites (CONSULTANT plan): `LIFETIMECONS-DCNC-HGBP-BF24` 
+
 **PortDroid** - A swiss army knife of network security tools for Android \
 https://portdroid.net/black-friday-2024/  
 ~50% off lifetime version with code: `CYBER_2024` \
