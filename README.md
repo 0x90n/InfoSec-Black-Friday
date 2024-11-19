@@ -60,6 +60,15 @@ https://www.cyberseccareers.community/checkout/optimus
 30% off the Job Transition Program with code: `BFCOACHING` \
 Deal ends: 1st December
 
+# Certified AI Security Professional Course
+| Description       | Details |
+|-------------------|---------|
+| **Course Vendor**| Practical DevSecOps |
+| **Course Link**   | [Certified AI Security Professional](https://www.practical-devsecops.com/certified-ai-security-professional/) |
+| **Discount**      | 15% off |
+| **Savings**       | Save USD 150 |
+| **Deal Ends**     | 5th December |
+
 ## Newsletters
 
 ## Professional Services
