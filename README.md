@@ -75,12 +75,10 @@ https://portdroid.net/black-friday-2024/
 ~50% off lifetime version with code: `CYBER_2024` \
 Deal ends: 4th December
 
-**Standard Notes** – Encrypted Note-Taking App 
-https://standardnotes.com/plans \
+**Standard Notes** – Encrypted Note-Taking App \
+https://standardnotes.com/plans  
 50% off all annual plans \
-Deal valid: November 18 – December 2, 2024
-
-
+Deal valid: 18th November – 2nd December
 
 ## Online Courses & Training
 
