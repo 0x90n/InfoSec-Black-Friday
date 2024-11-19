@@ -194,6 +194,11 @@ https://www.lufsec.com/products/
 50% off all courses + free eBook, applied automatically \
 Deal valid: 25th November - 2nd December
 
+Hacking Android Applications for Bug Bounty and Pentesting \
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY24 
+65% off at checkout with code: `BLACKFRIDAY24` \
+Deal valid: 20th November - 25th November 2024
+
 ## Exams:
 
 **The SecOps Group** - Pentesting Exams \
