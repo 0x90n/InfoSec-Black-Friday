@@ -75,6 +75,11 @@ https://portdroid.net/black-friday-2024/
 ~50% off lifetime version with code: `CYBER_2024` \
 Deal ends: 4th December
 
+**Pulsedive** - Frictionless threat intelligence solutions \
+https://pulsedive.com/purchase/pro  
+30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
+Deal ends: 30th November
+
 ## Online Courses & Training
 
 **International Society of Automation** - Industrial Cybersecurity \
