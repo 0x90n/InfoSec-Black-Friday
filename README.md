@@ -77,6 +77,12 @@ Deal ends: 4th December
 
 ## Online Courses & Training
 
+**Hexordia** - DFIR Virtual Live training \
+https://learn.hexordia.com/ \
+30% off all courses (no code necessary) \
+Deal ends: 2nd December
+
+
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
