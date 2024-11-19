@@ -159,6 +159,11 @@ Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-ci
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
 92% off (US$79 instead of US$1,000) applied automatically \
 
+**Securing AWS: Strategies for Lean Teams**  \
+https://courses.cloudsecurity.club/courses/Securing-AWS-Strategies-for-Lean-Teams-from-Chandrapal-Badshah-666415ee3a16ef700a69c1c5  
+Practical tools, techniques and mental frameworks for Securing AWS infrastructure with limited security resources \
+51% OFF (US$122 instead of US$249) applied automatically \
+Deal ends: 2nd December
 
 ## Practical Labs
 
