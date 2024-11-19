@@ -62,6 +62,11 @@ Deal ends: 1st December
 
 ## Newsletters
 
+**LetsDefend** - Blue Team Training Newsletter :see_no_evil: \
+https://letsdefend.io/cybersecurity-newsletter  
+98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
+Deal ends: 2nd December
+
 ## Professional Services
 
 **SecurityBoat** - Offensive & Defensive solutuions inc pentesting/source code reviews/red teaming :new: \
@@ -75,7 +80,17 @@ https://portdroid.net/black-friday-2024/
 ~50% off lifetime version with code: `CYBER_2024` \
 Deal ends: 4th December
 
+**Standard Notes** – Encrypted Note-Taking App \
+https://standardnotes.com/plans  
+50% off all annual plans \
+Deal valid: 18th November – 2nd December
+
 ## Online Courses & Training
+
+**Enciphers** - Mobile, Web and Network Penetration Testing Certification and Training \
+[https://training.enciphers.com](https://training.enciphers.com/)  
+60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
+Deal ends: 30th November
 
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
@@ -85,10 +100,8 @@ Deal valid: 25th November - 2nd December
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/business-pricing  
-https://letsdefend.io/cybersecurity-newsletter  
 55% off on annual plans with code: `BLCKFRDY55` \
 Additional 50% off for students by using .edu email (55% + 50%) \
-98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
 Deal ends: 2nd December
 
 **CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications :see_no_evil: \
@@ -164,6 +177,13 @@ https://courses.cloudsecurity.club/courses/Securing-AWS-Strategies-for-Lean-Team
 51% off (US$122 instead of US$249) with code: `BFRIDAY` \
 Deal ends: 2nd December
 
+**CyberWarFare Labs**  
+https://cyberwarfare.live/blackfriday/  
+Up to 80% off on the bundles \
+https://cyberwarfare.live/  
+Up to 50% off on all individual courses \
+Deal ends: 2nd December  
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
@@ -190,6 +210,12 @@ https://www.csacybermonday.com/2024
 CCSK v5 + CCZT exam & online training bundle – $625 down from $1,250 \
 CCSK + CCZT exam tokens* only bundle – $310 down from $620 \
 Deal valid: 2nd December only
+
+**LabEx** - Learn Linux, DevOps & Cybersecurity with Hands-on Labs \
+https://labex.io/pricing  
+50% off (2 Years) with code `BF50OFF` \
+30% Ooff (1 Year) with code `BF30OFF` \
+Deal valid: 18th November - 7th December
 
 ## Mini Courses
 
