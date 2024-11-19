@@ -161,9 +161,10 @@ OT Security Expert: https://opswatacademy.com/courses/ot-security-expert
 
 **CyberWarFare Labs**  
 https://cyberwarfare.live/blackfriday/  
-Upto 80% off on the bundles: https://cyberwarfare.live/blackfriday/  
-50% off on all the individual courses: https://cyberwarfare.live/  
-Deals End: 2nd December  
+Up to 80% off on the bundles \
+https://cyberwarfare.live/  
+Up to 50% off on all individual courses \
+Deal ends: 2nd December  
 
 ## Practical Labs
 
