@@ -101,6 +101,11 @@ Deal valid: 18th November – 2nd December
 
 ## Online Courses & Training
 
+**ASK Academy** - Offensive Development and Tradecraft \
+[https://ask-academy.live/courses/offensive-development-and-tradecraft/](https://ask-academy.live/courses/offensive-development-and-tradecraft/)  
+USD 150 off on the courses with code: `novemberjam24` \
+Deal ends: 30th November
+
 **Enciphers** - Mobile, Web and Network Penetration Testing Certification and Training \
 [https://training.enciphers.com](https://training.enciphers.com/)  
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
