@@ -77,12 +77,6 @@ Deal ends: 4th December
 
 ## Online Courses & Training
 
-**Hexordia** - DFIR Virtual Live training \
-https://learn.hexordia.com/ \
-30% off all courses (no code necessary) \
-Deal ends: 2nd December
-
-
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
@@ -165,6 +159,10 @@ Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-ci
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
 92% off (US$79 instead of US$1,000) applied automatically \
 
+**Hexordia** - DFIR Virtual Live training \
+https://learn.hexordia.com/  
+30% off all courses, applied automatically \
+Deal ends: 2nd December
 
 ## Practical Labs
 
