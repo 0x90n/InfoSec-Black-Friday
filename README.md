@@ -60,6 +60,12 @@ https://www.cyberseccareers.community/checkout/optimus
 30% off the Job Transition Program with code: `BFCOACHING` \
 Deal ends: 1st December
 
+
+**Cloud Security Careers** - Helping Professionals Build Safer Projects in Cloud & AI \
+https://stan.store/CloudSecurityBootcamp
+~60% off to our Popular AWS & Kubernetes LIVE workshops with Black Friday Bonus Included. \
+Deal ends: 1st December
+
 ## Newsletters
 
 **LetsDefend** - Blue Team Training Newsletter :see_no_evil: \
