@@ -123,6 +123,18 @@ https://cloudbreach.io/blackfriday/
 20% off with code: `BlackFriday24` \
 Deal valid: 22nd November - 6th December
 
+**DroneSec** - Drone Cyber Security, Drone Open-Source Intelligence & Counter-Drone Training :see_no_evil: \
+https://training.dronesec.com/  
+40% off all courses with code: `BFSTAFFDISCOUNT` \
+DROSINT course requires verification via email to entroll \
+Right to refund and restrict non-admissable participants \
+Deal valid: 20th November - 2nd December
+
+**White Knight Labs** - On-demand and live training courses \
+https://training.whiteknightlabs.com/  
+50% off all courses with code: `BLACK50` \
+Deal valid: 25th November  - 3rd December
+
 **Invictus** - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
 20% off all on-demand courses with code: `BLACKFRIDAY24` \
