@@ -232,6 +232,16 @@ Deal ends: 30th November
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
 
+
+**Craw Security** – Cybersecurity Training and Certification \
+[https://www.craw.in/black-friday-sales/](https://www.craw.in/black-friday-sales/)
+CEH v13 AI: $296.38 (includes free SOC Analyst Training) \
+1-Year Cybersecurity Diploma: ₹78,000 (includes free Machine Learning Training) \
+CHFI v11: $414.93 (includes free EC-Council ECIH Training) \
+SOC: $414.93 (includes free EC-Council ECIH Training) \
+OSCP Training: $237.11 \
+Deal valid: Until November 29, 2024
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
