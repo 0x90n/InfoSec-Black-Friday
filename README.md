@@ -98,6 +98,10 @@ https://standardnotes.com/plans
 50% off all annual plans \
 Deal valid: 18th November – 2nd December
 
+**DeskRest** - Smart break and posture reminder for macOS 🆕 \
+https://www.deskrest.app/offers
+70% off on all products with code: BLACKFRIDAY70 \
+Deal valid: 18th November - 2st December 2024 \
 
 ## Online Courses & Training
 
