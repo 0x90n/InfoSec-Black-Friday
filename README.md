@@ -232,6 +232,16 @@ Deal ends: 30th November
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
 
+
+**Pluralsight** – Online Tech Learning Platform
+[https://www.pluralsight.com/](https://www.pluralsight.com/) \
+Standard Plan: $149/year (50% off the regular price of $299)\
+  _Access to 5,000 core courses, skill and role assessments, curated learning paths, and channels_ \
+Premium Plan: $224/year (50% off the regular price of $449) \
+  _Includes everything in the Standard Plan, plus access to the entire course library, exams, projects, and interactive courses _ \
+Deal valid: November 21 – November 28 
+
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
