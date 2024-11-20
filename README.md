@@ -60,15 +60,6 @@ https://www.cyberseccareers.community/checkout/optimus
 30% off the Job Transition Program with code: `BFCOACHING` \
 Deal ends: 1st December
 
-# Certified AI Security Professional Course
-| Description       | Details |
-|-------------------|---------|
-| **Course Vendor**| Practical DevSecOps |
-| **Course Link**   | [Certified AI Security Professional](https://www.practical-devsecops.com/certified-ai-security-professional/) |
-| **Discount**      | 15% off |
-| **Savings**       | Save USD 150 |
-| **Deal Ends**     | 5th December |
-
 ## Newsletters
 
 ## Professional Services
@@ -168,6 +159,11 @@ Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-ci
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
 92% off (US$79 instead of US$1,000) applied automatically \
 
+**AI Security** - Professional Course \
+https://www.practical-devsecops.com/certified-ai-security-professional  
+15% off ($150 USD), applied automatically \
+NOTE: This course looks like it is pre-registration and hasn't launched yet \
+Deal ends: 5th December
 
 ## Practical Labs
 
