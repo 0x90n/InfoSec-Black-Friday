@@ -98,9 +98,9 @@ https://standardnotes.com/plans
 50% off all annual plans \
 Deal valid: 18th November – 2nd December
 
-Burp Bounty Pro (Burp Suite Marketplace App) \
-https://bountysecurity.ai 
-€40 off from $119 to $79 \
+**Burp Bounty Pro** - (Burp Suite Marketplace App) \
+https://bountysecurity.ai \
+€40 off from €119 to €79 \
 Deal ends: 2nd of December.
 
 ## Online Courses & Training
