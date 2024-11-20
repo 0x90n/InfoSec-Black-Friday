@@ -306,10 +306,15 @@ Deal valid: 17th November 2024 - 2nd January 2025
 
 ## Books:
 
-**The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry. \
+**The CloudSec Enginee** - A practical guide on how to enter and thrive in the Cloud Security industry. \
 https://engineer.cloudsecbooks.com/  
 30% off with code: `CYBERNOVEMBER24` \
 Deal valid: 1st November - 15th December
+
+**Visual Threat Intelligence: An Illustrated Guide For Threat Researchers** \
+https://store.securitybreak.io/threatintel
+40% off on the eBook with code: BLACKFRIDAYVTI24 \
+Deal valid: Until December 3
 
 ## Games:
 
