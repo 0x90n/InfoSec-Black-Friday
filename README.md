@@ -62,6 +62,11 @@ Deal ends: 1st December
 
 ## Newsletters
 
+**LetsDefend** - Blue Team Training Newsletter :see_no_evil: \
+https://letsdefend.io/cybersecurity-newsletter  
+98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
+Deal ends: 2nd December
+
 ## Professional Services
 
 **SecurityBoat** - Offensive & Defensive solutuions inc pentesting/source code reviews/red teaming :new: \
@@ -70,17 +75,36 @@ https://securityboat.net/
 Deal Ends: 20th December
 
 ## Tools
-**PortDroid** - A swiss army knife of network security tools for Android \
-https://portdroid.net/black-friday-2024/  
-~50% off lifetime version with code: `CYBER_2024` \
-Deal ends: 4th December
 
 **Pulsedive** - Frictionless threat intelligence solutions :see_no_evil: \
 https://pulsedive.com/purchase/pro  
 30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
 Deal ends: 30th November
 
+**ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring \
+https://scantitan.com  
+90% of LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-B5C9-JMLF-BF24` \
+90% of LIFETIME for one BUSINESS plan: `LIFETIMEBUS-YJKS-QVP6-BF24` \
+75% of LIFETIME for CONSULTANT plan: `LIFETIMECONS-DCNC-HGBP-BF24` \
+Deal valid: 21st November - 5th December
+
+**PortDroid** - A swiss army knife of network security tools for Android \
+https://portdroid.net/black-friday-2024/  
+~50% off lifetime version with code: `CYBER_2024` \
+Deal ends: 4th December
+
+**Standard Notes** – Encrypted Note-Taking App \
+https://standardnotes.com/plans  
+50% off all annual plans \
+Deal valid: 18th November – 2nd December
+
+
 ## Online Courses & Training
+
+**Enciphers** - Mobile, Web and Network Penetration Testing Certification and Training \
+[https://training.enciphers.com](https://training.enciphers.com/)  
+60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
+Deal ends: 30th November
 
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
@@ -90,10 +114,8 @@ Deal valid: 25th November - 2nd December
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/business-pricing  
-https://letsdefend.io/cybersecurity-newsletter  
 55% off on annual plans with code: `BLCKFRDY55` \
 Additional 50% off for students by using .edu email (55% + 50%) \
-98% off Cyber Newsletter with code: `BLCKFRDY-NEWS` \
 Deal ends: 2nd December
 
 **CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications :see_no_evil: \
@@ -164,6 +186,29 @@ Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-ci
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
 92% off (US$79 instead of US$1,000) applied automatically \
 
+**Hexordia** - DFIR Virtual Live training \
+https://learn.hexordia.com/  
+30% off all courses, applied automatically \
+Deal ends: 2nd December
+
+**AI Security** - Professional Course \
+https://www.practical-devsecops.com/certified-ai-security-professional  
+15% off ($150 USD), applied automatically \
+NOTE: This course looks like it is pre-registration and hasn't launched yet \
+Deal ends: 5th December
+
+**Securing AWS** - Practical tools, techniques and frameworks for securing AWS infrastructure w/ limited resouirces  \
+https://courses.cloudsecurity.club/courses/Securing-AWS-Strategies-for-Lean-Teams-from-Chandrapal-Badshah-666415ee3a16ef700a69c1c5  
+51% off (US$122 instead of US$249) with code: `BFRIDAY` \
+Deal ends: 2nd December
+
+**CyberWarFare Labs**  
+https://cyberwarfare.live/blackfriday/  
+Up to 80% off on the bundles \
+https://cyberwarfare.live/  
+Up to 50% off on all individual courses \
+Deal ends: 2nd December  
+
 
 ## Practical Labs
 
@@ -191,6 +236,12 @@ https://www.csacybermonday.com/2024
 CCSK v5 + CCZT exam & online training bundle – $625 down from $1,250 \
 CCSK + CCZT exam tokens* only bundle – $310 down from $620 \
 Deal valid: 2nd December only
+
+**LabEx** - Learn Linux, DevOps & Cybersecurity with Hands-on Labs \
+https://labex.io/pricing  
+50% off (2 Years) with code `BF50OFF` \
+30% Ooff (1 Year) with code `BF30OFF` \
+Deal valid: 18th November - 7th December
 
 ## Mini Courses
 
