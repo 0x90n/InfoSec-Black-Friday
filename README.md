@@ -260,6 +260,11 @@ https://labex.io/pricing
 30% Ooff (1 Year) with code `BF30OFF` \
 Deal valid: 18th November - 7th December
 
+**The Cyber Plumber's Lab Guide and Access** - learn offense-based / red team SSH tunneling \
+https://opsdisk.gumroad.com/l/cphlab/blackfriday2024  
+25% off ($14.99 USD) + free handbook with code: `blackfriday2024` \
+Deal ends: 5th December
+
 ## Mini Courses
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
