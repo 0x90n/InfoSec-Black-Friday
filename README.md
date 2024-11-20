@@ -101,11 +101,6 @@ Deal valid: 18th November – 2nd December
 
 ## Online Courses & Training
 
-**Enciphers** - Mobile, Web and Network Penetration Testing Certification and Training \
-[https://training.enciphers.com](https://training.enciphers.com/)  
-60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
-Deal ends: 30th November
-
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
@@ -226,6 +221,16 @@ Up to 80% off on the bundles \
 https://cyberwarfare.live/  
 Up to 50% off on all individual courses \
 Deal ends: 2nd December  
+
+**ASK Academy** - Offensive Development and Tradecraft \
+[https://ask-academy.live/courses/offensive-development-and-tradecraft/](https://ask-academy.live/courses/offensive-development-and-tradecraft/)  
+USD 150 off on the courses with code: `novemberjam24` \
+Deal ends: 30th November
+
+**Enciphers** - Mobile, Web and Network Penetration Testing Certification and Training \
+[https://training.enciphers.com](https://training.enciphers.com/)  
+60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
+Deal ends: 30th November
 
 ## Practical Labs
 
