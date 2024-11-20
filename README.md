@@ -98,6 +98,15 @@ https://standardnotes.com/plans
 50% off all annual plans \
 Deal valid: 18th November – 2nd December
 
+**Exploit Pack** - Advanced Exploitation Framework with 0days and 39,500+ exploits :tophat: \
+https://exploitpack.com/indexexploitpack.html
+LIFETIME Licenses - Upgrade from €950 1-year license to LIFETIME \
+Deal ends: 30th November - Only 10 licenses available 
+
+**Control Pack** - Command & Control Framework, not detected by AVs and EDRs :tophat: \
+https://exploitpack.com/indexcontrolpack.html
+LIFETIME Licenses - Upgrade from €950 1-year license to LIFETIME \
+Deal ends: 30 November - Only 10 licenses available
 
 ## Online Courses & Training
 
