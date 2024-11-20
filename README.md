@@ -76,6 +76,11 @@ Deal Ends: 20th December
 
 ## Tools
 
+**Pulsedive** - Frictionless threat intelligence solutions :see_no_evil: \
+https://pulsedive.com/purchase/pro  
+30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
+Deal ends: 30th November
+
 **ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring \
 https://scantitan.com  
 90% of LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-B5C9-JMLF-BF24` \
@@ -92,6 +97,7 @@ Deal ends: 4th December
 https://standardnotes.com/plans  
 50% off all annual plans \
 Deal valid: 18th November – 2nd December
+
 
 ## Online Courses & Training
 
