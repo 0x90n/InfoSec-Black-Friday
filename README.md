@@ -172,6 +172,12 @@ Advanced CIP Cybersecurity Bundle: https://opswatacademy.com/courses/advanced-ci
 OT Security Expert: https://opswatacademy.com/courses/ot-security-expert  
 92% off (US$79 instead of US$1,000) applied automatically \
 
+**AI Security** - Professional Course \
+https://www.practical-devsecops.com/certified-ai-security-professional  
+15% off ($150 USD), applied automatically \
+NOTE: This course looks like it is pre-registration and hasn't launched yet \
+Deal ends: 5th December
+=======
 **Securing AWS** - Practical tools, techniques and frameworks for securing AWS infrastructure w/ limited resouirces  \
 https://courses.cloudsecurity.club/courses/Securing-AWS-Strategies-for-Lean-Teams-from-Chandrapal-Badshah-666415ee3a16ef700a69c1c5  
 51% off (US$122 instead of US$249) with code: `BFRIDAY` \
