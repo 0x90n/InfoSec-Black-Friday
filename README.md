@@ -106,20 +106,20 @@ https://programs.isa.org/blackfridayweek24
 30% off with code: `BFCM24` \
 Deal valid: 25th November - 2nd December
 
-**LetsDefend** - Blue Team Training :see_no_evil: \
+**LetsDefend** - Blue Team  :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/business-pricing  
 55% off on annual plans with code: `BLCKFRDY55` \
 Additional 50% off for students by using .edu email (55% + 50%) \
 Deal ends: 2nd December
 
-**CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications :see_no_evil: \
+**CloudBreach** - Offensive Azure & AWS Security s and Certifications :see_no_evil: \
 https://cloudbreach.io/blackfriday/  
 20% off with code: `BlackFriday24` \
 Deal valid: 22nd November - 6th December
 
-**DroneSec** - Drone Cyber Security, Drone Open-Source Intelligence & Counter-Drone Training :see_no_evil: \
-https://training.dronesec.com/  
+**DroneSec** - Drone Cyber Security, Drone Open-Source Intelligence & Counter-Drone  :see_no_evil: \
+https://.dronesec.com/  
 40% off all courses with code: `BFSTAFFDISCOUNT` \
 DROSINT course requires verification via email to entroll \
 Right to refund and restrict non-admissable participants \
@@ -231,6 +231,11 @@ Deal ends: 30th November
 [https://training.enciphers.com](https://training.enciphers.com/)  
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
+
+**SpecterOps** - Red Team Ops, Offensive Tradecraft, Tradecraft Analysis, and Azure Security Training, and SO-CON 2025 Conference    \
+[https://events.humanitix.com/so-con-2025-summit-and-training-in-person/tickets](https://events.humanitix.com/so-con-2025-summit-and-training-in-person/tickets)    
+50% off SO-CON 2025 Tickets, 25% off Live In-Person or Virtual Training, Free SO-CON 2025 Ticket with In-Person Training (Discount applied in cart).\
+Deal ends: 2nd December  
 
 ## Practical Labs
 
