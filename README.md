@@ -233,7 +233,7 @@ Deal ends: 30th November
 Deal ends: 30th November
 
 **Zero-Point Security** \
-[https://training.zeropointsecurity.co.uk/](https://training.zeropointsecurity.co.uk/)
+[https://training.zeropointsecurity.co.uk/](https://training.zeropointsecurity.co.uk/) \
 15% off on all courses and certifications: `BLKFRI24` \
 Deal ends: 3rd December
 
