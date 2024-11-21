@@ -232,6 +232,12 @@ Deal ends: 30th November
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
 
+**WiFiChallenge Academy** - Certified WiFiChallenge Professional (CWP) \
+https://academy.wifichallenge.com
+25% off: `BLACKFRIDAY24` (applied automatically) \
+Deal valid: 25th November - 2nd December
+
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
