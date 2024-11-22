@@ -241,6 +241,12 @@ Deal ends: 30th November
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
 
+**Pluralsight** – Online Tech Learning Platform \
+[https://www.pluralsight.com/](https://www.pluralsight.com/)  
+50% off Standard Plan ($149 down from $299) \
+50% off Premium Plan ($224 down from $449) \
+Deal valid: 21st – 28th November
+
 **AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling**
 https://appsecengineer.com  
 40% off on Annual Plans with code `LEVELUP40` \
