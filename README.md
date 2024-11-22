@@ -251,6 +251,11 @@ Deal ends: 30th November
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
 
+**Zero-Point Security** \
+[https://training.zeropointsecurity.co.uk/](https://training.zeropointsecurity.co.uk/) \
+15% off on all courses and certifications: `BLKFRI24` \
+Deal ends: 3rd December
+
 **Pluralsight** – Online Tech Learning Platform \
 [https://www.pluralsight.com/](https://www.pluralsight.com/)  
 50% off Standard Plan ($149 down from $299) \
