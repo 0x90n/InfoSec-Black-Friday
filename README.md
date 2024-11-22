@@ -233,10 +233,9 @@ Deal ends: 30th November
 Deal ends: 30th November
 
 **WiFiChallenge Academy** - Certified WiFiChallenge Professional (CWP) \
-https://academy.wifichallenge.com
-25% off: `BLACKFRIDAY24` (applied automatically) \
+https://academy.wifichallenge.com  
+25% off with code: `BLACKFRIDAY24` \
 Deal valid: 25th November - 2nd December
-
 
 ## Practical Labs
 
