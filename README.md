@@ -172,6 +172,12 @@ https://www.mobilehackinglab.com/afe
 https://www.mobilehackinglab.com/course/android-userland-fuzzing-and-exploitation-90-days-lab-and-exam  
 50% off (limited to 2 uses only) the 90 day access with code: `AFE50` \
 40% off (limited to 2 uses only) the 90 day access with code: `AFE40`
+Black Friday: The AppSec Bundle 1 + 1 FREE!
+This Black Friday, grab the AppSec Bundle and get either the CIPT or CAPT exam FREE—the perfect way to boost your skills while saving big!
+SPECIAL BLACK FRIDAY APPSEC BUNDLE
+LIMITED 1 + 1 FOR FREE OFFER
+https://www.mobilehackinglab.com/bundle/appsec-bundle
+Purchase an Android CAPT or iOS CIPT exam and receive the other exam absolutely free. Two certifications, one price!
 
 **Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/black-friday/  
