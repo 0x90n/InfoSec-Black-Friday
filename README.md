@@ -310,6 +310,23 @@ https://opsdisk.gumroad.com/l/cphlab/blackfriday2024
 25% off ($14.99 USD) + free handbook with code: `blackfriday2024` \
 Deal ends: 5th December
 
+**SpecterOps** - Red Team Ops/Offensive Tradecraft/Tradecraft Analysis/Azure Security Training + SO-CON 2025 Conference \
+[https://events.humanitix.com/so-con-2025-summit-and-training-in-person/tickets](https://events.humanitix.com/so-con-2025-summit-and-training-in-person/tickets)  
+50% off SO-CON 2025 Tickets \
+25% off Virtual Training \
+25% off Live In-Person Training + Free SO-CON 2025 Ticket \
+Deal ends: 2nd December  
+
+**Black Hills InfoSec** - Antisyphon Training Active Defense and Cyber Deception \
+https://www.antisyphontraining.com/course/active-defense-and-cyber-deception-with-john-strand/  
+Up to 100% with Pay-What-You-Can Pricing \
+Deal ends: 8th December
+
+Mosse Cyber Security Institute - Elite Cyber Security Training + Labs \
+https://www.mosse-institute.com/  
+10% off any course with code `MCSI-BLACK-FRIDAY-2024` \
+Deal ends: 29th November
+
 ## Mini Courses
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
