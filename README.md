@@ -98,6 +98,15 @@ https://standardnotes.com/plans
 50% off all annual plans \
 Deal valid: 18th November – 2nd December
 
+**Exploit Pack** - Advanced Exploitation Framework with 0days and 39,500+ exploits \
+https://exploitpack.com/indexexploitpack.html  
+10 LIFETIME licenses available - Upgrade from €950 1-year license to LIFETIME \
+Deal ends: 30th November
+
+**Control Pack** - Command & Control Framework, not detected by AVs and EDRs \
+https://exploitpack.com/indexcontrolpack.html  
+10 LIFETIME licenses available - Upgrade from €950 1-year license to LIFETIME \
+Deal ends: 30th November
 
 ## Online Courses & Training
 
@@ -238,6 +247,11 @@ Deal ends: 30th November
 50% off Premium Plan ($224 down from $449) \
 Deal valid: 21st – 28th November
 
+**AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling**
+https://appsecengineer.com  
+40% off on Annual Plans with code `LEVELUP40` \
+Deal ends: 6th December
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
@@ -292,6 +306,11 @@ No expirity on exam vouchers! \
 Deal unlocks: 6th November
 
 ## Hardware:
+
+**Covert Instruments** - Lock picking tools, lock bypass tools, and covert entry gear :see_no_evil: \
+https://covertinstruments.com/collections/black-friday-sale  
+Up to 40% off + free shipping to the US on orders $150+ + free gift for every order \
+Deal valid: 18th November - 2nd December
 
 **KSEC Labs** - Hacker Hardware, Red Team Tools & Security Research Devices :see_no_evil: \
 https://labs.ksec.co.uk/black-friday-sale/  
