@@ -251,6 +251,11 @@ Deal ends: 30th November
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
 
+**WiFiChallenge Academy** - Certified WiFiChallenge Professional (CWP) \
+https://academy.wifichallenge.com  
+25% off with code: `BLACKFRIDAY24` \
+Deal valid: 25th November - 2nd December
+
 **Zero-Point Security** \
 [https://training.zeropointsecurity.co.uk/](https://training.zeropointsecurity.co.uk/) \
 15% off on all courses and certifications: `BLKFRI24` \
