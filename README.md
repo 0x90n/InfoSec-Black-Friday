@@ -101,11 +101,6 @@ Deal valid: 18th November – 2nd December
 
 ## Online Courses & Training
 
-**AppSecEngineer - Hands-on Training for AppSec, Cloud Security, AI Security, Kubernetes Security, DevSecOps, Threat Modeling and more**
-https://appsecengineer.com
-40% off on Annual Plans with code `LEVELUP40`
-Deal Valid till 6th December
-
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
@@ -236,6 +231,11 @@ Deal ends: 30th November
 [https://training.enciphers.com](https://training.enciphers.com/)  
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
+
+**AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling**
+https://appsecengineer.com  
+40% off on Annual Plans with code `LEVELUP40` \
+Deal ends: 6th December
 
 ## Practical Labs
 
