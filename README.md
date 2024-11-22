@@ -178,6 +178,10 @@ https://www.practical-devsecops.com/black-friday/
 15% off all courses \
 Deal ends: 6th December
 
+**Security Blue Team**
+https://www.securityblue.team/black-friday-2024
+Black Friday November 22 - December 6
+
 **TCM Academy** - Blue & Red Cyber Security Training and Certifications \
 Certifications: https://certifications.tcm-sec.com/  
 Academy: https://academy.tcm-sec.com/  
