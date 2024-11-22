@@ -118,7 +118,7 @@ https://exploitpack.com/indexcontrolpack.html
 10 LIFETIME licenses available - Upgrade from €950 1-year license to LIFETIME \
 Deal ends: 30th November
 
-**hammerai** - Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models \
+**HammerAI** - Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models \
 https://www.hammerai.com/
 50% OFF with code BZAOH18 \
 Deal ends: 30th November
