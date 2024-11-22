@@ -241,6 +241,11 @@ Deal ends: 30th November
 60% off on all Certifications, Courses and Lab Access with code: `BLACKFRIDAY60` \
 Deal ends: 30th November
 
+**AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling**
+https://appsecengineer.com  
+40% off on Annual Plans with code `LEVELUP40` \
+Deal ends: 6th December
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
