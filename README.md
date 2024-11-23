@@ -120,6 +120,13 @@ Deal ends: 30th November
 
 ## Online Courses & Training
 
+**SecuringHardware.com** - Applied Physical Attacks self-paced online training with hardware toolkit \
+https://learn.securinghardware.com/2024eoy/  
+15% off. Use code: `APANOV2024` \
+Deal valid: 21 NOV - 1 DEC \
+20% off*. 10% off for you, plus 10% towards nonprofits, details at link. Use code `10foryou10forothers` \
+Deal valid: 21 NOV - 1 JAN
+
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
@@ -343,6 +350,11 @@ No expirity on exam vouchers! \
 Deal unlocks: 6th November
 
 ## Hardware:
+
+**SecuringHardware.com** - Tigard, a multi-protocol hardware hacking tool \
+https://learn.securinghardware.com/2024eoy/  
+20% off retail and free shipping when you buy 10+. Use code: `Tigard2024` \
+Deal valid: 21 NOV - 1 DEC
 
 **Covert Instruments** - Lock picking tools, lock bypass tools, and covert entry gear :see_no_evil: \
 https://covertinstruments.com/collections/black-friday-sale  
