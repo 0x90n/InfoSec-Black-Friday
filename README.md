@@ -272,6 +272,10 @@ https://appsecengineer.com
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
 
+**Cyber NOW Education - SOC analyst training including incident response, cloud security, REST API**
+[https://appsecengineer.com  ](https://www.cybernoweducation.com/subscribe)
+35% off on Lifetime member with code `CYBERHOLIDAY` \
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
