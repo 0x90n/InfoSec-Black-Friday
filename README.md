@@ -120,6 +120,11 @@ Deal ends: 30th November
 
 ## Online Courses & Training
 
+**Ringzer0** - Virtual and In-Person Courses \
+https://ringzer0.training/ \
+$400 off Early Bird pricing with code: `BF400` \
+Deal valid: 29th November - Midnight, 2nd December
+
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
