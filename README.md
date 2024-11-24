@@ -82,7 +82,7 @@ Deal Ends: 20th December
 ## Tools
 
 **Pulsedive** - Frictionless threat intelligence solutions :see_no_evil: \
-https://pulsedive.com/purchase/pro  
+https://blog.pulsedive.com/black-friday-2024/  
 30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
 Deal ends: 30th November
 
