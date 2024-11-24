@@ -120,11 +120,6 @@ Deal ends: 30th November
 
 ## Online Courses & Training
 
-**Ringzer0** - Virtual and In-Person Courses \
-https://ringzer0.training/ \
-$400 off Early Bird pricing with code: `BF400` \
-Deal valid: 29th November - Midnight, 2nd December
-
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
@@ -276,6 +271,11 @@ Deal valid: 21st – 28th November
 https://appsecengineer.com  
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
+
+**Ringzer0** - Virtual and In-Person Courses on Reverse Engineering, Binary Exploitation \
+https://ringzer0.training/  
+$400 off Early Bird pricing with code: `BF400` \
+Deal valid: 29th November - 2nd December
 
 ## Practical Labs
 
