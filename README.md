@@ -299,6 +299,10 @@ Deal valid: 29th November - 2nd December
 - Adventure 04: 50% off all INE Security Certifications
 Deal valid: 22nd November - 6th December
 
+** 13Cubed Training Courses **
+[13Cubed Online Training](https://training.13cubed.com/)
+13% off through 12/2/2024
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
