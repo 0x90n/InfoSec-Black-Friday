@@ -272,13 +272,13 @@ Deal ends: 3rd December
 50% off Premium Plan ($224 down from $449) \
 Deal valid: 21st – 28th November
 
-**AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling** \
+**AppSecEngineer - Hands-on Training for Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling** \
 https://appsecengineer.com  
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
 
 **Invoke RE** – Malware Analysis Training :new: \
-[https://training.invokere.com/](https://training.invokere.com/  
+https://training.invokere.com/  
 15% off the Bundle - Premium Introduction to Malware Binary Triage course ($424 down from $499) \
 Deal ends: 1st of December
 
