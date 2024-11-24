@@ -301,6 +301,11 @@ Deal valid: 22nd November - 6th December
 
 ## Practical Labs
 
+**Pwnedlabs** - Real-World Cloud Security Labs \
+https://pwnedlabs.io/  
+25% off all subscriptions and bootcamps with code: `BLACKFRIDAY2024`
+Deal ends: 30th November
+
 **PentesterLab** - Practical pentesting & hacking Labs \
 https://pentesterlab.com/pro  
 27% off one year subscription, applied automatically \
