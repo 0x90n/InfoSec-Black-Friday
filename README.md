@@ -280,6 +280,33 @@ https://securityblue.team
 - **BTLO 12 Months’ Pro Subscription**: 44% off (£100, normal price £180)  
 Deal valid: 22nd November - 6th December  
 
+## INE Black Friday Deals
+
+[INE Black Friday Deals](https://checkout.ine.com/black-friday)
+
+- **Adventure 01**: Premium Subscription + Skill Dive + 1 INE Security Certification: $699 (Save $749)
+  - 3500+ hours of training content (all expertise levels)
+  - 200+ hours of training content (novice level)
+  - In-course hands-on labs, quizzes, and course files
+  - 50% off one certification voucher/year
+  - Includes 1 Skill Dive Focus Area
+
+- **Adventure 02**: Premium Subscription + 1 INE Security Certification: $499 (Save $650)
+  - Includes all benefits of Adventure 01 *except Skill Dive*.
+
+- **Adventure 03**: Fundamentals Annual Subscription: $199 (Save $100)
+  - 200+ hours of training content (novice level)
+  - Introductory content free eJPT and ICCA voucher included
+
+- **Adventure 04**: 50% off all INE Security Certifications (discounted prices shown):
+  - eCDFP: $199.50
+  - eCIR: $200
+  - eCTHP: $200
+  - eMAPT: $200
+
+**Deal valid through:** 22nd November - 6th December
+
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
