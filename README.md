@@ -86,6 +86,11 @@ https://blog.pulsedive.com/black-friday-2024/
 30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
 Deal ends: 30th November
 
+**Gray Hat Warfare** - Open source + misconfigured storage and URL shorteners :see_no_evil: \
+https://grayhatwarfare.com/packages  
+Premium yearly $160 down from $300 \
+Enterprise yearly $450 down from $960
+
 **ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring \
 https://scantitan.com  
 90% of LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-B5C9-JMLF-BF24` \
@@ -116,6 +121,11 @@ Deal ends: 30th November
 **Control Pack** - Command & Control Framework, not detected by AVs and EDRs \
 https://exploitpack.com/indexcontrolpack.html  
 10 LIFETIME licenses available - Upgrade from €950 1-year license to LIFETIME \
+Deal ends: 30th November
+
+**EaseUS** - Data Recovery and Encryption Software \
+https://www.easeus-software.com/campaign/2024-black-friday.html  
+50-70% off with code: `CRAZYBF`
 Deal ends: 30th November
 
 ## Online Courses & Training
@@ -299,6 +309,31 @@ Deal valid: 29th November - 2nd December
 - Adventure 04: 50% off all INE Security Certifications
 Deal valid: 22nd November - 6th December
 
+**SEKTOR7** - RedTeam courses \
+https://institute.sektor7.net/  
+20% off all RED TEAM Operator courses with code: `BF24` \
+Deal valid: 29th November - 2nd December 
+
+**7ASecurity** - Pentests and Code Audit Courses \
+https://7asecurity.com/blog/2024/11/bfcm-50-off-cybersecurity-courses/  
+50% off all courses with code `BFCM50` \
+Deal valid: 21st November - 10th December
+
+**SecuringHardware.com** - Applied Physical Attacks self-paced online training with hardware toolkit \
+https://learn.securinghardware.com/2024eoy/  
+15% off all courses with code: `APANOV2024` \
+Deal valid: 21st November - 1st December \
+
+**13Cubed** - OS Forensics and Investigations Courses \
+https://training.13cubed.com/  
+13% off all courses, applied automatically \
+Deal valid: 29th November - 2nd December
+
+Balkasoft - DFIR and Mobile Forensics Training \
+https://belkasoft.com/training-bundles  
+33% off on course bundles (save $999), applied automatically \
+Deal valid: 26th November - 3rd December
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
@@ -354,7 +389,7 @@ https://www.antisyphontraining.com/course/active-defense-and-cyber-deception-wit
 Up to 100% with Pay-What-You-Can Pricing \
 Deal ends: 8th December
 
-Mosse Cyber Security Institute - Elite Cyber Security Training + Labs \
+**Mosse Cyber Security Institute** - Elite Cyber Security Training + Labs \
 https://www.mosse-institute.com/  
 10% off any course with code `MCSI-BLACK-FRIDAY-2024` \
 Deal ends: 29th November
@@ -395,6 +430,11 @@ Deal valid: 1st - 30th November
 https://www.yubico.com/store/2024/black-friday-sale/#  
 $25 off on orders above $100 \
 Deal valid: 25th November - 2nd December
+
+**SecuringHardware.com** - Tigard, a multi-protocol hardware hacking tool \
+https://learn.securinghardware.com/2024eoy/  
+20% off retail and free shipping with code: `Tigard2024` \
+Deal valid: 21st November - 1st December
 
 ## Wearables:
   
