@@ -120,6 +120,12 @@ Deal ends: 30th November
 
 ## Online Courses & Training
 
+**eLearn Security (INE)** - Defensive and Offensive Cybersecurity \
+https://checkout.ine.com/black-friday-2024
+Premium Subscription + Skill Dive + Certification (for new subscribers only) 699$
+Premium Subscription + Certification (for new subscribers only) 499$
+Deal valid: 22th November - 5th December
+
 **International Society of Automation** - Industrial Cybersecurity \
 https://programs.isa.org/blackfridayweek24  
 30% off with code: `BFCM24` \
@@ -335,6 +341,12 @@ https://www.lufsec.com/products/
 Deal valid: 25th November - 2nd December
 
 ## Exams:
+
+eLearn Security (INE) Certifications
+https://checkout.ine.com/black-friday-2024
+50% discount for eCDFP, eCIR, eCTHP and eMAPT 400$ -> 200$
+Fundamentals Annual + eJPT -> $199
+Deal valid: 22th November - 5th December
 
 **The SecOps Group** - Pentesting Exams \
 https://secops.group/pentesting-exams/#infosecexams  
