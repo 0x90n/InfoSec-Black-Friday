@@ -277,6 +277,11 @@ https://appsecengineer.com
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
 
+**Invoke RE** – Malware Analysis Training :new: \
+[https://training.invokere.com/](https://training.invokere.com/  
+15% off the Bundle - Premium Introduction to Malware Binary Triage course ($424 down from $499) \
+Deal ends: 1st of December
+
 **Ringzer0** - Virtual and In-Person Courses on Reverse Engineering, Binary Exploitation :see_no_evil: \
 https://ringzer0.training/  
 $400 off Early Bird pricing with code: `BF400` \
