@@ -291,6 +291,14 @@ Deal valid: 29th November - 2nd December
 [https://appsecengineer.com  ](https://www.cybernoweducation.com/subscribe)  
 35% off on Lifetime membership with code `CYBERHOLIDAY` 
 
+**INE** - Security Training
+[INE Black Friday Deals](https://checkout.ine.com/black-friday)
+- Adventure 01: Premium Subscription + Skill Dive + 1 INE Security Certification: $699 (Save $749)
+- Adventure 02: Premium Subscription + 1 INE Security Certification: $499 (Save $650)
+- Adventure 03: Fundamentals Annual Subscription: $199 (Save $100)
+- Adventure 04: 50% off all INE Security Certifications
+Deal valid: 22nd November - 6th December
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
