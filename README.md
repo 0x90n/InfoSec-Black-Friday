@@ -268,13 +268,13 @@ Deal ends: 3rd December
 Deal valid: 21st – 28th November
 
 **AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling** \
-https://appsecengineer.com  \
+https://appsecengineer.com  
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
 
 **Cyber NOW Education - SOC analyst training including incident response, cloud security, REST API** \
-[https://appsecengineer.com  ](https://www.cybernoweducation.com/subscribe) \
-35% off on Lifetime member with code `CYBERHOLIDAY` 
+[https://appsecengineer.com  ](https://www.cybernoweducation.com/subscribe)  
+35% off on Lifetime membership with code `CYBERHOLIDAY` 
 
 ## Practical Labs
 
