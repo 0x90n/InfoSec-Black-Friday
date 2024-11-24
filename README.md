@@ -277,6 +277,11 @@ https://appsecengineer.com
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
 
+**Ringzer0** - Virtual and In-Person Courses on Reverse Engineering, Binary Exploitation :see_no_evil: \
+https://ringzer0.training/  
+$400 off Early Bird pricing with code: `BF400` \
+Deal valid: 29th November - 2nd December
+
 **Cyber NOW Education - SOC analyst training including incident response, cloud security, REST API** \
 [https://appsecengineer.com  ](https://www.cybernoweducation.com/subscribe)  
 35% off on Lifetime membership with code `CYBERHOLIDAY` 
