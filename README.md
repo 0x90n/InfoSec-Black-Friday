@@ -272,6 +272,14 @@ https://appsecengineer.com
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
 
+**Security Blue Team** - Internationally Recognized Blue Team Training Offers \
+https://securityblue.team  
+- **Blue Team Level 1 & 1-Month BTLO Pro Subscription Bundle**: 10% off (£359, normal price £414)  
+- **Blue Team Level 2 Certification**: 50% off (£999, normal price £1999)  
+- **Certified Security Operations Manager (CSOM)**: 50% off (£999, normal price £1999)  
+- **BTLO 12 Months’ Pro Subscription**: 44% off (£100, normal price £180)  
+Deal valid: 22nd November - 6th December  
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
