@@ -178,6 +178,11 @@ https://www.practical-devsecops.com/black-friday/
 15% off all courses \
 Deal ends: 6th December
 
+**Security Blue Team** - BTL0 / BTL1 / BTL2 Training and Certifications \
+https://www.securityblue.team/black-friday-2024 
+Up to 50% off, applied automatically \
+Deal valid: 22nd November - 6th December
+
 **TCM Academy** - Blue & Red Cyber Security Training and Certifications \
 Certifications: https://certifications.tcm-sec.com/  
 Academy: https://academy.tcm-sec.com/  
@@ -267,15 +272,19 @@ Deal ends: 3rd December
 50% off Premium Plan ($224 down from $449) \
 Deal valid: 21st – 28th November
 
-**AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling**
+**AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling** \
 https://appsecengineer.com  
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
 
-**Ringzer0** - Virtual and In-Person Courses on Reverse Engineering, Binary Exploitation \
+**Ringzer0** - Virtual and In-Person Courses on Reverse Engineering, Binary Exploitation :see_no_evil: \
 https://ringzer0.training/  
 $400 off Early Bird pricing with code: `BF400` \
 Deal valid: 29th November - 2nd December
+
+**Cyber NOW Education - SOC analyst training including incident response, cloud security, REST API** \
+[https://appsecengineer.com  ](https://www.cybernoweducation.com/subscribe)  
+35% off on Lifetime membership with code `CYBERHOLIDAY` 
 
 ## Practical Labs
 
