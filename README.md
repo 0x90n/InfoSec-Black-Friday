@@ -374,6 +374,11 @@ https://secops.group/pentesting-exams/#infosecexams
 No expirity on exam vouchers! \
 Deal unlocks: 6th November
 
+**INE** - Security Training
+[INE Black Friday Deals](https://checkout.ine.com/black-friday)
+50% discount for eCDFP, eCIR, eCTHP and eMAPT 400$ -> 200$
+Deal valid: 22nd November - 6th December
+
 ## Hardware:
 
 **Covert Instruments** - Lock picking tools, lock bypass tools, and covert entry gear :see_no_evil: \
