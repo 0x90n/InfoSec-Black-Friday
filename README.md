@@ -81,10 +81,20 @@ Deal Ends: 20th December
 
 ## Tools
 
+**SysReptor** - Pentest Reporting Software :new: \
+https://docs.sysreptor.com/ \
+30% off Cloud or Self-Hosted \
+Deal ends: 2nd December
+
 **Pulsedive** - Frictionless threat intelligence solutions :see_no_evil: \
-https://pulsedive.com/purchase/pro  
+https://blog.pulsedive.com/black-friday-2024/  
 30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
 Deal ends: 30th November
+
+**Gray Hat Warfare** - Open source + misconfigured storage and URL shorteners :see_no_evil: \
+https://grayhatwarfare.com/packages  
+Premium yearly $160 down from $300 \
+Enterprise yearly $450 down from $960
 
 **ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring \
 https://scantitan.com  
@@ -126,10 +136,19 @@ Deal ends: 5th December
 
 ## Online Courses & Training
 
-**International Society of Automation** - Industrial Cybersecurity \
-https://programs.isa.org/blackfridayweek24  
-30% off with code: `BFCM24` \
-Deal valid: 25th November - 2nd December
+**EaseUS** - Data Recovery and Encryption Software \
+https://www.easeus-software.com/campaign/2024-black-friday.html  
+50-70% off with code: `CRAZYBF`
+Deal ends: 30th November
+
+**ANY.RUN** – Interactive Malware Analysis Service \
+[https://app.any.run/plans](https://app.any.run/plans/?utm_source=github&utm_medium=post&utm_campaign=bf_2024_1&utm_content=linktopricing&utm_term=251124)
+50% off annual Hunter plan, plus one additional license for free. \
+Buy five enterprise licenses, get two free. \
+Buy ten enterprise licenses, get three free, plus TI Lookup for free. \
+Deal ends: 8th December
+
+## Online Courses & Training
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
@@ -154,6 +173,11 @@ Deal valid: 20th November - 2nd December
 https://training.whiteknightlabs.com/  
 50% off all courses with code: `BLACK50` \
 Deal valid: 25th November  - 3rd December
+
+**International Society of Automation** - Industrial Cybersecurity \
+https://programs.isa.org/blackfridayweek24  
+30% off with code: `BFCM24` \
+Deal valid: 25th November - 2nd December
 
 **Invictus** - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
@@ -183,6 +207,11 @@ https://www.mobilehackinglab.com/course/android-userland-fuzzing-and-exploitatio
 https://www.practical-devsecops.com/black-friday/  
 15% off all courses \
 Deal ends: 6th December
+
+**Security Blue Team** - BTL0 / BTL1 / BTL2 Training and Certifications \
+https://www.securityblue.team/black-friday-2024 
+Up to 50% off, applied automatically \
+Deal valid: 22nd November - 6th December
 
 **TCM Academy** - Blue & Red Cyber Security Training and Certifications \
 Certifications: https://certifications.tcm-sec.com/  
@@ -273,12 +302,68 @@ Deal ends: 3rd December
 50% off Premium Plan ($224 down from $449) \
 Deal valid: 21st – 28th November
 
-**AppSecEngineer - Hands-on Training for AppSec/Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling**
+**AppSecEngineer - Hands-on Training for Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling** \
 https://appsecengineer.com  
 40% off on Annual Plans with code `LEVELUP40` \
 Deal ends: 6th December
 
+**Invoke RE** – Malware Analysis Training :new: \
+https://training.invokere.com/  
+15% off the Bundle - Premium Introduction to Malware Binary Triage course ($424 down from $499) \
+Deal ends: 1st of December
+
+**Ringzer0** - Virtual and In-Person Courses on Reverse Engineering, Binary Exploitation :see_no_evil: \
+https://ringzer0.training/  
+$400 off Early Bird pricing with code: `BF400` \
+Deal valid: 29th November - 2nd December
+
+**Cyber NOW Education - SOC analyst training including incident response, cloud security, REST API** \
+[https://www.cybernoweducation.com/subscribe](https://www.cybernoweducation.com/subscribe)  
+35% off on Lifetime membership with code `CYBERHOLIDAY` 
+
+**INE (eLearn Security)** - Security Training \
+[INE Black Friday Deals](https://checkout.ine.com/black-friday)
+- Adventure 01: Premium Subscription + Skill Dive + 1 INE Security Certification: $699 (Save $749)
+- Adventure 02: Premium Subscription + 1 INE Security Certification: $499 (Save $650)
+- Adventure 03: Fundamentals Annual Subscription: $199 (Save $100)
+Deal valid: 22nd November - 6th December
+
+**SEKTOR7** - RedTeam courses \
+https://institute.sektor7.net/  
+20% off all RED TEAM Operator courses with code: `BF24` \
+Deal valid: 29th November - 2nd December 
+
+**7ASecurity** - Pentests and Code Audit Courses \
+https://7asecurity.com/blog/2024/11/bfcm-50-off-cybersecurity-courses/  
+50% off all courses with code `BFCM50` \
+Deal valid: 21st November - 10th December
+
+**SecuringHardware.com** - Applied Physical Attacks self-paced online training with hardware toolkit \
+https://learn.securinghardware.com/2024eoy/  
+15% off all courses with code: `APANOV2024` \
+Deal valid: 21st November - 1st December
+
+**13Cubed** - OS Forensics and Investigations Courses \
+https://training.13cubed.com/  
+13% off all courses, applied automatically \
+Deal valid: 29th November - 2nd December
+
+Balkasoft - DFIR and Mobile Forensics Training \
+https://belkasoft.com/training-bundles  
+33% off on course bundles (save $999), applied automatically \
+Deal valid: 26th November - 3rd December
+
+**pwn.guide** - Helping both beginners & experts learn cybersecurity :new: \
+https://pwn.guide/  
+~10% off all plans forever with code: `BFRI24` \
+Deal ends: 1st December
+
 ## Practical Labs
+
+**Pwnedlabs** - Real-World Cloud Security Labs \
+https://pwnedlabs.io/  
+25% off all subscriptions and bootcamps with code: `BLACKFRIDAY2024`
+Deal ends: 30th November
 
 **PentesterLab** - Practical pentesting & hacking Labs \
 https://pentesterlab.com/pro  
@@ -328,7 +413,7 @@ https://www.antisyphontraining.com/course/active-defense-and-cyber-deception-wit
 Up to 100% with Pay-What-You-Can Pricing \
 Deal ends: 8th December
 
-Mosse Cyber Security Institute - Elite Cyber Security Training + Labs \
+**Mosse Cyber Security Institute** - Elite Cyber Security Training + Labs \
 https://www.mosse-institute.com/  
 10% off any course with code `MCSI-BLACK-FRIDAY-2024` \
 Deal ends: 29th November
@@ -347,6 +432,11 @@ https://secops.group/pentesting-exams/#infosecexams
 90% off on all pentesting exams. Use code: `BLACKFRIDAY-90` \
 No expirity on exam vouchers! \
 Deal unlocks: 6th November
+
+**INE (eLearn Security)** - Security Training \
+[INE Black Friday Deals](https://checkout.ine.com/black-friday)  
+50% discount for eCDFP, eCIR, eCTHP and eMAPT exams $200 down from $400 \
+Deal valid: 22nd November - 6th December
 
 ## Hardware:
 
@@ -369,6 +459,16 @@ Deal valid: 1st - 30th November
 https://www.yubico.com/store/2024/black-friday-sale/#  
 $25 off on orders above $100 \
 Deal valid: 25th November - 2nd December
+
+**SecuringHardware.com** - Tigard, a multi-protocol hardware hacking tool \
+https://learn.securinghardware.com/2024eoy/  
+20% off retail and free shipping with code: `Tigard2024` \
+Deal valid: 21st November - 1st December
+
+**PenTestersToolkit.com** - Penetration Testing Hardware, Tools, and Kits \
+https://pentesterstoolkit.com/collections/black-friday-2024  
+10% off entire order with code: `BLACKFRIDAY2024` \
+Deal valid: 28th November - 1st December
 
 ## Wearables:
   
@@ -441,6 +541,13 @@ https://www.ipvanish.com/pricing/
 1yr - Advanced $4.49 /mo > $53.88 for the first year \
 2yr - Essential $2.19/mo > $52.56 for the first 2 years \
 2yr - Advanced $3.29/mo > $78.96 for the first 2 years
+
+## Misc: **NEW CATEGORY**
+
+**Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
+https://neatstickersco.etsy.com/  
+15% off all stickers or merch with code `CYBER` \
+Deal Ends: 10th December
 
 -----------------------------------------------------------------------------------------
 
