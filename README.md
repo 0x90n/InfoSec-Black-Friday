@@ -118,9 +118,10 @@ https://exploitpack.com/indexcontrolpack.html
 10 LIFETIME licenses available - Upgrade from €950 1-year license to LIFETIME \
 Deal ends: 30th November
 
-:new: **Eviquire** - Web Forensics \
-https://eviquire.com \
+**Eviquire** - Web Forensics :new: \
+https://eviquire.com  
 5 LIFETIME Expert Desktop licenses available for $2499 \
+Offer redeemed by referencing this deal via website/email \
 Deal ends: 5th December
 
 ## Online Courses & Training
