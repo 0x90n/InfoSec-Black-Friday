@@ -440,6 +440,11 @@ https://learn.securinghardware.com/2024eoy/
 20% off retail and free shipping with code: `Tigard2024` \
 Deal valid: 21st November - 1st December
 
+**PenTestersToolkit.com** - Penetration Testing Hardware, Tools, and Kits \
+https://pentesterstoolkit.com/collections/black-friday-2024  
+10% off entire order with code: `BLACKFRIDAY2024` \
+Deal valid: 28th November - 1st December
+
 ## Wearables:
   
 **HackCloth Clothing** - Hacker hoodies, T-Shirts & Sweatshirts \
