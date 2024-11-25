@@ -512,6 +512,14 @@ https://www.ipvanish.com/pricing/
 2yr - Essential $2.19/mo > $52.56 for the first 2 years \
 2yr - Advanced $3.29/mo > $78.96 for the first 2 years
 
+
+## Misc.
+
+**Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
+https://neatstickersco.etsy.com?coupon=CYBER 
+15% off all stickers or merch with code `CYBER` \
+Deal Ends: 10th December
+
 -----------------------------------------------------------------------------------------
 
 ## How to edit formatting
