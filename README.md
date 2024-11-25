@@ -130,11 +130,6 @@ Deal ends: 30th November
 
 ## Online Courses & Training
 
-**International Society of Automation** - Industrial Cybersecurity \
-https://programs.isa.org/blackfridayweek24  
-30% off with code: `BFCM24` \
-Deal valid: 25th November - 2nd December
-
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/business-pricing  
@@ -158,6 +153,11 @@ Deal valid: 20th November - 2nd December
 https://training.whiteknightlabs.com/  
 50% off all courses with code: `BLACK50` \
 Deal valid: 25th November  - 3rd December
+
+**International Society of Automation** - Industrial Cybersecurity \
+https://programs.isa.org/blackfridayweek24  
+30% off with code: `BFCM24` \
+Deal valid: 25th November - 2nd December
 
 **Invictus** - Cloud Incident Response Training \
 https://academy.invictus-ir.com  
@@ -334,7 +334,7 @@ https://belkasoft.com/training-bundles
 Deal valid: 26th November - 3rd December
 
 **pwn.guide** - Helping both beginners & experts learn cybersecurity :new: \
-https://pwn.guide/
+https://pwn.guide/  
 ~10% off all plans forever with code: `BFRI24` \
 Deal ends: 1st December
 
