@@ -83,7 +83,7 @@ Deal Ends: 20th December
 
 **SysReptor** - Pentest Reporting Software :new: \
 https://docs.sysreptor.com/ \
-30% off for Cloud or Self-Hosted \
+30% off Cloud or Self-Hosted \
 Deal ends: 2nd December
 
 **Pulsedive** - Frictionless threat intelligence solutions :see_no_evil: \
