@@ -134,8 +134,6 @@ https://eviquire.com
 Offer redeemed by referencing this deal via website/email \
 Deal ends: 5th December
 
-## Online Courses & Training
-
 **EaseUS** - Data Recovery and Encryption Software \
 https://www.easeus-software.com/campaign/2024-black-friday.html  
 50-70% off with code: `CRAZYBF`
