@@ -65,11 +65,6 @@ https://stan.store/CloudSecurityBootcamp
 ~60% off to our Popular AWS & Kubernetes LIVE workshops with Black Friday Bonus Included \
 Deal ends: 1st December
 
-**pwn.guide** - Helping both beginners & experts learn cybersecurity :new: \
-https://pwn.guide/
-~10% off all plans forever with code: `BFRI24` \
-Deal ends: 1st December
-
 ## Newsletters
 
 **LetsDefend** - Blue Team Training Newsletter :see_no_evil: \
@@ -337,6 +332,11 @@ Balkasoft - DFIR and Mobile Forensics Training \
 https://belkasoft.com/training-bundles  
 33% off on course bundles (save $999), applied automatically \
 Deal valid: 26th November - 3rd December
+
+**pwn.guide** - Helping both beginners & experts learn cybersecurity :new: \
+https://pwn.guide/
+~10% off all plans forever with code: `BFRI24` \
+Deal ends: 1st December
 
 ## Practical Labs
 
