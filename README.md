@@ -326,7 +326,7 @@ Deal valid: 21st November - 10th December
 **SecuringHardware.com** - Applied Physical Attacks self-paced online training with hardware toolkit \
 https://learn.securinghardware.com/2024eoy/  
 15% off all courses with code: `APANOV2024` \
-Deal valid: 21st November - 1st December \
+Deal valid: 21st November - 1st December
 
 **13Cubed** - OS Forensics and Investigations Courses \
 https://training.13cubed.com/  
