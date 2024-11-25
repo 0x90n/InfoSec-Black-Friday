@@ -298,14 +298,15 @@ $400 off Early Bird pricing with code: `BF400` \
 Deal valid: 29th November - 2nd December
 
 **Cyber NOW Education - SOC analyst training including incident response, cloud security, REST API** \
-[https://appsecengineer.com  ](https://www.cybernoweducation.com/subscribe)  
+[https://appsecengineer.com](https://www.cybernoweducation.com/subscribe)  
 35% off on Lifetime membership with code `CYBERHOLIDAY` 
 
-**INE (eLearn Security) ** - Security Training
-[INE Black Friday Deals](https://checkout.ine.com/black-friday)
-- Adventure 01: Premium Subscription + Skill Dive + 1 INE Security Certification: $699 (Save $749)
-- Adventure 02: Premium Subscription + 1 INE Security Certification: $499 (Save $650)
-- Adventure 03: Fundamentals Annual Subscription: $199 (Save $100)
+**INE (eLearn Security)** - Security Training \
+[https://checkout.ine.com/black-friday](https://checkout.ine.com/black-friday) \
+Adventure 01: Premium Subscription + Skill Dive + 1 INE Security Certification: $699 (Save $749) \
+Adventure 02: Premium Subscription + 1 INE Security Certification: $499 (Save $650) \
+Adventure 03: Fundamentals Annual Subscription: $199 (Save $100) \
+Adventure 04: 50% off all INE Security certifications
 Deal valid: 22nd November - 6th December
 
 **SEKTOR7** - RedTeam courses \
@@ -321,7 +322,7 @@ Deal valid: 21st November - 10th December
 **SecuringHardware.com** - Applied Physical Attacks self-paced online training with hardware toolkit \
 https://learn.securinghardware.com/2024eoy/  
 15% off all courses with code: `APANOV2024` \
-Deal valid: 21st November - 1st December \
+Deal valid: 21st November - 1st December
 
 **13Cubed** - OS Forensics and Investigations Courses \
 https://training.13cubed.com/  
