@@ -81,6 +81,11 @@ Deal Ends: 20th December
 
 ## Tools
 
+**SysReptor** - Pentest Reporting Software :new: \
+https://docs.sysreptor.com/ \
+30% off Cloud or Self-Hosted \
+Deal ends: 2nd December
+
 **Pulsedive** - Frictionless threat intelligence solutions :see_no_evil: \
 https://blog.pulsedive.com/black-friday-2024/  
 30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
