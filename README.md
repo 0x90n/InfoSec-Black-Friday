@@ -128,6 +128,13 @@ https://www.easeus-software.com/campaign/2024-black-friday.html
 50-70% off with code: `CRAZYBF`
 Deal ends: 30th November
 
+**ANY.RUN** – Interactive Malware Analysis Service \
+[https://app.any.run/plans](https://app.any.run/plans/?utm_source=github&utm_medium=post&utm_campaign=bf_2024_1&utm_content=linktopricing&utm_term=251124)
+50% off annual Hunter plan, plus one additional license for free. \
+Buy five enterprise licenses, get two free. \
+Buy ten enterprise licenses, get three free, plus TI Lookup for free. \
+Deal ends: 8th December
+
 ## Online Courses & Training
 
 **International Society of Automation** - Industrial Cybersecurity \
