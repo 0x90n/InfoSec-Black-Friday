@@ -128,6 +128,11 @@ https://www.easeus-software.com/campaign/2024-black-friday.html
 50-70% off with code: `CRAZYBF`
 Deal ends: 30th November
 
+**BugDazz** - API security Scanner \
+https://securelayer7.net/products/api-security-scanner/pricing
+45% off on annual plan, use code : BLACKFRIDAY45
+Deal ends: 2nd  December
+
 ## Online Courses & Training
 
 **International Society of Automation** - Industrial Cybersecurity \
