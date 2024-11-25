@@ -128,6 +128,14 @@ https://exploitpack.com/indexcontrolpack.html
 10 LIFETIME licenses available - Upgrade from €950 1-year license to LIFETIME \
 Deal ends: 30th November
 
+**Eviquire** - Web Forensics :new: \
+https://eviquire.com  
+5 LIFETIME Expert Desktop licenses available for $2499 \
+Offer redeemed by referencing this deal via website/email \
+Deal ends: 5th December
+
+## Online Courses & Training
+
 **EaseUS** - Data Recovery and Encryption Software \
 https://www.easeus-software.com/campaign/2024-black-friday.html  
 50-70% off with code: `CRAZYBF`
