@@ -510,7 +510,7 @@ Deal valid: 17th November 2024 - 2nd January 2025
 **Security Onion** - Shirts and hats for defenders, blue teamers, threat hunters, and incident responders \
 https://securityonion.com/merch  
 25% off with code: `CYBERMONION24` \
-Deal valid: Until December 24
+Deal valid: 24th December
 
 ## Books:
 
