@@ -368,7 +368,7 @@ https://training.13cubed.com/
 13% off all courses, applied automatically \
 Deal valid: 29th November - 2nd December
 
-Balkasoft - DFIR and Mobile Forensics Training \
+**Balkasoft** - DFIR and Mobile Forensics Training \
 https://belkasoft.com/training-bundles  
 33% off on course bundles (save $999), applied automatically \
 Deal valid: 26th November - 3rd December
@@ -392,6 +392,17 @@ Deal ends: 27nd November
 https://securityonion.com/ondemandtraining  
 25% off with code: `CYBERMONION24` \
 Deal ends: 24th December
+
+**Defensive Security** - Linux Attack, Detection and Live Forensics \
+https://edu.defensive-security.com/linux-attack-live-forensics-at-scale  
+20% off with code: `PR2HP71-BFRIDAY` \
+Deal ends: 3rd December
+
+**RTFM Video Library** - Red Team Training \
+https://www.thertfm.com/store  
+25% off ($197 down to $147) \
+SWAG pack for the first ten purchases. Still available as of 11/26 12:48 CST. \
+Deal ends: 9th December
 
 ## Practical Labs
 
