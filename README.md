@@ -209,6 +209,9 @@ https://academy.bluraven.io
 35% off with code: `BFCM24` \
 Deal valid: 15th November - 7th December
 
+**Chatsimple Ai** - Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better \
+50% OFF for 1 year or for the first three months of monthly plans https://www.chatsimple.ai/?via=aitools-fyi `FRIDAY50`
+
 **Altered Security** - Online Security Training Labs \
 https://www.alteredsecurity.com/  
 20% off all courses and bootcamps in Q1 & Q2 2025 \
