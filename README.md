@@ -383,6 +383,11 @@ http://pracnet.net/tls
 85% off ($297 down to $50) with code: `BFCM2024` \
 Deal ends: 6th December
 
+**TheDFIRReport** - Investigate Real Intrusions with Interactive DFIR Labs :new: \
+https://store.thedfirreport.com/collections/dfir-labs  
+35% off all DFIR Labs - Applied automatically at checkout \
+Deal ends: 27nd November
+
 **Security Onion** - Training for defenders, blue teamers, threat hunters, and incident responders \
 https://securityonion.com/ondemandtraining  
 25% off with code: `CYBERMONION24` \
