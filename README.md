@@ -404,6 +404,13 @@ https://www.thertfm.com/store
 SWAG pack for the first ten purchases. Still available as of 11/26 12:48 CST. \
 Deal ends: 9th December
 
+**Level Effect** - Blue with Virtual SOC, Data Science/AI, Detection Engineering Training (Self-Paced/Live) \
+https://training.leveleffect.com  
+20% off courses and certifications, bundled discounts up to 25% \
+First sale includes CDA course worth 59 credits to Bachelor's of Science at Purdue Global
+
+Deal ends: 9th 2024
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
