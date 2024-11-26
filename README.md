@@ -177,7 +177,7 @@ https://app.letsdefend.io/business-pricing
 Additional 50% off for students by using .edu email (55% + 50%) \
 Deal ends: 2nd December
 
-**TheDFIRReport** - Investigate Real Intrusions with Interactive DFIR Labs :rocket::rocket: :new:  :see_no_evil: \
+**TheDFIRReport** - Investigate Real Intrusions with Interactive DFIR Labs :new:  :see_no_evil: \
 https://thedfirreport.com \
 https://store.thedfirreport.com/collections/dfir-labs \
 35% off all DFIR Labs - Applied automatically at checkout \
