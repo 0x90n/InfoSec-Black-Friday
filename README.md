@@ -43,7 +43,15 @@ By popular request - If this list saved you any dollaridoos, you can buy me a no
 
 -----------------------------------------------------------------------------------------
 
-# InfoSec Black Friday Deals 2024 - Work on this has started, feel free to submit your PRs!
+## FREE STUFF
+
+Fill in a short survey to help me keep building a better list each year here: https://forms.gle/nQ4n5dUCmd8QyYM26  
+
+As a thank you, each submission will go into the running for the following prizes: \
+- Osint.Industries search credits / plan \
+- ZoomEye Personal Yearly Plan \
+- DroneSec Course Bundle \
+- More coming soon...
 
 ## InfoSec Career Development
 
