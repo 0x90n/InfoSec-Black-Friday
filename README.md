@@ -383,6 +383,11 @@ http://pracnet.net/tls
 85% off ($297 down to $50) with code: `BFCM2024` \
 Deal ends: 6th December
 
+**Security Onion** - Training for defenders, blue teamers, threat hunters, and incident responders \
+https://securityonion.com/ondemandtraining  
+25% off with code: `CYBERMONION24` \
+Deal ends: 24th December
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
@@ -501,6 +506,11 @@ Deal valid: 28th November - 1st December
 https://hackcloth.com/  
 Buy 2 get 20% off storewide + Free shipping worldwide \
 Deal valid: 17th November 2024 - 2nd January 2025  
+
+**Security Onion** - Shirts and hats for defenders, blue teamers, threat hunters, and incident responders \
+https://securityonion.com/merch  
+25% off with code: `CYBERMONION24` \
+Deal valid: 24th December
 
 ## Books:
 
