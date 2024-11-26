@@ -383,6 +383,12 @@ http://pracnet.net/tls
 85% off ($297 down to $50) with code: `BFCM2024` \
 Deal ends: 6th December
 
+**RTFM Video Library** - Red Team Training \
+https://www.thertfm.com/store 
+25% off ($197 down to $147) \
+SWAG pack for the first ten purchases. Still available as of 11/26 12:48 CST. \
+Deal ends: 9th December
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
