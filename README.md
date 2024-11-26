@@ -81,10 +81,14 @@ Deal Ends: 20th December
 
 ## Tools
 
-**SysReptor** - Pentest Reporting Software :new: \
-https://docs.sysreptor.com/ \
-30% off Cloud or Self-Hosted \
-Deal ends: 2nd December
+**OSINT Industries** - Powerful Tools for Online Investigations :see_no_evil: :new: \
+https://app.osint.industries/  
+10% off all plans/credits with code: `BLACKFRIDAY` \
+https://academy.osint.industries/  
+25% off all training with code: `OSINTFRIDAY` \
+https://us06web.zoom.us/webinar/register/WN_JZ0uD0R4RzGq9KwVdte7Bw#/registration  
+FREE OSINT training course on Black Friday only (29th November @ 12pm EST) \
+Deal valid: 26th November - 3rd December
 
 **Pulsedive** - Frictionless threat intelligence solutions :see_no_evil: \
 https://blog.pulsedive.com/black-friday-2024/  
@@ -140,11 +144,21 @@ https://www.easeus-software.com/campaign/2024-black-friday.html
 Deal ends: 30th November
 
 **ANY.RUN** – Interactive Malware Analysis Service \
-[https://app.any.run/plans](https://app.any.run/plans/?utm_source=github&utm_medium=post&utm_campaign=bf_2024_1&utm_content=linktopricing&utm_term=251124)
+https://app.any.run/plans  
 50% off annual Hunter plan, plus one additional license for free. \
 Buy five enterprise licenses, get two free. \
 Buy ten enterprise licenses, get three free, plus TI Lookup for free. \
 Deal ends: 8th December
+
+**ZoomEye** - cyberspace OSINT search engine \
+https://zoomeye.hk/v2/  
+$9 Flash Sale + buy 1 year, get 1 year free \
+Deal valid: 28-29th November
+
+**SysReptor** - Pentest Reporting Software :new: \
+https://docs.sysreptor.com/  
+30% off Cloud or Self-Hosted \
+Deal ends: 2nd December
 
 ## Online Courses & Training
 
@@ -355,6 +369,11 @@ Deal valid: 26th November - 3rd December
 https://pwn.guide/  
 ~10% off all plans forever with code: `BFRI24` \
 Deal ends: 1st December
+
+**Practical TLS** - Training Course \
+http://pracnet.net/tls  
+85% off ($297 down to $50) with code: `BFCM2024` \
+Deal ends: 6th December
 
 ## Practical Labs
 
