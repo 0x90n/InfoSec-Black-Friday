@@ -170,7 +170,7 @@ Deal ends: 2nd December
 
 **Nessus** - Pentest Reporting Software  \
 https://www.tenable.com/buy
-~50% off (depending on taxes) with code: `takehalg`\
+~50% off (depending on taxes) with code: `takehalf`\
 Deal ends: Not disclosed, but estimated on 2nd December
 
 ## Online Courses & Training
