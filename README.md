@@ -411,6 +411,11 @@ First sale includes CDA course worth 59 credits to Bachelor's of Science at Purd
 
 Deal ends: 9th 2024
 
+**DNS for Developers** - Everything developers should know about DNS. \
+https://nslookup.io/dns-course/
+66% off the course and certification \
+Deal ends: 4th December
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
