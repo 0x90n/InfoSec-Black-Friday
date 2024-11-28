@@ -420,6 +420,12 @@ https://nslookup.io/dns-course/
 66% off the course and certification \
 Deal ends: 4th December
 
+**InvokeRE** - Introduction to Malware Binary Triage (IMBT) Binary Ninja and IDA Pro version 15% off Premium \
+https://training.invokere.com/pricing  
+15% off Premium with no code necessary \
+Deal ends: 1st December 
+
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
