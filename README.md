@@ -535,10 +535,13 @@ https://securityonion.com/merch
 25% off with code: `CYBERMONION24` \
 Deal valid: 24th December  
 
-Miscreants - Thoughtfully designed apparel for hackers Ⓜ️  \
+**Miscreants** - Thoughtfully designed apparel for hackers Ⓜ️ :see_no_evil: \
 https://shop.miscreants.com/  
-(1) 20% off everything with code: 0x90n (Deal valid from Nov 29th 00:00am - Dec 2nd 11:59pm EST)  \
-(2) 10% off everything with code: CYBER10 (Deal ends December 30th, 11:59pm)  
+(1) 20% off everything with code: 0x90n \
+NOTE: This is not an affiliate link \
+Deal valid: 29th Nov - 2nd December  \
+(2) 10% off everything with code: `CYBER10` \
+Deal ends: 30th December \
 
 ## Books:
 
