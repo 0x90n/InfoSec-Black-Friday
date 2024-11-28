@@ -173,6 +173,11 @@ https://www.tenable.com/buy
 ~50% off (depending on taxes) with code: `takehalf` \
 Deal ends: Not disclosed, but estimated on 2nd December
 
+**Flux AI** - Free Online AI Image Generator  \
+https://flux1.ai/  
+**50%** off (depending on taxes) with code: `BF5` \
+Deal ends: 2nd December
+
 ## Online Courses & Training
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
