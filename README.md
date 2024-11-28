@@ -108,6 +108,11 @@ https://grayhatwarfare.com/packages
 Premium yearly $160 down from $300 \
 Enterprise yearly $450 down from $960
 
+**Netlas** - provides a suite of tools for attack surface management, reconnaissance, and internet search capabilities, enabling users to discover, research, and monitor online assets effectively :new:\
+[Netlas.io](https://netlas.io/) \
+20% off forever discount for both annual and monthly subscription: `BFCM2024`  \
+Deal valid till 31st Dec 2024
+
 **ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring \
 https://scantitan.com  
 90% of LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-B5C9-JMLF-BF24` \
