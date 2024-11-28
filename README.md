@@ -173,6 +173,11 @@ https://www.tenable.com/buy
 ~50% off (depending on taxes) with code: `takehalf` \
 Deal ends: Not disclosed, but estimated on 2nd December
 
+**Pagerly** - Incidence Response Chatops Software  \
+https://www.pagerly.io/pricing
+~20% off with code: `BF2024` \
+Deal ends: 30th November
+
 ## Online Courses & Training
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
