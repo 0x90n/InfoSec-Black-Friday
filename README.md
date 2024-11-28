@@ -411,6 +411,13 @@ First sale includes CDA course worth 59 credits to Bachelor's of Science at Purd
 
 Deal ends: 9th 2024
 
+**TryHackMe** - Gamified, hands-on cyber security training platform \
+https://tryhackme.com/r/why-subscribe 
+35% off Annual Subscription. 25% off Monthly. \
+Use Code: `BLACKFRIDAY2024` \
+Deal Ends: 30th December (Timezones may Vary)
+
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
