@@ -486,20 +486,21 @@ https://www.mosse-institute.com/
 Deal ends: 29th November
 
 ## Practical Laravel Security course
-**Practical Laravel Security** - hands-on security course that uses interactive hacking exercises to teach you how to keep your Laravel applications secure
-25% off with promo code - `BLACKFRIDAY`
-[practicallaravelsecurity.com](https://practicallaravelsecurity.com)
+**Practical Laravel Security** - hands-on security course that uses interactive \
+hacking exercises to teach you how to keep your Laravel applications secure \
+25% off with promo code - `BLACKFRIDAY` \
+[practicallaravelsecurity.com](https://practicallaravelsecurity.com) \
 Deal valid starting November 25th; end date not specified.
 
 ## Mini Courses
 
-**Securing Laravel** -  The essential security resource for Laravel developers. 
-[securinglaravel.com](https://securinglaravel.com/black-friday-2024/)
-25% off MONTHLY - $11.25/month
-25% off YEARLY - only $112.5/year
-Coupon applied automatically
-*Hacker* Subscribers - $300,  will get lifetime access + [Practical Laravel Security course](#practical-laravel-security-course).
-Deal valid starting November 25th; end date not specified.
+**Securing Laravel** -  The essential security resource for Laravel developers. \
+[securinglaravel.com](https://securinglaravel.com/black-friday-2024/) \
+25% off MONTHLY - $11.25/month \
+25% off YEARLY - only $112.5/year \
+Coupon applied automatically \
+*Hacker* Subscribers - $300,  will get lifetime access + [Practical Laravel Security course] (#practical-laravel-security-course). \
+Deal valid starting November 25th; end date not specified.\
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
 https://www.lufsec.com/products/  
