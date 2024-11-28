@@ -533,7 +533,12 @@ Deal valid: 17th November 2024 - 2nd January 2025
 **Security Onion** - Shirts and hats for defenders, blue teamers, threat hunters, and incident responders \
 https://securityonion.com/merch  
 25% off with code: `CYBERMONION24` \
-Deal valid: 24th December
+Deal valid: 24th December  
+
+Miscreants - Thoughtfully designed apparel for hackers Ⓜ️  \
+https://shop.miscreants.com/  
+(1) 20% off everything with code: 0x90n (Deal valid from Nov 29th 00:00am - Dec 2nd 11:59pm EST)  \
+(2) 10% off everything with code: CYBER10 (Deal ends December 30th, 11:59pm)  
 
 ## Books:
 
