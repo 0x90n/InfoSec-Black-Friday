@@ -407,12 +407,11 @@ Deal ends: 9th December
 **Level Effect** - Blue with Virtual SOC, Data Science/AI, Detection Engineering Training (Self-Paced/Live) \
 https://training.leveleffect.com  
 20% off courses and certifications, bundled discounts up to 25% \
-First sale includes CDA course worth 59 credits to Bachelor's of Science at Purdue Global
-
+First sale includes CDA course worth 59 credits to Bachelor's of Science at Purdue Global \
 Deal ends: 9th 2024
 
 **DNS for Developers** - Everything developers should know about DNS. \
-https://nslookup.io/dns-course/
+https://nslookup.io/dns-course/  
 66% off the course and certification \
 Deal ends: 4th December
 
