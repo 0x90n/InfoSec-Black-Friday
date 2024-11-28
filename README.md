@@ -168,6 +168,11 @@ https://docs.sysreptor.com/
 30% off Cloud or Self-Hosted \
 Deal ends: 2nd December
 
+**NinjaTools AI** - All-In-One AI Productivity Tool :new: \
+https://ninjatools.ai  
+20% off on all subcription plans with code: `BLACKFRIDAY20` \
+Deal ends: ALL YEAR
+
 ## Online Courses & Training
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
