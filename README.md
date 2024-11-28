@@ -168,6 +168,11 @@ https://docs.sysreptor.com/
 30% off Cloud or Self-Hosted \
 Deal ends: 2nd December
 
+**Nessus** - Pentest Reporting Software  \
+https://www.tenable.com/buy  
+~50% off (depending on taxes) with code: `takehalf` \
+Deal ends: Not disclosed, but estimated on 2nd December
+
 ## Online Courses & Training
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
