@@ -103,6 +103,13 @@ https://blog.pulsedive.com/black-friday-2024/
 30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
 Deal ends: 30th November
 
+**Odin** - Powerful Internet Scanning Engine (search across complete ipv4 space, exposed files & buckets) :new: \
+[https://odin.io](https://odin.io)  
+50% off on yearly starter at $24/month down from $49 \
+30% off on monthly starter at $34 down from $49 \
+Discount applied automatically at checkout \
+Deal ends: 9th December
+
 **Gray Hat Warfare** - Open source + misconfigured storage and URL shorteners :see_no_evil: \
 https://grayhatwarfare.com/packages  
 Premium yearly $160 down from $300 \
@@ -168,10 +175,15 @@ https://docs.sysreptor.com/
 30% off Cloud or Self-Hosted \
 Deal ends: 2nd December
 
-**Nessus** - Pentest Reporting Software  \
+**Nessus** - Vulnerability Scanner Software  \
 https://www.tenable.com/buy  
 ~50% off (depending on taxes) with code: `takehalf` \
 Deal ends: Not disclosed, but estimated on 2nd December
+
+**Pagerly** - Incidence Response Chatops Software  \
+https://www.pagerly.io/pricing
+~20% off the standard plan with code: `BF2024` \
+Deal ends: 30th November
 
 ## Online Courses & Training
 
@@ -425,7 +437,6 @@ https://training.invokere.com/pricing
 15% off Premium with no code necessary \
 Deal ends: 1st December 
 
-
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
@@ -486,7 +497,18 @@ https://www.mosse-institute.com/
 10% off any course with code `MCSI-BLACK-FRIDAY-2024` \
 Deal ends: 29th November
 
+**TryHackMe** - Gamified, hands-on cyber security training platform \
+https://tryhackme.com/r/why-subscribe. 
+35% off Annual Subscription, 25% off Monthly with code: `BLACKFRIDAY2024` \
+Deal Ends: 30th December
+
 ## Mini Courses
+
+Hacking Android Applications for Bug Bounty and Pentesting \
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/  
+65% off at checkout with code: `BLACKFRIDAY2024` \
+Deal valid: 26th November - 1st December 2024 \
+NOTE: DYOR on Reviews
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
 https://www.lufsec.com/products/  
