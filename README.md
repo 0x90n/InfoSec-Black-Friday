@@ -103,11 +103,11 @@ https://blog.pulsedive.com/black-friday-2024/
 30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
 Deal ends: 30th November
 
-**Odin** - Powerful Internet Scanning Engine (search across complete ipv4 space, exposed files & buckets) :new:\
-[https://odin.io](https://odin.io) \
-50% off on yearly starter at $24/month down from $49\
-30% off on monthly starter at $34 down from $49\
-Discount applied automatically at checkout\
+**Odin** - Powerful Internet Scanning Engine (search across complete ipv4 space, exposed files & buckets) :new: \
+[https://odin.io](https://odin.io)  
+50% off on yearly starter at $24/month down from $49 \
+30% off on monthly starter at $34 down from $49 \
+Discount applied automatically at checkout \
 Deal ends: 9th December
 
 **Gray Hat Warfare** - Open source + misconfigured storage and URL shorteners :see_no_evil: \
