@@ -483,9 +483,10 @@ Deal ends: 29th November
 ## Mini Courses
 
 Hacking Android Applications for Bug Bounty and Pentesting \
-https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY2024 
-65% off at checkout with code: BLACKFRIDAY2024 \
-Deal valid: 26th November - 1st December 2024
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/  
+65% off at checkout with code: `BLACKFRIDAY2024` \
+Deal valid: 26th November - 1st December 2024 \
+NOTE: DYOR on Reviews
 
 **LufSec** - Car Hacking, IoT, Web App Pentesting Mini Courses \
 https://www.lufsec.com/products/  
