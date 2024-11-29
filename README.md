@@ -438,6 +438,11 @@ https://nslookup.io/dns-course/
 66% off the course and certification \
 Deal ends: 4th December
 
+**SecuRing Certified iOS Application Security Engineer** \
+https://courses.securing.pl/courses/iase  
+20% off with code `black20` \
+Deal ends: 30th November 
+
 **InvokeRE** - Introduction to Malware Binary Triage (IMBT) Binary Ninja and IDA Pro version 15% off Premium \
 https://training.invokere.com/pricing  
 15% off Premium with no code necessary \
