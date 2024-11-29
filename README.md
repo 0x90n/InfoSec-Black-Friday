@@ -175,7 +175,7 @@ Deal ends: Not disclosed, but estimated on 2nd December
 
 **Pagerly** - Incidence Response Chatops Software  \
 https://www.pagerly.io/pricing
-~20% off with code: `BF2024` \
+~20% off the standard plan with code: `BF2024` \
 Deal ends: 30th November
 
 ## Online Courses & Training
