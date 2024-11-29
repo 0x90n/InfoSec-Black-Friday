@@ -420,6 +420,7 @@ https://nslookup.io/dns-course/
 66% off the course and certification \
 Deal ends: 4th December
 
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
@@ -479,6 +480,11 @@ Deal ends: 8th December
 https://www.mosse-institute.com/  
 10% off any course with code `MCSI-BLACK-FRIDAY-2024` \
 Deal ends: 29th November
+
+**TryHackMe** - Gamified, hands-on cyber security training platform \
+https://tryhackme.com/r/why-subscribe. 
+35% off Annual Subscription, 25% off Monthly with code: `BLACKFRIDAY2024` \
+Deal Ends: 30th December
 
 ## Mini Courses
 
