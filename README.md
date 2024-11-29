@@ -406,10 +406,10 @@ http://pracnet.net/tls
 85% off ($297 down to $50) with code: `BFCM2024` \
 Deal ends: 6th December
 
-**Evilginx Mastery course** - Learn Evilginx directly from its creator in this professional course.
-[academy.breakdev.org](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY)
-Lifetime access for 199 EUR ( around 210 USD )
-50% discount code at the checkout: BLACKFRIDAY
+**Evilginx Mastery course** - Learn Evilginx directly from its creator in this professional course. \
+[academy.breakdev.org](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY) \
+Lifetime access for 199 EUR ( around 210 USD ) \
+50% discount code at the checkout: `BLACKFRIDAY` \
 Deal ends 29th November
 
 **TheDFIRReport** - Investigate Real Intrusions with Interactive DFIR Labs :new: \
