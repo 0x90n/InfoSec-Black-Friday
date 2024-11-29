@@ -620,6 +620,11 @@ https://store.securitybreak.io/threatintel
 40% off on the eBook with code: `BLACKFRIDAYVTI24` \
 Deal valid: Until December 3
 
+**No Starch Press - Security and tech books**
+https://nostarch.com/
+35% off everything with code: `BLACKHATFRIDAY` \
+Deal valid: Until December 2
+
 ## Games:
 
 **Agile Stationery** - Threat Modeling Card Games, Sets and Books \
