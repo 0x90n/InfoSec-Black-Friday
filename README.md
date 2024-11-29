@@ -168,6 +168,11 @@ https://docs.sysreptor.com/
 30% off Cloud or Self-Hosted \
 Deal ends: 2nd December
 
+**Nessus** - Pentest Reporting Software  \
+https://www.tenable.com/buy  
+~50% off (depending on taxes) with code: `takehalf` \
+Deal ends: Not disclosed, but estimated on 2nd December
+
 ## Online Courses & Training
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
@@ -407,15 +412,13 @@ Deal ends: 9th December
 **Level Effect** - Blue with Virtual SOC, Data Science/AI, Detection Engineering Training (Self-Paced/Live) \
 https://training.leveleffect.com  
 20% off courses and certifications, bundled discounts up to 25% \
-First sale includes CDA course worth 59 credits to Bachelor's of Science at Purdue Global
-
+First sale includes CDA course worth 59 credits to Bachelor's of Science at Purdue Global \
 Deal ends: 9th 2024
 
-**TryHackMe** - Gamified, hands-on cyber security training platform \
-https://tryhackme.com/r/why-subscribe 
-35% off Annual Subscription. 25% off Monthly. \
-Use Code: `BLACKFRIDAY2024` \
-Deal Ends: 30th December (Timezones may Vary)
+**DNS for Developers** - Everything developers should know about DNS. \
+https://nslookup.io/dns-course/  
+66% off the course and certification \
+Deal ends: 4th December
 
 
 ## Practical Labs
@@ -477,6 +480,11 @@ Deal ends: 8th December
 https://www.mosse-institute.com/  
 10% off any course with code `MCSI-BLACK-FRIDAY-2024` \
 Deal ends: 29th November
+
+**TryHackMe** - Gamified, hands-on cyber security training platform \
+https://tryhackme.com/r/why-subscribe. 
+35% off Annual Subscription, 25% off Monthly with code: `BLACKFRIDAY2024` \
+Deal Ends: 30th December
 
 ## Mini Courses
 
@@ -540,7 +548,15 @@ Deal valid: 17th November 2024 - 2nd January 2025
 **Security Onion** - Shirts and hats for defenders, blue teamers, threat hunters, and incident responders \
 https://securityonion.com/merch  
 25% off with code: `CYBERMONION24` \
-Deal valid: 24th December
+Deal valid: 24th December  
+
+**Miscreants** - Thoughtfully designed apparel for hackers Ⓜ️ :see_no_evil: \
+https://shop.miscreants.com/  
+(1) 20% off everything with code: 0x90n \
+NOTE: This is not an affiliate link \
+Deal valid: 29th Nov - 2nd December  \
+(2) 10% off everything with code: `CYBER10` \
+Deal ends: 30th December \
 
 ## Books:
 
