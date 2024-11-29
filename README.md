@@ -406,6 +406,12 @@ http://pracnet.net/tls
 85% off ($297 down to $50) with code: `BFCM2024` \
 Deal ends: 6th December
 
+**Evilginx Mastery course** - Learn Evilginx directly from its creator in this professional course.
+[academy.breakdev.org](https://academy.breakdev.org/evilginx-mastery?coupon=BLACKFRIDAY)
+Lifetime access for 199 EUR ( around 210 USD )
+50% discount code at the checkout: BLACKFRIDAY
+Deal ends 29th November
+
 **TheDFIRReport** - Investigate Real Intrusions with Interactive DFIR Labs :new: \
 https://store.thedfirreport.com/collections/dfir-labs  
 35% off all DFIR Labs - Applied automatically at checkout \
@@ -524,8 +530,6 @@ Hacker Subscribers - $300,  will get lifetime access + Practical Laravel Securit
 https://tryhackme.com/r/why-subscribe. 
 35% off Annual Subscription, 25% off Monthly with code: `BLACKFRIDAY2024` \
 Deal Ends: 30th December
-
-## Mini Courses
 
 Hacking Android Applications for Bug Bounty and Pentesting \
 https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/  
