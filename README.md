@@ -115,6 +115,12 @@ https://grayhatwarfare.com/packages
 Premium yearly $160 down from $300 \
 Enterprise yearly $450 down from $960
 
+**Netlas** - Attack surface management suite :new: \
+[Netlas.io](https://netlas.io/). 
+How to redeem: https://mailing.netlas.io/webview/campaign/4d72e3f9-203d-4530-9319-f9dc45e5105c. 
+20% off forever discount for both annual and monthly subscription: `BFCM2024` \
+Deal ends: 31st December
+
 **ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring \
 https://scantitan.com  
 90% of LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-B5C9-JMLF-BF24` \
@@ -496,6 +502,18 @@ Deal ends: 8th December
 https://www.mosse-institute.com/  
 10% off any course with code `MCSI-BLACK-FRIDAY-2024` \
 Deal ends: 29th November
+
+**Practical Laravel Security** - hands-on security course for Laravel applications \
+[practicallaravelsecurity.com](https://practicallaravelsecurity.com). 
+25% off with promo code - `BLACKFRIDAY` \
+
+## Mini Courses
+
+**Securing Laravel** - The essential security resource for Laravel developers \
+[securinglaravel.com](https://securinglaravel.com/black-friday-2024/) \
+25% off MONTHLY - $11.25/month \
+25% off YEARLY - $112.5/year \
+Hacker Subscribers - $300,  will get lifetime access + Practical Laravel Security course
 
 **TryHackMe** - Gamified, hands-on cyber security training platform \
 https://tryhackme.com/r/why-subscribe. 
