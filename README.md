@@ -583,6 +583,11 @@ https://pentesterstoolkit.com/collections/black-friday-2024
 10% off entire order with code: `BLACKFRIDAY2024` \
 Deal valid: 28th November - 1st December
 
+**SouthOrd Locksmith Tools** \
+https://www.southord.com/
+25% off with code: 'HOLLY25' \
+Deal valid: November 27 through December 20
+
 ## Wearables:
   
 **HackCloth Clothing** - Hacker hoodies, T-Shirts & Sweatshirts \
