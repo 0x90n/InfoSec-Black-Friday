@@ -133,6 +133,12 @@ https://portdroid.net/black-friday-2024/
 ~50% off lifetime version with code: `CYBER_2024` \
 Deal ends: 4th December
 
+**ZeroPath** - AI-Powered Code Vulnerability Scanner\
+https://zeropath.com
+50% off monthly plan (50% of $40 per developer) \
+Deal ends: 6th December
+
+
 **Standard Notes** – Encrypted Note-Taking App \
 https://standardnotes.com/plans  
 50% off all annual plans \
