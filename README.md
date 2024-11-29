@@ -603,6 +603,11 @@ Deal valid: 29th Nov - 2nd December  \
 (2) 10% off everything with code: `CYBER10` \
 Deal ends: 30th December \
 
+**Evil Twin Shirts** - Infosec T-Shirts \
+https://eviltwinshirts.com
+20% Off with code: `BLACK` \
+Deal Valid: 28 November 2024 - 3 December 2024 \
+
 ## Books:
 
 **The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry. \
