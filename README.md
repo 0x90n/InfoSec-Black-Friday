@@ -420,6 +420,11 @@ https://nslookup.io/dns-course/
 66% off the course and certification \
 Deal ends: 4th December
 
+**SecuRing Certified iOS Application Security Engineer** \
+https://courses.securing.pl/courses/iase  
+20% off with code `black20` \
+Deal ends: 30th November 
+
 ## Practical Labs
 
 **Pwnedlabs** - Real-World Cloud Security Labs \
