@@ -193,6 +193,13 @@ Deal ends: 30th November
 
 ## Online Courses & Training
 
+**Cyber5W** - DFIR Training \
+https://cyber5w.com/
+https://academy.cyber5w.com/  
+50% off on courses with code: `BLK24` \
+Deal ends: 3rd December
+
+
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/business-pricing  
