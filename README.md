@@ -514,7 +514,7 @@ Deal ends: 29th November
 
 **Network Defense (Chris Sanders)** - defensive security courses \
 [networkdefense.io](https://networkdefense.io) \
-25% off with code until Tue 3/12 (ET) - `MAKEMOREBISCUITS` \
+25% off with code until Tue 3/12 (ET) - `MAKEMOREBISCUITS`
 
 ## Mini Courses
 
