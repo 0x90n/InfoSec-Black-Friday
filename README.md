@@ -512,6 +512,10 @@ Deal ends: 29th November
 [practicallaravelsecurity.com](https://practicallaravelsecurity.com). 
 25% off with promo code - `BLACKFRIDAY` \
 
+**Network Defense (Chris Sanders)** - defensive security courses \
+[networkdefense.io](https://networkdefense.io) \
+25% off with code until Tue 3/12 (ET) - `MAKEMOREBISCUITS` \
+
 ## Mini Courses
 
 **Securing Laravel** - The essential security resource for Laravel developers \
