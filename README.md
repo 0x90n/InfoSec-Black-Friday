@@ -87,6 +87,11 @@ https://securityboat.net/
 50% off all services with code `BLACKFRIDAY2024` in email subject to sales@securityboat.net \
 Deal Ends: 20th December
 
+**Chaotic Good Information Security** - Penetration Testing, Vulnerability Scanning, Code Review, Advisory Retainer :new: \
+https://www.chaoticgoodinfosec.com 
+50% off all services with code `HALFPRICEHACKS` at https://www.chaoticgoodinfosec.com/contact \
+Deal Ends: 31st December
+
 ## Tools
 
 **OSINT Industries** - Powerful Tools for Online Investigations :see_no_evil: :new: \
