@@ -637,17 +637,20 @@ Deal valid: 29th November - 5th December
 ## Services:
 
 **Proton Mail/VPN/Pass/Drive** - Encrypted Services \
-https://proton.me/mail/black-friday  
+(1) https://proton.me/mail/black-friday  
 60% off Mail \
 70% off VPN \
 60% off Drive \
 50% off Pass \
 Deal valid: 4th November - 3rd December
+(2) https://proton.me/support/pass-lifetime
+$199 for Lifetime Pass
+Deal valid: 11th November - 3rd December
 
 **Tuta Mail – Encrypted Email Service** \
 https://tuta.com/blog/black-weeks-at-tuta  
 62% off Legend Plan, applied automatically \
-Deal valid:  15th November – 4th Decembe
+Deal valid:  15th November – 4th December
 
 **NordVPN** \
 https://nordvpn.com/pricing  
