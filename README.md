@@ -191,6 +191,11 @@ https://www.pagerly.io/pricing
 ~20% off the standard plan with code: `BF2024` \
 Deal ends: 30th November
 
+**ClearOPS** - Security Questionnaire Response with GenAI Automation  \
+https://clearops.io/holidays-special
+50% off for 2025 with code: `bumblesbounce`  \
+Deal ends: midnight December 2, 2024
+
 ## Online Courses & Training
 
 **LetsDefend** - Blue Team Training :see_no_evil: \
