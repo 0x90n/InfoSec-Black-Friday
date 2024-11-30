@@ -673,6 +673,10 @@ https://www.ipvanish.com/pricing/
 2yr - Essential $2.19/mo > $52.56 for the first 2 years \
 2yr - Advanced $3.29/mo > $78.96 for the first 2 years
 
+**omg.lol** - website + email + microblog \
+[https://home.omg.lol](https://home.omg.lol) \
+25% off new, existing, and gift subscriptions with code: `THANKSGIVING`
+
 ## Misc: **NEW CATEGORY**
 
 **Neato Stickers** - Hacking & Cybersecurity related stickers :new: \
