@@ -512,6 +512,11 @@ Deal ends: 29th November
 [practicallaravelsecurity.com](https://practicallaravelsecurity.com). 
 25% off with promo code - `BLACKFRIDAY` \
 
+**Offsec** - Learn One \
+[https://www.offsec.com/pricing/individual/] \
+20% off on Learn One plan \
+Deal ends: unknown \
+
 ## Mini Courses
 
 **Securing Laravel** - The essential security resource for Laravel developers \
