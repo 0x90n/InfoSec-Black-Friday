@@ -583,6 +583,11 @@ https://pentesterstoolkit.com/collections/black-friday-2024
 10% off entire order with code: `BLACKFRIDAY2024` \
 Deal valid: 28th November - 1st December
 
+**Practical Physical Exploitation** - All weaponized RFID readers. \
+https://store.physicalexploit.com/ \
+$50 off retail, no code required. \
+Deal valid: 28th November - 2nd December
+
 ## Wearables:
   
 **HackCloth Clothing** - Hacker hoodies, T-Shirts & Sweatshirts \
