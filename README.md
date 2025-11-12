@@ -74,7 +74,7 @@ Deal valid: 12th - 30th November
 
 
 **trainsec** \
-https://trainsec.net/courses/
+https://trainsec.net/courses/  
 40% discount on courses \
 Code: BF2025
 Deal valid: 12th - ...
