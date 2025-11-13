@@ -193,6 +193,18 @@ Deal ends: 30th November
 
 ## Online Courses & Training
 
+**AI Security - Professional Course**, hands-on training with LLM Top 10, MITRE Atlas Framework, AI attack and defend techniques, and more \
+https://www.practical-devsecops.com/certified-ai-security-professional \
+15% off ($150 USD), auto-applied at checkout \
+(Enroll Now and Study Later) \
+Deal ends: 7th December 2025
+
+**Practical DevSecOps** - AI Security, DevSecOps, and AppSec hands-on training and certifications \
+https://www.practical-devsecops.com/black-friday/ \
+15% off all courses, save up to USD 500 on bundle, auto-applied at checkout \
+(Enroll Now and Study Later) \
+Deal ends: 7th December 2025
+
 **LetsDefend** - Blue Team Training :see_no_evil: \
 https://letsdefend.io/  
 https://app.letsdefend.io/business-pricing  
@@ -245,11 +257,6 @@ https://www.mobilehackinglab.com/afe
 https://www.mobilehackinglab.com/course/android-userland-fuzzing-and-exploitation-90-days-lab-and-exam  
 50% off (limited to 2 uses only) the 90 day access with code: `AFE50` \
 40% off (limited to 2 uses only) the 90 day access with code: `AFE40`
-
-**Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
-https://www.practical-devsecops.com/black-friday/  
-15% off all courses \
-Deal ends: 6th December
 
 **Security Blue Team** - BTL0 / BTL1 / BTL2 Training and Certifications \
 https://www.securityblue.team/black-friday-2024 
