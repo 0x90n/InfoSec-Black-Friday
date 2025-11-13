@@ -89,6 +89,11 @@ Deal Ends: 20th December
 
 ## Tools
 
+**FullStro** - P A Multi-Channel Ecommerce Automation :see_no_evil: :new: \
+http://fullstro.com/black-friday-deals/ 
+70% off all plans \
+Deal valid: 16th November - 6rd December
+
 **OSINT Industries** - Powerful Tools for Online Investigations :see_no_evil: :new: \
 https://app.osint.industries/  
 10% off all plans/credits with code: `BLACKFRIDAY` \
