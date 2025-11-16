@@ -1,9 +1,9 @@
-# InfoSec Black Friday Deals ~ "Cyber Turducken" 2024 Edition
+# InfoSec Black Friday Deals ~ "Cyber Turducken" 2025 Edition
 All the deals for InfoSec related software/tools this coming Black Friday. 
 
 Prepare thy corporate amex card. Prepare ye' team budget request forms. It's time to load up on InfoSec tools and get the deals that only pop up once a year. We've experienced the Crowdstrike outage and ChatGPT since 2023, I think we all deserve a little break. 
 
-### Just 2024 things
+### Just 2025 things
 Quality over quantity - this list goes through a level of vetting for dodginess, gated-deals, deals that aren't infosec related and either can't be verified or break promises. There are also some vendors being stood up (literally) with courses and training 'just' for black friday; at your service here to weed out the genuine from the fake.
 
 This list is for you if you are in: all teh cyberz, penetration tester, blue team, red team, purple team, secure code, exploit research and development, vulnerability management, threat hunting, incident response, forensics, intelligence, threat intelligence, open-source intelligence, governance/risk/compliance, security architect, network security, CSO/CISO, AppSec, DevSecOps, consulting, security awareness, and -insert your role here-
@@ -341,9 +341,8 @@ Deal ends: 3rd December
 
 **Pluralsight** – Online Tech Learning Platform \
 [https://www.pluralsight.com/](https://www.pluralsight.com/)  
-50% off Standard Plan ($149 down from $299) \
-50% off Premium Plan ($224 down from $449) \
-Deal valid: 21st – 28th November
+comeback60 60% off  
+Deal valid Till 31 December 2025
 
 **AppSecEngineer - Hands-on Training for Cloud Security/AI Security/Kubernetes/DevSecOps/Threat Modeling** \
 https://appsecengineer.com  
