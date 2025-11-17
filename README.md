@@ -99,12 +99,17 @@ FREE OSINT training course on Black Friday only (29th November @ 12pm EST) \
 Deal valid: 26th November - 3rd December
 
 **Pulsedive** - Frictionless threat intelligence solutions :see_no_evil: \
-https://blog.pulsedive.com/black-friday-2024/  
+https://blog.pulsedive.com/black-friday-2024/
 30% off 12 months of Pulsedive Pro with code: `CIRCUITBIRD30` \
 Deal ends: 30th November
 
+**SEOengine.ai** - SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. \
+https://seoengine.ai \
+35% OFF with code `BLACKFRIDAY` \
+Deal valid: Nov 17 - Dec 7
+
 **Odin** - Powerful Internet Scanning Engine (search across complete ipv4 space, exposed files & buckets) :new: \
-[https://odin.io](https://odin.io)  
+[https://odin.io](https://odin.io)
 50% off on yearly starter at $24/month down from $49 \
 30% off on monthly starter at $34 down from $49 \
 Discount applied automatically at checkout \
