@@ -200,10 +200,10 @@ https://app.letsdefend.io/business-pricing
 Additional 50% off for students by using .edu email (55% + 50%) \
 Deal ends: 2nd December
 
-**CloudBreach** - Offensive Azure & AWS Security Trainings and Certifications :see_no_evil: \
-https://cloudbreach.io/blackfriday/  
-20% off with code: `BlackFriday24` \
-Deal valid: 22nd November - 6th December
+**CloudBreach** - Advanced Offensive Azure & AWS Security Trainings and Certifications  :see_no_evil: \
+https://cloudbreach.io/blackfriday/ \
+20% off with code: `BlackFriday25` \
+Deal valid: 21nd November - 8th December
 
 **DroneSec** - Drone Cyber Security, Drone Open-Source Intelligence & Counter-Drone Training :see_no_evil: \
 https://training.dronesec.com/  
