@@ -312,12 +312,21 @@ https://courses.cloudsecurity.club/courses/Securing-AWS-Strategies-for-Lean-Team
 51% off (US$122 instead of US$249) with code: `BFRIDAY` \
 Deal ends: 2nd December
 
-**CyberWarFare Labs**  
-https://cyberwarfare.live/blackfriday/  
-Up to 80% off on the bundles \
+**CyberWarFare Labs**  - 🔥 **Massive Black Friday Deals Are Live!** \
 https://cyberwarfare.live/  
-Up to 50% off on all individual courses \
-Deal ends: 2nd December  
+
+- **Up to 90% off on all individual courses** \
+Link here - https://cyberwarfare.live/#platforms  
+
+- **Up to 85% off on the bundles** \
+Link here - https://cyberwarfare.live/black_friday/  
+
+- **Up to 70% off on the CWL Premium Membership (Lifetime access)** \
+Link here - https://cyberwarfare.live/premium-membership/  
+
+Deal ends: **30th Nov, 2025** \
+*No coupon code required* \
+*Don’t miss out — grab the offers now!*
 
 **ASK Academy** - Offensive Development and Tradecraft \
 [https://ask-academy.live/courses/offensive-development-and-tradecraft/](https://ask-academy.live/courses/offensive-development-and-tradecraft/)  
