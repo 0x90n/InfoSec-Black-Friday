@@ -525,6 +525,13 @@ https://tryhackme.com/r/why-subscribe.
 35% off Annual Subscription, 25% off Monthly with code: `BLACKFRIDAY2024` \
 Deal Ends: 30th December
 
+
+**SecDim** - In-Repository Secure Code Learning \
+https://play.secdim.com
+In-repository attack and defence wargame to learn appsec/devsecops/secure code/review. Find, hack and fix security vulnerabilities inspired by real-world incidents.  \
+35% off yearly, checkout using code: `APPSECONABUDGET2025` \
+Deal valid: 20th November - 5th December
+
 ## Mini Courses
 
 Hacking Android Applications for Bug Bounty and Pentesting \
@@ -627,12 +634,6 @@ OWASP Cornucopia, Cumulus, Elevation of MLSec, PLOT4AI, LINDDUN Go, and Elevatio
 https://agilestationery.com/collections/threat-modeling  
 30% off 3 items or more with code: `CYBER304324` \
 Deal valid: 1st November - 15th December (1 use per customer)
-
-**SecDim** - In-Repository Secure Code Learning :new: \
-https://mailchi.mp/secdim.com/4l2a7uwcir  
-In-repository attack and defence wargame to learn appsec/devsecops/secure code/review. Find, hack and fix security vulnerabilities inspired by real-world incidents.  \
-35% off yearly, checkout using code: `APPSECWASHARD2024` \
-Deal valid: 29th November - 5th December
 
 ## Services:
 
