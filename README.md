@@ -73,6 +73,11 @@ https://stan.store/CloudSecurityBootcamp
 ~60% off to our Popular AWS & Kubernetes LIVE workshops with Black Friday Bonus Included \
 Deal ends: 1st December
 
+**Career Hacking Quest** - Free career course and community for Cybersecurity engineers :new: \
+Bi-weekly live resume review sessions.
+https://www.careerhackingquest.com/
+FREE
+
 ## Newsletters
 
 **LetsDefend** - Blue Team Training Newsletter :see_no_evil: \
@@ -447,6 +452,12 @@ Deal ends: 30th November
 https://training.invokere.com/pricing  
 15% off Premium with no code necessary \
 Deal ends: 1st December 
+
+**DevSecOps Pro** - Build DevSecOps pipelines using GitHub Actions and AWS :new: \
+https://devsecopspro.com/bfcm-2025
+Includes lessons and labs \
+30% off annual subscription - no code required \
+Deal ends: 1st December
 
 ## Practical Labs
 
