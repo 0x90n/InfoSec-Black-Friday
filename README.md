@@ -82,11 +82,6 @@ https://grayhatwarfare.com/packages
 46% off Enterprise yearly ($450 down from $960) with code: `BLACK_FRIDAY_ENTERPRISE_YEAR` \
 Deal ends: Unknown
 
-**Threat.Zone** - Holistic Malware Analysis Platform | Interactive Sandbox \
-https://app.threat.zone/pricing  
-35% Discount on All Plans with code: `HAPPYHOLIDAYS35` \
-Deal ends: 31 December
-
 **PortDroid** - A swiss army knife of network security tools for Android \
 https://portdroid.net/black-friday-2025/  
 ~50% off lifetime version with code: `CYBER_2025` \
@@ -388,6 +383,14 @@ https://www.yubico.com/au/store/2025/black-friday-sale/
 https://www.yubico.com/press-releases/holidays-hottest-gift-yubico-deals-drop-just-in-time-to-block-every-hackers-wish-list/  
 $10 off when spending $100+ or more
 Deal valid: 24th November - 1st December
+
+**Practical Physical Exploitation** - Professional Grade RFID Cloning and Access Control Bypass Tools \
+https://store.physicalexploit.com/  
+Save $50 on all HID and Paxton Stealth Decoy Readers \
+Save $75 on all HID and Paxton Longrange Data Interpreters \
+Additional Sales throughout the month of December \
+No coupon codes needed \
+Deal valid: November 21st - December 5th \
 
 ## Wearables:
 
