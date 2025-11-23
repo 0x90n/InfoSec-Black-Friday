@@ -53,7 +53,7 @@ Vetting Deals.
 
 ## InfoSec Career Development
 
-The OSINTion/Blue Team Fusion: 25% off all 10 BTF courses with code **BLACKFRIDAY2025** https://www.theosintion.com/courses/blue-team-fusion
+ - The OSINTion/Blue Team Fusion: 25% off all 10 BTF courses with code **BLACKFRIDAY2025** https://www.theosintion.com/courses/blue-team-fusion
 
 ## Newsletters
 
