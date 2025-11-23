@@ -358,6 +358,7 @@ https://pentestingexams.com/offer/
 Deal valid: Now - Unknown
 
 ## Hardware:
+
 **PickPals** - Hobbyist and Professional lock picking and bypass tools :see_no_evil: \
 https://www.pickpals.com.au/buy-lockpicks/bundles/  
 Up to 70% off discount applied automatically \
@@ -387,12 +388,20 @@ Up to 60% off Holiday Gift Sets, Courses, Hardware \
 $10 off every sale item stackable with code: `H4K3DNOV25` \
 Deal valid: 1st - 30th November
 
-**Yubikey** - Hardware MFA Keys \
+**Yubico** - Hardware MFA Keys \
 https://www.yubico.com/au/store/2025/black-friday-sale/  
 30% off up to four Yubikey 5 NFC and 5C NFC models \
 https://www.yubico.com/press-releases/holidays-hottest-gift-yubico-deals-drop-just-in-time-to-block-every-hackers-wish-list/  
 $10 off when spending $100+ or more
 Deal valid: 24th November - 1st December
+
+**Practical Physical Exploitation** - Professional Grade RFID Cloning and Access Control Bypass Tools \
+https://store.physicalexploit.com/  
+Save $50 on all HID and Paxton Stealth Decoy Readers \
+Save $75 on all HID and Paxton Longrange Data Interpreters \
+Deal applied automatically \
+NOTE: DYOR on deals that don't include coupon code verification \
+Deal valid: November 21st - December 5th \
 
 ## Wearables:
 
