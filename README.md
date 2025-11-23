@@ -254,10 +254,10 @@ https://pwn.guide/
 ~20% off yearly plans applied automatically \
 Deal ends: 1st December
 
-**Practical TLS** - Training Course \
+**Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
 http://pracnet.net/tls  
-85% off ($50 down from $297) with code: `BFCM2025` \
-Deal ends: 6th December
+80% off ($50 down from $297) for lifetime access with code: `BFCM2025` \
+Deal ends: 7th December
 
 **Level Effect** - Blue with Virtual SOC, Data Science/AI, Detection Engineering Training (Self-Paced/Live) \
 https://training.leveleffect.com/catalog  
