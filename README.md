@@ -290,7 +290,7 @@ https://devsecopspro.com/bfcm-2025
 Deal valid: 29th November - 1st December
 
 **Modernsecurity.io** - AI Security and Application Security Trainings \
-https://www.modernsecurity.io/courses/ai-security-certification
+https://www.modernsecurity.io/courses/ai-security-certification  
 15% off with code -  `BLACKFRIDAY-15-MSECAI` \
 Deal valid: 23rd November - 15th December
 
