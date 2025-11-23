@@ -289,6 +289,11 @@ https://devsecopspro.com/bfcm-2025
 30% off annual subscription lessons and labs, code applied automatically \
 Deal valid: 29th November - 1st December
 
+**Invoke RE** - Malware Analysis Training \
+https://training.invokere.com/pricing \
+20% off all training courses and bundles, applied automatically \
+Deal ends: 1st December
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
