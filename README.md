@@ -65,6 +65,12 @@ Vetting Deals.
 
 ## Tools
 
+**Pulsedive Threat Intelligence** - Frictionless threat intelligence solutions :see_no_evil: \
+https://pulsedive.com/purchase/pro
+30% off 12 months of Pulsedive Pro (monthly and annual plans) with code: `BLACKFRIDAY25` \
+New customers only, limit 1 redemption per account \
+Deal valid: Now - 1st December
+
 **OSINT Industries** - Powerful Tools for Online Investigations :see_no_evil: \
 https://app.osint.industries/  
 60% off first month subscription for new subscribers with code: `BLACKFRIDAY` \
