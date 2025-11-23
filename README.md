@@ -458,7 +458,10 @@ Multiple significant discounts \
 
 ## Misc:
 
-Vetting deals.
+**NerdTees.shop** - Nerdy tees for everyone!  Made by nerds, for nerds! \
+[https://nerdtees.shop/](Nerdy tees for everyone!  Made by nerds, for nerds!)  \
+Free shipping on all orders with code: `BLACKFRIDAY2025` \
+Deal valid: November 23 - December 2nd. \
 
 -----------------------------------------------------------------------------------------
 
