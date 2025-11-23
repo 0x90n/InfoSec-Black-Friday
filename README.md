@@ -121,6 +121,13 @@ https://beaglesecurity.com/black-friday-sale
 20% off monthly plans with code: BFCMM25 
 Deal valid: 25th November - 4th December
 
+## Data feeds
+
+**CTIChef.com threat detection feeds** - CTI feeds with newly published and updated detection rules, sourced from 50+ public GitHub repositories, available as STIX/TAXII and MISP integrations. Rules are pre-processed and are shipped with extracted key observables (IPs, hashes, etc.) for direct use in SIEM/TIP platforms. 🆕 \
+https://dispatch.ctichef.com/feeds \
+Free access until 2026 after filling the form. \
+Deal ends: 1st January, 2026
+
 ## Online Courses & Training
 
 **AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
