@@ -166,7 +166,7 @@ Deal ends: 6th December
 
 **Security Blue Team** - BTL0 / BTL1 / BTL2 Training and Certifications \
 https://www.securityblue.team/  
-Announced deal coming shortly \
+Announced deal coming shortly
 
 **TCM Academy** - Blue & Red Cyber Security Training and Certifications \
 Certifications: https://certifications.tcm-sec.com/  
@@ -212,20 +212,20 @@ https://academy.wifichallenge.com
 Deal ends: Unknown
 
 **Zero-Point Security** \
-https://www.zeropointsecurity.co.uk/courses
+https://www.zeropointsecurity.co.uk/courses  
 Claim discounts on courses and certifications, but yet to be confirmed \
 Deal ends: 1st December
 
 **Pluralsight** – Online Tech (Security) Learning Platform \
 https://www.pluralsight.com/individuals/pricing  
 55% off all first year individual yearly plans except 'CORE' with code: `55EARLYACCESS` \
-30% off all first year business yearly plans with code: `EARLYACCESS30`
+30% off all first year business yearly plans with code: `EARLYACCESS30` \
 Deal valid: 21st November – 31st December
 
 **INE (eLearn Security)** - Security Training \
 https://checkout.ine.com/black-friday  
 Up to $750 off subscriptions,  bundles and 50% off Certifications \
-Up to 40% off INE Enterprise Suite
+Up to 40% off INE Enterprise Suite \
 Deal valid: 22nd November - 4th December
 
 **7ASecurity** - Pentests and Code Audit Courses \
@@ -268,7 +268,7 @@ https://courses.securing.pl/courses/iase
 20% off with code `blackmonth` \
 Deal valid: 21st November - 21st December 
 
-**DevSecOps Pro** - Build DevSecOps pipelines using GitHub Actions and AWS :new: \
+**DevSecOps Pro** - Build DevSecOps pipelines using GitHub Actions and AWS \
 https://devsecopspro.com/bfcm-2025  
 30% off annual subscription lessons and labs, code applied automatically \
 Deal valid: 29th November - 1st December
@@ -312,11 +312,11 @@ NOTE: Currently showing an issue, apparently will be resolved shortly \
 Deal valid: 20th November - 5th December
 
 **trainsec** - Break into cybersecurity, specialize in Windows systems and hardware exploitation skills \
-https://trainsec.net/cybersecurity-courses-black-friday-2025/
+https://trainsec.net/cybersecurity-courses-black-friday-2025/  
 40% off all individual courses with code: `BF2025` \
 Deal ends: 1st December
 
-**CyberWarFare Labs** - Range of cyber security courses \  
+**CyberWarFare Labs** - Range of cyber security courses \
 https://cyberwarfare.live/black_friday  
 (1) Up to 90% off on all individual courses \
 https://cyberwarfare.live/#platforms  
@@ -328,7 +328,7 @@ All deals applied automatically at checkout \
 Deal ends: 30th November
 
 **TryHackMe** - Gamified, hands-on cyber security training platform \
-https://tryhackme.com/r/why-subscribe. 
+https://tryhackme.com/why-subscribe  
 35% off Annual Subscription with code: `SATYA30` \
 Deal Ends: 30th December
 
