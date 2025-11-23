@@ -118,11 +118,10 @@ Deal valid: 25th November - 4th December
 
 ## Online Courses & Training
 
-**AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security, Threat Modeling and more \
-https://www.appsecengineer.com/individuals/pricing
-40% off on Pro Plus Annual Plans and Bootcamps \
-Use `LEVELUP40` at checkout. \
-Deal ends 30th November 2025
+**AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
+https://www.appsecengineer.com/individuals/pricing  
+40% off on Pro Plus Annual Plans and Bootcamps with code: `LEVELUP40` \
+Deal ends: 30th November 2025
 
 **Evilginx Mastery course** - Red Teamer course on Phishing and Reverse Proxies for MFA \
 https://academy.breakdev.org/evilginx-mastery  
