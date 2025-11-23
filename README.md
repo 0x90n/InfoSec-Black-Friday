@@ -82,6 +82,11 @@ https://grayhatwarfare.com/packages
 46% off Enterprise yearly ($450 down from $960) with code: `BLACK_FRIDAY_ENTERPRISE_YEAR` \
 Deal ends: Unknown
 
+**Threat.Zone** - Holistic Malware Analysis Platform | Interactive Sandbox \
+https://app.threat.zone/pricing  
+35% Discount on All Plans with code: `HAPPYHOLIDAYS35` \
+Deal ends: 31 December
+
 **PortDroid** - A swiss army knife of network security tools for Android \
 https://portdroid.net/black-friday-2025/  
 ~50% off lifetime version with code: `CYBER_2025` \
