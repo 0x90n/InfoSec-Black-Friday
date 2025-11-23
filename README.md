@@ -456,6 +456,11 @@ https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
 https://www.ipvanish.com/pricing/  
 Multiple significant discounts \
 
+**EDR Feature Comparison Service — Independent EDR Evaluations**
+https://www.edr-comparison.com/ \
+No code required - Early adopter and Black Friday pricing. \
+60% off (LIFETIME ACCESS) :new:
+
 ## Misc:
 
 Vetting deals.
