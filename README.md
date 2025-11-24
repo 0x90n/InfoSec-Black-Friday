@@ -121,11 +121,22 @@ https://beaglesecurity.com/black-friday-sale
 20% off monthly plans with code: BFCMM25 
 Deal valid: 25th November - 4th December
 
+**CTIChef.com** - Threat detection feeds frp, 50+ public GitHub repositories, available as STIX/TAXII and MISP integrations 🆕 \
+https://dispatch.ctichef.com/feeds  
+https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN287D_qt6OjQ/viewform  
+Free access until 2026 after filling the form above \
+Deal ends: 1st January, 2026
+
 ## Online Courses & Training
 
 **The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
 https://www.theosintion.com/courses/blue-team-fusion  
-25% off all 10 BTF courses with code: `BLACKFRIDAY2025` 
+25% off all 10 BTF courses with code: `BLACKFRIDAY2025` \
+Deal ends: Unknown
+
+**Maldev Academy** - Advanced module-based training in Windows malware development, ransomware internals, and offensive phishing operations  \
+https://maldevacademy.com/  
+25% off with code: `BLKFRIDAY` \
 Deal ends: Unknown
 
 **AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
@@ -230,7 +241,7 @@ Deal ends: Unknown
 **WiFiChallenge Academy** - Certified WiFiChallenge Professional (CWP) \
 https://academy.wifichallenge.com  
 25% off applied automatically \
-Deal ends: Unknown
+Deal ends: 1st December
 
 **Zero-Point Security** \
 https://www.zeropointsecurity.co.uk/courses  
@@ -293,6 +304,16 @@ Deal valid: 21st November - 21st December
 https://devsecopspro.com/bfcm-2025  
 30% off annual subscription lessons and labs, code applied automatically \
 Deal valid: 29th November - 1st December
+
+**Invoke RE** - Malware Analysis Training \
+https://training.invokere.com/pricing  
+20% off all training courses and bundles, applied automatically \
+Deal ends: 1st December
+
+**Modernsecurity.io** - AI Security and Application Security Trainings \
+https://www.modernsecurity.io/courses/ai-security-certification  
+15% off with code -  `BLACKFRIDAY-15-MSECAI` \
+Deal valid: 23rd November - 15th December
 
 ## Practical Labs
 
@@ -460,6 +481,11 @@ https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
 **IP VANISH VPN** \
 https://www.ipvanish.com/pricing/  
 Multiple significant discounts \
+
+**EDR Feature Comparison Service** — Independent EDR Evaluations :new: \
+https://edr-comparison.com/  
+60% off lifetime access, no code required \
+NOTE: This website appears AI-generated, and offers NO REFUNDS. DYOR.
 
 ## Misc:
 
