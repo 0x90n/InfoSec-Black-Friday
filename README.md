@@ -129,10 +129,10 @@ https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN2
 Free access until 2026 after filling the form above \
 Deal ends: 1st January, 2026
 
-**Evilginx Pro** - Reverse proxy phishing framework for red teams. \
-[evilginx.com](https://evilginx.com) \
-10% discount on new Evilginx Pro licenses during Black Week (1260 EUR ~~1400 EUR~~). \
-Requires BREAKDEV RED red team community membership. Apply [here](https://red.breakdev.org/join). \
+**Evilginx Pro** - Reverse proxy phishing framework for red teams \
+https://evilginx.com  
+10% discount on new Evilginx Pro licenses \
+NOTE: Requires BREAKDEV RED community membership [here](https://red.breakdev.org/join) to buy \
 Deal ends: 1st December
 
 ## Online Courses & Training
@@ -153,8 +153,8 @@ https://www.appsecengineer.com/individuals/pricing
 Deal ends: 30th November 2025
 
 **Evilginx Mastery** - Red Teamer course on Phishing and Reverse Proxies for MFA \
-https://academy.breakdev.org/evilginx-mastery?coupon=BLACKWEEK \
-50% off lifetime access to the course with code `BLACKWEEK` (199 EUR ~~399 EUR~~) \
+https://academy.breakdev.org/evilginx-mastery  
+50% off lifetime access to the course with code: `BLACKWEEK` \
 Deal ends: 1st December
 
 **LetsDefend** - Blue Team Training \
