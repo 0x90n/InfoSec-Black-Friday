@@ -294,6 +294,11 @@ https://devsecopspro.com/bfcm-2025
 30% off annual subscription lessons and labs, code applied automatically \
 Deal valid: 29th November - 1st December
 
+**Invoke RE** - Malware Analysis Training \
+https://training.invokere.com/pricing  
+20% off all training courses and bundles, applied automatically \
+Deal ends: 1st December
+
 **Modernsecurity.io** - AI Security and Application Security Trainings \
 https://www.modernsecurity.io/courses/ai-security-certification  
 15% off with code -  `BLACKFRIDAY-15-MSECAI` \
