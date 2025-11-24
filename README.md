@@ -129,6 +129,11 @@ Deal ends: 1st January, 2026
 
 ## Online Courses & Training
 
+**The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
+https://www.theosintion.com/courses/blue-team-fusion  
+25% off all 10 BTF courses with code: `BLACKFRIDAY2025` \
+Deal ends: Unknown
+
 **Maldev Academy** - Advanced module-based training in Windows malware development, ransomware internals, and offensive phishing operations  \
 https://maldevacademy.com/  
 25% off with code: `BLKFRIDAY` \
