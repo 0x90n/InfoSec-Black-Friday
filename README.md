@@ -317,6 +317,10 @@ https://www.modernsecurity.io/courses/ai-security-certification
 15% off with code -  `BLACKFRIDAY-15-MSECAI` \
 Deal valid: 23rd November - 15th December
 
+red team leaders - 100% off Certified Cybersecurity Educator Professional (CCEP)
+100% off with code CCEP100OFF
+https://www.linkedin.com/posts/jose-praveen_cybersecurity-freecoupon-infosec-activity-7394584177800564736-jBO-
+
 ## Practical Labs
 
 **PentesterLab** - Practical pentesting & hacking Labs \
