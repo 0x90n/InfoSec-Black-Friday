@@ -129,6 +129,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN2
 Free access until 2026 after filling the form above \
 Deal ends: 1st January, 2026
 
+**HTTP Toolkit** - Open-source HTTP proxy, debugger & client, with instant one-click setup for Android, Docker, browsers, node.js & more \
+[httptoolkit.com](https://httptoolkit.com/?ref=0x90n) \
+50% off forever on annual subscriptions, with code `BLACKFRIDAY25` \
+Deal ends: 3rd December, 2026
+
 ## Online Courses & Training
 
 **The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
