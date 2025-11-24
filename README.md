@@ -66,6 +66,11 @@ Vetting Deals.
 
 ## Tools
 
+**DarkWebSonar** -  Save 30% on Basic and Pro plans (monthly & Yearly)  \
+https://darkwebsonar.io/ - Dark Web Monitoring (Forums, Breaches, Ransomware, Zero Days) \
+Use code `BLACKFRIDAY25` \
+Deal ends: 30th November 2025
+
 **Pulsedive Threat Intelligence** - Frictionless threat intelligence solutions :see_no_evil: \
 https://pulsedive.com/purchase/pro
 30% off 12 months of Pulsedive Pro (monthly and annual plans) with code: `BLACKFRIDAY25` \
