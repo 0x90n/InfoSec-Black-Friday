@@ -53,7 +53,8 @@ Vetting Deals.
 
 ## InfoSec Career Development
 
-Vetting Deals.
+**Career Hacking Quest** - Free career course and community for Cybersecurity engineers with bi-weekly live resume review sessions :new: \
+https://www.careerhackingquest.com/  
 
 ## Newsletters
 
@@ -95,7 +96,8 @@ Deal valid: 11th November - 4th December
 **Exploit Pack** - Command & Control Framework, Advanced Exploitation Framework with 0days and 39,500+ exploits \
 https://www.exploitpack.com/products/control-pack-blackfriday  
 ~80% off the Exploit, Control, Kernel and Ultimate Packs applied automatically \
-15 LIFETIME licenses available with code: `LIFETIME` \
+15 lifetime licenses available with code: `LIFETIME` \
+NOTE: Users have reported that past LIFETIME licenses expired! DYOR!
 Deal valid: 15th - 30th November
 
 **EaseUS** - Data Recovery and Encryption Software \
