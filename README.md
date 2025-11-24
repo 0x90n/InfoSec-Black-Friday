@@ -53,7 +53,7 @@ Vetting Deals.
 
 ## InfoSec Career Development
 
- - The OSINTion/Blue Team Fusion: 25% off all 10 BTF courses with code **BLACKFRIDAY2025** https://www.theosintion.com/courses/blue-team-fusion
+Vetting Deals.
 
 ## Newsletters
 
@@ -122,6 +122,11 @@ https://beaglesecurity.com/black-friday-sale
 Deal valid: 25th November - 4th December
 
 ## Online Courses & Training
+
+**The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
+https://www.theosintion.com/courses/blue-team-fusion  
+25% off all 10 BTF courses with code: `BLACKFRIDAY2025` 
+Deal ends: Unknown
 
 **AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
 https://www.appsecengineer.com/individuals/pricing  
