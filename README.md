@@ -123,9 +123,9 @@ https://www.pagerly.io/pricing
 Deal ends: 31st December
 
 **Beagle Security** - AI-powered automated pentesting for web apps, APIs & GraphQL \
-https://beaglesecurity.com/black-friday-sale
-35% off annual plans with code: BFCMY25
-20% off monthly plans with code: BFCMM25 
+https://beaglesecurity.com/black-friday-sale  
+35% off annual plans with code: `BFCMY25` \
+20% off monthly plans with code: `BFCMM25` \
 Deal valid: 25th November - 4th December
 
 **CTIChef.com** - Threat detection feeds frp, 50+ public GitHub repositories, available as STIX/TAXII and MISP integrations 🆕 \
@@ -134,8 +134,27 @@ https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN2
 Free access until 2026 after filling the form above \
 Deal ends: 1st January, 2026
 
+**HTTP Toolkit** - Open-source HTTP proxy, debugger & client - one-click setup for Android, Docker, browsers, node.js \
+[httptoolkit.com](https://httptoolkit.com/?ref=0x90n)  
+50% off forever on annual subscriptions, with code: `BLACKFRIDAY25` \
+Deal ends: 3rd December
+
+**Evilginx Pro** - Reverse proxy phishing framework for red teams \
+https://evilginx.com  
+10% discount on new Evilginx Pro licenses \
+NOTE: Requires BREAKDEV RED community membership [here](https://red.breakdev.org/join) \
+Deal ends: 1st December
+
+**SysReptor** - Pentest Reporting Software \
+https://docs.sysreptor.com/  
+30% off Cloud or Self-Hosted with code: `BLACKFRIDAY2025` \
 
 ## Online Courses & Training
+
+**Invictus Incident Response Training** \
+https://academy.invictus-ir.com  
+20% off on all courses with code: `BLACKFRIDAY25` \
+Deal ends: 5th December 
 
 **The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
 https://www.theosintion.com/courses/blue-team-fusion  
@@ -152,11 +171,10 @@ https://www.appsecengineer.com/individuals/pricing
 40% off on Pro Plus Annual Plans and Bootcamps with code: `LEVELUP40` \
 Deal ends: 30th November 2025
 
-**Evilginx Mastery course** - Red Teamer course on Phishing and Reverse Proxies for MFA \
+**Evilginx Mastery** - Red Teamer course on Phishing and Reverse Proxies for MFA \
 https://academy.breakdev.org/evilginx-mastery  
-~50% off Lifetime access for ($230 down from $460) \
-50% discount code at the checkout: `BLACKFRIDAY` \
-Deal ends: 29th November
+50% off lifetime access to the course with code: `BLACKWEEK` \
+Deal ends: 1st December
 
 **LetsDefend** - Blue Team Training \
 https://app.letsdefend.io/pricing  
@@ -324,6 +342,11 @@ https://www.modernsecurity.io/courses/ai-security-certification
 Deal valid: 23rd November - 15th December
 
 ## Practical Labs
+
+**Invictus Incident Response CloudLabs** \
+https://cloudlabs.invictus-ir.com  
+20% off on Premium Tier with code: `BLACKFRIDAY25` \
+Deal ends: 5th December
 
 **PentesterLab** - Practical pentesting & hacking Labs \
 https://pentesterlab.com/pro  
