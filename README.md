@@ -123,6 +123,11 @@ Deal valid: 25th November - 4th December
 
 ## Online Courses & Training
 
+**Maldev Academy** - Advanced module-based training in Windows malware development, ransomware internals, and offensive phishing operations  \
+https://maldevacademy.com/  
+25% off with code: `BLKFRIDAY` \
+Deal ends: Unknown
+
 **AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
 https://www.appsecengineer.com/individuals/pricing  
 40% off on Pro Plus Annual Plans and Bootcamps with code: `LEVELUP40` \
@@ -225,7 +230,7 @@ Deal ends: Unknown
 **WiFiChallenge Academy** - Certified WiFiChallenge Professional (CWP) \
 https://academy.wifichallenge.com  
 25% off applied automatically \
-Deal ends: Unknown
+Deal ends: 1st December
 
 **Zero-Point Security** \
 https://www.zeropointsecurity.co.uk/courses  
@@ -293,6 +298,11 @@ Deal valid: 29th November - 1st December
 https://training.invokere.com/pricing  
 20% off all training courses and bundles, applied automatically \
 Deal ends: 1st December
+
+**Modernsecurity.io** - AI Security and Application Security Trainings \
+https://www.modernsecurity.io/courses/ai-security-certification  
+15% off with code -  `BLACKFRIDAY-15-MSECAI` \
+Deal valid: 23rd November - 15th December
 
 ## Practical Labs
 
@@ -460,6 +470,11 @@ https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
 **IP VANISH VPN** \
 https://www.ipvanish.com/pricing/  
 Multiple significant discounts \
+
+**EDR Feature Comparison Service** — Independent EDR Evaluations :new: \
+https://edr-comparison.com/  
+60% off lifetime access, no code required \
+NOTE: This website appears AI-generated, and offers NO REFUNDS. DYOR.
 
 ## Misc:
 
