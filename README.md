@@ -345,6 +345,11 @@ https://www.modernsecurity.io/courses/ai-security-certification
 15% off with code -  `BLACKFRIDAY-15-MSECAI` \
 Deal valid: 23rd November - 15th December
 
+**ACE Responder** - Hands-on SIEM and Reverse Engineering Labs for SOC Analysts and Threat Hunters  🆕\
+https://aceresponder.com  
+35% off annual subscriptions with code: `BLACKFRIDAY` \
+Deal ends: 1st December
+
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
