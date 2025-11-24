@@ -144,6 +144,10 @@ Deal ends: 1st December
 https://docs.sysreptor.com/  
 30% off Cloud or Self-Hosted with code: `BLACKFRIDAY2025` \
 
+**Vulnsy** - Pentest Reporting and ManagementSoftware - Waiting List :new: \
+https://www.vulnsy.com  
+$6.56 Donation for early access Feb 2026 \
+
 ## Online Courses & Training
 
 **Invictus Incident Response Training** \
