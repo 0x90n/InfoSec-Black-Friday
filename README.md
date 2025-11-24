@@ -511,6 +511,10 @@ https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
 https://www.ipvanish.com/pricing/  
 Multiple significant discounts \
 
+**EDR Feature Comparison Service** — Independent EDR Evaluations :new: \
+https://edr-comparison.com/  
+60% off lifetime access, no code required \
+
 ## Misc:
 
 Vetting Deals.
