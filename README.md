@@ -124,8 +124,9 @@ Deal valid: 25th November - 4th December
 ## Online Courses & Training
 
 **Maldev Academy** - Advanced module-based training in Windows malware development, ransomware internals, and offensive phishing operations  \
-https://maldevacademy.com/ \
-25% off with code: `BLKFRIDAY` 
+https://maldevacademy.com/  
+25% off with code: `BLKFRIDAY` \
+Deal ends: Unknown
 
 **AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
 https://www.appsecengineer.com/individuals/pricing  
