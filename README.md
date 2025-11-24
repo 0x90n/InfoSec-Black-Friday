@@ -305,10 +305,10 @@ https://belkasoft.com/training-bundles
 33% off on course bundles (save $999), applied automatically \
 Deal valid: 26th November - 3rd December
 
-**pwn.guide** - Helping both beginners & experts learn cybersecurity \
+**pwn.guide** - Learn cybersecurity web, hardware, wireless, forensics, defense & certifications \
 https://pwn.guide/  
-~20% off yearly plans applied automatically \
-Deal ends: 1st December
+~20% off all plans including **Lifetime** with code: `BLKFRI20` \
+Deal ends: 5th December
 
 **Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
 http://pracnet.net/tls  
