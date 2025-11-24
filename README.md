@@ -129,6 +129,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN2
 Free access until 2026 after filling the form above \
 Deal ends: 1st January, 2026
 
+**SysReptor** - Pentest Reporting Software \
+https://docs.sysreptor.com/  
+30% off Cloud or Self-Hosted with code: `BLACKFRIDAY2025` \
+Deal ends: 31st December
+
 ## Online Courses & Training
 
 **The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
