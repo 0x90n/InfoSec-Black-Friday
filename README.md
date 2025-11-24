@@ -150,6 +150,11 @@ $6.56 Donation for early access Feb 2026 \
 
 ## Online Courses & Training
 
+**OffSec Learn One** - Learn One annual subscription \
+https://www.offsec.com/blog/learn-one-promo/  \
+20% off Learn One subscription (discount applied automatically at checkout) \
+Deal valid: 30th October – 31st December \
+
 **Invictus Incident Response Training** \
 https://academy.invictus-ir.com  
 20% off on all courses with code: `BLACKFRIDAY25` \
