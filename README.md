@@ -352,7 +352,6 @@ Deal ends: 29th November
 https://play.secdim.com  
 35% off yearly, checkout using code: `APPSECONABUDGET2025` \
 https://id.secdim.com/subscription/plan  
-NOTE: Currently showing an issue, apparently will be resolved shortly \
 Deal valid: 20th November - 5th December
 
 **trainsec** - Break into cybersecurity, specialize in Windows systems and hardware exploitation skills \
