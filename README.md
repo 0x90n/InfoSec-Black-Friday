@@ -132,10 +132,19 @@ Deal ends: 1st January, 2026
 **Evilginx Pro** - Reverse proxy phishing framework for red teams \
 https://evilginx.com  
 10% discount on new Evilginx Pro licenses \
-NOTE: Requires BREAKDEV RED community membership [here](https://red.breakdev.org/join) to buy \
+NOTE: Requires BREAKDEV RED community membership [here](https://red.breakdev.org/join) \
 Deal ends: 1st December
 
+**SysReptor** - Pentest Reporting Software \
+https://docs.sysreptor.com/  
+30% off Cloud or Self-Hosted with code: `BLACKFRIDAY2025` \
+
 ## Online Courses & Training
+
+**Invictus Incident Response Training** \
+https://academy.invictus-ir.com  
+20% off on all courses with code: `BLACKFRIDAY25` \
+Deal ends: 5th December 
 
 **The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
 https://www.theosintion.com/courses/blue-team-fusion  
@@ -323,6 +332,11 @@ https://www.modernsecurity.io/courses/ai-security-certification
 Deal valid: 23rd November - 15th December
 
 ## Practical Labs
+
+**Invictus Incident Response CloudLabs** \
+https://cloudlabs.invictus-ir.com  
+20% off on Premium Tier with code: `BLACKFRIDAY25` \
+Deal ends: 5th December
 
 **PentesterLab** - Practical pentesting & hacking Labs \
 https://pentesterlab.com/pro  
