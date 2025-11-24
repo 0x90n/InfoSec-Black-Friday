@@ -72,6 +72,11 @@ https://pulsedive.com/purchase/pro
 New customers only, limit 1 redemption per account \
 Deal valid: Now - 1st December
 
+**DevSecOps Bot** - Security for Code (SAST, SCA, IaC, Secret), Containers, and Kubernetes \
+https://devsecops.bot/  
+~100% off for 1 year, 5 Github Repos, 1 K8s Cluster: `DEVSECOPS_80` \
+Deal valid:  31 December
+
 **OSINT Industries** - Powerful Tools for Online Investigations :see_no_evil: \
 https://app.osint.industries/  
 60% off first month subscription for new subscribers with code: `BLACKFRIDAY` \
@@ -128,6 +133,7 @@ https://dispatch.ctichef.com/feeds
 https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN287D_qt6OjQ/viewform  
 Free access until 2026 after filling the form above \
 Deal ends: 1st January, 2026
+
 
 ## Online Courses & Training
 
