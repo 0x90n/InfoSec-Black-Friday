@@ -526,7 +526,10 @@ https://edr-comparison.com/
 
 ## Misc:
 
-Vetting Deals.
+**Neato Stickers** - Hacking & Cybersecurity related stickers \
+https://neatstickersco.etsy.com/  
+15% off all stickers or merch \
+Deal Ends: 13th December
 
 -----------------------------------------------------------------------------------------
 
