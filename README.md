@@ -225,7 +225,7 @@ Deal ends: Unknown
 **WiFiChallenge Academy** - Certified WiFiChallenge Professional (CWP) \
 https://academy.wifichallenge.com  
 25% off applied automatically \
-Deal ends: Unknown
+Deal ends: 1st December
 
 **Zero-Point Security** \
 https://www.zeropointsecurity.co.uk/courses  
