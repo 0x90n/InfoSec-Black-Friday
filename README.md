@@ -405,7 +405,11 @@ Deal valid: November 21st - December 5th \
 
 ## Wearables:
 
-Vetting Deals.
+**NerdTees.shop** - Nerdy tees for everyone, made by nerds, for nerds. \
+https://nerdtees.shop/  
+Free shipping on all orders with code: `BLACKFRIDAY2025` \
+NOTE: Only appears to ship to the US. Sorry Int'l folks. \
+Deal valid: 23rd November - 2nd December
 
 ## Books:
 
@@ -458,10 +462,7 @@ Multiple significant discounts \
 
 ## Misc:
 
-**NerdTees.shop** - Nerdy tees for everyone!  Made by nerds, for nerds! \
-[https://nerdtees.shop/](Nerdy tees for everyone!  Made by nerds, for nerds!)  \
-Free shipping on all orders with code: `BLACKFRIDAY2025` \
-Deal valid: November 23 - December 2nd. \
+Vetting Deals.
 
 -----------------------------------------------------------------------------------------
 
