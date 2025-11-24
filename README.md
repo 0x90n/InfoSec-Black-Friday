@@ -514,7 +514,6 @@ Multiple significant discounts \
 **EDR Feature Comparison Service** — Independent EDR Evaluations :new: \
 https://edr-comparison.com/  
 60% off lifetime access, no code required \
-NOTE: This website appears AI-generated, and offers NO REFUNDS. DYOR.
 
 ## Misc:
 
