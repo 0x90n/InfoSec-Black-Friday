@@ -118,9 +118,9 @@ https://www.pagerly.io/pricing
 Deal ends: 31st December
 
 **Beagle Security** - AI-powered automated pentesting for web apps, APIs & GraphQL \
-https://beaglesecurity.com/black-friday-sale
-35% off annual plans with code: BFCMY25
-20% off monthly plans with code: BFCMM25 
+https://beaglesecurity.com/black-friday-sale  
+35% off annual plans with code: `BFCMY25` \
+20% off monthly plans with code: `BFCMM25` \
 Deal valid: 25th November - 4th December
 
 **CTIChef.com** - Threat detection feeds frp, 50+ public GitHub repositories, available as STIX/TAXII and MISP integrations 🆕 \
@@ -128,6 +128,11 @@ https://dispatch.ctichef.com/feeds
 https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN287D_qt6OjQ/viewform  
 Free access until 2026 after filling the form above \
 Deal ends: 1st January, 2026
+
+**HTTP Toolkit** - Open-source HTTP proxy, debugger & client - one-click setup for Android, Docker, browsers, node.js \
+[httptoolkit.com](https://httptoolkit.com/?ref=0x90n)  
+50% off forever on annual subscriptions, with code: `BLACKFRIDAY25` \
+Deal ends: 3rd December
 
 **Evilginx Pro** - Reverse proxy phishing framework for red teams \
 https://evilginx.com  
