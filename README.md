@@ -290,7 +290,7 @@ https://devsecopspro.com/bfcm-2025
 Deal valid: 29th November - 1st December
 
 **Invoke RE** - Malware Analysis Training \
-https://training.invokere.com/pricing \
+https://training.invokere.com/pricing  
 20% off all training courses and bundles, applied automatically \
 Deal ends: 1st December
 
