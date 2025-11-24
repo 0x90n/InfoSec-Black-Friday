@@ -129,10 +129,15 @@ https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN2
 Free access until 2026 after filling the form above \
 Deal ends: 1st January, 2026
 
+**Evilginx Pro** - Reverse proxy phishing framework for red teams \
+https://evilginx.com  
+10% discount on new Evilginx Pro licenses \
+NOTE: Requires BREAKDEV RED community membership [here](https://red.breakdev.org/join) \
+Deal ends: 1st December
+
 **SysReptor** - Pentest Reporting Software \
 https://docs.sysreptor.com/  
 30% off Cloud or Self-Hosted with code: `BLACKFRIDAY2025` \
-Deal ends: 31st December
 
 ## Online Courses & Training
 
@@ -156,11 +161,10 @@ https://www.appsecengineer.com/individuals/pricing
 40% off on Pro Plus Annual Plans and Bootcamps with code: `LEVELUP40` \
 Deal ends: 30th November 2025
 
-**Evilginx Mastery course** - Red Teamer course on Phishing and Reverse Proxies for MFA \
+**Evilginx Mastery** - Red Teamer course on Phishing and Reverse Proxies for MFA \
 https://academy.breakdev.org/evilginx-mastery  
-~50% off Lifetime access for ($230 down from $460) \
-50% discount code at the checkout: `BLACKFRIDAY` \
-Deal ends: 29th November
+50% off lifetime access to the course with code: `BLACKWEEK` \
+Deal ends: 1st December
 
 **LetsDefend** - Blue Team Training \
 https://app.letsdefend.io/pricing  
