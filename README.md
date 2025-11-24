@@ -133,7 +133,7 @@ Deal ends: 1st January, 2026
 
 **Invictus Incident Response Training** \
 https://academy.invictus-ir.com  
-20% off on all courses with code: BLACKFRIDAY25 \
+20% off on all courses with code: `BLACKFRIDAY25` \
 Deal ends: 5th December 
 
 **The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
@@ -326,7 +326,7 @@ Deal valid: 23rd November - 15th December
 
 **Invictus Incident Response CloudLabs** \
 https://cloudlabs.invictus-ir.com  
-20% off on Premium Tier with code: BLACKFRIDAY25 \
+20% off on Premium Tier with code: `BLACKFRIDAY25` \
 Deal ends: 5th December
 
 **PentesterLab** - Practical pentesting & hacking Labs \
