@@ -66,6 +66,12 @@ Vetting Deals.
 
 ## Tools
 
+**RedHunt Labs EASM/ CTEM Platform** - Driving Modern Security for Organisation's of all size :see_no_evil: \
+https://app.redhuntlabs.com/
+30% off on annual subscription for new customers only.
+Deal Valid till 5th December 2025
+For more details or demo, schedule a call with us: https://calendly.com/redhuntlabs/schedule-consulting-discussion
+
 **Pulsedive Threat Intelligence** - Frictionless threat intelligence solutions :see_no_evil: \
 https://pulsedive.com/purchase/pro
 30% off 12 months of Pulsedive Pro (monthly and annual plans) with code: `BLACKFRIDAY25` \
