@@ -62,14 +62,19 @@ Vetting Deals.
 
 ## Professional Services
 
-Vetting Deals.
+**Wortell** - Offensive solutions including penetration testing. \
+http://wortell.nl \
+50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
+Deal ends: 20th December 2025
+
 
 ## Tools
 
-**DarkWebSonar** -  Save 30% on Basic and Pro plans (monthly & Yearly)  \
-https://darkwebsonar.io/ - Dark Web Monitoring (Forums, Breaches, Ransomware, Zero Days) \
-Use code `BLACKFRIDAY25` \
-Deal ends: 30th November 2025
+**RedHunt Labs** EASM/CTEM Platform - Driving Modern Security for Organisations of all size :new: \
+https://app.redhuntlabs.com/  
+30% off on annual subscription for new customers only \
+For more details/demo, schedule a call: https://calendly.com/redhuntlabs/schedule-consulting-discussion  
+Deal valid: Now - 5th December
 
 **Pulsedive Threat Intelligence** - Frictionless threat intelligence solutions :see_no_evil: \
 https://pulsedive.com/purchase/pro
@@ -123,9 +128,9 @@ https://www.pagerly.io/pricing
 Deal ends: 31st December
 
 **Beagle Security** - AI-powered automated pentesting for web apps, APIs & GraphQL \
-https://beaglesecurity.com/black-friday-sale
-35% off annual plans with code: BFCMY25
-20% off monthly plans with code: BFCMM25 
+https://beaglesecurity.com/black-friday-sale  
+35% off annual plans with code: `BFCMY25` \
+20% off monthly plans with code: `BFCMM25` \
 Deal valid: 25th November - 4th December
 
 **CTIChef.com** - Threat detection feeds frp, 50+ public GitHub repositories, available as STIX/TAXII and MISP integrations 🆕 \
@@ -134,7 +139,51 @@ https://docs.google.com/forms/d/e/1FAIpQLSfl0NIsOKPkzkHjvpxR6ZGUsByklzWdgN-e7GN2
 Free access until 2026 after filling the form above \
 Deal ends: 1st January, 2026
 
+**HTTP Toolkit** - Open-source HTTP proxy, debugger & client - one-click setup for Android, Docker, browsers, node.js \
+[httptoolkit.com](https://httptoolkit.com/?ref=0x90n)  
+50% off forever on annual subscriptions, with code: `BLACKFRIDAY25` \
+Deal ends: 3rd December
+
+**Evilginx Pro** - Reverse proxy phishing framework for red teams \
+https://evilginx.com  
+10% discount on new Evilginx Pro licenses \
+NOTE: Requires BREAKDEV RED community membership [here](https://red.breakdev.org/join) \
+Deal ends: 1st December
+
+**SysReptor** - Pentest Reporting Software \
+https://docs.sysreptor.com/  
+30% off Cloud or Self-Hosted with code: `BLACKFRIDAY2025`
+
+**Vulnsy** - Pentest Reporting and ManagementSoftware - Waiting List :new: \
+https://www.vulnsy.com  
+$6.56 Donation for early access Feb 2026
+
+**DarkWebSonar** - Dark Web Monitoring (Forums, Breaches, Ransomware, Zero Days) \
+https://darkwebsonar.io/
+30% off Basic and Pro plans (monthly & Yearly) with code: `BLACKFRIDAY25` \
+Deal ends: 30th November
+
 ## Online Courses & Training
+
+**TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
+https://training.thexero.co.uk/p/2025-black-friday-sale  
+Save 65% on Wireless Mastery + BONUS, automatically at checkout \
+Offer valid until 2nd December
+
+**8kSec Academy** - Mobile Application Security and Offensive iOS/Android Security Internals On-Demand Trainings  \
+https://academy.8ksec.io/  
+15% off all courses with code: `blackfriday15` \
+Deal ends: 10th December
+
+**OffSec Learn One** - Learn One annual subscription \
+https://www.offsec.com/blog/learn-one-promo/  \
+20% off Learn One subscription (discount applied automatically at checkout) \
+Deal valid: 30th October – 31st December
+
+**Invictus Incident Response Training** \
+https://academy.invictus-ir.com  
+20% off on all courses with code: `BLACKFRIDAY25` \
+Deal ends: 5th December 
 
 **The OSINTion/Blue Team Fusion** - Practical, real-world training for emerging and established Blue Teamers \
 https://www.theosintion.com/courses/blue-team-fusion  
@@ -151,17 +200,18 @@ https://www.appsecengineer.com/individuals/pricing
 40% off on Pro Plus Annual Plans and Bootcamps with code: `LEVELUP40` \
 Deal ends: 30th November 2025
 
-**Evilginx Mastery course** - Red Teamer course on Phishing and Reverse Proxies for MFA \
+**Evilginx Mastery** - Red Teamer course on Phishing and Reverse Proxies for MFA \
 https://academy.breakdev.org/evilginx-mastery  
-~50% off Lifetime access for ($230 down from $460) \
-50% discount code at the checkout: `BLACKFRIDAY` \
-Deal ends: 29th November
+50% off lifetime access to the course with code: `BLACKWEEK` \
+Deal ends: 1st December
 
 **LetsDefend** - Blue Team Training \
 https://app.letsdefend.io/pricing  
 50% off on annual plans with code: `BLCKFRDY` \
 Additional 50% off for students by using .edu email (55% + 50%) \
-Deal ends: 2nd December
+Deal ends: 2nd December \
+55% off on annual plans with code: `MYDFIR55` \
+Deal ends: Unknown
 
 **CloudBreach** - Advanced offensive Azure & AWS Security Trainings and Certifications \
 https://cloudbreach.io/blackfriday/  
@@ -282,10 +332,10 @@ https://belkasoft.com/training-bundles
 33% off on course bundles (save $999), applied automatically \
 Deal valid: 26th November - 3rd December
 
-**pwn.guide** - Helping both beginners & experts learn cybersecurity \
+**pwn.guide** - Learn cybersecurity web, hardware, wireless, forensics, defense & certifications \
 https://pwn.guide/  
-~20% off yearly plans applied automatically \
-Deal ends: 1st December
+~20% off all plans including **Lifetime** with code: `BLKFRI20` \
+Deal ends: 5th December
 
 **Practical TLS** - SSL/TLS Deep Dive Course, including the latest version TLS 1.3 \
 http://pracnet.net/tls  
@@ -322,7 +372,24 @@ https://www.modernsecurity.io/courses/ai-security-certification
 15% off with code -  `BLACKFRIDAY-15-MSECAI` \
 Deal valid: 23rd November - 15th December
 
+**ACE Responder** - Hands-on SIEM and Reverse Engineering Labs for SOC Analysts and Threat Hunters :new: \
+https://aceresponder.com  
+35% off annual subscriptions with code: `BLACKFRIDAY` \
+Deal ends: 1st December
+
+**HackingHub** - Educating the next generation of ethical hackers :new: \
+https://app.hackinghub.io/bundle/bug-bounty-essentials  
+65% off with code: `blackfriday2025` \
+https://app.hackinghub.io/bundle/the-hackers-arsenal  
+60% off with code: `2025blackfriday` \
+Deal ends: 28th November
+
 ## Practical Labs
+
+**Invictus Incident Response CloudLabs** \
+https://cloudlabs.invictus-ir.com  
+20% off on Premium Tier with code: `BLACKFRIDAY25` \
+Deal ends: 5th December
 
 **PentesterLab** - Practical pentesting & hacking Labs \
 https://pentesterlab.com/pro  
@@ -377,8 +444,8 @@ Deal ends: 30th November
 
 **TryHackMe** - Gamified, hands-on cyber security training platform \
 https://tryhackme.com/why-subscribe  
-35% off Annual Subscription with code: `SATYA30` \
-Deal Ends: 30th December
+40% off Annual Subscription with code: `BLACKFRIDAY40` \
+Deal Ends: 28th November
 
 ## Exams:
 
@@ -495,11 +562,13 @@ Multiple significant discounts \
 **EDR Feature Comparison Service** — Independent EDR Evaluations :new: \
 https://edr-comparison.com/  
 60% off lifetime access, no code required \
-NOTE: This website appears AI-generated, and offers NO REFUNDS. DYOR.
 
 ## Misc:
 
-Vetting Deals.
+**Neato Stickers** - Hacking & Cybersecurity related stickers \
+https://neatstickersco.etsy.com/  
+15% off all stickers or merch \
+Deal Ends: 13th December
 
 -----------------------------------------------------------------------------------------
 
