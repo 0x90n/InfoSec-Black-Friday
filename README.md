@@ -350,6 +350,12 @@ https://aceresponder.com
 35% off annual subscriptions with code: `BLACKFRIDAY` \
 Deal ends: 1st December
 
+**HackingHub** - Educating the next generation of ethical hackers \
+https://app.hackinghub.io/bundle/bug-bounty-essentials?v=blackfriday2025
+https://app.hackinghub.io/bundle/the-hackers-arsenal?v=2025blackfriday
+~60% off with code
+Deal ends: 28th November
+
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
