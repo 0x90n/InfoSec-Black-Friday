@@ -158,6 +158,11 @@ https://docs.sysreptor.com/
 https://www.vulnsy.com  
 $6.56 Donation for early access Feb 2026
 
+**DarkWebSonar** - Dark Web Monitoring (Forums, Breaches, Ransomware, Zero Days) \
+https://darkwebsonar.io/
+30% off Basic and Pro plans (monthly & Yearly) with code: `BLACKFRIDAY25` \
+Deal ends: 30th November
+
 ## Online Courses & Training
 
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
