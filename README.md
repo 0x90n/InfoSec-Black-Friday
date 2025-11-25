@@ -66,7 +66,7 @@ Vetting Deals.
 
 ## Tools
 
-**RedHunt Labs** EASM/CTEM Platform - Driving Modern Security for Organisations of all size \
+**RedHunt Labs** EASM/CTEM Platform - Driving Modern Security for Organisations of all size :new: \
 https://app.redhuntlabs.com/  
 30% off on annual subscription for new customers only \
 For more details/demo, schedule a call: https://calendly.com/redhuntlabs/schedule-consulting-discussion  
