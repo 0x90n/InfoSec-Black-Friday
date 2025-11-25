@@ -150,6 +150,11 @@ $6.56 Donation for early access Feb 2026
 
 ## Online Courses & Training
 
+**TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
+https://training.thexero.co.uk/p/2025-black-friday-sale  
+Save 65% on Wireless Mastery + BONUS, automatically at checkout \
+Offer valid until 2nd December
+
 **8kSec Academy** - Mobile Application Security and Offensive iOS/Android Security Internals On-Demand Trainings  \
 https://academy.8ksec.io/  
 15% off all courses with code: `blackfriday15` \
