@@ -163,6 +163,11 @@ https://darkwebsonar.io/
 30% off Basic and Pro plans (monthly & Yearly) with code: `BLACKFRIDAY25` \
 Deal ends: 30th November
 
+**shadcn/studio** - Fully customizable shadcn ui Components, Blocks, Figma UI Kit, MCP, Templates and AI Powered Theme Generator 🆕 \
+https://shadcnstudio.com/
+30% off storewide with code: `BFCM30SS` \
+Deal ends: 2nd December, 2025
+
 ## Online Courses & Training
 
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
