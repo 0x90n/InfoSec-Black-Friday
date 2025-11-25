@@ -405,8 +405,8 @@ Deal ends: 30th November
 
 **TryHackMe** - Gamified, hands-on cyber security training platform \
 https://tryhackme.com/why-subscribe  
-35% off Annual Subscription with code: `SATYA30` \
-Deal Ends: 30th December
+40% off Annual Subscription with code: `BLACKFRIDAY40` \
+Deal Ends: 28th November
 
 ## Exams:
 
