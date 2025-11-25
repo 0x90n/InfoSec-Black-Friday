@@ -345,15 +345,16 @@ https://www.modernsecurity.io/courses/ai-security-certification
 15% off with code -  `BLACKFRIDAY-15-MSECAI` \
 Deal valid: 23rd November - 15th December
 
-**ACE Responder** - Hands-on SIEM and Reverse Engineering Labs for SOC Analysts and Threat Hunters  🆕\
+**ACE Responder** - Hands-on SIEM and Reverse Engineering Labs for SOC Analysts and Threat Hunters :new: \
 https://aceresponder.com  
 35% off annual subscriptions with code: `BLACKFRIDAY` \
 Deal ends: 1st December
 
-**HackingHub** - Educating the next generation of ethical hackers \
-https://app.hackinghub.io/bundle/bug-bounty-essentials?v=blackfriday2025
-https://app.hackinghub.io/bundle/the-hackers-arsenal?v=2025blackfriday
-~60% off with code
+**HackingHub** - Educating the next generation of ethical hackers :new: \
+https://app.hackinghub.io/bundle/bug-bounty-essentials  
+65% off with code: `blackfriday2025` \
+https://app.hackinghub.io/bundle/the-hackers-arsenal  
+60% off with code: `2025blackfriday` \
 Deal ends: 28th November
 
 ## Practical Labs
