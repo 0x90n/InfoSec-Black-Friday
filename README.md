@@ -184,6 +184,7 @@ Deal ends: 1st December
 https://app.letsdefend.io/pricing  
 50% off on annual plans with code: `BLCKFRDY` \
 Additional 50% off for students by using .edu email (55% + 50%) \
+55% off on annual plans with code: `MYDFIR55` \
 Deal ends: 2nd December
 
 **CloudBreach** - Advanced offensive Azure & AWS Security Trainings and Certifications \
