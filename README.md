@@ -62,7 +62,11 @@ Vetting Deals.
 
 ## Professional Services
 
-Vetting Deals.
+**Wortell** - Offensive solutions including penetration testing. \
+http://wortell.nl \
+50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
+Deal ends: 20th December 2025
+
 
 ## Tools
 
