@@ -266,7 +266,7 @@ Deal ends: 2nd December
 **VantagePoint (Was Enciphers)** - Mobile, Web and Network Penetration Testing Certification and Training \
 https://vantagepoint.enciphers.com/  
 70% off on all Certifications, Courses and Lab Access applied automatically \
-Deal ends: Unknown
+Deal ends: Not Available
 
 **WiFiChallenge Academy** - Certified WiFiChallenge Professional (CWP) \
 https://academy.wifichallenge.com  
