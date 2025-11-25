@@ -150,6 +150,11 @@ $6.56 Donation for early access Feb 2026
 
 ## Online Courses & Training
 
+**8kSec Academy** - Mobile Application Security and Offensive iOS/Android Security Internals On-Demand Trainings  \
+https://academy.8ksec.io/  
+15% off all courses with code: `blackfriday15` \
+Deal ends: 10th December
+
 **OffSec Learn One** - Learn One annual subscription \
 https://www.offsec.com/blog/learn-one-promo/  \
 20% off Learn One subscription (discount applied automatically at checkout) \
