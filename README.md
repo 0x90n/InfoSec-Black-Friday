@@ -77,7 +77,7 @@ For more details/demo, schedule a call: https://calendly.com/redhuntlabs/schedul
 Deal valid: Now - 5th December
 
 **Pulsedive Threat Intelligence** - Frictionless threat intelligence solutions :see_no_evil: \
-https://pulsedive.com/purchase/pro
+https://pulsedive.com/purchase/pro  
 30% off 12 months of Pulsedive Pro (monthly and annual plans) with code: `BLACKFRIDAY25` \
 New customers only, limit 1 redemption per account \
 Deal valid: Now - 1st December
