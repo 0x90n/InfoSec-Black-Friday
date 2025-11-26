@@ -540,6 +540,11 @@ https://engineer.cloudsecbooks.com/
 40% off with code: `CYBERNOVEMBER25` \
 Deal valid: 1st November - 15th December
 
+**No Starch Press** - Publishes technically focused books on programming, cybersecurity, Linux, STEM, and tech hobbies. \
+https://nostarch.com/  
+42% off everything with code: `BLACKFRIDAY25` \
+Deal valid: 25th November - 2nd December
+
 ## Games:
 
 Vetting deals.
