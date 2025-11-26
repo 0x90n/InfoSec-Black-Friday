@@ -171,7 +171,6 @@ https://darkwebsonar.io/
 Deal ends: 30th November
 
 ## Online Courses & Training
-
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
 Save 65% on Wireless Mastery + BONUS, automatically at checkout \
@@ -397,6 +396,11 @@ https://app.hackinghub.io/bundle/bug-bounty-essentials
 https://app.hackinghub.io/bundle/the-hackers-arsenal  
 60% off with code: `2025blackfriday` \
 Deal ends: 28th November
+
+**Cyber NOW Education** - Cybersecurity Beginner Platform \
+https://www.cybernoweducation.com/upgrade  
+$60 Lifetime Memberships with code: `BLACKFRIDAY` \
+Deal ends: 2nd December
 
 ## Practical Labs
 
