@@ -62,29 +62,12 @@ Vetting Deals.
 
 ## Professional Services
 
-**Wortell** - Offensive solutions including penetration testing. \
-http://wortell.nl \
-50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
-Deal ends: 20th December 2025
-
+Vetting Deals.
 
 ## Tools
 
-**ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring for professional and consultants \
-https://scantitan.com  
-90% off LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-GTBH-6PFX-BF25` \
-54% off for 1 YEAR on ANY plan ANY quantity: `54OFF-4NG6-N88E-BF25` \
-75% off LIFETIME for CONSULTANT plan: `LIFETIMECONS-E9V5-C56F-BF25` \
-Deal valid: 24th November - 8th December
-
-**RedHunt Labs** EASM/CTEM Platform - Driving Modern Security for Organisations of all size :new: \
-https://app.redhuntlabs.com/  
-30% off on annual subscription for new customers only \
-For more details/demo, schedule a call: https://calendly.com/redhuntlabs/schedule-consulting-discussion  
-Deal valid: Now - 5th December
-
 **Pulsedive Threat Intelligence** - Frictionless threat intelligence solutions :see_no_evil: \
-https://pulsedive.com/purchase/pro  
+https://pulsedive.com/purchase/pro
 30% off 12 months of Pulsedive Pro (monthly and annual plans) with code: `BLACKFRIDAY25` \
 New customers only, limit 1 redemption per account \
 Deal valid: Now - 1st December
@@ -165,26 +148,7 @@ https://docs.sysreptor.com/
 https://www.vulnsy.com  
 $6.56 Donation for early access Feb 2026
 
-**DarkWebSonar** - Dark Web Monitoring (Forums, Breaches, Ransomware, Zero Days) \
-https://darkwebsonar.io/
-30% off Basic and Pro plans (monthly & Yearly) with code: `BLACKFRIDAY25` \
-Deal ends: 30th November
-
-**MagicSword** - Application Control for Malware-Free Attacks (RMM Abuse, LOLBins, Vulnerable Drivers, etc.) :new: \
-https://www.magicsword.io/  
-75% off Expert Monthly plan (up to 100 endpoints) for 12 months with code: `THISENDSWITHUS` \
-Deal ends: 5th December
-
 ## Online Courses & Training
-**TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
-https://training.thexero.co.uk/p/2025-black-friday-sale  
-Save 65% on Wireless Mastery + BONUS, automatically at checkout \
-Offer valid until 2nd December
-
-**8kSec Academy** - Mobile Application Security and Offensive iOS/Android Security Internals On-Demand Trainings  \
-https://academy.8ksec.io/  
-15% off all courses with code: `blackfriday15` \
-Deal ends: 10th December
 
 **OffSec Learn One** - Learn One annual subscription \
 https://www.offsec.com/blog/learn-one-promo/  \
@@ -206,13 +170,6 @@ https://maldevacademy.com/
 25% off with code: `BLKFRIDAY` \
 Deal ends: Unknown
 
-**Mobile Hacking Lab** - Offensive Mobile Security Trainings \
-https://www.mobilehackinglab.com/appsec-aah  \
-Buy 1, Get 2 Free. 60% Off. Get the Advanced Android Hacking course taught by multi-year Pwn2Own winner Ken Gannon, plus the CAPT Android and CIPT iOS certification exams at no extra cost. \
-https://www.mobilehackinglab.com/bundle/android-kernel-userland  \
-60% Off when you bundle the two Advanced Android courses: Android Userland + Kernel Fuzzing and Exploitation. \
-Deal ends: 2th December
-
 **AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
 https://www.appsecengineer.com/individuals/pricing  
 40% off on Pro Plus Annual Plans and Bootcamps with code: `LEVELUP40` \
@@ -227,9 +184,7 @@ Deal ends: 1st December
 https://app.letsdefend.io/pricing  
 50% off on annual plans with code: `BLCKFRDY` \
 Additional 50% off for students by using .edu email (55% + 50%) \
-Deal ends: 2nd December \
-55% off on annual plans with code: `MYDFIR55` \
-Deal ends: Unknown
+Deal ends: 2nd December
 
 **CloudBreach** - Advanced offensive Azure & AWS Security Trainings and Certifications \
 https://cloudbreach.io/blackfriday/  
@@ -390,23 +345,6 @@ https://www.modernsecurity.io/courses/ai-security-certification
 15% off with code -  `BLACKFRIDAY-15-MSECAI` \
 Deal valid: 23rd November - 15th December
 
-**ACE Responder** - Hands-on SIEM and Reverse Engineering Labs for SOC Analysts and Threat Hunters :new: \
-https://aceresponder.com  
-35% off annual subscriptions with code: `BLACKFRIDAY` \
-Deal ends: 1st December
-
-**HackingHub** - Educating the next generation of ethical hackers :new: \
-https://app.hackinghub.io/bundle/bug-bounty-essentials  
-65% off with code: `blackfriday2025` \
-https://app.hackinghub.io/bundle/the-hackers-arsenal  
-60% off with code: `2025blackfriday` \
-Deal ends: 28th November
-
-**Cyber NOW Education** - Cybersecurity Beginner Platform \
-https://www.cybernoweducation.com/upgrade  
-$60 Lifetime Memberships with code: `BLACKFRIDAY` \
-Deal ends: 2nd December
-
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
@@ -467,8 +405,8 @@ Deal ends: 30th November
 
 **TryHackMe** - Gamified, hands-on cyber security training platform \
 https://tryhackme.com/why-subscribe  
-40% off Annual Subscription with code: `BLACKFRIDAY40` \
-Deal Ends: 28th November
+35% off Annual Subscription with code: `SATYA30` \
+Deal Ends: 30th December
 
 ## Exams:
 
@@ -539,6 +477,13 @@ Deal valid: 23rd November - 2nd December
 https://engineer.cloudsecbooks.com/  
 40% off with code: `CYBERNOVEMBER25` \
 Deal valid: 1st November - 15th December
+
+**AI Security Engineering: Design, Build & Secure Dependable AI Systems (Wiley, 2026)** \
+Building or securing AI systems?\
+Ashish Rajan is a CISO & host on the popular Cloud Security Podcast & AI Security Podcast \
+Join the waitlist for his "AI Security Engineering" book releasing in Q1 2026 \
+to receive early updates & early-release content.
+(https://forms.gle/Ejnk1dzENRM9ZyKu5)
 
 ## Games:
 
