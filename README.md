@@ -326,7 +326,6 @@ Deal ends: 1st December
 **Pluralsight** – Online Tech (Security) Learning Platform \
 https://www.pluralsight.com/individuals/pricing
 60% off individual plans with code `BLACKFRIDAY60` \
-Deal valid: 21st November – 31st December
 
 **INE (eLearn Security)** - Security Training \
 https://checkout.ine.com/black-friday  
