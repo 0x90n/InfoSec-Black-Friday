@@ -202,6 +202,13 @@ https://maldevacademy.com/
 25% off with code: `BLKFRIDAY` \
 Deal ends: Unknown
 
+**Mobile Hacking Lab** - Offensive Mobile Security Trainings \
+https://www.mobilehackinglab.com/appsec-aah  \
+Buy 1, Get 2 Free. 60% Off. Get the Advanced Android Hacking course taught by multi-year Pwn2Own winner Ken Gannon, plus the CAPT Android and CIPT iOS certification exams at no extra cost. \
+https://www.mobilehackinglab.com/bundle/android-kernel-userland  \
+60% Off when you bundle the two Advanced Android courses: Android Userland + Kernel Fuzzing and Exploitation. \
+Deal ends: 2th December
+
 **AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
 https://www.appsecengineer.com/individuals/pricing  
 40% off on Pro Plus Annual Plans and Bootcamps with code: `LEVELUP40` \
