@@ -441,6 +441,11 @@ https://www.mosse-institute.com/certifications.html
 36% discount on Certifications \
 Deal ends: 29th November
 
+**iximiuz Labs** – Hands-on labs for Linux, Containers, Kubernetes & Cloud (useful for DevOps, platform security, container hardening & supply-chain security) \
+https://labs.iximiuz.com/premium \
+Black Friday Deal (discounted Premium & Lifetime Premium plans) \
+Deal ends: 1st December (end of day, UTC-12)
+
 ## Mini Courses
 
 **SecDim** - In-Repository attack and defence wargame to learn appsec/devsecops/secure code/review. :see_no_evil: \
