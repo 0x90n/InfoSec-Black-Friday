@@ -384,6 +384,11 @@ https://app.hackinghub.io/bundle/the-hackers-arsenal
 60% off with code: `2025blackfriday` \
 Deal ends: 28th November
 
+**MAD20** - MITRE ATT&CK Training and Certifications :new: \
+https://mad20.com/individuals
+USD $100 off with code: `BLKF100` \
+Deal ends: 1st December
+
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
