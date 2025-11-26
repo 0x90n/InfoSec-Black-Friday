@@ -67,6 +67,10 @@ http://wortell.nl \
 50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
 Deal ends: 20th December 2025
 
+**Chaotic Good Information Security** - Half Priced Hacks is Back! Penetration Testing & Security Assessments \
+https://www.chaoticgoodinfosec.com \
+50% off all assessments with code `HALFPRICEHACKS` - Book by Dec 31 for 2026 assessments \
+Deal ends: 31st December
 
 ## Tools
 
