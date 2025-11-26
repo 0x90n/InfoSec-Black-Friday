@@ -163,10 +163,10 @@ https://darkwebsonar.io/
 30% off Basic and Pro plans (monthly & Yearly) with code: `BLACKFRIDAY25` \
 Deal ends: 30th November
 
-**MagicSword** - Application Control for Malware-Free Attacks (RMM Abuse, LOLBins, Vulnerable Drivers, etc.) \
+**MagicSword** - Application Control for Malware-Free Attacks (RMM Abuse, LOLBins, Vulnerable Drivers, etc.) :new: \
 https://www.magicsword.io/  
 75% off Expert Monthly plan (up to 100 endpoints) for 12 months with code: `THISENDSWITHUS` \
-Deal ends: 5th December 2025 11:59 PM EST
+Deal ends: 5th December
 
 ## Online Courses & Training
 
