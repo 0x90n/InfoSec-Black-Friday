@@ -162,6 +162,10 @@ $6.56 Donation for early access Feb 2026
 https://darkwebsonar.io/
 30% off Basic and Pro plans (monthly & Yearly) with code: `BLACKFRIDAY25` \
 Deal ends: 30th November
+**Enconvo** - The Always‑Online AI Companion That Knows You Best \
+https://enconvo.com/
+50% off Enconvo LTD with code: `BLACK-FRIDAY-2025-LTD` \
+Deal ends: 2st December
 
 ## Online Courses & Training
 
