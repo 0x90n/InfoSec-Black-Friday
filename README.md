@@ -70,12 +70,11 @@ Deal ends: 20th December 2025
 
 ## Tools
 
-
 **ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring for professional and consultants \
 https://scantitan.com  
 90% off LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-GTBH-6PFX-BF25` \
 54% off for 1 YEAR on ANY plan ANY quantity: `54OFF-4NG6-N88E-BF25` \
-🙈 75% off LIFETIME for CONSULTANT plan (**Best**): `LIFETIMECONS-E9V5-C56F-BF25` \
+75% off LIFETIME for CONSULTANT plan: `LIFETIMECONS-E9V5-C56F-BF25` \
 Deal valid: 24th November - 8th December
 
 **RedHunt Labs** EASM/CTEM Platform - Driving Modern Security for Organisations of all size :new: \
