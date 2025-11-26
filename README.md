@@ -164,6 +164,10 @@ https://darkwebsonar.io/
 Deal ends: 30th November
 
 ## Online Courses & Training
+**Cyber NOW Education** - Cybersecurity Beginner Platform
+https://www.cybernoweducation.com/upgrade
+$60 Lifetime Memberships with code BLACKFRIDAY at checkout \
+Deal ends: 2nd December
 
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
