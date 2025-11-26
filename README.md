@@ -502,6 +502,10 @@ Deal applied automatically \
 NOTE: DYOR on deals that don't include coupon code verification \
 Deal valid: November 21st - December 5th \
 
+**Clappia — no-code / low-code SaaS**\
+https://www.clappia.com/
+50% off annual plans with code BLCKFRD25 (offer valid until 28 Nov 2025) \
+
 ## Wearables:
 
 **NerdTees.shop** - Nerdy tees for everyone, made by nerds, for nerds. \
