@@ -170,6 +170,11 @@ https://darkwebsonar.io/
 30% off Basic and Pro plans (monthly & Yearly) with code: `BLACKFRIDAY25` \
 Deal ends: 30th November
 
+**MagicSword** - Application Control for Malware-Free Attacks (RMM Abuse, LOLBins, Vulnerable Drivers, etc.) :new: \
+https://www.magicsword.io/  
+75% off Expert Monthly plan (up to 100 endpoints) for 12 months with code: `THISENDSWITHUS` \
+Deal ends: 5th December
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
