@@ -248,6 +248,11 @@ https://www.mobilehackinglab.com/afe
 60% off using the above link, applied automatically \
 Deal ends: Unknown
 
+**Android Hacking Course** - Android Applications Hacking for Bug Bounty and Pentesting \
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=97652C8A4386C813A7DB  
+87% off using the above link, applied automatically \
+Deal valid: 27th November - 2nd December
+
 **Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/infosec-black-friday-deals-2025/  
 15% off certifications, $500 off bundles, applied automatically \
