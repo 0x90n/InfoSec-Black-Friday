@@ -175,6 +175,11 @@ https://www.magicsword.io/
 75% off Expert Monthly plan (up to 100 endpoints) for 12 months with code: `THISENDSWITHUS` \
 Deal ends: 5th December
 
+**SaasyDB** - a SaaS company database for marketers, with leads not found elsewhere :new: \
+https://www.saasydb.com/  
+30% off all plans with code: `BF30` \
+Deal ends: 2nd December
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
