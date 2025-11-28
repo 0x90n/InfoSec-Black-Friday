@@ -324,7 +324,7 @@ Claim discounts on courses and certifications, but yet to be confirmed \
 Deal ends: 1st December
 
 **Pluralsight** – Online Tech (Security) Learning Platform \
-https://www.pluralsight.com/individuals/pricing
+https://www.pluralsight.com/individuals/pricing  
 60% off individual plans with code `BLACKFRIDAY60` \
 
 **INE (eLearn Security)** - Security Training \
