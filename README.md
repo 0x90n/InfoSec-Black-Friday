@@ -146,10 +146,13 @@ Deal ends: 30th November
 
 **ZoomEye** - cyberspace OSINT search engine \
 https://www.zoomeye.ai/pricing  
-73% off the Personal plan \
-43% - 48% off the Pro, Biz and Corp Plans \
-20% off some datasets \
-Deal ends: Unknown
+1. Membership (Lifetime) — $149 \
+Access to all standard features.  \
+2. Membership (Lifetime) — $999 \
+Includes everything in Membership, plus the vul.cve Filter & BugBounty Radar. \
+3. Buy any lifetime plan → Get up to 5 million ZoomEye-Points \
+4. Use an invitation code → Both get 100k ZoomEye-Points \
+Deal valid: 27th November - Unknown
 
 **Pagerly** - Incident Response Chatops Software  \
 https://www.pagerly.io/pricing  
