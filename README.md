@@ -625,6 +625,11 @@ https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
 https://www.ipvanish.com/pricing/  
 Multiple significant discounts \
 
+**Zettasecure - SentinelOne Discount** - 51% off SentinelOne Commercial, Control and Complete. \
+https://zettasecure.com/en \
+51% off list prices for SentinelOne licenses with code `S151Deal` in email subject to p.mandl@zettasecure.com . Deal valid for new and existing customers. (3 Year or 1 Year licenses)\
+Deal valid: 11th December 2025
+
 **EDR Feature Comparison Service** — Independent EDR Evaluations :new: \
 https://edr-comparison.com/  
 60% off lifetime access, no code required \
