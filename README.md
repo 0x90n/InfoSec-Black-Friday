@@ -571,6 +571,11 @@ Free shipping on all orders with code: `BLACKFRIDAY2025` \
 NOTE: Only appears to ship to the US. Sorry Int'l folks. \
 Deal valid: 23rd November - 2nd December
 
+**HackCloth Clothing** - Hacker hoodies, T-Shirts & Sweatshirts \
+https://hackcloth.com/  
+Buy 2 get 20% off storewide + Free shipping **worldwide** \
+Deal valid: 28th November 2024 - 2nd January 2025  
+
 ## Books:
 
 **The CloudSec Engineer** - A practical guide on how to enter and thrive in the Cloud Security industry \
