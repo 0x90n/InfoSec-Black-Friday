@@ -78,7 +78,7 @@ https://scantitan.com
 Deal valid: 24th November - 8th December
 
 **DefendFlow**  - Comprehensive DNS Analysis \ 
-https://radar.defendflow.xyz
+https://radar.defendflow.xyz  
 30% off on all yearly plans: `BLACKFRIDAY2025` \
 Deal ends: 29th November 
 
