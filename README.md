@@ -106,6 +106,11 @@ https://pulsedive.com/purchase/pro
 New customers only, limit 1 redemption per account \
 Deal valid: Now - 1st December
 
+**Scarlet Shark Digital Intelligence** - Data and tools to enhance investigations and threat hunting. \
+https://scarletshark.com/ \
+100% of all subscriptions for 4 months. Use the coupon code: `CyberMonday2025` at checkout. \
+Deal ends: Dec 12, 2025 
+
 **OSINT Industries** - Powerful Tools for Online Investigations :see_no_evil: \
 https://app.osint.industries/  
 60% off first month subscription for new subscribers with code: `BLACKFRIDAY` \
