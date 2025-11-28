@@ -585,7 +585,19 @@ Deal valid: 25th November - 2nd December
 
 ## Games:
 
-Vetting deals.
+**CyberSec Games** – Elevation of Privilege: Play-to-Learn Kit  \
+Hands-on threat-modelling kit designed for security teams, educators, and developers.  
+A practical way to teach threat thinking using a structured, game-based format. \
+[https://cybersecgames.com/products/elevation-of-privilege-play-to-learn-kit](https://cybersecgames.com/products/elevation-of-privilege-play-to-learn-kit?utm_source=github&utm_medium=referral&utm_campaign=black_friday_2025&utm_content=0x90n-infosec-bf) \
+20% off with code ``BFCYBER20``
+Deal valid: 27th November - 5th December
+
+**CyberSec Games** – OWASP Cumulus Threat Model the Cloud \
+Threat-modelling game designed for platform teams, developers security and ops professionals.
+A practical way to find threats, and begin mitigations, using a structured, game-based format. \
+[https://cybersecgames.com/products/owasp-cumulus-threat-modeling-the-clouds](https://cybersecgames.com/products/owasp-cumulus-threat-modeling-the-clouds?utm_source=github&utm_medium=referral&utm_campaign=black_friday_2025&utm_content=0x90n-infosec-bf) \
+20% off with code ``BFCYBER20``
+Deal valid: 27th November - 5th December
 
 ## Services:
 
