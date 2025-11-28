@@ -351,9 +351,7 @@ Deal ends: 1st December
 
 **Pluralsight** – Online Tech (Security) Learning Platform \
 https://www.pluralsight.com/individuals/pricing  
-55% off all first year individual yearly plans except 'CORE' with code: `55EARLYACCESS` \
-30% off all first year business yearly plans with code: `EARLYACCESS30` \
-Deal valid: 21st November – 31st December
+60% off individual plans with code `BLACKFRIDAY60` \
 
 **INE (eLearn Security)** - Security Training \
 https://checkout.ine.com/black-friday  
