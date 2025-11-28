@@ -463,8 +463,8 @@ https://cyberwarfare.live/black_friday
 Up to 70% off on the CWL Premium Membership (Lifetime access) \
 https://cyberwarfare.live/premium-membership  
 All deals applied automatically at checkout \
-(3) $1 for a Yearly Plan of Infinity Platform, **BLACKFRIDAY25** \ 
-https://infinity.cyberwarfare.live/
+(3) $1 for a Yearly Plan of Infinity Platform, **BLACKFRIDAY25** \
+https://infinity.cyberwarfare.live/ \
 NOTE : Infinity Comes with AI Red Team, Cloud Security, DevOps/K8s & APT Labs / Challenges \
 Deal ends: 30th November
 
