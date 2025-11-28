@@ -585,7 +585,7 @@ Deal valid: 25th November - 2nd December
 
 **EBOOK Visual Threat Intelligence - An Illustrated Guide for Threat Researchers** \
 [https://securitybreak.io/my-book](https://securitybreak.io/my-book)
-50% off everything with code: `CYBERVTI25` \
+50% off on the EBOOK with code: `CYBERVTI25` \
 Deal valid: 29th November - 4nd December
 
 ## Games:
