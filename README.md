@@ -67,6 +67,18 @@ http://wortell.nl \
 50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
 Deal ends: 20th December 2025
 
+**Chaotic Good Information Security** - Half Priced Hacks is Back! Penetration Testing & Security Assessments \
+https://www.chaoticgoodinfosec.com  
+50% off all assessments with code: `HALFPRICEHACKS` \
+Book by Dec 31 for 2026 assessments \
+Deal ends: 31st December
+
+**Security EngiNerd** – Pentessting, Cyber Services & Dark Web Exposure \
+https://www.securityenginerd.com  
+40% off penetration testing, 50% off subcontracting support, 60% off dark web exposure analysis \
+NOTE: I recommend getting a standard quote price, then requesting BF discount on top of that \
+Deal valid: 20 November - 5 December
+
 
 ## Tools
 
@@ -76,6 +88,11 @@ https://scantitan.com
 54% off for 1 YEAR on ANY plan ANY quantity: `54OFF-4NG6-N88E-BF25` \
 75% off LIFETIME for CONSULTANT plan: `LIFETIMECONS-E9V5-C56F-BF25` \
 Deal valid: 24th November - 8th December
+
+**DefendFlow**  - Comprehensive DNS Analysis \ 
+https://radar.defendflow.xyz  
+30% off on all yearly plans: `BLACKFRIDAY2025` \
+Deal ends: 29th November 
 
 **RedHunt Labs** EASM/CTEM Platform - Driving Modern Security for Organisations of all size :new: \
 https://app.redhuntlabs.com/  
@@ -180,6 +197,10 @@ https://asm-offer.rsecloud.com/
 50% OFF Lifetime Access (Founder's Rate) for early waitlist signups. No credit card required. \
 Deal ends: Limited Pre-Launch Spots
 
+Nessus - Vulnerability Scanner Software \
+https://www.tenable.com/buy  
+~50% off (depending on taxes) with code: `takehalf`
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
@@ -271,6 +292,11 @@ https://www.mobilehackinglab.com/afe
 60% off using the above link, applied automatically \
 Deal ends: Unknown
 
+**Android Hacking Course** - Android Applications Hacking for Bug Bounty and Pentesting \
+https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=97652C8A4386C813A7DB  
+87% off using the above link, applied automatically \
+Deal valid: 27th November - 2nd December
+
 **Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
 https://www.practical-devsecops.com/infosec-black-friday-deals-2025/  
 15% off certifications, $500 off bundles, applied automatically \
@@ -330,9 +356,7 @@ Deal ends: 1st December
 
 **Pluralsight** – Online Tech (Security) Learning Platform \
 https://www.pluralsight.com/individuals/pricing  
-55% off all first year individual yearly plans except 'CORE' with code: `55EARLYACCESS` \
-30% off all first year business yearly plans with code: `EARLYACCESS30` \
-Deal valid: 21st November – 31st December
+60% off individual plans with code `BLACKFRIDAY60` \
 
 **INE (eLearn Security)** - Security Training \
 https://checkout.ine.com/black-friday  
@@ -446,6 +470,11 @@ https://www.mosse-institute.com/certifications.html
 36% discount on Certifications \
 Deal ends: 29th November
 
+**iximiuz Labs** – Hands-on labs for Linux, Containers, Kubernetes & Cloud (useful for DevOps, platform security, container hardening & supply-chain security) :see_no_evil: \
+https://labs.iximiuz.com/premium  
+Up to 62% off (discounted Premium & Lifetime Premium plans) \
+Deal ends: 1st December
+
 ## Mini Courses
 
 **SecDim** - In-Repository attack and defence wargame to learn appsec/devsecops/secure code/review. :see_no_evil: \
@@ -544,6 +573,11 @@ Deal valid: 23rd November - 2nd December
 https://engineer.cloudsecbooks.com/  
 40% off with code: `CYBERNOVEMBER25` \
 Deal valid: 1st November - 15th December
+
+**No Starch Press** - Publishes technically focused books on programming, cybersecurity, Linux, STEM, and tech hobbies. \
+https://nostarch.com/  
+42% off everything with code: `BLACKFRIDAY25` \
+Deal valid: 25th November - 2nd December
 
 ## Games:
 
