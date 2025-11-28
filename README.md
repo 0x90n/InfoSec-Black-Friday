@@ -89,6 +89,11 @@ https://scantitan.com
 75% off LIFETIME for CONSULTANT plan: `LIFETIMECONS-E9V5-C56F-BF25` \
 Deal valid: 24th November - 8th December
 
+**DefendFlow**  - Comprehensive DNS Analysis \ 
+https://radar.defendflow.xyz  
+30% off on all yearly plans: `BLACKFRIDAY2025` \
+Deal ends: 29th November 
+
 **RedHunt Labs** EASM/CTEM Platform - Driving Modern Security for Organisations of all size :new: \
 https://app.redhuntlabs.com/  
 30% off on annual subscription for new customers only \
