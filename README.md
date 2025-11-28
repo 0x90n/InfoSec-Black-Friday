@@ -56,6 +56,10 @@ Vetting Deals.
 **Career Hacking Quest** - Free career course and community for Cybersecurity engineers with bi-weekly live resume review sessions :new: \
 https://www.careerhackingquest.com/  
 
+**Cyber Interview Preparation**
+CyberInterviewPrep helps cybersecurity professionals get interview-ready with AI-powered, real-like mock interviews for roles such as SOC Analyst, Pen Tester, and Security Engineer. It also offers CV analysis, expert mentorship, hands-on labs, and curated study paths to help you build skills and confidently land your next role. :new: \
+https://cyberinterviewprep.com
+
 ## Newsletters
 
 Vetting Deals.
