@@ -67,10 +67,11 @@ http://wortell.nl \
 50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
 Deal ends: 20th December 2025
 
-**Security EngiNerd – Save up to 60% on expert security services** \
+**Security EngiNerd** – Pentessting, Cyber Services & Dark Web Exposure \
 https://www.securityenginerd.com  
-Security EngiNerd is providing limited-time Black Friday discounts, including 40% off penetration testing, 50% off subcontracting support, and 60% off dark web exposure analysis. All services are handled by certified security specialists. \
-Deal Valid - From 20 November to 5 December 2025
+40% off penetration testing, 50% off subcontracting support, 60% off dark web exposure analysis \
+NOTE: I recommend getting a standard quote price, then requesting BF discount on top of that \
+Deal valid: 20 November - 5 December
 
 ## Tools
 
