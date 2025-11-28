@@ -583,6 +583,11 @@ https://nostarch.com/
 42% off everything with code: `BLACKFRIDAY25` \
 Deal valid: 25th November - 2nd December
 
+**EBOOK Visual Threat Intelligence - An Illustrated Guide for Threat Researchers \
+[https://securitybreak.io/my-book](https://securitybreak.io/my-book)
+42% off everything with code: `CYBERVTI25` \
+Deal valid: 29th November - 4nd December
+
 ## Games:
 
 Vetting deals.
