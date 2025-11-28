@@ -192,6 +192,10 @@ https://www.magicsword.io/
 75% off Expert Monthly plan (up to 100 endpoints) for 12 months with code: `THISENDSWITHUS` \
 Deal ends: 5th December
 
+Nessus - Vulnerability Scanner Software \
+https://www.tenable.com/buy  
+~50% off (depending on taxes) with code: `takehalf`
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
