@@ -175,9 +175,9 @@ https://www.magicsword.io/
 75% off Expert Monthly plan (up to 100 endpoints) for 12 months with code: `THISENDSWITHUS` \
 Deal ends: 5th December
 
-**RSECloud ASM** - Agentless Attack Surface Management for Lean Teams (Subdomains, Shadow Cloud, Exposed Ports) :new: 
-https://asm-offer.rsecloud.com/
-50% OFF Lifetime Access (Founder's Rate) for early waitlist signups. No credit card required. 
+**RSECloud ASM** - Agentless Attack Surface Management for Lean Teams (Subdomains, Shadow Cloud, Exposed Ports) :new: \
+https://asm-offer.rsecloud.com/  
+50% OFF Lifetime Access (Founder's Rate) for early waitlist signups. No credit card required. \
 Deal ends: Limited Pre-Launch Spots
 
 ## Online Courses & Training
