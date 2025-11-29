@@ -440,6 +440,11 @@ https://www.cybernoweducation.com/upgrade
 $60 Lifetime Memberships with code: `BLACKFRIDAY` \
 Deal ends: 2nd December
 
+**Arcanum Information Security** - Jason Haddix Web App and AI Courses \
+https://www.arcanum-sec.com
+20% Select Courses (Attacking AI, Red Blue Purple AI, The Bug Hunter's Methodology) \
+Deal ends: 14th December
+
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
