@@ -206,6 +206,11 @@ Nessus - Vulnerability Scanner Software \
 https://www.tenable.com/buy  
 ~50% off (depending on taxes) with code: `takehalf`
 
+**RSECloud JavaScript API Scanner** - External JavaScript Secret Scanning & Shadow API Discovery Solution for Lean Teams :new:
+https://js-offer.rsecloud.com/
+50% off first year on all monthly plans (Founder's Access) for early waitlist signups. No credit card required.
+Deal ends: 25th Dec 2025
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
