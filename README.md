@@ -82,6 +82,14 @@ Deal valid: 20 November - 5 December
 
 ## Tools
 
+**FullHunt** - Attack Surface Discovery for the Entire Internet 🆕 \
+https://fullhunt.io/ \
+25% lifetime off on all API plans. \
+Tweet: https://x.com/FullHunt/status/1994696366480921014 \
+Promo code: **`BLACKFRIDAY`** \
+Redeem: https://fullhunt.io/promo?promo=BLACKFRIDAY \
+Deal valid: Now → December 5th 
+
 **ScanTitan** - Website Vulnerability Scanning and Attack Surface Monitoring for professional and consultants \
 https://scantitan.com  
 90% off LIFETIME for PROFESSIONAL plan: `LIFETIMEPRO-GTBH-6PFX-BF25` \
