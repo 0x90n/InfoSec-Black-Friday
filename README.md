@@ -658,4 +658,3 @@ If you would like to DM me a deal rather than submitting a PR: @securitymeta_ or
 infosec black friday, information security black friday, cybersec black friday, cyber security black friday, netsec black friday, hacking black friday
 infosec cyber monday, information security cyber monday, cybersec cyber monday, cyber security cyber monday, netsec cyber monday, hacking cyber monday
 infosec deals, coupons, discounts, sales, pentest, penetration test, red team, blue team, purple team, thanksgiving, blackfriday2025, 2025
-
