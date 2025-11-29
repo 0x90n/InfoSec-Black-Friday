@@ -61,6 +61,10 @@ https://www.careerhackingquest.com/
 Vetting Deals.
 
 ## Professional Services
+**Haxoris - Get Hacked By Us!** - Professional Ethical Hacking Services \
+https://haxoris.com \
+50% OFF for 2026! Book by Dec 31 with code: `BF_2025`. \
+Deal ends: 31st December 2025
 
 **Wortell** - Offensive solutions including penetration testing. \
 http://wortell.nl \
