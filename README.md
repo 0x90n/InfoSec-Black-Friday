@@ -396,7 +396,7 @@ Deal ends: 7th December
 **Level Effect** - Blue with Virtual SOC, Data Science/AI, Detection Engineering Training (Self-Paced/Live) \
 https://training.leveleffect.com/catalog  
 Up to 45% off sitewide \
-Deal ends: Unknown
+Deal ends: 8th December
 
 **DNS for Developers** - Everything developers should know about DNS. \
 https://nslookup.io/dns-course/  
