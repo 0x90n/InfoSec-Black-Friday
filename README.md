@@ -62,10 +62,11 @@ Vetting Deals.
 
 ## Professional Services
 
-**Wortell** - Offensive solutions including penetration testing. \
-http://wortell.nl \
-50% off offensive services with code `BLACKFIRDAY2025` in email subject to dennis.de.hoog@wortell.nl \
-Deal ends: 20th December 2025
+**Wortell** – Free Cybersecurity Tabletop Exercise for Organisations \
+https://insights.wortell.nl/table-top  
+Limited-time offer: Free facilitated cybersecurity tabletop exercise to assess an organisation's cyber incident response readiness. Includes a realistic cyber crisis simulation, recommendations report and proof of completion for audit purposes \
+No discount code required; request via the landing page \
+Deal ends: Not specified
 
 **Chaotic Good Information Security** - Half Priced Hacks is Back! Penetration Testing & Security Assessments \
 https://www.chaoticgoodinfosec.com  
