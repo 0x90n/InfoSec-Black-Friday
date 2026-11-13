@@ -440,6 +440,11 @@ https://www.cybernoweducation.com/upgrade
 $60 Lifetime Memberships with code: `BLACKFRIDAY` \
 Deal ends: 2nd December
 
+**AppSec.training** - Application Security, DevSecOps and Secure SDLC Training \
+https://appsec.training
+50% off with code: `blackfriday` \
+Deal ends: 31st December
+
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
