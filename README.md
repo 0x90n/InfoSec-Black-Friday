@@ -301,9 +301,9 @@ https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pen
 87% off using the above link, applied automatically \
 Deal valid: 27th November - 2nd December
 
-**Practical DevSecOps** - AI Security, DevSecOps and Product Security Courses \
-https://www.practical-devsecops.com/infosec-black-friday-deals-2025/  
-15% off certifications, $500 off bundles, applied automatically \
+**Practical DevSecOps** - Hands-on AI Security, DevSecOps, Agentic AI Security, MCP Security and Product Security Courses \
+https://www.practical-devsecops.com/infosec-black-friday-deals-2026/  
+15% off certifications, $600 off bundles, applied automatically \
 Deal ends: 6th December
 
 **Security Blue Team** - BTL0 / BTL1 / BTL2 Training and Certifications \
