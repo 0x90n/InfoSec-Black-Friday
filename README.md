@@ -206,6 +206,11 @@ Nessus - Vulnerability Scanner Software \
 https://www.tenable.com/buy  
 ~50% off (depending on taxes) with code: `takehalf`
 
+**Paperweight** - Local-first, open-source desktop privacy app: find forgotten accounts and breaches from your inbox, then clean up accounts and personal data. macOS, Windows and Linux. \
+https://www.paperweight.email/pricing#black-friday  
+Black Friday Exclusive Lifetime Pro: $149 one-time, or $139 with crypto. Lifetime is normally unavailable. Permanent full Pro access, no renewal; no coupon code needed. \
+Deal valid: November 16 through December 1, 2026, inclusive
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
