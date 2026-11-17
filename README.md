@@ -207,6 +207,11 @@ https://www.tenable.com/buy
 ~50% off (depending on taxes) with code: `takehalf`
 
 ## Online Courses & Training
+**Wireshark Labs** - Hands-on Wireshark packet analysis labs with real captures (WCA exam prep and real-world cases) \
+https://wiresharklabs.org/ \
+$100 off WCA Labs ($199.99 → $99.99) and $70 off Ranger Lab ($249.99 → $179.99) with code: `PACKETFRIDAY` \
+Deal ends: 1st December
+
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
 Save 65% on Wireless Mastery + BONUS, automatically at checkout \
