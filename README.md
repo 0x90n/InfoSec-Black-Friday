@@ -625,6 +625,11 @@ https://www.cyberghostvpn.com/buy/cyberghost-vpn-3
 https://www.ipvanish.com/pricing/  
 Multiple significant discounts \
 
+**AirVPN** \
+https://airvpn.org/forums/topic/82198-2026-black-friday-sale/
+Save up to 74% when compared to the one-month plan price \
+Deal ends: 3rd December
+
 **EDR Feature Comparison Service** — Independent EDR Evaluations :new: \
 https://edr-comparison.com/  
 60% off lifetime access, no code required \
