@@ -440,6 +440,11 @@ https://www.cybernoweducation.com/upgrade
 $60 Lifetime Memberships with code: `BLACKFRIDAY` \
 Deal ends: 2nd December
 
+**CloudBreach** - Hands-on Cloud Security Training Courses \
+https://cloudbreach.io/blackfriday 
+30% off every Cloud Security Training course & Certification with code: `blackfriday26` \
+Deal ends: 7th December
+
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
