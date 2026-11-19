@@ -440,6 +440,17 @@ https://www.cybernoweducation.com/upgrade
 $60 Lifetime Memberships with code: `BLACKFRIDAY` \
 Deal ends: 2nd December
 
+
+**[CyberWarFare Labs](https://cyberwarfare.live/)** – Hands-on cybersecurity training, professional certifications, penetration testing and practical security labs.
+
+Up to **90% OFF** selected cybersecurity course bundles.\
+Individual certifications starting at **$5**.\
+Infinity Yearly Membership: **$49** + 2 free certifications.\
+Up to $800 of on all access plan.\
+More details: [CWL Black Friday 2026](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)
+
+
+
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
