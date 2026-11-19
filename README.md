@@ -202,6 +202,11 @@ https://asm-offer.rsecloud.com/
 50% OFF Lifetime Access (Founder's Rate) for early waitlist signups. No credit card required. \
 Deal ends: Limited Pre-Launch Spots
 
+**ExposureDrift** - Continuous attack surface management: JS secret scanning, outside-in API inventory and exposure monitoring. :new: \
+https://exposuredrift.com  
+Early-user pre-launch offer: 50% off for a full year + 15-day risk-free trial. Launches 14th Dec \
+Offer valid for pre-launch signups
+
 Nessus - Vulnerability Scanner Software \
 https://www.tenable.com/buy  
 ~50% off (depending on taxes) with code: `takehalf`
