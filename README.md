@@ -206,6 +206,11 @@ Nessus - Vulnerability Scanner Software \
 https://www.tenable.com/buy  
 ~50% off (depending on taxes) with code: `takehalf`
 
+**Scanify** - URL, file and IP scanner for phishing and malware checks \
+https://scanify.to/pricing  
+Pro for $1 \
+Deal ends: 19th December
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
