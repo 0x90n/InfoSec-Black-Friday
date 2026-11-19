@@ -132,12 +132,25 @@ https://portdroid.net/black-friday-2025/
 ~50% off lifetime version with code: `CYBER_2025` \
 Deal valid: 11th November - 4th December
 
-**Exploit Pack** - Command & Control Framework, Advanced Exploitation Framework with 0days and 39,500+ exploits \
-https://www.exploitpack.com/products/control-pack-blackfriday  
-~80% off the Exploit, Control, Kernel and Ultimate Packs applied automatically \
-15 lifetime licenses available with code: `LIFETIME` \
-NOTE: Users have reported that past LIFETIME licenses expired! DYOR!
-Deal valid: 15th - 30th November
+**Exploit Pack** - AI-assisted exploit-development framework with 46,000+ exploits, zero-days, Ghidra, WinDbg and GDB integration \
+https://www.exploitpack.com/products/exploit-pack  
+20% off (€1,200 to €960); code `LIFETIME` upgrades the promotional licence to Lifetime \
+Deal valid: Now - 30th November 2026
+
+**Control Pack** - Cross-platform command-and-control framework for stealthy post-exploitation and red-team operations \
+https://www.exploitpack.com/products/control-pack  
+20% off (€1,200 to €960); code `LIFETIME` upgrades the promotional licence to Lifetime \
+Deal valid: Now - 30th November 2026
+
+**Kernel Pack** - Kernel exploitation and C2 framework with 100+ LPE exploits, Ring-0 control and Data-Only Gadget tooling \
+https://www.exploitpack.com/products/kernel-pack  
+20% off (€1,200 to €960); code `LIFETIME` upgrades the promotional licence to Lifetime \
+Deal valid: Now - 30th November 2026
+
+**Ultimate Pack + AI** - All-in-one offensive-security platform combining Exploit Pack, Control Pack and Kernel Pack with integrated AI workflows \
+https://www.exploitpack.com/products/ultimate-pack-discount  
+Black Friday bundle for €4,000; no coupon \
+Deal valid: Now - 30th November 2026
 
 **EaseUS** - Data Recovery and Encryption Software \
 https://www.easeus-software.com/campaign/2025-black-friday.html  
