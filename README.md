@@ -441,7 +441,7 @@ $60 Lifetime Memberships with code: `BLACKFRIDAY` \
 Deal ends: 2nd December
 
 **SecurityPaths Academy** (formerly **WiFiChallenge Academy**) \
-https://academy.securitypaths.com/courses \ 
+https://academy.securitypaths.com/courses \
 25% off Certified WiFiChallenge Professional (CWP) : `blackfriday26` (auto) \
 25% off Certified Recon Professional (CRP) : `blackfriday26` (auto) \
 Deal valid: 21th November - 30th November
