@@ -479,6 +479,11 @@ https://labs.iximiuz.com/premium
 Up to 62% off (discounted Premium & Lifetime Premium plans) \
 Deal ends: 1st December
 
+**GenAI Security Lab** - Hands-on AI security labs (LLM apps, RAG, agents, MCP) \
+https://genaisecuritylab.com/pricing  
+40% off the 4-Month Pass and the first year of the yearly plan, auto-applied with code: `BLACKFRIDAY40` \
+Deal ends: 30th November
+
 ## Mini Courses
 
 **SecDim** - In-Repository attack and defence wargame to learn appsec/devsecops/secure code/review. :see_no_evil: \
