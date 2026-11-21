@@ -442,6 +442,11 @@ Deal ends: 2nd December
 
 ## Practical Labs
 
+**AI Labs** - Hands-on AI security CTF platform: adversarial chatbots, prompt injection, agent tool abuse and boot2root machines where the LLM is the entry vector \
+https://ailabs.elhackeretico.com/plans?utm_source=github&utm_medium=infosec-black-friday&utm_campaign=bf2026  
+10% off Pro and Pro Plus subscriptions with code: `BLACKFRIDAY10` \
+Deal ends: 1st December
+
 **Invictus Incident Response CloudLabs** \
 https://cloudlabs.invictus-ir.com  
 20% off on Premium Tier with code: `BLACKFRIDAY25` \
