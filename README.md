@@ -243,10 +243,10 @@ Buy 1, Get 2 Free. 60% Off. Get the Advanced Android Hacking course taught by mu
 60% Off when you bundle two or three advanced courses: Android Userland + Kernel Fuzzing and Exploitation + Advanced Android Hacking. \
 Deal ends: 2th December
 
-**AppSecEngineer** - Hands-on Training for AppSec, Cloud Sec, AI Security and Threat Modeling \
+**AppSecEngineer** - Hands-on AI Security training: labs to secure AI agents and LLM apps, plus AppSec, Cloud Security and Threat Modeling \
 https://www.appsecengineer.com/individuals/pricing  
 40% off on Pro Plus Annual Plans and Bootcamps with code: `LEVELUP40` \
-Deal ends: 30th November 2025
+Deal ends: 30th November 2026
 
 **Evilginx Mastery** - Red Teamer course on Phishing and Reverse Proxies for MFA \
 https://academy.breakdev.org/evilginx-mastery  
