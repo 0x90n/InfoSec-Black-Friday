@@ -482,9 +482,9 @@ Deal ends: 1st December
 ## Mini Courses
 
 **SecDim** - In-Repository attack and defence wargame to learn appsec/devsecops/secure code/review. :see_no_evil: \
-https://play.secdim.com  
-35% off yearly, checkout using code: `APPSECONABUDGET2025` \
-https://id.secdim.com/subscription/plan  
+https://secdim.com/pricing  
+35% off Professional plan with code: `APPSECONABUDGET2026` \
+25% off Team plan (5-24 users) with code: `APPSECTEAM2026` \
 Deal valid: 20th November - 5th December
 
 **trainsec** - Break into cybersecurity, specialize in Windows systems and hardware exploitation skills \
