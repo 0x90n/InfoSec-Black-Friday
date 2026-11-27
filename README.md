@@ -206,6 +206,11 @@ Nessus - Vulnerability Scanner Software \
 https://www.tenable.com/buy  
 ~50% off (depending on taxes) with code: `takehalf`
 
+**OSINTverse** - OSINT investigation platform: search an email, username, phone, domain, name, IP, image or crypto wallet across 17 sources from one box, keep results in cases, map them in a team graph, or run it from the API and MCP server. Pay per lookup, no subscription. \
+https://osintverse.com/pricing  
+10% off any credit top-up, your wallet is credited the full amount: `BLACKFRIDAY10` \
+Deal ends: 30th November, 23:59 UTC
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
