@@ -440,6 +440,12 @@ https://www.cybernoweducation.com/upgrade
 $60 Lifetime Memberships with code: `BLACKFRIDAY` \
 Deal ends: 2nd December
 
+**The Cyber Instructor** - Live AI for Cybersecurity bootcamp (AI red teaming, securing LLM apps, agents, governance) and self-paced TCI Pro :new: \
+https://learn.thecyberinstructor.com/  
+30% off everything with code: `BF30` \
+AI for Cybersecurity 6-week live bootcamp: $2,099 → $1,469 \
+Deal ends: 30th November, 11:59 PM PT (bootcamp price holds until 4th December)
+
 ## Practical Labs
 
 **Invictus Incident Response CloudLabs** \
