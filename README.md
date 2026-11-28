@@ -206,6 +206,11 @@ Nessus - Vulnerability Scanner Software \
 https://www.tenable.com/buy  
 ~50% off (depending on taxes) with code: `takehalf`
 
+**MatchDNS** - Authoritative Smart DNS with One-Click DNSSEC, Attack Shield (DDoS/Query Flood Analytics), 24/7 DNS Hijack & Uptime Monitoring, Managed Wildcard SSL, and GeoIP/ISP Routing :new: \
+https://www.matchdns.com/promo/2026-blackfriday  
+50% off recurring on annual Pro ($19.90 → $9.95/yr) and Enterprise ($89.90 → $44.95/yr) plans with code: `BF2026` \
+Deal valid: 27th November - 1st December, 08:00 UTC
+
 ## Online Courses & Training
 **TheXero Training Academy** - Premium Offensive Cybersecurity + Wireless Hacking Training \
 https://training.thexero.co.uk/p/2025-black-friday-sale  
